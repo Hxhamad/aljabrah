@@ -6,9 +6,9 @@
   "scripts": {
     "verify": "node scripts/verify-local.js",
     "clasp:login": "clasp login",
-    "clasp:create": "clasp create --type sheets --parentId 1MCn2BCV6ZT6rTolYq1kssxRNjkp76ES5vuZ6UlEulm8 --title \"Aljabrah Stock Analytics\"",
+    "clasp:create": "clasp create --parentId 1MCn2BCV6ZT6rTolYq1kssxRNjkp76ES5vuZ6UlEulm8 --title \"Aljabrah Stock Analytics\"",
     "clasp:push": "clasp push",
-    "clasp:open": "clasp open",
+    "clasp:open": "clasp open-script",
     "clasp:status": "clasp status"
   },
   "devDependencies": {

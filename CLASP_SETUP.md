@@ -19,6 +19,8 @@ npm run clasp:open
 
 `clasp:login` opens a Google authorization page. Use the same Google account that can edit the target Sheet.
 
+`clasp:create` intentionally does not pass `--type sheets`. With `clasp`, `--type sheets` creates a new spreadsheet; passing only `--parentId` binds the script to the existing Sheet above.
+
 If Google says the Apps Script API is disabled, enable it here and retry:
 
 https://script.google.com/home/usersettings
