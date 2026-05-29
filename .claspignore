@@ -1,0 +1,5 @@
+# Push only Apps Script runtime files.
+**
+!appsscript.json
+!*.gs
+!*.gs.js

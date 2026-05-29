@@ -1,0 +1,17 @@
+{
+  "name": "aljabrah-stock-analytics",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Deterministic Saudi and U.S. stock portfolio analytics for Google Sheets and Apps Script.",
+  "scripts": {
+    "verify": "node scripts/verify-local.js",
+    "clasp:login": "clasp login",
+    "clasp:create": "clasp create --type sheets --parentId 1MCn2BCV6ZT6rTolYq1kssxRNjkp76ES5vuZ6UlEulm8 --title \"Aljabrah Stock Analytics\"",
+    "clasp:push": "clasp push",
+    "clasp:open": "clasp open",
+    "clasp:status": "clasp status"
+  },
+  "devDependencies": {
+    "@google/clasp": "^3.3.0"
+  }
+}

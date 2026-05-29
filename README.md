@@ -40,6 +40,10 @@ Apps Script files:
 Setup
 -----
 
+Recommended `clasp` setup for the live Sheet is documented in [CLASP_SETUP.md](CLASP_SETUP.md).
+
+Manual setup is also possible:
+
 1. Make a copy of the original Google Sheet template or create a blank Google Sheet.
 2. Open `Extensions -> Apps Script`.
 3. Add the Apps Script files in this repository.

@@ -3,6 +3,7 @@
 ## 2026-05-29 - Deterministic Saudi/U.S. analytics architecture
 
 - Added modular Google Apps Script files for configuration, menu, sources, portfolio valuation, prices, fundamentals, metrics, long-term scoring, short-term scoring, risk, AI export placeholder, utilities, and tests.
+- Added `clasp` setup files for installing the project into the live Google Sheet.
 - Added required workbook tabs: `Setup`, `Portfolio`, `Transactions`, `Source_Control`, `Raw_Prices`, `Raw_Fundamentals`, `Metrics_Calculated`, `Technical_Short_Term`, `Long_Term_Score`, `Short_Term_Score`, `Portfolio_Risk`, `AI_Input`, and `Dashboard`.
 - Added support structure for Saudi and U.S. holdings with SAR as the base currency and USD as the secondary currency.
 - Added `Error_Log` and `Validation_Report` audit tabs.
