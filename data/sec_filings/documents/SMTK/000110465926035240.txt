@@ -1,0 +1,51 @@
+false 0001817760 0001817760 2026-03-20 2026-03-20 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, DC 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934 Date of Report (Date of earliest event reported): March 20, 2026 SmartKem, Inc. (Exact name of registrant as specified in its
+charter) Delaware 001-42115 85-1083654 (State or other jurisdiction of incorporation) (Commission File Number) (IRS Employer Identification No.) Manchester
+Technology Center, Hexagon Tower Delaunays
+Road , Blackley Manchester , M9 8GQ U.K. (Address of principal executive offices, including
+zip code) 011-44-161 - 721-1514 (Registrant’s telephone number, including
+area code) N/A (Former name or former address, if changed since
+last report) Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: ¨ Written communications pursuant
+    to Rule 425 under the Securities Act (17 CFR 230.425) ¨ Soliciting material pursuant
+    to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ¨ Pre-commencement communications
+    pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement communications
+    pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to
+Section 12(b) of the Act: Title
+    of each class Trading
+    Symbol(s) Name
+    of exchange on which registered Common
+    Stock, par value $0.0001 per share SMTK The Nasdaq Stock
+    Market LLC Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b - 2 of
+the Securities Exchange Act of 1934 (§240.12b - 2 of this chapter). Emerging
+growth company x If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ Item 1.01 Entry into a Material Definitive Agreement. On
+March 20, 2026, SmartKem, Inc. (the “Company”) entered into a securities purchase agreement (the “Purchase
+Agreement”) with certain institutional investors, pursuant to which the Company agreed to sell to such investors 11,365,350 shares
+(the “Shares”) of the Company’s common stock, par value $0.0001 per share (the “Common Stock”) at a purchase
+price of $0.2303 per share (the “Offering”). The Shares were offered by the Company pursuant to its shelf registration statement
+on Form S-3 (File No. 333-281608), which was declared effective by the Securities and Exchange Commission on August 22,
+2024 and a related base prospectus and prospectus supplement thereunder. The
+closing of the sales of the Shares under the Purchase Agreement is expected to occur on or about March 26, 2026, subject to the satisfaction of customary closing conditions. The gross proceeds from the Offering were $2,617,440, prior to deducting offering expenses
+payable by the Company. The Company intends to use the net proceeds from the Offering for working capital and general corporate purposes. The
+representations, warranties and covenants contained in the Purchase Agreement were made solely for the benefit of the parties to the
+Purchase Agreement. In addition, such representations, warranties and covenants (i) are intended as a way of allocating the risk
+between the parties to the Purchase Agreement and not as statements of fact, and (ii) may apply standards of materiality in a way
+that is different from what may be viewed as material by stockholders of, or other investors in, the Company. Accordingly, the Purchase
+Agreement is included with this filing only to provide investors with information regarding the terms of the transaction, and not to
+provide investors with any other factual information regarding the Company. Moreover, information concerning the subject matter of the
+representations and warranties may change after the date of the Purchase Agreement, which subsequent information may or may not be fully
+reflected in public disclosures. The
+foregoing description of the Purchase Agreement is not complete and is qualified in its entirety by reference to the full text of the
+form of Purchase Agreement, a copy of which is filed as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated
+by reference herein. The
+legal opinion and consent of Sheppard, Mullin, Richter & Hampton LLP relating to the validity of the Shares issued in the Offering
+is filed herewith as Exhibit 5.1. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 5.1 Opinion
+    of Sheppard, Mullin, Richter & Hampton LLP 10.1 Form of
+    Securities Purchase Agreement 23.1 Consent
+    of Sheppard, Mullin, Richter & Hampton LLP (included in Exhibit 5.1) 104 Cover
+    Page Interactive Data File (embedded within the Inline XBRL document) Signature Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. SMARTKEM, INC. Dated: March 26, 2026 By: /s/ Barbra
+    C. Keck Barbra C. Keck Chief Financial Officer

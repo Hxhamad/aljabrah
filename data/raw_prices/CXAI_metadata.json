@@ -1,0 +1,13 @@
+{
+  "cache_used": false,
+  "company_name": "CXApp Inc.",
+  "currency": "USD",
+  "downloaded_at_utc": "2026-06-06T11:24:13Z",
+  "exchange": "NCM",
+  "market_cap": 26922586,
+  "metadata_status": "checked",
+  "rows": 1340,
+  "sector": "Technology",
+  "source": "yfinance",
+  "ticker": "CXAI"
+}

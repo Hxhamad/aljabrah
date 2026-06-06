@@ -1,0 +1,13 @@
+{
+  "cache_used": false,
+  "company_name": "HIVE Digital Technologies Ltd.",
+  "currency": "USD",
+  "downloaded_at_utc": "2026-06-06T11:30:57Z",
+  "exchange": "NCM",
+  "market_cap": 1008214144,
+  "metadata_status": "checked",
+  "rows": 3858,
+  "sector": "Financial Services",
+  "source": "yfinance",
+  "ticker": "HIVE"
+}

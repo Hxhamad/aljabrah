@@ -1,0 +1,1353 @@
+false Q1 --12-31 0001716166 Yes Yes 0001716166 2026-01-01 2026-03-31 0001716166 2026-05-20 0001716166 2026-03-31 0001716166 2025-12-31 0001716166 2025-01-01 2025-03-31 0001716166 us-gaap:ProductMember 2026-01-01 2026-03-31 0001716166 us-gaap:ProductMember 2025-01-01 2025-03-31 0001716166 us-gaap:ServiceMember 2026-01-01 2026-03-31 0001716166 us-gaap:ServiceMember 2025-01-01 2025-03-31 0001716166 us-gaap:CommonStockMember 2024-12-31 0001716166 us-gaap:AdditionalPaidInCapitalMember 2024-12-31 0001716166 us-gaap:RetainedEarningsMember 2024-12-31 0001716166 us-gaap:ParentMember 2024-12-31 0001716166 us-gaap:NoncontrollingInterestMember 2024-12-31 0001716166 2024-12-31 0001716166 us-gaap:CommonStockMember 2025-12-31 0001716166 us-gaap:AdditionalPaidInCapitalMember 2025-12-31 0001716166 us-gaap:RetainedEarningsMember 2025-12-31 0001716166 us-gaap:ParentMember 2025-12-31 0001716166 us-gaap:NoncontrollingInterestMember 2025-12-31 0001716166 us-gaap:CommonStockMember 2025-01-01 2025-03-31 0001716166 us-gaap:AdditionalPaidInCapitalMember 2025-01-01 2025-03-31 0001716166 us-gaap:RetainedEarningsMember 2025-01-01 2025-03-31 0001716166 us-gaap:ParentMember 2025-01-01 2025-03-31 0001716166 us-gaap:NoncontrollingInterestMember 2025-01-01 2025-03-31 0001716166 us-gaap:CommonStockMember 2026-01-01 2026-03-31 0001716166 us-gaap:AdditionalPaidInCapitalMember 2026-01-01 2026-03-31 0001716166 us-gaap:RetainedEarningsMember 2026-01-01 2026-03-31 0001716166 us-gaap:ParentMember 2026-01-01 2026-03-31 0001716166 us-gaap:NoncontrollingInterestMember 2026-01-01 2026-03-31 0001716166 us-gaap:CommonStockMember 2025-03-31 0001716166 us-gaap:AdditionalPaidInCapitalMember 2025-03-31 0001716166 us-gaap:RetainedEarningsMember 2025-03-31 0001716166 us-gaap:ParentMember 2025-03-31 0001716166 us-gaap:NoncontrollingInterestMember 2025-03-31 0001716166 2025-03-31 0001716166 us-gaap:CommonStockMember 2026-03-31 0001716166 us-gaap:AdditionalPaidInCapitalMember 2026-03-31 0001716166 us-gaap:RetainedEarningsMember 2026-03-31 0001716166 us-gaap:ParentMember 2026-03-31 0001716166 us-gaap:NoncontrollingInterestMember 2026-03-31 0001716166 2020-08-12 0001716166 VVOS:TheSleepCenterOfNevadaMember 2025-06-10 2025-06-10 0001716166 VVOS:TheSleepCenterOfNevadaMember us-gaap:CommonStockMember 2025-06-10 2025-06-10 0001716166 VVOS:AIMDetroitMember 2025-07-14 0001716166 VVOS:StreetervilleCapitalLLCMember 2025-06-10 0001716166 VVOS:VCoInvestorsTwoLLCMember 2025-06-10 2025-06-10 0001716166 VVOS:TheSleepCenterOfNevadaMember 2025-06-10 0001716166 VVOS:TheSleepCenterOfNevadaMember us-gaap:TradeNamesMember 2025-06-10 0001716166 VVOS:TheSleepCenterOfNevadaMember us-gaap:CustomerRelationshipsMember 2025-06-10 0001716166 VVOS:TheSleepCenterOfNevadaMember 2026-01-01 2026-03-31 0001716166 VVOS:AppliancesMember 2026-01-01 2026-03-31 0001716166 VVOS:AppliancesMember 2025-01-01 2025-03-31 0001716166 VVOS:ToothPositionersMember 2026-01-01 2026-03-31 0001716166 VVOS:ToothPositionersMember 2025-01-01 2025-03-31 0001716166 VVOS:SleepTestingServicesMember 2026-01-01 2026-03-31 0001716166 VVOS:SleepTestingServicesMember 2025-01-01 2025-03-31 0001716166 VVOS:VIPMember 2026-01-01 2026-03-31 0001716166 VVOS:VIPMember 2025-01-01 2025-03-31 0001716166 VVOS:BillingIntelligenceServicesMember 2026-01-01 2026-03-31 0001716166 VVOS:BillingIntelligenceServicesMember 2025-01-01 2025-03-31 0001716166 VVOS:MyofunctionalTherapyServicesMember 2026-01-01 2026-03-31 0001716166 VVOS:MyofunctionalTherapyServicesMember 2025-01-01 2025-03-31 0001716166 VVOS:TreatmentCentersMember 2026-01-01 2026-03-31 0001716166 VVOS:TreatmentCentersMember 2025-01-01 2025-03-31 0001716166 VVOS:SponsorshipSeminarOtherMember 2026-01-01 2026-03-31 0001716166 VVOS:SponsorshipSeminarOtherMember 2025-01-01 2025-03-31 0001716166 us-gaap:FurnitureAndFixturesMember 2026-03-31 0001716166 us-gaap:FurnitureAndFixturesMember 2025-12-31 0001716166 us-gaap:LeaseholdImprovementsMember 2026-03-31 0001716166 us-gaap:LeaseholdImprovementsMember 2025-12-31 0001716166 us-gaap:ConstructionInProgressMember 2026-03-31 0001716166 us-gaap:ConstructionInProgressMember 2025-12-31 0001716166 VVOS:MoldsAndOtherMember 2026-03-31 0001716166 VVOS:MoldsAndOtherMember 2025-12-31 0001716166 us-gaap:SoftwareDevelopmentMember 2025-12-31 0001716166 us-gaap:PatentsMember 2026-03-31 0001716166 us-gaap:IntellectualPropertyMember 2026-03-31 0001716166 us-gaap:TradeNamesMember 2026-03-31 0001716166 VVOS:ReferralRelationshipsMember 2025-12-31 0001716166 VVOS:TheSleepCenterOfNevadaMember 2026-03-31 0001716166 VVOS:TheSleepCenterOfNevadaMember 2025-12-31 0001716166 VVOS:BioModelingMember 2026-03-31 0001716166 VVOS:BioModelingMember 2025-12-31 0001716166 VVOS:EmpoweredDentalMember 2026-03-31 0001716166 VVOS:EmpoweredDentalMember 2025-12-31 0001716166 VVOS:LyonDentalMember 2026-03-31 0001716166 VVOS:LyonDentalMember 2025-12-31 0001716166 VVOS:PatentsAndDevelopedTechnologyMember 2026-03-31 0001716166 VVOS:PatentsAndDevelopedTechnologyMember 2025-12-31 0001716166 VVOS:InternalUseSoftwareMember 2026-03-31 0001716166 VVOS:InternalUseSoftwareMember 2025-12-31 0001716166 us-gaap:TradeNamesMember 2025-12-31 0001716166 us-gaap:OtherIntangibleAssetsMember 2026-03-31 0001716166 us-gaap:OtherIntangibleAssetsMember 2025-12-31 0001716166 VVOS:StreetervilleCapitalLLCMember 2025-06-09 0001716166 VVOS:StreetervilleCapitalLLCMember 2025-06-09 2025-06-09 0001716166 VVOS:StreetervilleCapitalLLCMember 2026-03-31 0001716166 VVOS:StreetervilleCapitalLLCMember 2025-12-31 0001716166 VVOS:AvondaleCapitalLlcMember 2025-12-05 0001716166 VVOS:AvondaleCapitalLlcMember 2025-12-05 2025-12-05 0001716166 VVOS:AvondaleCapitalLlcMember 2026-01-01 2026-03-31 0001716166 2025-01-01 2025-12-31 0001716166 VVOS:TheSleepCenterOfNevadaMember 2026-03-31 0001716166 VVOS:TheSleepCenterOfNevadaMember 2025-12-31 0001716166 VVOS:January2026WarrantInducementMember 2026-01-15 0001716166 VVOS:January2026WarrantInducementMember 2026-01-15 2026-01-15 0001716166 us-gaap:CommonStockMember VVOS:SeriesACommonStockPurchaseWarrantMember 2026-01-15 2026-01-15 0001716166 us-gaap:CommonStockMember VVOS:SeriesACommonStockPurchaseWarrantMember 2026-01-15 0001716166 us-gaap:CommonStockMember VVOS:SeriesBCommonStockPurchaseWarrantMember 2026-01-15 2026-01-15 0001716166 us-gaap:CommonStockMember VVOS:SeriesBCommonStockPurchaseWarrantMember 2026-01-15 0001716166 us-gaap:CommonStockMember VVOS:SeriesAandBCommonStockPurchaseWarrantMember 2026-01-15 2026-01-15 0001716166 VVOS:JanuaryTwoThousandAndTwentySixVCoInvestorsThreeLLCNoteMember 2026-01-15 0001716166 VVOS:JanuaryTwoThousandAndTwentySixVCoInvestorsThreeLLCNoteMember 2026-01-15 2026-01-15 0001716166 VVOS:JanuaryTwoThousandAndTwentySixVCoInvestorsThreeLLCNoteMember 2026-03-26 2026-03-26 0001716166 VVOS:MarchTwoThousandAndTwentySixPIPEOfferingMember 2026-03-31 2026-03-31 0001716166 VVOS:MarchTwoThousandAndTwentySixPreFundedWarrantMember 2026-03-31 2026-03-31 0001716166 VVOS:MarchTwoThousandAndTwentySixSeriesAWarrantMember 2026-03-31 2026-03-31 0001716166 VVOS:MarchTwoThousandAndTwentySixSeriesBWarrantMember 2026-03-31 2026-03-31 0001716166 VVOS:VCoInvestorsThreeLLCMember VVOS:MarchTwoThousandAndTwentySixCommonStockPurchaseWarrantMember 2026-03-31 0001716166 VVOS:VCoInvestorsThreeLLCMember VVOS:MarchTwoThousandAndTwentySixPIPEOfferingMember 2026-03-31 2026-03-31 0001716166 VVOS:VCoInvestorsThreeLLCMember 2026-03-31 2026-03-31 0001716166 VVOS:VCoInvestorsThreeLLCMember 2026-03-31 0001716166 VVOS:MarchTwoThousandAndTwentySixCommonStockPurchaseWarrantMember 2026-03-31 0001716166 VVOS:MarchTwoThousandAndTwentySixPreFundedWarrantMember 2026-03-31 0001716166 VVOS:NewSenecaPartnersIncMember 2026-03-31 0001716166 VVOS:ATMSalesAgreementMember us-gaap:CommonStockMember 2025-09-12 2025-09-12 0001716166 VVOS:ATMSalesAgreementMember us-gaap:CommonStockMember 2026-01-01 2026-03-31 0001716166 VVOS:ATMSalesAgreementMember us-gaap:CommonStockMember 2026-03-31 0001716166 VVOS:ATMSalesAgreementMember us-gaap:CommonStockMember 2026-03-31 2026-03-31 0001716166 VVOS:TwoThousandSeventeenPlanMember 2017-12-31 0001716166 VVOS:TwoThousandNineteenPlanMember 2023-09-22 2023-09-22 0001716166 VVOS:TwoThousandNineteenPlanMember 2023-09-22 0001716166 VVOS:TwoThousandNineteenPlanMember 2026-03-31 0001716166 VVOS:TwoThousandTwentyFourOmnibusPlanMember 2026-01-01 2026-03-31 0001716166 VVOS:TwoThousandTwentyFourOmnibusPlanMember 2024-11-26 0001716166 VVOS:TwoThousandNineteenPlanMember 2024-11-26 0001716166 VVOS:TwoThousandTwentyFourOmnibusPlanMember 2024-11-27 0001716166 us-gaap:RestrictedStockUnitsRSUMember 2026-01-01 2026-03-31 0001716166 us-gaap:WarrantMember 2026-01-01 2026-03-31 0001716166 us-gaap:EmployeeStockOptionMember 2025-12-31 0001716166 us-gaap:EmployeeStockOptionMember 2025-01-01 2025-12-31 0001716166 us-gaap:EmployeeStockOptionMember 2026-01-01 2026-03-31 0001716166 us-gaap:EmployeeStockOptionMember 2026-03-31 0001716166 us-gaap:RestrictedStockUnitsRSUMember 2025-12-31 0001716166 us-gaap:RestrictedStockUnitsRSUMember 2025-01-01 2025-12-31 0001716166 us-gaap:RestrictedStockUnitsRSUMember 2026-03-31 0001716166 us-gaap:PrivatePlacementMember 2026-01-01 2026-03-31 0001716166 VVOS:WarrantInducementMember 2026-01-01 2026-03-31 0001716166 us-gaap:MeasurementInputSharePriceMember us-gaap:WarrantMember 2026-03-31 0001716166 us-gaap:MeasurementInputExpectedTermMember us-gaap:WarrantMember 2026-03-31 0001716166 us-gaap:MeasurementInputRiskFreeInterestRateMember us-gaap:WarrantMember 2026-03-31 0001716166 us-gaap:MeasurementInputPriceVolatilityMember us-gaap:WarrantMember 2026-03-31 0001716166 us-gaap:MeasurementInputExpectedDividendRateMember us-gaap:WarrantMember 2026-03-31 0001716166 VVOS:LeaseOneNovemberTwoThousandTwentyFourMember 2024-11-01 2024-11-30 0001716166 VVOS:LeaseOneNovemberTwoThousandTwentyFourMember 2026-03-31 0001716166 VVOS:LeaseOneNovemberTwoThousandTwentyFourMember 2026-01-01 2026-03-31 0001716166 VVOS:LeaseTwoJanuaryTwoThousandTwentyFourMember 2026-01-01 2026-03-31 0001716166 VVOS:LeaseTwoJanuaryTwoThousandTwentyFourMember 2026-03-31 0001716166 VVOS:LeaseThreeDecemberThousandTwentyFiveMember 2025-12-31 0001716166 VVOS:LeaseThreeDecemberThousandTwentyFiveMember 2026-01-01 2026-03-31 0001716166 VVOS:LeaseThreeDecemberThousandTwentyFiveMember 2026-03-31 0001716166 us-gaap:LeaseholdImprovementsMember 2026-01-01 2026-03-31 0001716166 us-gaap:WarrantMember 2026-01-01 2026-03-31 0001716166 us-gaap:WarrantMember 2025-01-01 2025-03-31 0001716166 us-gaap:EmployeeStockOptionMember 2026-01-01 2026-03-31 0001716166 us-gaap:EmployeeStockOptionMember 2025-01-01 2025-03-31 0001716166 us-gaap:SupplierConcentrationRiskMember us-gaap:CostOfGoodsTotalMember VVOS:FiveSuppliersMember 2026-01-01 2026-03-31 0001716166 VVOS:AIMDetroitMember 2026-03-31 0001716166 us-gaap:VariableInterestEntityPrimaryBeneficiaryMember 2026-03-31 0001716166 us-gaap:VariableInterestEntityPrimaryBeneficiaryMember 2025-12-31 0001716166 us-gaap:SubsequentEventMember 2026-04-17 2026-04-17 iso4217:USD xbrli:shares iso4217:USD xbrli:shares xbrli:pure utr:sqft VVOS:Segment VVOS:Integer UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 10-Q (Mark
+One) ☒ QUARTERLY REPORT PURSUANT
+    TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the Quarterly Period
+    Ended March 31, 2026 or ☐ Transition report pursuant
+    to section 13 or 15( d )
+    of the Securities Exchange Act of 1934 For the Transition Period
+    from to Commission
+File Number: 001-39796 Vivos
+Therapeutics, Inc. (Exact
+Name of Registrant as Specified in its Charter) Delaware 81-3224056 (State
+    or other jurisdiction of incorporation
+    or organization) (I.R.S.
+    Employer Identification
+    No.) 7921
+    Southpark Plaza , Suite 210 , Littleton , CO 80120 (Address of principal executive
+    offices) (Zip Code) Registrant’s telephone
+    number, including area code: (866) 908-4867 Securities
+registered pursuant to Section 12(b) of the Act: Title
+    of each class Trading
+    symbol(s) Name
+    of exchange on which registered Common
+    stock, par value $0.0001 per share VVOS Nasdaq Capital Market Securities
+registered pursuant to Section 12(g) of the Act: None Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. YES ☐ NO ☒ Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. YES ☐ NO ☒ Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. YES ☒ NO ☐ Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). YES ☒ NO ☐ Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See the definitions of “large accelerated filer”, “accelerated filer”,
+“smaller reporting company”, or “emerging growth company” in Rule 12b-2 of the Exchange Act. Large accelerated filer ☐ Accelerated filer ☐ Non-accelerated filer ☒ Smaller reporting company ☒ Emerging growth company ☐ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). YES ☐ NO ☒ The
+registrant has 13,894,600 shares of its common stock, $ 0.0001 par value per share, outstanding as of May 20, 2026. TABLE
+OF CONTENTS Page Cautionary Note Regarding Forward-Looking Statements -ii- PART I. FINANCIAL INFORMATION 1 Item 1. Condensed Consolidated Financial Statements (Unaudited) 1 Condensed Consolidated Balance Sheets as of March 31, 2026 and December 31, 2025 1 Condensed Consolidated Statements of Operations for the three months ended March 31, 2026 and 2025 2 Condensed Consolidated Statements of Stockholder’s Equity as of March 31, 2026 and 2025 3 Condensed Consolidated Statements of Cash Flows for the three months ended March 31, 2026 and 2025 4 Notes to the Condensed Consolidated Financial Statements 5 Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations 36 Item 3. Quantitative and Qualitative Disclosures About Market Risk 44 Item 4. Controls and Procedures 44 PART II. OTHER INFORMATION 45 Item 1. Legal Proceedings 45 Item 1A. Risk Factors 46 Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 46 Item 3. Defaults Upon Senior Securities 46 Item 4. Mine Safety Disclosures 46 Item 5. Other Information 46 Item 6. Exhibits, Financial Statement Schedules 46 Signatures 47 - i - CAUTIONARY
+NOTE REGARDING FORWARD-LOOKING STATEMENTS This
+Quarterly Report on Form 10-Q (this “Report”) contains “forward-looking statements” (as defined in Section 27A
+of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended) that reflect our current
+expectations and views of future events. The forward-looking statements are contained principally in the section entitled “Management’s
+Discussion and Analysis of Financial Condition and Results of Operations.” Readers are cautioned that known and unknown risks,
+uncertainties and other factors, including those over which we may have no control and others listed in this Report and our other public
+filings, may cause our actual results, performance or achievements to be materially different from those expressed or implied by the
+forward-looking statements. You
+can identify some of these forward-looking statements by words or phrases such as “may,” “will,” “expect,”
+“anticipate,” “aim,” “estimate,” “intend,” “plan,” “believe,”
+“is/are likely to,” “potential,” “continue,” “goal” or other similar expressions. We
+have based these forward-looking statements largely on our current expectations and projections about future events that we believe may
+affect our financial condition, results of operations, business strategy and financial needs. These forward-looking statements include
+statements relating to: ● our ability to continue
+    to refine and execute our evolving business plan, including establishing and growing our new medical-provider focused sales, marketing
+    and distribution model where we acquire or create contractual alliances with operators of sleep testing and treatment centers as
+    a means of driving sales of our appliances, including our June 2025 acquisition of The Sleep Center of Nevada (“ SCN ”); ● our ability to implement, generate material revenues from,
+    and grow our medical-provider focused sales, marketing distribution model, which is new and unproven and may not produce the benefits
+    we anticipate, and to fully wind down our legacy dentist-focused model; ● our ability to successfully
+    integrate SCN business into our operations, including managing staffing, accounting, insurance reimbursement and
+other challenges; ● our ability to service
+    the substantial indebtedness we incurred in connection with financing the SCN acquisition; ● compliance with laws, rules
+    and regulations relating to the corporate practice of medicine; ● the acceptance and adoption
+    by sleep specialists, medical doctors and other healthcare professionals of our proprietary oral appliances as a treatment for dentofacial
+    abnormalities and/or mild to severe obstructive sleep apnea (“ OSA ”) and snoring in adults and moderate to severe
+    OSA in children ages 6-17 as per our U.S. Food and Drug Administration (“ FDA ”) clearances, including the anticipated
+    benefits of insurance coverage for products; ● our expectations concerning
+    the effectiveness and duration of treatment using our appliances and protocols (which we refer to as The Vivos Method) and the potential
+    for side effects including, but not limited to, patient relapse after completion of treatment; ● the potential financial
+    benefits to doctors, sleep testing centers, sleep specialists, and other healthcare professionals from treating patients with The
+    Vivos Method; ● our revenues, profit margin
+    and cash flows based on sales or leasing of our appliances and other treatments and services, including our SleepImage ® home sleep testing
+    rings; ● our ability to formulate,
+    implement and modify as necessary effective sales, marketing and strategic initiatives to drive revenue growth (including, for example,
+    our medical provider-focused strategic alliance and/or acquisition model, our SleepImage ® home sleep apnea test and
+    our other arrangements with sleep clinics and/or durable medical equipment companies (“ DMEs ”); - ii - ● the viability of our current
+    intellectual property and our ability to create and protect new intellectual property in the future; ● acceptance of our products
+    and services by the medical and dental communities, as well as the marketplace of the products and services that we market; ● government regulations
+    and our ability to obtain applicable regulatory approvals and comply with both state and federal government regulations including
+    under healthcare laws and the rules and regulations of the FDA and non-U.S. equivalent regulatory bodies; ● our ability to hire and
+    retain key employees and other service providers (including dentists, medical doctors or other healthcare providers); ● the emergence of alternative
+    competing technologies, devices, drugs or other therapies which directly or indirectly impact the marketability of our products and
+    services; ● adverse changes in general
+    market conditions for medical devices and the products and services we offer; ● our ability to generate
+    cash flow and profitability and continue as a going concern; ● our ability to satisfy the criteria for maintaining the listing of our common stock on Nasdaq, which we have faced
+challenges with; ● our immediate and future
+    financing plans; and ● our ability to adapt to
+    changes in market conditions (including volatile and difficult to access capital markets) which could impair our operations and financial
+    performance. These
+forward-looking statements involve numerous risks and uncertainties. Although we believe that our expectations expressed in these forward-looking
+statements are reasonable, our expectations may later be found to be incorrect. Our actual results of operations or the results of other
+matters that we anticipate herein could be materially different from our expectations. Important risks and factors that could cause our
+actual results to be materially different from our expectations are generally set forth in “Management’s Discussion and Analysis
+of Financial Condition and Results of Operations,” “Business” and other sections in this Report as well as the “Risk
+Factors” section of our Annual Report on Form 10-K for the fiscal year ended December 31, 2025 and our other public filings. You
+should thoroughly read this Report and the documents that we refer to with the understanding that our actual future results may be materially
+different from and worse than what we expect. We qualify all of our forward-looking statements by these cautionary statements. The
+forward-looking statements made in this Report relate only to events or information as of the date on which the statements are made in
+this Report. Except as required by law, we undertake no obligation to update or revise publicly any forward-looking statements, whether
+as a result of new information, future events or otherwise, after the date on which the statements are made or to reflect the occurrence
+of unanticipated events. You should read this Report and the documents that we refer to in this Report and have filed as exhibits to
+this Report, completely and with the understanding that our actual future results may be materially different from what we expect. - iii - PART
+I – FINANCIAL INFORMATION Item
+1. Financial Statements. VIVOS
+THERAPEUTICS INC. Unaudited
+Condensed Consolidated Balance Sheets (In
+Thousands, Except Per Share Amounts) March 31, 2026 December 31, 2025 Current assets Cash and cash equivalents $ 2,110 $ 2,029 Accounts receivable, net of allowance of $ 1,159 and $ 882 , respectively 1,769 1,581 Prepaid expenses and other current assets 940 774 Total current assets 4,819 4,384 Long-term assets Goodwill 8,572 8,572 Property and equipment, net 3,526 3,757 Operating lease right-of-use asset 4,033 4,166 Intangible assets, net 3,839 4,045 Deposits and other 254 228 Total assets $ 25,043 $ 25,152 LIABILITIES AND STOCKHOLDERS’ EQUITY/(DEFICIT) Current liabilities Accounts payable $ 1,996 $ 1,679 Accrued expenses 6,113 5,988 Current portion of contract liabilities 495 479 Current portion of operating lease liability 744 672 Current portion of financing lease liability 56 55 Current portion of debt 7,299 8,353 Other current liabilities 1,234 850 Total current liabilities 17,937 18,076 Long-term liabilities Employee retention credit liability 2,904 2,904 Operating lease liability, net of current portion 3,653 3,840 Financing lease liability, net of current portion 98 113 Debt, net of current portion 418 469 Other liabilities 1,300 1,300 Total liabilities 26,310 26,702 Commitments and contingencies (Note 13) - - Stockholders’ equity/(deficit) Preferred Stock, $ 0.0001 par value per share. Authorized 50,000,000 shares; no shares issued and outstanding - - Common Stock, $ 0.0001 par value per share. Authorized 200,000,000 shares; issued and outstanding 13,486,006 shares as of March 31, 2026 and 9,286,609 shares as December 31, 2025 1 1 Additional paid-in capital 131,900 123,866 Accumulated deficit ( 133,039 ) ( 125,357 ) Total stockholders’ equity/(deficit) ( 1,138 ) ( 1,490 ) Non-controlling interest 129 60 Total equity/(deficit) ( 1,267 ) ( 1,550 ) Total liabilities and equity/(deficit) $ 25,043 $ 25,152 The
+accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 1 VIVOS
+THERAPEUTICS INC. Unaudited
+Condensed Consolidated Statements of Operations (In
+Thousands, Except Per Share Amounts) 2026 2025 Three Months Ended March 31, 2026 2025 Revenue Product revenue $ 1,440 $ 1,813 Service revenue 3,701 1,203 Total revenue 5,141 3,016 Cost of sales (exclusive of depreciation and amortization shown separately below) 2,082 1,507 Gross profit 3,059 1,509 Operating expenses General and administrative 8,971 4,892 Sales and marketing 249 358 Depreciation and amortization 454 177 Total operating expenses 9,674 5,427 Operating loss ( 6,615 ) ( 3,918 ) Non-operating income (expense) Other expense ( 1,167 ) ( 4 ) Other income 31 58 Loss before income taxes ( 7,751 ) ( 3,864 ) Net loss $ ( 7,751 ) $ ( 3,864 ) Net loss attributable to non-controlling interest ( 69 ) - Net loss attributable to stockholders $ ( 7,682 ) $ ( 3,864 ) Net loss per share (basic and diluted) $ ( 0.52 ) $ ( 0.45 ) Weighted average number of shares of Common Stock outstanding (basic and diluted) 14,634,115 8,595,288 The
+accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 2 VIVOS
+THERAPEUTICS INC. Unaudited
+Condensed Consolidated Statements of Stockholders’ Equity (In
+Thousands, Except Common Stock Amount Shares Amount Capital Deficit (Deficit) interest Equity Three Months Ended March 31, Common Stock Additional Paid-in Accumulated Total Stockholders’ Equity/ Non- controlling Total Shares Amount Capital Deficit (Deficit) interest Equity Balances, December 31, 2024 5,889,520 $ - $ 112,141 $ ( 104,187 ) $ 7,954 $ - $ 7,954 Stock-based compensation expense - - 317 - 317 - 317 Net loss - - - ( 3,864 ) ( 3,864 ) - ( 3,864 ) Balances, March 31, 2025 5,889,520 $ - $ 112,458 $ ( 108,051 ) $ 4,407 $ - $ 4,407 Balances, December 31, 2025 9,286,609 1 123,866 ( 125,357 ) ( 1,490 ) ( 60 ) ( 1,550 ) Issuance of common stock under At-The-Market program, net of issuance costs 57,547 - 302 - 302 - 302 Issuance of common stock to consultants for services 340,422 - 514 - 514 - 514 Issuance of warrants in private placement, net of issuance costs - - 567 - 567 - 567 Issuance of pre-funded warrants in private placement, net of issuance costs - - 68 - 68 - 68 Issuance of common stock upon exercise of warrants, net of issuance costs 1,982,356 - 4,192 - 4,191 - 4,191 Conversion of debt to common stock 1,819,072 2,240 - 2,240 - 2,240 Stock-based compensation expense - - 151 - 151 - 151 Net loss - - - ( 7,682 ) ( 7,682 ) ( 69 ) ( 7,751 ) Balances, March 31, 2026 13,486,006 $ 1 $ 131,900 $ ( 133,039 ) $ ( 1,138 ) $ ( 129 ) $ ( 1,267 ) The
+accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 3 VIVOS
+THERAPEUTICS INC. Unaudited
+Condensed Consolidated Statements of Cash Flows (In
+Thousands) 2026 2025 Three Months Ended March 31, 2026 2025 CASH FLOWS FROM OPERATING ACTIVITIES: Net loss $ ( 7,751 ) $ ( 3,864 ) Adjustments to reconcile net loss to net cash used in operating activities: Stock-based compensation expense 151 317 Depreciation and amortization 454 177 Fair value of common stock issued to consultants for services 514 - Paid-in-kind interest expense on promissory note 140 - Changes in operating assets and liabilities: Accounts receivable, ( 188 ) ( 288 ) Operating lease liabilities, net 18 ( 33 ) Prepaid expenses and other current assets ( 166 ) 236 Deposits ( 26 ) 1 Accounts payable 318 109 Accrued expenses 125 ( 450 ) Other liabilities 385 398 Contract liability 16 ( 399 ) Net cash used in operating activities ( 6,010 ) ( 3,796 ) CASH FLOWS FROM INVESTING ACTIVITIES: Acquisitions of property and equipment ( 18 ) ( 122 ) Net cash used in investing activities ( 18 ) ( 122 ) CASH FLOWS FROM FINANCING ACTIVITIES: Proceeds from issuance of common stock 342 - Proceeds from issuance of debt 1,400 - Proceeds from issuance of warrants 567 - Proceeds from issuance of pre-funded warrants 68 - Proceeds from exercise of warrants 4,639 - Payments for issuance costs ( 487 ) - Reduction of debt liability ( 406 ) - Reduction of finance lease liability ( 14 ) - Net cash provided by financing activities 6,109 - Net increase (decrease) in cash and cash equivalents 81 ( 3,918 ) Cash and cash equivalents at beginning of year 2,029 6,260 Cash and cash equivalents at end of year $ 2,110 $ 2,342 SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION: Cash paid for interest $ 340 $ - SUPPLEMENTAL DISCLOSURE OF NON-CASH INVESTING AND FINANCING ACTIVITIES: Conversion of promissory note $ 1,540 $ - Conversion of debt to common stock $ 700 $ - The
+accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 4 VIVOS
+THERAPEUTICS INC. Notes
+to Unaudited Condensed Consolidated Financial Statements For
+the Three Months Ended March 31, 2026 and 2025 NOTE
+1 - ORGANIZATION, DESCRIPTION AND SIGNIFICANT ACCOUNTING POLICIES Organization BioModeling
+Solutions, Inc. (“BioModeling”) was organized on March 20, 2007 as an Oregon limited liability company, and subsequently
+incorporated in 2013. On August 16, 2016, BioModeling entered into a share exchange agreement (the “SEA”) with First Vivos,
+Inc. (“First Vivos”), and Vivos Therapeutics, Inc. (“Vivos”), a Wyoming corporation established on July 7, 2016
+to facilitate the SEA transaction. Vivos was formerly named Corrective BioTechnologies, Inc. until its name changed on September 6, 2016
+to Vivos Biotechnologies and on March 2, 2018 to Vivos Therapeutics, Inc. and had no substantial pre-combination business activities.
+First Vivos was incorporated in Texas on November 10, 2015. Pursuant to the SEA, all of the outstanding shares of common stock and warrants
+of BioModeling and all of the shares of common stock of First Vivos were exchanged for newly issued shares of common stock and warrants
+of Vivos, the legal acquirer. The
+transaction was accounted for as a reverse acquisition and recapitalization, with BioModeling as the acquirer for financial reporting
+and accounting purposes. Upon the consummation of the merger, the historical financial statements of BioModeling became the Company’s
+historical financial statements and recorded at their historical carrying amounts. On
+August 12, 2020, Vivos reincorporated from Wyoming to become a domestic Delaware corporation under Delaware General Corporate Law. Accordingly,
+as used herein, the term “the Company,” “we,” “us.” “our” and similar terminology refer
+to Vivos Therapeutics, Inc., a Delaware corporation and its consolidated subsidiaries. As used herein, the term “Common Stock”
+refers to the common stock, $ 0.0001 par value per share, of Vivos Therapeutics, Inc., a Delaware corporation. On
+June 10, 2025, we acquired all of the operating assets (the “Acquisition”) of R.D. Prabhu-Lata K. Shete MDs, LTD., a Nevada
+professional corporation d/b/a The Sleep Center of Nevada (“SCN”) in consideration for a (i) cash payment equal to $ 6.0 million, (ii) 607,287 shares of restricted Common Stock, equal to $ 1.3 million based on the volume-weighted average price (“VWAP”)
+of the Common Stock for the 30 days immediately preceding the Acquisition and (iii) the assumption of certain specific trade accounts
+payable and liabilities related to specific SCN contracts assigned to the Company in connection with the Acquisition. See Note 3 for
+further information. On
+July 14, 2025, we entered into a management agreement with MISleep Solution LLC to provide full suite of Vivos treatments and services
+to OSA patients at a joint location in Auburn Hills, Michigan. As a result, we formed AIM Detroit, LLC, a Colorado limited liability
+company (“AIM Detroit”) to serve as a management services organization to medical and dental clinical sleep practices located
+in the Detroit Tri-County metropolitan area, to wit: Wayne County, Oakland County and Macomb County. The Company holds an 80 % ownership
+interest in AIM Detroit. See Note 18 for further information. 5 Description
+of Business We
+are a medical technology and services company that features a comprehensive suite of proprietary oral appliances and therapeutic treatments.
+We non-surgically treat certain maxillofacial and developmental abnormalities of the mouth and jaws that are closely associated with
+breathing and sleep disorders such as, mild to severe obstructive sleep apnea (“OSA”) and snoring in adults. Our
+flagship C.A.R.E. program, which is part of The Vivos Method, features our patented DNA, mRNA and mmRNA appliances, which are also FDA
+510(k) cleared for mild-to-severe OSA and snoring in adults. The Vivos Method may also include adjunctive myofunctional, chiropractic/physical
+therapy, and laser treatments that, when properly used with the C.A.R.E. appliances, constitute a powerful non-invasive and cost-effective
+means of reducing or eliminating OSA symptoms. In a small subset of a study, the data has actually shown that The Vivos Method can reverse
+OSA symptoms in a large portion (up to 80 %) of patients. The primary competitive advantage of The Vivos Method over other OSA therapies
+is that The Vivos Method’s typical course of treatment is limited in most cases to 12 to 15 months, and it is possible not to need
+lifetime intervention, unlike CPAP and neuro-stimulation implants. Additionally, out of approximately 60,000 patients treated to date
+worldwide with our entire current suite of products, there have been very few instances of relapse. Although
+not our current focus due to the pivot in the business model, we have historically offered a suite of diagnostic and support products
+and services to dental and medical providers and distributors who service patients with OSA or related conditions. Such products and
+services include (i) VivoScore home sleep screenings and tests (powered by SleepImage ® technology), (ii) Treatment Navigator
+(a concierge service to assist a provider in educating and supporting the doctors as they navigate insurance coverage, diagnostic indications
+and treatment options), (iii) Billing Intelligence Services (which optimizes medical and dental reimbursement), (iv) advanced training
+and continuing education courses at our Vivos Institute in Denver, Colorado, and (v) MyoSync (formerly MyoCorrect), a service through
+which Vivos-trained providers can provide orofacial myofunctional therapy (“OMT”) to patients via a telemedicine platform.
+Some of these services including home sleep screenings, treatment navigator services and MyoSync are being provided to patients directly
+under the new sales, marketing and distribution model described below. With this pivot, we shifted our Medical Integration Division (“MID”)
+to pursue strategic alliances and acquisitions of sleep centers to provide better options using Vivos products for patients who have
+been diagnosed with OSA. Legacy
+Business Model Our
+business model has historically been to teach, train, and support dentists, medical doctors, and distributors in the use of our products
+and services. Dentists who use our products and services typically enroll in a variety of live or online training and educational programs
+offered through our Vivos Institute; an 18,000 sq. ft. facility located near the Denver International Airport. Dentists are able to select
+the specific program or clinical pathway that they want to focus on, such as Guided Growth and Development or Lifeline or both. They
+could also enroll in our Vivos Integrated Provider (“VIP”) program for the complete set training, educational, and support
+services available in all three clinical pathway programs. Dentists enrolled in the VIP program are referred to as “VIPs.”
+We historically charged up front enrollment fees to educate and train new VIPs. We also charged for the ancillary support services listed
+above and view each product and service as a revenue center. We refer to the VIP-focused business model herein as our “legacy”
+or “historic” business model. New
+Sales, Marketing and Distribution Model Over
+the course of 2024 and during 2025, we worked to pivot our business strategy and began to steadily decrease our prior dependence on dentists
+to sell our products and our dependence on VIP enrollment revenue. This new business strategy is focused on contractual alliances with
+and outright acquisitions of sleep specialty providers, sleep centers and others and is based on a profit-sharing model between us and
+the provider which aligns our revenue generation more directly to sales of our novel appliances. 6 In
+June 2024, we entered into our first contractual alliance with Rebis Health, a sleep center operator in Colorado. Revenues from this
+arrangement have not developed as we had expected for many reasons beyond our control, but we learned important lessons which have led
+to changes to this model. In
+June 2025, we acquired all assets, including operating assets such as sleep testing, diagnostics, and treatment centers of SCN. The Acquisition
+marked a milestone in the pivot to our sales, marketing distribution model for our innovative OSA appliances. Under the new model, SCN
+will provide sleep disorder patients with the opportunity to be candidates for our advanced, proprietary and FDA-cleared CARE oral medical
+devices, oral appliances and additional adjunctive therapies and methods. Under customary agreements designed to comply with applicable
+corporate practice of medicine law, our operation of SCN allows us to manage and capture both diagnostic and consulting revenues, representing
+new higher margin revenue streams for us, as well as potential Vivos appliance and related product and service revenue from SCN. On
+July 14, 2025, we entered into a management agreement under this revised approach with MISleep Solution LLC to provide full suite of
+Vivos treatments and services to OSA patients at a joint location in Auburn Hills, Michigan. Consistent with our new model, we own a
+supermajority equity stake in the management services company, with the sleep doctors having minority ownership interests. AIM Detroit
+entered into Practice Administration Agreements and Management and Succession Agreements with affiliated Practices (defined as the professional
+medical and dental practice entities, including Sleep Dentistry of Detroit, P.C. and Sleep Medicine of Detroit, P.C., each owned and
+controlled by their respective licensed professionals) under which AIM Detroit provides business, administrative, and other non-clinical
+management services, while all clinical and professional services remain exclusively under the authority and control of the Practices
+and their licensed professionals. We
+are exploring and seeking to implement additional acquisitions of, or collaborations with, medical sleep and similar healthcare practices
+to expand our business model in an effort to grow our revenues. We
+refer to this new model herein alternatively as our new sales, marketing and distribution model or our strategic alliance and/or acquisition
+model. Basis
+of Presentation and Consolidation The
+Company’s unaudited condensed consolidated financial statements have been prepared in accordance with current United States generally accepted accounting
+principles (“GAAP”). Any reference in these notes to applicable guidance is meant to refer to the authoritative GAAP as found
+in the Accounting Standards Codification (“ASC”) and Accounting Standards Updates (“ASU”) of the Financial Accounting
+Standards Board (“FASB”). In
+the opinion of management, the accompanying unaudited condensed consolidated financial statements include all adjustments, consisting
+of normal recurring adjustments, which are necessary to present fairly the Company’s financial position, results of operations,
+and cash flows. The condensed consolidated balance sheet at December 31, 2025 has been derived from audited financial statements at that
+date. The interim results of operations are not necessarily indicative of the results that may occur for the full fiscal year. Certain
+information and footnote disclosure normally included in the financial statements prepared in accordance with GAAP have been condensed
+or omitted pursuant to instructions, rules, and regulations prescribed by the United States Securities and Exchange Commission (“SEC”). The
+Company believes that the disclosures provided herein are adequate to make the information presented not misleading when these unaudited
+condensed consolidated financial statements are read in conjunction with the December 31, 2025 audited consolidated financial statements
+contained in the Company’s 2025 Annual Report on Form 10-K, which was filed with the Securities and Exchange Commission on April
+15, 2026. We
+evaluate our interests in legal entities to determine whether such entities should be consolidated under the voting interest entity model
+or the variable interest entity (“VIE”) model. When we determine that it is the primary beneficiary of a VIE, we consolidate
+the entity and includes its assets, liabilities, revenues, and expenses in the consolidated financial statements. Ownership interests
+not held by Vivos are reflected as noncontrolling interests within equity. All significant intercompany balances and transactions have
+been eliminated in consolidation. See Note 18 for additional information regarding Vivos’ involvement with AIM Detroit. 7 Purchase
+Price Allocation We
+account for business combinations in accordance with ASC Topic 805, Business Combinations, which requires the assets acquired and liabilities
+assumed in business combinations based on their estimated fair values at the date of acquisition, which involves a number of assumptions,
+estimates, and judgments, which are inherently uncertain and subject to refinement. We determine the estimated fair values with the assistance
+of valuations performed by third party specialists, discounted cash flow analysis, and estimates made by management derived from comparable
+market data and cash flow projections used to value the acquired business. Our ability to realize the future cash flows used in our fair
+value estimates may be affected by changes in our financial condition, financial performance, or business strategies. Our assumptions
+and estimates are also used to allocate goodwill to our reporting units that are expected to benefit from the business combination. During
+the measurement period, which may be up to one year from the acquisition date, we may recognize adjustments to the assets acquired and
+liabilities assumed with the corresponding offset to goodwill. We continue to collect information and reevaluate these estimates and
+assumptions quarterly and record any adjustment to our preliminary estimates to goodwill provided that we are within the measurement
+period. Upon the earlier of the conclusion of the measurement period or final determination of the fair value of assets acquired or liabilities
+assumed, any subsequent adjustments are included in our consolidated results of operations. Refer to Note 3. Emerging
+Growth Company Status Effective December 31, 2025, the
+Company is no longer an “emerging growth company” (an “EGC”), as defined in Section 2(a) of the Securities Act,
+as modified by the Jumpstart Our Business Startups Act of 2012 (the “JOBS Act”). As a result, the Company has lost some of
+the benefits of being an EGC, although the Company remains a “smaller reporting company” and therefore can avoid the auditor
+attestation requirements of Section 404(b) of the Sarbanes-Oxley Act of 2002 (the “Sarbanes-Oxley Act”) (assuming the Company
+remains a smaller reporting company at December 31, 2026. Revenue
+Recognition Following
+the guidance of ASC Topic 606, Revenue from Contracts with Customers (“ASC 606”) and the applicable provisions of ASC Topic 842 , Leases (“ASC 842”), we determine revenue recognition through the following five-step model,
+which entails: 1) identification of the promised
+    goods or services in the contract; 2) determination of whether
+    the promised goods or services are performance obligations, including whether they are distinct in the context of the contract; 3) measurement of the transaction
+    price, including the constraint on variable consideration; 4) allocation of the transaction
+    price to the performance obligations; and 5) recognition of revenue
+    when, or as the Company satisfies each performance obligation. Service
+Revenue VIP
+Enrollment Revenue As
+part of our legacy business model based on VIP enrollment revenue and related appliance sales, we reviewed our VIP enrollment contracts
+from a revenue recognition perspective using the 5-step method outlined above. While we have pivoted our marketing and distribution model
+over the last year, we still recognize legacy VIP enrollment revenue and will continue to do so through 2026. Unearned revenue reported
+on the balance sheet as contract liability represents the portion of fees paid by VIP customers for services that have not yet been performed
+as of the reporting date and are recorded as the service is rendered. We recognize this revenue as performance obligations are met. Sleep
+Testing Service Revenue The
+SCN Acquisition provides our Company with diagnostic service revenue. Of the patients who test positive for OSA, we expect these patients
+to become candidates for OSA treatment. 8 Treatment
+Center Revenue As
+we shift to our new strategic acquisition and alliance business model, we derive a greater portion of our revenues from treatment of
+patients who are referred by sleep and airway medicine centers in select markets with established patient bases who are diagnosed with
+OSA or other sleep related breathing disorders. As our treatment is customized for each patient based on his or her individualized diagnosis
+and presenting conditions, we recognize the revenue for treatment in service revenue, regardless of the components. Although we will
+continue to sell our products and services to trained and qualified VIP dentists, we eventually expect the revenue from our new strategic
+alliance and acquisitions business model to constitute the vast majority of service revenue for us. Other
+Service Revenue BIS
+is an additional service provided on a monthly subscription basis, which includes our AireO2 medical billing and practice management
+software. Revenue for these services is recognized monthly during the month the services are rendered. We
+also offer our VIPs the ability to provide MyoSync to the VIP’s patients as part of treatment with The Vivos Method. The program
+includes packages of treatment sessions that are sold to the VIPs and resold to their patients. Revenue for MyoSync services is recognized
+over the 12-month performance period as therapy sessions occur. Allocation
+of Revenue to Performance Obligations We
+identify all goods and services that are delivered separately under a sales arrangement and allocate revenue to each performance obligation
+based on relative fair values. These fair values approximate the prices for the relevant performance obligation that would be charged
+if those services were sold separately and are recognized over the relevant service period of each performance obligation. After allocation
+to the performance obligations, any remainder is allocated to the right to sell under the residual method and is recognized over the
+estimated customer life. In general, revenues are separated between durable medical equipment (product revenue) and education and training
+services (service revenue). In our new business model where we sell a treatment plan directly to the patient, revenue for the treatment
+plan (which may include both Vivos treatment services and appliances) is recorded to treatment center revenue. Treatment
+of Discounts and Promotions Under
+our legacy VIP model, from time to time, we offered various discounts to VIPs relating to their participation in the VIP program. These
+include the following: 1) Discount for cash paid
+    in full 2) Conference or trade show
+    incentives, such as subscription enrollment into the SleepImage ® home sleep test program, or a free trial period for
+    the SleepImage ® lease program 3) Negotiated concessions
+    on annual enrollment fee 4) Credits/rebates to be used
+    towards future product orders such as lab rebates The
+amount of the discount is determined up front prior to the sale. Accordingly, measurement is determined before the sale occurs and revenue
+is recognized based on the terms agreed upon between us and the customer over the performance period. In rare circumstances, a discount
+has been given after the sale during a conference which is offering a discount to full price. In this situation, revenue is measured
+and the change in transaction price is allocated over the remaining performance obligation. Product
+Revenue In
+addition to revenue from services, we also generate revenue from sales of our line of oral devices and preformed pediatric tooth positioners
+(known as appliances or systems) to our customers, the VIP dentists or OSA patients directly in the case of our strategic alliance model.
+These include the DNA appliance ® , mRNA appliance ® , the mmRNA appliance, the Versa, the Vida, the Vida Sleep,
+EMA Now, PEx and others. We expanded our product offerings in the first quarter of 2023 via the acquisition of certain U.S. and international
+patents, product rights, and other miscellaneous intellectual property from Advanced Facialdontics, LLC, a New York limited liability
+company (“AFD”). Our appliances are similar to a retainer that is worn in the mouth after braces are removed. Each appliance
+is unique and is fitted to the patient. 9 VIP
+Model Under
+our legacy VIP model, revenue from appliance sales is recognized when the control of a product is transferred to the VIP in an amount
+that reflects the consideration it expects to be entitled to in exchange for those products. The VIP in turn charges the VIP’s
+patient and or patient’s insurance a fee for the appliance and for his or her professional services in measuring, fitting, and
+installing the appliance and educating the patient as to its use. We contract with VIPs for the sale of the appliance, and we are not
+involved in the sale of the products and services from the VIP to the VIP’s patient. In the case of sales to sleep centers through
+our distribution alliances, revenue from appliance sales is recognized when the control of a product is transferred to the patient. We
+utilize our network of certified VIPs throughout the United States and in some non-U.S. jurisdictions (notably Canada and Australia)
+to sell the appliances to their customers as well as in two dental centers that we operate. We utilize third party contract manufacturers
+or labs to produce our patient-customized, patented appliances and our preformed pediatric tooth positioners. The manufacturer designated
+by us produces the appliance in strict adherence to our patents, design files, treatments, processes and procedures and under the direction
+and specific instructions from us, ships the appliance to the healthcare provider who ordered the appliance from us. All of our contract
+manufacturers are required to follow our master design files in the production of appliances, or the lab will be in violation of the
+FDA’s rules and regulations. We have performed an analysis and concluded we are the principal in the transaction since we have
+control of the product, and we are reporting revenue gross. Under our legacy model, we billed the VIP the contracted price for the appliance
+which is recorded as product revenue. Product revenue is recognized once the appliance ships to the VIP under our direction. Historically, in
+support of the VIPs using our appliances for their patients, we utilize a team of trained technicians to measure, order and fit each
+appliance. Revenue is recognized differently for Company owned centers and distribution alliances with third party sleep centers than
+it does for revenue from VIPs. Upon scheduling the patient (which is our customer in this case), the center takes a deposit and reviews
+the patient’s insurance coverage. We recognize revenue in the centers after the appliance is received from the manufacturer and
+once the appliance is fitted and provided to the patient. We
+also historically offered certain dentists (known as Clinical Advisors) discounts to standard VIP pricing. This was done to help encourage
+Clinical Advisors, who help the VIPs with technical aspects of our products, to purchase our products for their own practices. In addition,
+from time to time, we offered credits to incentivize VIPs to adopt our products and increase case volume within their practices. These
+incentives are recorded as a liability at issuance and are deducted from the related product sale at the time the credit is used. New
+Sales, Marketing and Distribution Model Under
+our new sales, marketing and distribution strategy, we train and provide other administrative and non-clinical management support services
+to licensed healthcare providers trained in a variety of treatment modalities, including The Vivos Method, to treat OSA patients directly
+using their own independent judgment, which allows us to introduce and offer our oral appliances and therapeutic treatments to the patient
+rather than to the VIP dentist. Under
+our new business model, diagnosis at sleep centers, such as SCN, also allows us to facilitate Vivos product sales when patients are diagnosed
+with OSA or other sleep disorders, and both the patients and their doctors decide on the form of treatment for that particular patient.
+This corresponds to the delivery of the product and services which are selected by the patients and the recognition of revenue from such
+diagnostic and treatment. In contractual alliances, through varying arrangements, we capture revenue from diagnostic and appliance sales
+as we execute our contractual management support services to the licensed providers rendering such services to patients. 10 Use
+of Estimates The
+preparation of financial statements and related disclosures in conformity with  GAAP requires us to make judgments, assumptions,
+and estimates that affect the amounts reported in its consolidated financial statements and accompanying notes. We base our estimates
+and assumptions on existing facts, historical experience, and various other factors that we believe are reasonable under the circumstances,
+to determine the carrying values of assets and liabilities that are not readily apparent from other sources. Our significant accounting
+estimates include, but are not necessarily limited to, assessing collectability on accounts receivable, determining customer life and
+breakage related to recognizing revenue for VIP contracts, impairment of goodwill and long-lived assets; valuation assumptions for assets
+acquired in asset acquisitions and business combinations; valuation assumptions for stock options, warrants, warrant liabilities and
+equity instruments issued for goods or services; deferred income taxes and the related valuation allowances; and the evaluation and measurement
+of contingencies. We believe we have made appropriate accounting estimates based on the facts and circumstances available as of the reporting
+date. To the extent there are material differences between our estimates and the actual results, our future consolidated results of operations
+will be affected. Accounts
+Receivable, Net Accounts
+receivable represent amounts due from customers in the ordinary course of business and are recorded at the invoiced amount and do not
+bear interest. Accounts receivable are stated at the net amount expected to be collected, using an expected credit loss methodology to
+determine the allowance for expected credit losses. We evaluate the collectability of its accounts receivable and determine the appropriate
+allowance for expected credit losses based on a combination of factors, including the aging of the receivables, historical collection
+trends, and charge-offs. When we are aware of a customer’s inability to meet its financial obligation, we may individually evaluate
+the related receivable to determine the allowance for expected credit losses. We use specific criteria to determine uncollectible receivables
+to be charged off, including bankruptcy filings, the referral of customer accounts to outside parties for collection, and the length
+that accounts remain past due. Equity
+Offering Costs Commissions,
+legal fees and other costs that are directly associated with equity offerings are capitalized as deferred offering costs, pending a determination
+of the success of the offering. Deferred offering costs related to successful offerings are charged to additional paid-in capital in
+the period it is determined that the offering was successful. Deferred offering costs related to unsuccessful equity offerings are recorded
+as an expense in the period when it is determined that an offering is unsuccessful. Loss
+and Gain Contingencies We
+are subject to the possibility of various loss contingencies arising in the ordinary course of business. An estimated loss contingency
+is accrued when it is probable that an asset has been impaired, or a liability has been incurred, and the amount of loss can be reasonably
+estimated. If some amount within a range of loss appears to be a better estimate than any other amount within the range, we accrue that
+amount. Alternatively, when no amount within a range of loss appears to be a better estimate than any other amount, we accrue the lowest
+amount in the range. If we determine that a loss is reasonably possible and the range of the loss is estimable, then we disclose the
+range of the possible loss. If we cannot estimate the range of loss, we will disclose the reason why it cannot estimate the range of
+loss. We regularly evaluate current information available to us to determine whether an accrual is required, an accrual should be adjusted
+and if a range of possible loss should be disclosed. Legal fees related to contingencies are charged to general and administrative expense
+as incurred. Contingencies that may result in gains are not recognized until realization is assured, which typically requires collection
+in cash. 11 Share-Based
+Compensation We
+measure the cost of employee and director services received in exchange for all equity awards granted, including stock options, based
+on the fair market value of the award as of the grant date. We compute the fair value of stock options using the Black-Scholes-Merton
+(“BSM”) option pricing model. We estimate the expected term using the simplified method which is the average of the vesting
+term and the contractual term of the respective options. We determine the expected price volatility based on the trading history of our
+Common Stock. Industry peers consist of several public companies in the bio-tech industry similar to us in size, stage of life cycle
+and financial leverage. We intends to continue to consistently apply this process using the same or similar public companies until a
+sufficient amount of historical information regarding the volatility of our own stock price becomes available, or unless circumstances
+change such that the identified companies are no longer similar to us, in which case, more suitable companies whose share prices are
+publicly available would be utilized in the calculation. We recognize the cost of the equity awards over the period that services are
+provided to earn the award, usually the vesting period. For awards granted which contain a graded vesting schedule, and the only condition
+for vesting is a service condition, compensation cost is recognized as an expense on a straight-line basis over the requisite service
+period as if the award were, in substance, a single award. We recognize the impact of forfeitures and cancellations in the period that
+the forfeiture or cancellation occurs, rather than estimating the number of awards that are not expected to vest in accounting for stock-based
+compensation. Leases Operating
+leases are included in operating lease right-of-use (“ROU”) assets, accrued expenses, and operating lease liability - current
+and non-current portion in our balance sheets. ROU assets represent our right to use an underlying asset for the lease term and lease
+liabilities represent our obligation to make lease payments arising from the lease. Operating lease ROU assets and liabilities are recognized
+at the lease commencement date based on the present value of lease payments over the lease term. In determining the present value of
+lease payments, we use our incremental borrowing rate based on the information available at the lease commencement date as the rate implicit
+in the lease is not readily determinable. The determination of our incremental borrowing rate requires management judgment based on information
+available at lease commencement. The operating lease ROU assets also include adjustments for prepayments, accrued lease payments and
+exclude lease incentives. Our lease terms may include options to extend or terminate the lease when it is reasonably certain that we
+will exercise such options. Operating lease cost is recognized on a straight-line basis over the expected lease term. Lease agreements
+entered into after the adoption of ASC 842 that include lease and non-lease components are accounted for as a single lease component.
+Lease agreements with a noncancelable term of less than 12 months are not recorded on our balance sheets. Income
+Taxes We
+account for income taxes in accordance with Accounting Standards Codification (“ASC”) 740, Income Taxes, under which deferred
+income taxes are recognized based on the estimated future tax effects of differences between the financial statement and tax bases of
+assets and liabilities given the provisions of enacted tax laws. Deferred income tax provisions and benefits are based on changes to
+the assets or liabilities from year to year. In providing for deferred taxes, we consider tax regulations of the jurisdictions in which
+we operate, estimates of future taxable income, and available tax planning strategies. If tax regulations, operating results, or the
+ability to implement tax-planning strategies vary, adjustments to the carrying value of deferred tax assets and liabilities may be required.
+A valuation allowance is recorded when it is more likely than not that a deferred tax asset will not be realized. The recorded valuation
+allowance is based on significant estimates and judgments and if the facts and circumstances change, the valuation allowance could materially
+change. In accounting for uncertainty in income taxes, we recognize the financial statement benefit of a tax position only after determining
+that the relevant tax authority would more likely than not sustain the position following an audit. For tax positions meeting the more
+likely than not threshold, the amount recognized in the financial statements is the largest benefit that has a greater than 50 percent
+likelihood of being realized upon ultimate settlement with the relevant tax authority. We recognize interest and penalties accrued on
+any unrecognized tax benefits as a component of income tax expense. 12 Basic
+and Diluted Net Loss Per Share Basic
+net loss per common share is computed by dividing the net loss applicable to common stockholders by the weighted average number of common
+shares outstanding for each period presented. Diluted net loss per common share is computed by giving effect to all potential shares
+of Common Stock, including stock options, convertible debt,  and warrants, to the extent the same are dilutive. Warrant
+Accounting We
+account for our warrants and financial instruments as either equity or liabilities based upon the characteristics and provisions of each
+instrument, in accordance with ASC 815, Derivatives and Hedging and ASC 480, Distinguishing Liabilities from Equity . Warrants
+classified as equity are recorded at fair value as of the date of issuance on our consolidated balance sheets and no further adjustments
+to their valuation are made. Warrants classified as liabilities and other financial instruments that require separate accounting as liabilities
+are recorded on our consolidated balance sheets at their fair value on the date of issuance and will be revalued on each subsequent balance
+sheet date until such instruments are exercised or expire, with any changes in the fair value between reporting periods recorded as other
+income or expense. Management estimates the fair value of these liabilities using the Black-Scholes model and assumptions that are based
+on the individual characteristics of the warrants or instruments on the valuation date, as well as assumptions, expected volatility,
+expected life, yield, and risk-free interest rate. Segment
+Information Operating
+segments are defined as components of an enterprise about which separate financial information is available that is evaluated regularly
+by a company’s chief operating decision maker (“CODM”), or a decision-making group, in deciding how to allocate resources
+and in assessing financial performance. As of March 31, 2026, the Company’s CODM was the Company’s Chief Executive Officer,
+and we concluded that we have one reportable segment. Refer to Note 17, “Segment Information”, for additional disclosures
+regarding segment information. Accounting
+Pronouncements Presented
+below is a discussion of new accounting standards including deadlines for adoption. Recent
+Accounting Pronouncements Yet to be Adopted In
+November 2024, the FASB issued ASU No. 2024-03, Disaggregation of Income Statement Expenses (“ASU 2024-03”). The standard’s
+purpose is “to improve the disclosures about a public business entity’s expenses and address requests from investors for
+more detailed information about the types of expenses (including purchases of inventory, employee compensation, depreciation, amortization,
+and depletion) in commonly presented expense captions (such as cost of sales, SG&A, and research and development).” Public
+companies will be required to disclose in the notes to financial statements specified information about certain costs and expenses at
+each interim and annual reporting period. Specifically, they will be required to: 1. Disclose the amounts of
+    (a) purchases of inventory; (b) employee compensation; (c) depreciation; (d) intangible asset amortization; and (e) depreciation,
+    depletion, and amortization recognized as part of oil- and gas-producing activities (or other amounts of depletion expense) included
+    in each relevant expense caption. 13 2. Include certain amounts
+    that are already required to be disclosed under current GAAP in the same disclosure as
+    the other disaggregation requirements. 3. Disclose a qualitative
+    description of the amounts remaining in relevant expense captions that are not separately disaggregated quantitatively. 4. Disclose the total amount
+    of selling expenses and, in annual reporting periods, an entity’s definition of selling expenses. The
+amendments in the ASU are effective for annual reporting periods beginning after December 15, 2026, and interim reporting periods beginning
+after December 15, 2027. Early adoption is permitted. We are currently evaluating the effect of this new guidance on our consolidated
+financial statements and disclosures. In
+September 2025, the FASB issued ASU 2025-06, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Targeted Improvements
+to the Accounting for Internal-Use Software (“ASU 2025-06”), which updates the accounting for internal-use software by
+removing project stage references and introduces a new capitalization threshold based on management authorization and project completion
+probability. The guidance requires evaluation of significant development uncertainty, including novel functionality and unresolved performance
+requirements. ASU 2025-06 also requires website-specific development costs to be evaluated under the same framework as other internal-use
+software and clarifies that capitalized internal-use software costs are subject to the property, plant and equipment disclosure requirements
+under ASC 360-10. The amendments in the ASU are effective for fiscal years beginning after December 15, 2027, and interim periods within
+those fiscal years. Early adoption permitted. The Company is currently evaluating the impact of ASU 2025-06 on our financial statement
+disclosures. We
+have reviewed and considered all other recent accounting pronouncements that have not yet been adopted and believe there are none that
+could potentially have a material impact on our business practices, financial condition, results of operations, or disclosures. NOTE
+2 - LIQUIDITY AND ABILITY TO CONTINUE AS A GOING CONCERN The
+financial statements have been prepared in conformity with generally accepted accounting principles, which contemplate continuation of
+the Company as a going concern. We have incurred losses since inception, including $ 7.7 and $ 3.9 million for the three months ended March 31, 2026 and 2025,
+respectively, resulting in an accumulated deficit of approximately $ 133 million as of March 31, 2026. Net
+cash used in operating activities amounted to approximately $ 6.0 and $ 3.8 million for three months ended March 31, 2026 and 2025, respectively.
+As of March 31, 2026, we had total liabilities of approximately $ 26.3 million. As
+of March 31, 2026, we had approximately $ 2.1 million in cash and cash equivalents, which will not be sufficient to fund operations and
+strategic objectives over the next twelve months from the date of the issuance of these financial statements. Without additional financing,
+these factors raise substantial doubt regarding the Company’s ability to continue as a going concern. We have implemented cost savings
+measures that lead to reduced impact to cash used in operations. However, sales did not grow in the financial year ended December 31,
+2025 and the first three months of 2026 as anticipated as we continued to refine our product offerings and strategies. As such, notwithstanding
+that we have raised equity capital throughout the fiscal year ended December 31, 2025 and through the first quarter of 2026, we will be
+required to obtain additional financing to satisfy the cash needs for our business and bolster our stockholders’ equity for Nasdaq
+compliance purposes, as management continues to work towards increasing revenue to achieve cash flow positive operations in the foreseeable
+future. The 2025 acquisition of SCN has
+increased patient volume and increased top line revenue and also lowered customer acquisition costs. However, revenues have not be sufficient
+to cover expenses fully, and until a state of increased revenues and cash flow positivity is reached, management will continue to review
+all options to obtain additional financing to fund operations. This financing is expected to come primarily from the issuance of equity
+securities in order to sustain operations until we can achieve positive cash flows and profitability, if ever. However, there can be no
+assurances that adequate additional funding will be available on favorable terms, or at all. If such funds are not available in the future,
+or that SCN will not result in the patient volume and financial results within the expected timeline and we may be required to delay,
+significantly modify or terminate some or all of our operations, all of which could have a material adverse effect on us and our stockholders. 14 We
+do not have any off-balance sheet arrangements, as defined by applicable regulations of the SEC, that are reasonably likely to have a
+current or future material effect on our financial condition, results of operations, liquidity, capital expenditures or capital resources. NOTE
+3 – BUSINESS COMBINATION On
+June 10, 2025, we acquired the net operating assets of SCN pursuant to an Asset Purchase Agreement (the
+“SCN Purchase Agreement”). We agreed to purchase the net operating assets and liabilities related to SCN’s sleep testing,
+diagnostics, and treatment centers (the “Acquisition”). With seven operating locations, SCN is a leader in delivering and
+promoting sleep wellness and health through its proprietary, non-invasive treatments for obstructive sleep apnea (“OSA”)
+and is the largest operator of medical sleep centers in the state of Nevada. The Acquisition represents our first major acquisition of
+a sleep testing center and associated medical sleep practice. We funded the consideration for the Acquisition at closing by issuing a
+senior, non-convertible, secured term note (the “Note”) to Streeterville Capital, LLC (the “Lender”) in the principal
+amount of $ 8.3 million. We also entered into a securities purchase agreement with V-CO Investors 2 LLC, a Wyoming limited liability company
+and an affiliate of a significant investor in our company (“V-CO 2”), for a private placement of our equity instruments in
+consideration for total gross proceeds of $ 3.65 million to support ourselves in connection with the Acquisition and for general working
+capital purposes. Total
+consideration for SCN aggregated $ 8.7 million consisting of $ 6.0 million in cash consideration, 607,287 shares of unregistered Common Stock with a fair value of $ 1.3 million, and contingent “earn out” consideration with an estimated fair value of $ 1.4 million
+payable upon the achievement of a financial milestone as specified in the Purchase Agreement. The Company has elected, as an accounting
+policy, to determine the fair value of equity securities issued in business combinations using the average market price of the Common Stock on the Acquisition closing date. Management believes this method appropriately reflects the fair value of the consideration
+transferred and this policy election will be applied consistently to all future business combinations. The fair value of the earn-out
+was determined using a Monte Carlo simulation of potential outcomes. The earn-out is payable in the form of restricted Common Stock equal
+to $ 1.5 million based on the volume-weighted average price of the Common Stock for the 30 days immediately preceding the date on which
+such financial milestone is achieved, as determined in accordance with U.S. generally accepted accounting principles. If the financial
+milestone is not achieved, the contingent consideration will not be paid. The fair value estimates of the net tangible and identifiable
+intangible assets acquired and liabilities assumed were based on the valuation of their fair values on the Acquisition closing date. Goodwill recorded
+from this transaction is attributable to SCN’s technical expertise and strategic operations, which are highly complementary to
+the Company’s existing business. Identifiable intangible assets of $ 1.9 million consist primarily of $ 0.4 million of tradenames
+to be amortized over 4 years and $ 1.5 million of referral relationships to be amortized over 8 years. The goodwill created by the transaction
+is deductible for income tax purposes, subject to certain limitations. The accounting for business combinations requires estimates and
+judgments regarding expectations for future cash flows of the acquired business, and the allocations of those cash flows to identifiable
+tangible and intangible assets, in determining the assets acquired and liabilities assumed. The fair values assigned to tangible and
+intangible assets acquired and liabilities assumed are based on management’s best estimates and assumptions, as well as other information
+compiled by management, including valuations that utilize customary valuation procedures and techniques. 15 The
+following table summarizes the estimated fair values of the consideration, the tangible and identifiable intangible assets acquired,
+and liabilities assumed (in thousands): SCHEDULE
+OF ESTIMATED FAIR VALUE OF TANGIBLE AND IDENTIFIABLE INTANGIBLE ASSETS ACQUIRED AND LIABILITIES ASSUMED Total purchase consideration: Cash consideration $ 6,000 Fair value of Common Stock consideration 1,304 Fair value of contingent equity consideration 1,350 Total fair value of consideration transferred $ 8,654 Identifiable assets acquired and liabilities assumed: Cash $ 865 Accounts receivable 934 Prepaid expenses and other assets 51 Property and equipment 955 Operating and finance lease right-of-use assets 2,573 Intangible assets 1,900 Operating lease liabilities ( 2,242 ) Liabilities assumed ( 2,111 ) Total identifiable assets acquired and liabilities assumed $ 2,925 Goodwill 5,729 Net assets acquired and liabilities assumed $ 8,654 Transaction
+costs incurred of less than $ 0.1 million were related to the Acquisition. The
+following table reflects our unaudited pro forma operating results for the three months March 31, 2026 and 2025, respectively, which
+give effect to the Acquisition of the SCN as if it had occurred effective January 1, 2025. The pro forma results are not necessarily
+indicative of the operating results that would have occurred had the Acquisition been effective as of the date indicated, nor are they
+intended to be indicative of results that may occur in the future. The pro forma information does not include the effects of any synergies
+related to the SCN Acquisition or transactions between the entities prior to the Acquisition. Pro forma earnings during the periods presented
+were adjusted to include the following adjustments: ● Amortization of definite-lived
+    intangible assets recognized at fair value that exceed one year as if acquired January 1, 2025; ● Interest expense (including
+    amortization of debt issuance costs) on the Note entered into with the Lender in connection with the Acquisition as if the Note was
+    obtained on January 1, 2025. The interest rate assumed for purposes of preparing this pro forma financial information was 9.0 % which
+    is the stated fixed rate throughout the term of the Note; and ● Given our history of net
+    losses and full valuation allowances, our management estimated an annual effective income tax rate of 0.0 %. Accordingly, no income
+    tax adjustments have been recorded resulting from any pro forma adjustments. SCHEDULE
+OF PRO FORMA INFORMATION 2026 2025 Three Months Ended March 31, 2026 2025 (unaudited) Net Revenue $ 5,141 $ 5,343 Net Loss $ ( 7,751 ) $ ( 4,469 ) Revenue
+and net loss attributable to SCN was $ 2.0 million for the three months ended March 31, 2026. 16 NOTE
+4 - REVENUE, CONTRACT ASSETS AND CONTRACT LIABILITIES Net
+Revenue For
+the three months ended March 31, 2026 and 2025, the components of revenue from contracts with customers and the related timing of revenue
+recognition is set forth in the table below (in thousands): SCHEDULE OF REVENUE FROM CONTRACT WITH CUSTOMERS Three Months Ended March 31, 2026 2025 Product revenue Appliances $ 422 $ 1,273 Tooth positioners 1,018 540 Total product revenue 1,440 (1) 1,813 (1) Service revenue Sleep testing services $ 2,296 (3) $ 323 (3) VIP 37 (2) 223 (2) Billing intelligence services 145 (3) 181 (3) Myofunctional therapy services 125 (2) 148 (2) Treatment centers 892 (2) - (2) Sponsorship/seminar/other 205 (3) 328 (3) Total service revenue 3,701 1,203 Total revenue $ 5,141 $ 3,016 (1) Product revenue from the
+    sale of appliances and tooth positioners is typically fixed at the inception of the contract and is recognized at the point in time
+    when shipment of the related products occurs. (2) Service revenue from the
+    sale of VIP enrollments, billing service and therapy is typically fixed at the inception of the contract and is recognized ratably
+    over time as the services are performed and the performance obligations completed. (3) Sleep testing, treatment
+    center, and other revenue is recognized at a point in time. 17 Changes
+in Contract Liabilities The
+key components of changes in contract liabilities for three months ended March 31, 2026 and 2025 are as follows (in thousands): SCHEDULE
+OF CHANGES IN CONTRACT LIABILITIES 2026 2025 Beginning balance, January 1 $ 479 $ 993 New contracts, net of cancellations 178 23 Revenue recognized ( 162 ) ( 422 ) Ending balance, March 31 $ 495 $ 594 The
+current portion of deferred revenue is approximately $ 0.5 million, which is expected to be recognized over the next 12 months from the
+date of the period presented. Additionally, revenue from breakage on contract liabilities was approximately $ 0 and $ 0.1 million for the
+three months ended March 31, 2026 and 2025 respectively. Changes
+in Accounts Receivable Our
+customers are billed based on fees agreed upon in each customer contract. Receivables from customers were $ 1.8 million at March 31, 2026
+and $ 1.6 million at December 31, 2025. Adjustments to the allowance are recorded in bad debt expense under general and administrative
+expenses in the consolidated statement of operations. An allowance of $ 1.2 and $ 0.9 million existed as of March 31, 2026 and December
+31, 2025. NOTE
+5 - PROPERTY AND EQUIPMENT, NET As
+of March 31, 2026 and December 31, 2025, property and equipment consist of the following (in thousands): SCHEDULE OF PROPERTY AND EQUIPMENT March 31, 2026 December 31, 2025 Furniture and equipment $ 3,090 $ 3,090 Leasehold improvements 3,214 3,197 Construction in progress - - Molds and other 406 406 Gross property and equipment 6,710 6,693 Less accumulated depreciation ( 3,184 ) ( 2,936 ) Net Property and equipment $ 3,526 $ 3,757 Leasehold
+improvements relate to the Vivos Institute (a 15,000 square foot facility where we provide advanced post-graduate education and certification
+to dentists, dental teams, and other healthcare professionals in a live and hands-on setting), two Company-owned dental centers in Colorado,
+seven diagnostic centers, two treatment centers in Nevada and one treatment center in Detroit. Total depreciation expense for property
+and equipment was $ 0.3 million and $ 0.2 million for the three months ended March 31, 2026 and 2025, respectively. 18 NOTE
+6 - GOODWILL AND INTANGIBLE ASSETS Goodwill Goodwill
+of $ 8.6 million as of March 31, 2026 and December 31, 2025, consist of the following acquisitions (in thousands): SCHEDULE OF GOODWILL Acquisitions March 31, 2026 December 31, 2025 Sleep Center of Nevada $ 5,729 $ 5,729 BioModeling 2,619 2,619 Empowered Dental 52 52 Lyon Dental 172 172 Total goodwill $ 8,572 $ 8,572 Intangible
+Assets Intangible
+assets consist of assets acquired from First Vivos and costs paid to (i) MyoSync, from whom we acquired certain assets related to its
+OMT service in March 2021, (ii) Lyon Dental, from whom we acquired certain medical billing and practice management software, licenses
+and contracts in April 2021 (including the software underlying AireO2) for work related our acquired patents, intellectual property and
+customer contracts and (iii) AFD, from whom we acquired certain U.S. and international patents, trademarks, product rights, and other
+miscellaneous intellectual property in March 2023, and (iv) SCN, from whom we acquired tradenames and referral relationships. Internal-use
+software of $ 2.4 million represents capitalized software development costs for cloud-based ordering platform placed in service early
+2025. The
+identifiable intangible assets acquired from First Vivos and Lyon Dental for customer contracts are amortized using the straight-line
+method over the estimated life of the assets, which approximates 5 five years. The costs paid to MyoSync, Lyon Dental and AFD
+for patents and intellectual property are amortized over the life of the underlying patents, which approximates 15 years. The identifiable intangible assets acquired from SCN
+for tradenames are to be amortized over 4 four years, and the referral relationships are to be amortized
+over 8 eight years (see Note 3). As
+of March 31, 2026 and December 31, 2025, identifiable intangible assets were as follows (in thousands): SCHEDULE
+OF IDENTIFIABLE INTANGIBLE ASSETS March 31, 2026 December 31, 2025 Patents and developed technology $ 3,802 $ 3,802 Internal-use software 2,377 2,377 Trade name 730 730 Other 27 27 Total intangible assets 6,936 6,936 Less accumulated amortization ( 3,097 ) ( 2,891 ) Net intangible assets $ 3,839 $ 4,045 19 Amortization
+expense of identifiable intangible assets was $ 0.2 and $ 0.1 million for the three months ended March 31, 2026 and 2025, respectively.
+The estimated future amortization of identifiable intangible assets is as follows (in thousands): SCHEDULE OF ESTIMATED FUTURE AMORTIZATION OF IDENTIFIABLE ASSETS Three
+    Months Ended March 31, 2026
+    (remaining nine months) 617 2027 823 2028 823 2029 673 2030 206 Thereafter 697 Total $ 3,839 NOTE
+7 - OTHER FINANCIAL INFORMATION Accrued
+Expenses As
+of March 31, 2026 and December 31, 2025, accrued expenses consist of the following (in thousands): SCHEDULE OF ACCRUED EXPENSES March 31, 2026 December 31, 2025 Accrued payroll $ 1,597 $ 1,843 Accrued interest expense 2,183 1,952 Accrued royalties 150 175 Accrued sales tax 877 799 Accrued legal and other 1,306 1,219 Total accrued liabilities $ 6,113 $ 5,988 NOTE
+8 – DEBT, EQUIPMENT FINANCING AND OTHER LIABILITIES Debt We
+had the following outstanding Notes Payable balance as of March 31, 2026 and December 31, 2025, excluding equipment financing: SCHEDULE
+OF OUTSTANDING NOTE PAYABLE BALANCE March 31, 2026 December 31, 2025 Principal amount $ 8,477 $ 10,109 Less: Unamortized debt issuance costs and original issue discount ( 1,377 ) ( 2,014 ) Total notes payable $ 7,100 $ 8,095 On
+June 9, 2025, we entered into a note purchase agreement the Lender secured by the assets of Airway Integrated Management Company, LLC,
+a Colorado limited liability company and a wholly-owned subsidiary of the Company (“AIM”), pursuant to which we agreed to
+issue and sell to the Lender the Note in an aggregate initial principal amount of $ 8.3 million, which is payable on or before the date
+that is 18 months from the issuance date. The initial principal amount includes an original issue discount of $ 0.7 million and $ 50 thousand
+that we agreed to pay to the Lender to cover the Lender’s legal fees, accounting costs, due diligence, monitoring and other transaction
+costs. The net proceeds from the Note were $ 7.5 million. Interest
+on the Note accrues at a rate of 9 % per annum and is payable on the maturity date. The Company may prepay all or a portion of the Note
+at any time. 20 A
+monitoring fee of 10 % of the outstanding balance was charged on the 120-day anniversary of the issuance of the Note (October 7, 2025)
+to cover Lender’s accounting, legal and other costs incurred in monitoring. The foregoing fee was added to the outstanding balance
+on the applicable date without any further action by either party. Beginning
+on the sixth month anniversary of the issuance, the Lender shall have the right to redeem up to $ 0.6 million of the Note plus any interest
+accrued thereunder each month by providing written notice delivered to us; provided, however, that if the Lender does not exercise any
+monthly redemption amount in its corresponding month then such monthly redemption amount shall be available for the Lender to redeem
+in any further month in addition to such future month’s monthly redemption amount. Upon receipt of any monthly redemption notice,
+we shall pay the applicable monthly redemption amount in cash to the Lender within three (3) trading days of the Company’s receipt
+of such monthly redemption notice. As of March 31, 2026 and December 31, 2025, the Lender redeemed $ 0.7 million and less than $ 0.1 million,
+respectively. The
+Note includes customary event of default provisions, subject to certain cure periods, and provides for a default interest rate equal
+to the lesser of twenty-two percent (22%) or the maximum rate permitted under applicable law. Upon the occurrence of an event of default,
+interest would accrue on the outstanding balance of the Note beginning on the date the applicable event of default occurred. On
+December 5, 2025, we entered into a Note Purchase Agreement with Avondale Capital, LLC, a Utah limited liability company (“Avondale”),
+pursuant to which we issued and sold to Avondale a Promissory Note in the original principal amount of $ 2.1 million. The principal amount of the Avondale Note includes
+an original issue discount of $ 0.6 million. We also agreed to pay $ 6,000 to Avondale to cover its legal fees, accounting costs, due diligence, monitoring, and other transaction costs, each of which was added
+to the principal amount of the Avondale Note, resulting in a purchase price of for the Avondale Note and gross proceeds to us of approximately
+$ 1.5 million. The Avondale Note is not convertible into shares of
+Common Stock or otherwise. Avondale is an affiliate of Streeterville. The
+Avondale Note does not bear interest and no interest will accrue on the Avondale Note unless an event of default occurs as further described
+below. We have made weekly payments of approximately $ 70 thousand beginning on December 12, 2025. The Company may prepay the outstanding
+amount due under the Avondale Note at any time without penalty. The Company intends used the net proceeds from the Avondale Note Financing
+for working capital and other general corporate purposes. No placement agent was used in connection with the Avondale Note Financing.
+As of March 31, 2026, we have paid approximately $ 1.1 million to Avondale. The
+Avondale Note is unsecured. In connection with the Avondale Note Financing, the Company has caused Company’s wholly-owned subsidiary,
+AIM to enter into the Guaranty Agreement, dated December 5, 2025, in favor of Avondale to provide a guarantee of the Company’s
+obligations to Avondale under the Avondale Note and the other transaction documents. Equipment
+Financing At
+March 31, 2026 and December 31, 2025, we had the following outstanding notes payable for equipment financing as follows (in thousands): SCHEDULE OF OUTSTANDING NOTES
+PAYABLE FOR EQUIPMENT FINANCING March 31, 2026 December 31, 2025 Principal amount $ 617 $ 753 Total $ 617 $ 753 21 The
+maturity of notes payable for equipment financing is as follows (in thousands): SCHEDULE OF
+AMORTIZATION OF NOTES PAYABLE Three Months Ended March 31, 2026 (remaining nine months) 158 2027 211 2028 151 2029 49 2030 31 Thereafter 17 Total $ 617 Interest
+expense recognized on the condensed consolidated statement of operations was $ 1.1 million for the three months ended March 31, 2026. Other
+Liabilities As
+of March 31, 2026 and December 31, 2025, other liabilities consist of the following (in thousands): SCHEDULE
+OF OTHER LIABILITIES March 31, 2026 December 31, 2025 Contingent consideration on acquisition of SCN $ 1,300 $ 1,300 Total $ 1,300 $ 1,300 The
+fair value of the contingent consideration was determined using a Monte Carlo simulation of potential outcomes. The contingent consideration
+is payable in the form of restricted Common Stock equal to $ 1.5 million based on the volume-weighted average price of the Common Stock
+for the 30 days immediately preceding the date on which such financial milestone is achieved. If the financial milestone is not achieved,
+the contingent consideration will not be paid. The fair value of the contingent consideration was based on the valuation of their fair
+values on the Acquisition closing date. This
+contingent consideration liability is recognized as a liability due to the variability of the potential share settlement and will be
+remeasured at fair value each reporting period until the contingency is resolved, with changes in fair value recognized in operating
+expenses. During the year ended December 31, 2025, we did recognize a gain in change in fair value of contingent consideration of approximately
+$ 0.1 million. Significant assumptions included a discount rate of 9 % as well as projected revenue derived from internal forecasts with
+a three-month volatility rate of 20 %. NOTE
+9 – PREFERRED STOCK As
+of March 31, 2026, our Board of Directors continues to have the authority to designate up to 50,000,000 shares of Preferred Stock in
+various series that provide for liquidation preferences, and voting, dividend, conversion, and redemption rights as determined at the
+discretion of the Board of Directors. NOTE
+10 – COMMON STOCK We
+are authorized to issue 200,000,000 shares of Common Stock. Holders of Common Stock are entitled to one vote for each share held. Our
+Board of Directors may declare dividends payable to the holders of Common Stock . 22 The following is a description
+of Common Stock transactions during the periods
+presented: January
+2026 Warrant Inducement Transaction On
+January 15, 2026, we entered into a warrant inducement letter agreement (the “January 2026 Inducement Agreement”) with an
+institutional investor (the “Holder”), pursuant to which the Holder agreed to exercise for cash the entirety of its January
+2023 Warrants, November 2023 Series A Warrants and February 2024 Inducement Warrants at a reduced exercise price of $ 2.34 per share (with such exercise price being established for purposes
+of compliance with the listing rules of the Nasdaq Stock Market), resulting in gross proceeds to the Company of approximately $ 4.6 million. The January 2023 Warrant, the November 2023 Warrant
+and the February 2024 Inducement Warrant are referred to collectively as the “January 2026 Exercised Warrants.” The resale
+of the shares of Common Stock underlying the January 2026 Exercised Warrants have been registered pursuant to a Post-Effective Amendment
+to Form S-1 on a Registration Statement on Form S-3 (File No. 333-278564), which became effective with the SEC on January 7, 2026. Pursuant
+to the January 2026 Inducement Agreement, in consideration for the immediate exercise of the January 2026 Exercised Warrants in full
+for cash, the Company agreed to issue to the Holder, in a private placement transaction: (i) a five-year, Series A Common Stock Purchase
+Warrant to purchase up to 1,982,356 shares of Common Stock at an exercise price of $ 2.09 per share, and (ii) a 24-month, Series B Common Stock Purchase
+Warrant to purchase up to 1,982,356 shares of Common Stock at an exercise price of $ 2.09 per share (collectively, the “January 2026 Inducement
+Warrants” and such aggregate 3,964,712 shares of Common Stock underlying the Inducement Warrants,
+the “January 2026 Inducement Shares”). The January 2026 Inducement Warrants are identical to each other, other than their
+dates of expiration and the absence of a “Black-Scholes put right” in the Series B Inducement Warrant. The transactions contemplated
+by the January 2026 Inducement Agreement closed on January 20, 2026. We filed with the SEC such registration
+statement registering shares of Common Stock underlying the January 2026 Inducement Warrant on Form S-3 (File No. 333-293492) on February
+17, 2026, and such registration statement was declared effective on May 8, 2026. We have agreed to use our commercially reasonable efforts
+to have such registration statement be continuously effective. 23 January
+2026 V-CO Investors 3 LLC Note On
+January 15, 2026, we entered into an unsecured convertible promissory note in favor of V-CO Investors 3 LLC (“V-CO 3”) in
+the maximum principal amount of up to $ 5,500,000 (the “V-CO 3 Note” and the maximum principal amount,
+inclusive of the original issuance discount described below, the “Maximum Principal”). V-CO 3 is an affiliate of Seneca. The
+purpose of the V-CO 3 Note is to provide advanced funding and support to the Company in connection with a proposed equity financing of
+the Company in the aggregate amount of up to $ 5,500,000 (the “Subsequent Financing”). On
+January 15, 2026 and March 26, 2026, V-CO funded an initial $ 900,000 and
+$ 500,000 , respectively, to the Company under the V-CO 3 Note. The Maximum Principal shall include a ten percent (10%) original
+issuance discount of the aggregate Maximum Principal as a financing fee to V-CO 3. The
+V-CO 3 Note does not bear any interest, except in the case of an event of default, which is defined as (i) the Company fails to pay the
+principal or any accrued interest under the V-CO 3 Note on demand, (ii) the Company fails to observe or perform any other material covenant,
+obligation, condition or agreement in any material respect contained in the V-CO 3 Note, (iii) the Company’s voluntary bankruptcy
+or (iv) an involuntary bankruptcy is commenced against the Company. Upon the occurrence of any event of default, interest shall accrue
+on the V-CO 3 Note at a rate equal to fifteen percent (15%) per annum and shall be computed on the basis of a 365-day year. In
+the event of a Subsequent Financing prior to the Outside Date, all principal under the V-CO 3 Note shall automatically convert dollar-to-dollar,
+without any further action required on the part of V-CO or the Company, into such equity instruments of the Company as are issued in
+the Subsequent Financing. The Subsequent Financing may, but is not required to be, led by V-CO. Following the Outside Date, the Company
+may repay all or any portion of the outstanding principal amount and any accrued interest of the V-CO 3 Note in whole or in part without
+penalty. On
+March 31, 2026, we entered into an equity financing with V-CO 3 and accordingly, $ 1,400,000 of the V-CO 3 automatically converted into
+such equity financing. For more information, please refer to “March 2026 PIPE Offering ” below. March
+2026 PIPE Offering On
+March 31, 2026, the Company entered into a Securities Purchase Agreement (the “ March 2026 PIPE SPA ”) with V-CO 3. Pursuant
+to the March 2026 PIPE SPA, the Company sold to V-CO 3 in a private placement offering (the “March 2026 PIPE Offering”):
+(i) 1,353,625 shares (the “March 2026 PIPE Shares”) of Common
+Stock, (ii) a pre-funded warrant to purchase 429,957 shares of Common Stock (the “March 2026 Pre-Funded Warrant”,
+with the shares of Common Stock underlying the Pre-Funded Warrant being referred to as the “March 2026 PFW Shares”), (iii)
+a Series A Common Stock Purchase Warrant (the “March 2026 Series A Warrant”) to purchase up to 1,783,582 shares of Common Stock and (iv) a Series B Common Stock Purchase
+Warrant to purchase up to 1,783,582 shares of Common Stock (the “March 2026 Series B Warrant”,
+and together with the Series A Warrant, the “March 2026 Common Stock Purchase Warrants”, and together with the Pre-Funded
+Warrant, the “March 2026 Warrants”, and with the shares of Common Stock underlying the Common Stock Purchase Warrants being
+referred to as the “March 2026 Warrant Shares”). V-CO
+3 paid a purchase price of $ 1.34 for each March 2026 PIPE Share and March 2026 Pre-Funded Warrant Share and associated March 2026 Common
+Stock Purchase Warrants, with such price being established for purposes of compliance with the listing rules of the Nasdaq Stock Market
+LLC. The March 2026 PIPE Offering closed on March 31, 2026. The Company received $ 850,000 in cash proceeds upon the closing of the March
+2026 PIPE Offering. Additionally, $ 1,400,000 previously funded by V-CO 3 under the V-CO 3 Note automatically converted into the PIPE
+Offering. The gross proceeds funded under the V-CO 3 Note exclude an original issue discount of $ 140,000 paid by the Company in connection
+with previous funding under the V-CO 3 Note. The Company expected to use the net proceeds from the March 2026 PIPE Offering for general
+working capital purposes. No placement agent was used in connection with the March 2026 PIPE Offering. 24 Both
+March 2026 Common Stock Purchase Warrants have an exercise price of $ 1.09 per share and became exercisable immediately as of the date
+of issuance. The March 2026 Common Stock Purchase Warrants are identical to each other, other than their dates of expiration (the March
+2026 Series A Warrant has a term of two years and the March 2026 Series B Warrant has a term of five years). The March 2026 Pre-Funded
+Warrant has a term ending on the complete exercise of the March 2026 Pre-Funded Warrant, an exercise price of $ 0.0001 per share and became
+exercisable immediately as of the date of issuance. The March 2026 Warrants also contain customary stock-based (but not price-based)
+anti-dilution protection as well as beneficial ownership limitations preventing Seneca or its affiliates from exercising March 2026 Warrants
+if such exercise would result in Seneca or its affiliates from owning in excess of 19.99 % of the then outstanding Common Stock. The
+terms of the March 2026 PIPE SPA require the Company to file a registration statement on Form S-3 or other appropriate form registering
+the March 2026 PIPE Shares, the March 2026 PFW Shares and the March 2026 Warrant Shares (collectively, the “March 2026 Registerable
+Securities”) for resale no later than 45 days of the closing of the March 2026 PIPE Offering and to use commercially reasonable
+best efforts to cause such resale registration statement to be effective within 90 days of the closing of the March 2026 PIPE Offering.
+The Company must also use its commercially reasonable efforts to keep such resale registration statement continuously effective (including
+by filing a post-effective amendment to such resale registration statement or a new registration statement if such resale registration
+statement expires) for a period of three (3) years after the date of effectiveness of such resale registration statement or for such
+shorter period as such securities no longer constitute March 2026 Registrable Securities, subject to certain limitations specified in
+the March 2026 PIPE SPA. The
+March 2026 PIPE SPA further provides that the Company shall pay V-CO 3 in the amount equal to $ 50,000 for the fees and expenses of V-CO
+3’s counsel incurred in connection with the March 2026 PIPE Offering. The March 2026 PIPE SPA also includes standard representations,
+warranties, indemnifications, and covenants of the Company and V-CO 3. “At-the-Market”
+Equity Offering As
+previously reported on a Current Report on From 8-K filed on February 14, 2025 (the “February 8-K”), on February 14, 2025,
+pursuant to a prospectus supplement to the Company’s previously filed shelf registration statement on Form S-3 (File No. 333-262554)
+(the “Prior Shelf Registration”), the Company entered into an At The Market Offering Agreement (the “ATM Sales Agreement”)
+with HCW, pursuant to which the Company may offer and sell shares of Common Stock from time to time through HCW. The Company did not
+sell any shares of Common Stock under the Prior Shelf Registration pursuant to the ATM Sales Agreement. On
+September 12, 2025, the Company filed a prospectus supplement (the “ATM Pro Supp”) with the SEC pursuant to which the Company
+may continue, under the ATM Sales Agreement, to sell, from time to time, up to an aggregate sales price of $ 5,830,572 of its Common Stock (the “ATM Shares”), through
+HCW as sales agent. HCW will be entitled to compensation at a fixed commission rate of 3.0 %
+of the gross proceeds of each sale of Shares. In connection with the sale of our ATM Shares on our behalf, HCW will be deemed to be an
+“underwriter” within the meaning of the Securities Act and the compensation of HCW will be deemed to be underwriting commissions
+or discounts. We have also agreed to provide indemnification and contribution to HCW with respect to certain liabilities, including liabilities
+under the Securities Act. The
+offer and sale of the ATM Shares have been made pursuant to a shelf registration statement on Form S-3 (File No. 333-284834), as amended
+(the “New Shelf Registration”), initially filed by the Company with the SEC on February 11, 2025 and declared effective by
+the SEC on September 10, 2025, as supplemented by the ATM Pro Supp filed with the SEC pursuant to Rule 424(b) under the Securities Act. During
+the three months ended March 31, 2026, the Company sold an aggregate of 57,547 ATM Shares at an average price of $ 2.30 per share through
+the ATM Sales Agreement, resulting in proceeds of approximately $ 0.1 million net of commissions. Under the ATM Offering, $ 2,649,773 million
+remain available for future sales as of March 31, 2026; however, the Company is not obligated to make any sales under this program. 25 As
+of March 31, 2026 and December 31, 2025. all warrants outstanding have been classified as equity and recorded at fair values of the date
+of issuance on the Company’s consolidated balance sheets and there have been no further adjustments to their issuance date valuation,
+The guidance in this ASC 815, Derivatives and Hedging and ASC 480, Distinguishing Liabilities from Equity, has been considered
+in making this assessment. NOTE
+11 – STOCK AWARDS AND WARRANTS Stock
+Options In
+2017, our shareholders approved the adoption of a stock and option award plan (the “2017 Plan”), under which shares were
+reserved for future issuance for Common Stock options, restricted stock awards and other equity awards. The 2017 Plan permits grants
+of equity awards to employees, directors, consultants and other independent contractors. Our shareholders have approved a total reserve
+of 53,333 shares of Common Stock for issuance under the 2017 Plan. On
+September 22, 2023, our stockholders approved an amendment and restatement of the 2019 Plan to increase the number shares or our Common
+Stock available for issuance thereunder by 80,000 shares of Common Stock such that, after amendment and restatement of the 2019 Plan, 126,667 shares of Common Stock are available for issuance under the 2019 Plan. As of March 31, 2026, awards (in the form of options)
+for an aggregate of 174,380 shares of Common Stock have been issued under our 2019 Plan. A total of 287 shares remaining for issuance
+were retired with the approval and adoption of the 2024 Omnibus Plan (as further described below). On
+November 26, 2024, our shareholders approved and adopted the Vivos Therapeutics, Inc. 2024 Omnibus Equity Incentive Plan (or the “2024
+Omnibus Plan”). The 2024 Omnibus Plan automatically replaced and superseded the 2019 Plan. Under the 2024 Omnibus Plan, a total
+of 1,600,000 shares are available for future use. No awards are to be granted under the 2019 Plan or any other prior plan on or after
+the effective date of the 2024 Omnibus Plan and after the 2024 Omnibus Plan became effective any unused shares left in the 2019 Plan
+are to be retired. At the 2025 Annual Meeting, the Company’s stockholders approved and adopted an amendment to the 2024 Omnibus
+Plan to increase the number of shares of our Common Stock authorized to be issued pursuant to the 2024 Omnibus Plan from 1,600,000 shares
+to 4,100,000 shares in the aggregate. We anticipate that the 4,100,000 shares will allow the 2024 Omnibus Plan to operate for several
+years, although this could change based on other factors, including but not limited to merger and acquisition activity. The
+purpose of the 2024 Omnibus Plan is to promote the success and enhance the value of the Company by linking the personal interest of the
+participants to those of our stockholders by providing the participants with an incentive for outstanding performance. Any non-employee
+director, officer, employee or consultant of the Company or its subsidiaries or affiliates will be eligible to participate in the 2024
+Omnibus Plan. As of March 31, 2026, we had five non-employee directors, two officers, 268 employees and three consultants, although we
+expect that, based on our current usage, awards will be generally limited to approximately five non-employee directors, two officers
+twelve employees, and three consultants. The 2024 Omnibus Plan provides for the grant of options to purchase shares of our Common Stock,
+including stock options intended to qualify as incentive stock options (“ISOs”) under Section 422 of the Code and nonqualified
+stock options that are not intended to so qualify (“NQSOs”), stock appreciation rights (“SARs”), restricted stock
+awards, and other equity-based or equity-related awards including restricted stock units and performance units (each, an “Award”).
+As of March 31, 2026, awards (in the form of options and restricted stock units (“RSU”) for an aggregate of 1,110,487 shares
+of Common Stock have been issued under our 2024 Omnibus Plan. As of March 31, 2026, RSUs totaling 90,000 shares were granted to employees
+and contractors at an average price of $ 5.57 per share. 26 The
+following table summarizes all stock options as of March 31, 2026 (shares in thousands): SCHEDULE
+OF STOCK OPTIONS 2026 Shares Price (1) Term (2) Outstanding, at December 31, 2025 1,223 $ 6.83 7.6 Granted - - Forfeited ( 5 ) - Outstanding, at March 31, 2026 1,218 (3) $ 6.12 7.4 Exercisable, at March 31, 2026 174 (4) 22.29 2.4 (1) Represents
+    the weighted average exercise price. (2) Represents
+    the weighted average remaining contractual term until the stock options expire. (3) As
+    of March 31, 2026, the aggregate intrinsic value of stock options outstanding was $ 0 . (4) As
+    of March 31, 2026, the aggregate intrinsic value of exercisable stock options was $ 0 . There
+were no stock options granted for the three months ended March 31, 2025. For each of the three months ended March 31, 2026, and 2025
+the Company recognized approximately $ 0.2 and $ 0.3 million of share-based compensation expense relating to the vesting of stock options,
+respectively. Unrecognized expense relating to these awards as of March 31, 2026 was approximately $ 2.6 million, which will be recognized
+over the weighted average remaining term of 7.4 years. Restricted
+Stock Units The
+following table summarizes all RSU granted as of March 31, 2026 (shares in thousands): SCHEDULE OF RSU GRANTED 2026 Shares Price (1) Term (2) Outstanding, at December 31, 2025 90 $ 5.57 10 Granted - $ - Forfeited - - Exercised - - Outstanding, at March 31, 2026 90 (3) $ 5.57 10 Exercisable, at March 31, 2026 - (4) 5.57 10 (1) Represents
+    the weighted average exercise price. (2) Represents
+    the weighted average remaining contractual term until the RSUs expire. (3) As
+    of March 31, 2026, the aggregate intrinsic value of stock options outstanding was $ 0 . (4) As
+    of March 31, 2026, the aggregate intrinsic value of exercisable stock options was $ 0 . 27 RSU’s
+are priced on the date of grant and vest over 2 years at the end of the first and second years respectively. Warrants Following
+is a summary of our warrants outstanding for the three months ended March 31, 2026 (shares in thousands): SCHEDULE OF WARRANT OUTSTANDING 2026 Shares Price (1) Term (2) Outstanding, at December 31, 2025 11,782 $ 2.44 3.4 Grants of warrants: Private placement 3,997 Warrant inducement 4,103 Exercised ( 1,982 ) Outstanding, at March 31, 2026 17,900 (3) $ 2.36 3.4 Exercisable, at March 31, 2026 17,847 $ 1.83 3.3 (1) Represents
+    the weighted average exercise price. (2) Represents
+    the weighted average remaining contractual term until the warrants expire. (3) As
+    of March 31, 2026, the aggregate intrinsic value of warrants outstanding was $ 0 million. For
+the three months ended March 31, 2026, the valuation assumptions for warrants issued were estimated on the measurement date using the
+BSM option-pricing model with the following weighted-average input and assumptions: SCHEDULE OF WEIGHTED AVERAGE ASSUMPTIONS USED IN THE FAIR VALUE 2026 Measurement date closing price of Common Stock (1) $ 1.68 Contractual term (years) (2) 3.51 Risk-free interest rate 4.0 % Volatility 148 % Dividend yield - % (1) Weighted
+    average grant price. (2) The
+    valuation of warrants is based on the contractual term. 28 NOTE
+12 - INCOME TAXES Income
+tax expense during interim periods is based on applying an estimated annual effective income tax rate to year-to-date income, plus any
+significant unusual or infrequently occurring items which are recorded in the interim period. The provision for income taxes for the
+three months ended March 31, 2026 and 2025 differs from the amount that would be provided by applying the statutory U.S. federal income
+tax rate of 21 % to pre-tax income primarily due to permanent differences, state taxes and change in valuation allowance. A full valuation
+allowance was in effect, which resulted in the Company’s zero tax expense. Management
+assesses the available positive and negative evidence to estimate if sufficient future taxable income will be generated to use the existing
+deferred tax assets. A significant piece of objective negative evidence evaluated was the cumulative loss incurred since inception. Such
+objective evidence limits the ability to consider other subjective evidence such as the Company’s projections for future growth.
+On the basis of this evaluation, a full valuation allowance has been recorded at March 31, 2026 and December 31, 2025 to record the deferred
+tax asset that is not likely to be realized. The
+computation of the annual estimated effective tax rate at each interim period requires certain estimates and significant judgement including,
+but not limited to, the expected operating income for the year, projections of the proportion of income earned and taxed in various jurisdictions,
+permanent and temporary differences, and the likelihood of recovering deferred tax assets generated in the current year. The accounting
+estimates used to compute the provision for income taxes may change as new events occur, more experience is obtained, additional information
+becomes known or as the tax environment changes. NOTE
+13 – COMMITMENTS AND CONTINGENCIES On
+March 13, 2026, we entered into a confidential joint settlement and release agreement (the “Settlement Agreement”) with Ortho-Tain
+for the full release, waiver and dismissal-resolution of all claims asserted by the parties against each other in the lawsuit we filed
+in federal district court in Colorado, Case No. 20 cv 1637 and the lawsuit Orth-Tain, Inc. filed in the United States District Court
+for the Northern District of Illinois on July 22, 2020. In
+June of 2020, we filed a lawsuit in federal district court in Colorado, Case No. 20 cv 1637. Our Complaint alleged that we had suffered
+economic injuries, including lost profits/sales and an injury to its business reputation, as a result of allegedly false, misleading,
+and defamatory statements made by Ortho-Tain, Inc.’s CEO and legal counsel. In July of 2020, Ortho-Tain, Inc. filed a lawsuit in
+federal district court in Illinois, Case No. 20 cv 0301. Ortho-Tain’s Complaint alleged that it had suffered economic injuries,
+including lost profits/sales and an injury to its business reputation, as a result of allegedly unlawful marketing conduct by agents
+of Vivos. The
+Settlement Agreement resolves any claim for relief that was, or could have been alleged, in the foregoing litigation matters. Pursuant
+to the Settlement Agreement, we will pay Ortho-Tain a confidential sum and, among other considerations, not make use of the phrase “Guide”
+or “Guides” in the formal product name of any of our oral appliance products and cease direct solicitation and training of
+independent dental professionals in the use of any Vivos pre-formed tooth positioner products that are competitive with Ortho-Tain. The
+settlement was paid late March 2026. There
+were no new other material commitments or contingencies entered into as of the three months ended March 31, 2026. NOTE
+14 – RELATED PARTY TRANSACTIONS We
+have certain office space leases whereby the entity leasing the office space as the lessor is controlled or owned by Dr. Prabhu
+Rachakonda, the founder of SCN and an employee of the Company. The details of these leases are as follows: Lease
+#1 – In November 2024, SCN entered into an amended office lease agreement for $ 22,186 per month with an annual
+3% increase to the monthly rent effective each succeeding November .
+The remaining lease term is for approximately 8.6 years as of March 31, 2026. The Company paid approximately
+$ 77 thousand in fixed rent amounts for the three months ended March
+31, 2026. Lease
+#2 – In January 2024, SCN entered into an office lease agreement when the previous agreement expired. The monthly amount for the
+lease is $ 11,452 and has a remaining lease term of 2.7 years as of March 31, 2026. The Company paid approximately
+$ 34 thousand in fixed rent amounts for the three months ended March
+31, 2026. 29 Lease
+#3 – As of December 31, 2025, the Company has an office lease with five
+years remaining on its lease term. The monthly
+lease amount is $ 12,320 and increases
+each April by 3% and has a remaining lease term of 4.7 years
+as of March 31, 2026 . The Company paid approximately
+$ 41 thousand in fixed rent amounts for the three months ended March
+31, 2026. As
+of March 31, 2026, the unamortized balance of leasehold improvements related to these leases is approximately $ 563 thousand and the weighted
+average remaining useful life of the improvements is approximately 6.7 years. NOTE
+15 - NET LOSS PER SHARE OF COMMON STOCK Basic
+and diluted net loss per share of Common Stock (“EPS”) is computed by dividing (i) net loss (the “Numerator”),
+by (ii) the weighted average number of shares of Common Stock outstanding during the period (the “Denominator”). The
+calculation of diluted EPS is also required to include the dilutive effect, if any, of stock options, unvested restricted stock awards,
+convertible debt and Preferred Stock, and other Common Stock equivalents computed using the treasury stock method, in order to compute
+the weighted average number of shares outstanding. As of March 31, 2026 and 2025, all Common Stock equivalents were antidilutive. Presented
+below are the calculations of the Numerators and the Denominators for basic and diluted EPS (dollars in thousands, except per share amounts): SCHEDULE OF CALCULATIONS OF  NUMERATORS AND DENOMINATORS FOR BASIC AND DILUTED EPS 2026 2025 Three Months Ended March 31, 2026 2025 Calculation of Numerator: Net loss $ ( 7,751 ) ( 3,864 ) Loss applicable to common stockholders $ ( 7,682 ) $ ( 3,864 ) Calculation of Denominator: Weighted average number of shares of Common Stock outstanding 14,634,115 8,595,288 Net loss per share of Common Stock (basic and diluted) $ ( 0.52 ) $ ( 0.45 ) As
+of March 31, 2026 and 2025, the following potential Common Stock equivalents were excluded from the computation of diluted net loss per
+share of Common Stock since the impact of inclusion was antidilutive (in thousands): SCHEDULE OF COMMON STOCK EQUIVALENTS EXCLUDED FROM COMPUTATION OF DILUTED NET LOSS PER SHARE 2026 2025 Three Months Ended March 31, 2026 2025 Common stock warrants 17,900 9,658 Common stock options and RSU’s 1,218 1,238 Total 19,118 10,896 30 NOTE
+16 - FINANCIAL INSTRUMENTS AND SIGNIFICANT CONCENTRATIONS Fair
+Value Measurements Fair
+value is defined as the price that would be received upon sale of an asset or paid to transfer a liability in an orderly transaction
+between market participants on the measurement date. When determining fair value, we consider the principal or most advantageous market
+in which it transacts and considers assumptions that market participants would use when pricing the asset or liability. We apply the
+following fair value hierarchy, which prioritizes the inputs used to measure fair value into three levels and bases the categorization
+within the hierarchy upon the lowest level of input that is available and significant to the measurement of fair value: Level
+1 - Quoted prices in active markets for identical assets or liabilities accessible to the reporting entity at the measurement date Level
+2 - Other than quoted prices included in Level 1 that are observable for the asset and liability, either directly or indirectly through
+market collaboration, for substantially the full term of the asset or liability Level
+3 - Unobservable inputs for the asset or liability used to measure fair value to the extent that observable inputs are not available,
+thereby allowing for situations in which there is little, if any market activity for the asset or liability at measurement date As
+of March 31, 2026 and 2025, the fair value of our cash and cash equivalents, accounts receivable, accounts payable, and other accrued
+liabilities approximated their carrying values due to the short-term nature of these instruments. Recurring
+Fair Value Measurements For
+the three months ended March 31, 2026 and 2025, we did not have any assets and liabilities classified as Level 1 or Level 2. Our warrants
+are classified as level 3. Our policy is to recognize asset or liability transfers among Level 1, Level 2 and Level 3 as of the actual
+date of the events or change in circumstances that caused the transfer. As of the three months ended March 31, 2026, and 2025 we had
+no transfers of assets or liabilities between levels of the fair value hierarchy. Significant
+Concentrations Credit
+Risk We
+maintain our cash and cash equivalents primarily in depository and money market accounts within three large financial institutions in
+the United States. Cash balances deposited at these major financial banking institutions exceed the insured limits. We have not experienced
+any losses on our bank deposits and believe these deposits do not expose us to any significant credit risk. If we were unable to access
+cash and cash equivalents as needed, the financial position and ability to operate the business could be adversely affected. As of March
+31, 2026, we had cash and cash equivalents with five financial institutions in the United States with an aggregate balance of $ 2.1 million. Generally,
+credit risk with respect to accounts receivable is diversified due to the number of entities comprising our customer base and their dispersion
+across different geographies and industries. We perform ongoing credit evaluations on certain customers and generally do not require
+collateral on accounts receivable. No single customer represented more than 10% of our sales or accounts receivable as of March 31, 2026.
+We maintain reserves for potential bad debts. Supplier
+Concentration As
+previously disclosed, we rely on third-party suppliers and contract manufacturers for the raw materials and components used in our appliances
+and to manufacture and assemble our products. As of March 31, 2026, we had five suppliers that accounted for approximately 35 % of our
+total purchases during the year. We expect to maintain existing relationships with these vendors. 31 NOTE
+17 – SEGMENT INFORMATION We
+operate our business as one operating segment. An operating segment is defined as a component of an enterprise for which separate discrete
+financial information is available and evaluated regularly by CODM in deciding how to allocate resources and in assessing performance.
+Our CODM is the Company’s Chief Executive Officer, and Chair of the Board of Directors. Reportable segment information is consistent
+with how management reviews the business, makes investing and resource allocation decisions and assesses operating performance. Our segment
+revenues are derived from the sales of our products and services using the Vivos Method, to sleep centers and VIP providers in the U.S.,
+Canada, Australia and in select countries in Europe and Asia. Our
+CODM uses consolidated revenue, gross profit, gross margin and operating loss as the measure of profit or loss. Our CODM assesses performance
+for the segment and allocates resources and monitors budget versus actual results using consolidated revenue, gross profit, gross margin
+and operating loss. The monitoring of budget versus actual results are used in establishing management’s compensation. The measure
+of segment assets is reported on the balance sheet as total consolidated assets. Revenue and long-lived tangible assets are all located
+in the U.S. NOTE
+18 – VARIABLE INTEREST ENTITIES Variable
+Interest Entities We
+evaluate our involvement with variable interest entities (“VIEs”) to determine whether it is required to consolidate such
+entities and to provide related disclosures. Consolidated
+Variable Interest Entity AIM
+Detroit, LLC (“AIM Detroit”) is a limited liability company formed to provide management and administrative services to affiliated
+clinical practices. We hold an 80 % ownership interest in AIM Detroit. We
+have determined that AIM Detroit is a variable interest entity because, by design, AIM Detroit’s equity at risk is not sufficient
+to permit it to finance its activities without additional subordinated financial support. Such support includes, among other things,
+as-needed member funding during the start-up period and credit support arrangements related to equipment financing. We
+are the primary beneficiary of AIM Detroit because we has substantive decision-making authority over the activities that most significantly
+affect AIM Detroit’s economic performance and have the obligation to absorb losses or the right to receive benefits that could
+potentially be significant. Accordingly, AIM Detroit is consolidated in the Vivos’ consolidated financial statements. 32 Assets
+and Liabilities of Consolidated Variable Interest Entity The
+following table presents the carrying amounts of assets and liabilities of AIM Detroit that are included in the consolidated balance
+sheet as of March 31, 2026 and December 31, 2025. The assets of AIM Detroit can be used only to settle obligations of AIM Detroit, and
+the creditors of AIM Detroit do not have recourse to the general credit of the Company. SCHEDULE
+OF VARIABLE INTEREST ENTITY March 31, 2026 December 31, 2025 Current assets Cash and cash equivalents $ - $ 20 Accounts receivable, net of allowance - 3 Total current assets - 23 Long-term assets Property and equipment, net 303 318 Operating lease right-of-use asset 65 80 Deposits and other 5 9 Total assets $ 373 $ 430 LIABILITIES AND STOCKHOLDERS’ EQUITY/(DEFICIT) Current liabilities Accounts payable $ 158 $ 126 Accrued expenses 124 78 Current portion of operating lease liability 17 19 Current portion of debt 41 39 Other current liabilities - 2 Total current liabilities 340 264 Long-term liabilities Operating lease liability, net of current portion 154 167 Debt, net of current portion 77 87 Total liabilities $ 571 $ 518 Noncontrolling
+Interest The
+remaining 20 % ownership interest in AIM Detroit is reflected as a noncontrolling interest in the consolidated balance sheets. Net income
+or loss of AIM Detroit is attributed between the Vivos and the noncontrolling interest in accordance with the AIM Detroit operating agreement.
+Losses attributable to the noncontrolling interest are allocated even if such allocation results in a deficit noncontrolling interest
+balance. Risk
+Exposure Vivos’
+maximum exposure to loss related to its involvement with AIM Detroit is limited to its investment in AIM Detroit and its variable interests.
+We have not provided financial or other support to AIM Detroit that it was not previously contractually required to provide. Certain
+financing arrangements of AIM Detroit include guarantees provided by a related party in their individual capacity; however, the Company
+is not a guarantor under such arrangements and has no obligation to fund losses beyond its stated exposure. NOTE
+19 – SUBSEQUENT EVENTS On
+April 17, 2026, we received a letter (“Letter”) from the Listing Qualifications Staff (the “Staff”) of The Nasdaq
+Stock Market LLC (“Nasdaq”) indicating that the Company’s stockholders’ equity as reported in its Annual Report
+on Form 10-K for the year ended December 31, 2025 (the “Form 10-K”), did not satisfy the continued listing requirement under
+Nasdaq Listing Rule 5550(b)(1), which requires that a listed company’s stockholders’ equity be at least $2,500,000 (the “Minimum
+Stockholders’ Equity Requirement”) . As reported in its Form 10-K, as of December 31, 2025 we had a negative stockholders’
+equity of approximately $ 1.55 million. The Staff’s notice has no immediate impact on the listing of the Common Stock on Nasdaq. We
+have taken affirmative steps since December 31, 2025 to remedy the Minimum Stockholders’ Equity Requirement. Specifically, as
+previously reported, the Company engaged in two equity financing transactions during the first quarter ended March 31, 2026 for
+aggregate gross proceeds of $ 6.8 million: a $ 4.6 million warrant exercise inducement transaction and $ 2.25 million private placement with an existing investor. See Note 10. These equity financings do not in and of themselves cure the
+Minimum Stockholders’ Equity Requirement deficiency. In
+accordance with the Nasdaq Listing Rules, we have 45 calendar days, or until June 1, 2026, to submit a plan to regain compliance with
+the Stockholders’ Equity Requirement, which the Company plans to timely submit for the Staff’s consideration. If the plan
+is accepted, the Staff may grant us an extension period of up to 180 calendar days from the date of the deficiency notice (or through
+October 14, 2026) to regain compliance with the Minimum Stockholders’ Equity Requirement. However, the Staff may not accept our plan to regain compliance with the Stockholders’ Equity Requirement. Further, even
+if our plan of compliance is accepted, we may be unable to evidence compliance with the Stockholders’ Equity Requirement during
+any extension period that the Staff may grant, either through additional equity financings or improved operational results. If the Staff
+does not accept our plan or if we are unable to regain compliance within any extension period granted by the Staff, the Staff would be
+required to issue a delisting determination. We would at that time be entitled to request a hearing before a Nasdaq Hearings Panel to
+present its plan to regain compliance and to request a further extension period to regain compliance. The request for a hearing would
+stay any delisting action by the Staff. No assurances can be given by our efforts to comply with the Minimum Stockholders’ Equity
+Requirement will be successful, and any delisting of our common stock from Nasdaq would have a material adverse effect on the Company,
+its operations and reputation. 33 Item
+2. Management’s Discussion and Analysis of Financial Condition and Results of Operations. The
+following discussion and analysis of our financial condition and results of operations should be read in conjunction with our financial
+statements and the related notes to those statements included elsewhere in this Quarterly Report on Form 10-Q. In addition to historical
+financial information, the following discussion and analysis contains forward-looking statements that involve risks, uncertainties, and
+assumptions. Some of the numbers included herein have been rounded for the convenience of presentation. Our actual results may differ
+materially from those anticipated in these forward-looking statements as a result of many factors. See “Cautionary Note Regarding
+Forward-Looking Statements.” Overview We
+are a revenue stage medical technology and healthcare services company focused on the development and commercialization of innovative
+treatment alternatives for patients with dentofacial abnormalities and/or patients diagnosed with mild to severe obstructive sleep apnea
+(“ OSA ”) and snoring in adults. We believe our technologies and conventions represent a significant improvement in
+the treatment of mild to severe OSA versus other treatments such as CPAP or palliative oral appliance therapies. Our alternative treatments
+are part of The Vivos Method . The
+Vivos Method is an advanced therapeutic protocol, which often combines the use of customized oral appliance specifications and proprietary
+clinical treatments developed by our company and prescribed by specially trained dentists in cooperation with their medical colleagues.
+Published studies have shown that using our customized appliances and clinical treatments led to significantly lower Apnea Hypopnea Index
+scores and have improved other conditions associated with OSA. Nearly 75,000 patients have been treated to date worldwide with our entire
+current suite of products by more than 2,000 trained dentists. In
+June 2025, we acquired all assets, including operating assets such as sleep testing, diagnostics, and treatment centers of SCN. The Acquisition
+marked a milestone in the pivot to our medical provider-focused sales, marketing distribution model for our innovative OSA appliances.
+Under the new model, SCN will provide sleep disorder patients with the opportunity to be candidates for our advanced, proprietary and
+FDA-cleared CARE oral medical devices, oral appliances and additional adjunctive therapies and methods. Under customary agreements designed
+to comply with applicable corporate practice of medicine law, our operation of SCN allows us to manage and capture both diagnostic and
+diagnostic consulting revenues, representing new higher margin revenue streams for us, as well as potential Vivos appliance and related
+product and service revenue. See
+Note 1 to the accompanying financial statements for additional background information on our Company and current product and service
+offerings. 34 Material
+Items, Trends and Risks Impacting Our Business We
+believe that the following items and trends may be useful in better understanding our results of operations. VIP
+Enrollments (Service Revenue). Enrolling dental practices as VIPs has historically been the first step in our ability to generate
+new revenue. As part of the VIP enrollment fee, we enter into a service contract with VIPs under which they receive training on the use
+of the Vivos treatment modalities. VIPs have the ability to start generating revenue for us and themselves after this training. In
+addition to enrollment service revenue, we offer additional services, such as our Billing Intelligence Services offering, and MyoSync
+(formally MyoCorrect) orofacial myofunctional therapy services, which was introduced in April 2021. Revenue for these services is recognized
+as our performance obligations are satisfied in accordance with ASC 606. Because of our 2024 marketing
+and distribution business model pivot, which was accelerated by our June 2025 acquisition of SCN, we have become primarily focused on
+engaging in strategic collaborations or acquisitions to market the benefits of the Vivos treatment modalities to dentists and other medical
+providers, including our cooperative relationships with various medical providers to deliver diagnostic and medical consultation services
+to people across North America who suffer from OSA. As such, while we will continue to recognize some VIP enrollment revenue through 2026,
+we believe such revenue will become immaterial. We
+recognize revenue on VIP enrollments once the contract is executed, payment is received, and as our performance obligations are satisfied
+in accordance with ASC 606. Product Sales Revenue. Vivos treatment “case starts” are paramount to our business, as case starts lead to appliance orders and related revenue.
+Once a provider is fully trained, we encourage them to start cases. However, our historic experience had been that VIPs typically start
+slowly as they introduce The Vivos Method into their practices. The slow acceptance rate Vivos appliances with providers led us to consider
+other business models, most notably the medical provider-focused alliance marketing and distribution model announced in 2024 and the 2025
+acquisition of SCN, to provide services and sell appliance product. In our new model, our biggest challenge to date has been hiring, equipping
+and training personnel at SCN locations in the Vivos Method, as well as insurance reimbursement. Navigating these challenges has led to
+increases in service revenue (including sleep testing) and our goal is to increase case starts and appliance sales as well. Since our
+SCN acquisition, we have been unable to generate sufficient revenues to pay for all of our expenses, including debt service, so our business
+primary goal is to increase revenues through SCN and also consider other acquisitions or alliances as a means of increasing revenue from
+services and appliance sales. In
+addition, an important aspect of our strategy to increase product revenues relates to the products and related intellectual property
+we acquired in March 2023 from Advanced Facialdontics, LLC (“AFD”), including a custom single arch device with an FDA 510(k)
+clearance for treating TMD and/or Bruxism (teeth grinding or clenching). We have rebranded the AFD products as Vivos Versa, Vivos Vida
+and Vivos Vida Sleep. Clinical
+Trial Work . Our efforts to engage in research to demonstrate the clinical efficacy of our products and obtain additional regulatory
+clearances for the use of our products is an important aspect of our overall strategy. In this regard, on May 29, 2023, we and Stanford
+University executed an agreement to commence a sponsored clinical research study to evaluate the efficacy of our FDA-cleared DNA appliance
+compared to the standard of care, CPAP for treatment of sleep apnea. Our DNA device is currently indicated for the treatment of mild
+to severe sleep apnea and jaw repositioning in adults (and in the case of severe OSA, along with positive airway pressure and/or myofunctional
+therapy, as needed) and has an FDA clearance intended to reduce nighttime snoring and to treat moderate and severe obstructive sleep
+apnea in children, 6 - 17 years of age who are diagnosed with snoring and/or moderate or severe obstructive sleep apnea and need orthodontic
+treatment. Enrollment of 150 patients with moderate to severe sleep apnea (apnea-hypopnea index score of 15 or greater) will be randomly
+assigned to either treatment with our FDA-cleared DNA appliance or CPAP. The protocol has been finalized, and enrollment began in 2024.
+Late 2024, our clinical study conducted in collaboration with Stanford University and evaluating the DNA and CPAP for the treatment of
+OSA, was placed on hold by Stanford University. The decision to pause the study was made due to low recruitment into the study. The study
+is still on hold as of 2026. 35 We
+are working with Stanford University to address the concerns that led to the hold and has continued engaged discussions with the university.
+While we believe these efforts will facilitate the resumption of the study, there can be no assurance that the hold will be lifted in
+a timely manner, or at all. Any delay or failure to resolve the issues could impact the development timeline and future prospects for
+the study. We remain committed to the highest standards of patient safety, scientific integrity, and regulatory compliance and will provide
+updates as material developments occur. This trial may not meet its designated endpoints, and therefore additional FDA clearances for
+the DNA device may not be obtained. Distribution
+Agreements. During 2023, we entered into distribution collaborations with third parties to expand access of our products to potential
+patients. We hope that these strategic initiatives will lead to revenue growth opportunities for us in 2024 and beyond, and our ability
+to capitalize on these initiatives is expected to be a material aspect of our medical provider-focused sales and marketing program going
+forward. Also,
+in October 2023, we announced an exclusive distribution agreement with NOUM DMCC, a Dubai-based company focused on diagnostic testing
+and treatment product distribution for healthcare providers and hospital networks treating obstructive sleep apnea patients throughout
+the Middle East-North Africa region. With regulatory approvals pending, there was no revenue from this collaboration in 2025 or year
+to date, 2025. Inflation .
+The U.S. has been experiencing a period of inflation which has increased (and may continue to increase) our and our suppliers’
+costs as well as the end cost of our products to consumers. To date, we have been able to manage inflation risk without a material adverse
+impact on our business or results of operations. However, inflationary pressures (including increases in the price of raw material components
+of our appliances) made it necessary for us to adjust our standard pricing for our appliance products in 2022 and will be revisited in
+2026. The full impact of such price adjustments on sales or demand for our products is not fully known at this time and may require us
+to adjust other aspects of our business as we seek to grow revenue and, ultimately, achieve profitability and positive cash flow from
+operations. An
+additional inflation-related risk is the Federal Reserve’s response, which up to this point has been to slightly decrease interest
+rates, however, the perceived decrease was lower than what was expected. Such actions have, in times past, created unintended consequences
+in terms of the impact on housing starts, overall manufacturing, capital markets, and banking. If such disruptions become systemic, as
+occurred in the recession of 2008, then the impact on our revenue, earnings and access to capital of both inflation and inflation-fighting
+responses would be impossible to know or calculate. Supply
+Chain. From time to time, we may experience supply chain challenges due to forces beyond our control. For example, the Suez Canal
+blockage earlier in 2021 caused some delay in shipments of SleepImage ® rings from China. Changes in U.S. or foreign trade
+policy, including the imposition of new tariffs, increases in existing tariffs or changes in customs classifications, could increase
+our costs. Overall, however, as our appliances are made in the U.S., we have not experienced significant supply chain issues as a result
+of COVID-19 or otherwise, although this may change in future periods. Middle
+East Hostilities. In addition, geopolitical instability in the Middle East continues to create uncertainty in global economic conditions
+and commercial activity. Hostilities in the region, including the attacks by Hamas on Israel in October 2023, Israel’s subsequent
+military responses, and more recent U.S. and Israeli military actions involving Iran, have contributed to heightened regional and global
+tensions. These developments, combined with the ongoing effects of Russia’s invasion of Ukraine that began in February 2022, have
+intensified supply chain constraints, increased commodity price volatility, disrupted international trade flows, creating. If an economic
+recession or depression commences and is sustained, it could have a material adverse effect on our business as demand for our products
+could decrease. Capital markets uncertainty, with public stock price decreases and volatility, could make it more difficult for us to
+raise capital when needed. 36 Potential
+Nasdaq Delisting . Given that our stockholders’ equity at December 31, 2025 and March 31, 2026 was less than $2.5 million, we
+are presently not in compliance with the Nasdaq Stock Market’s (“Nasdaq”) minimum stockholders’ equity requirement
+(the “Equity Requirement”). We are seeking to regain compliance by raising new funding in the form of equity and reducing
+costs. However, we will be faced with delisting proceedings which will distract management and cost resources to remedy. We
+have a history of challenges of maintaining compliance with the Nasdaq’s continuing listing requirements. We have been subject
+to two Nasdaq listing deficiencies, one related to Nasdaq’s $1.00 minimum bid price requirement (the “Minimum Bid Requirement”)
+and a second related to the Equity Requirement. On
+September 21, 2023, we received a written notice from the Nasdaq staff confirming that since, as of that date, we failed to meet the
+Minimum Bid Requirement, and because as of the period ended June 30, 2023 we also failed the Equity Requirement, Nasdaq would commence
+delisting proceedings against us. As permitted under Nasdaq rules, we appealed the Nasdaq staff’s determination and requested a
+hearing (the “Hearing”) before a Nasdaq Hearing Panel (the “Hearing Panel”). The Hearing request stayed any delisting
+or suspension action by the Nasdaq staff pending the issuance of the Hearing’s Panel decision. The Hearing took place on November
+9, 2023. Prior
+to the date of the Hearing, we effectuated a reverse stock split of our issued and outstanding shares of common stock at a ratio of 1-for-25
+(the “Reverse Stock Split”). The Reverse Stock Split became effective on October 25, 2023, and our common stock began trading
+on a post-Reverse Stock Split basis on the Nasdaq on October 27, 2023. To satisfy the Minimum Bid Requirement, our common stock was required
+to trade at above $1.00 per share for at least 10 trading days, and this was achieved on November 9, 2023. We therefore have regained
+compliance with the Minimum Bid Requirement. At
+the Hearing on November 9, 2023, we presented our plan to regain compliance with the Equity Requirement, which included raising additional
+equity capital. On November 30, 2023, we received a letter from the Hearings Panel that, subject to certain conditions, the Hearings
+Panel granted our request to continue to be listed on Nasdaq. On February 23, 2024 we presented our plan of compliance to the Hearings
+Committee. On May 6, 2024, we received written notice from the Nasdaq staff indicating that we had regained compliance with the Equity
+Requirement. On
+May 16, 2024, we received a further written notice from Nasdaq indicating that, as of March 31, 2024, we failed to comply with the Equity
+Requirement. On June 25, 2024, we reported in a Current Report on Form 8-K that we believed we had stockholders’ equity of at least
+$2.5 million as of the date of the filing of such report as a result of our closing of a $7.5 million equity private placement on June
+10, 2024. On
+June 27, 2024, we met with the Panel to discuss our past, current, and anticipated future compliance with the Equity Requirement, and
+requested the continued listing of its securities on Nasdaq. On
+July 5, 2024, we were notified that the Panel granted our request for continued listing on Nasdaq, subject to our filing of the Form
+10-Q for the quarter ended June 30, 2024, with the Securities and Exchange Commission, evidencing our compliance with the Equity Requirement.
+We made such filing in a timely manner. On April 17, 2026, we received
+a letter (“Letter”) from the Listing Qualifications Staff (the “Staff”) of Nasdaq indicating that the Company’s
+stockholders’ equity as reported in its Annual Report on Form 10-K for the year ended December 31, 2025 (the “Form 10-K”),
+did not satisfy the continued listing requirement under the Equity Requirement. As reported in its Form 10-K, as of December 31, 2025
+we had a negative stockholders’ equity of approximately $1.55 million. The Staff’s notice has no immediate impact on the listing
+of the Company’s common stock on Nasdaq. 37 We
+have taken affirmative steps since December 31, 2025 to remedy the Minimum Stockholders’ Equity Requirement. Specifically, as previously
+reported, the Company engaged in two equity financing transactions during the first quarter ended March 31, 2026 for aggregate gross
+proceeds of $6.8 million: a $4.6 million warrant exercise inducement transaction and $2.25 million private placement with an existing
+investor. While these equity financings do not in and of themselves cure the Minimum Stockholders’ Equity Requirement deficiency,
+they demonstrate our ability to raise funding to bolster its stockholders’ equity. In
+accordance with the Nasdaq Listing Rules, we have 45 calendar days, or until June 1, 2026, to submit a plan to regain compliance with
+the Stockholders’ Equity Requirement, which the Company plans to timely submit for the Staff’s consideration. If the plan
+is accepted, the Staff may grant us an extension period of up to 180 calendar days from the date of the deficiency notice (or through
+October 14, 2026) to regain compliance with the Minimum Stockholders’ Equity Requirement. We
+anticipate that our new medical provider-focused strategic marketing and distribution alliance model will also positively impact our
+revenue growth and stockholders’ equity in upcoming fiscal quarters. However, there is a risk that we will be unable to raise sufficient
+capital, reduce costs sufficiently or generate sufficient revenue or operating results to maintain compliance with the Equity Requirement.
+If we fail to achieve ongoing compliance and our common stock is delisted by Nasdaq, such delisting would likely have a material adverse
+effect on our stock price, the ability of our stockholders to buy or sell their common stock, our ability to raise capital and on our
+reputation, all of which could make it significantly more difficult to operate. Key
+Components of Consolidated Statements of Operations Net
+revenue. We recognize revenue when we satisfy our performance obligations over time as our customers receive the benefit of the
+promised goods and services, which generally occurs over a short period of time. Performance obligations with respect to appliance sales
+are typically satisfied at a point in time by shipping or delivering products to our VIPs or to the sleep clinic, through our new strategic
+alliance model. In the case of enrollment or service revenue, upon our satisfaction of performance obligations associated with VIP enrollments.
+Revenue consists of the gross sales price, net of estimated allowances, discounts, and personal rebates that are accounted for as a reduction
+from the gross sale price. In
+the case of product purchased by clinics managed by our subsidiary for inclusion in a treatment protocol, the sales price of the Vivos
+device is recognized by us and becomes a component of cost of sales of the treatment center service provided to the patient. For the
+treatment centers, the intercompany account is used to fulfil the account payable obligation and recognize the expense of the goods and
+services in cost of sales. Cost
+of sales. Cost of goods sold primarily consists of direct costs attributable to the purchase from third party suppliers and related
+products. It also includes freight costs, fulfillment, distribution, and warehousing costs related to products sold. Sales
+and marketing. Sales and marketing costs primarily consist of personnel costs for employees engaged in sales and marketing activities,
+commissions, advertising and marketing costs, website enhancements, and conferences for our sales and marketing staff. General
+and administrative expenses. General and administrative (“ G&A ”) expenses consist primarily of personnel
+costs for our administrative, human resources, finance and accounting employees, and executives. General and administrative expenses
+also include contract labor and consulting costs, travel - related expenses, legal, auditing and other professional fees, rent and
+facilities costs, repairs and maintenance, and general corporate expenses. Depreciation
+and amortization expense. Depreciation and amortization expense is comprised of depreciation expense related to property and
+equipment, amortization expense related to leasehold improvements, and amortization expense related to identifiable intangible assets. 38 Other
+income. Other income relates to the excess warrant fair value and change in fair value of warrant liability. Results
+of Operations Comparison
+of the three months ended March 31, 2026 and 2025 Our
+consolidated statements of operations for the three months ended March 31, 2026 and 2025 are presented below (dollars in thousands): Three Months Ended March 31, 2026 2025 Change Revenue Product revenue $ 1,440 $ 1,813 $ (373 ) Service revenue 3,701 1,203 2,498 Total revenue 5,141 3,016 2,125 Cost of sales (exclusive of depreciation and amortization shown separately below) 2,082 1,507 575 Gross profit 3,059 1,509 1,550 Gross profit % 60 % 50 % 9 % Operating expenses General and administrative 8,971 4,892 4,079 Sales and marketing 249 358 (109 ) Depreciation and amortization 454 177 277 Operating loss (6,615 ) (3,918 ) (2,697 ) Non-operating income (expense) Other expense (1,167 ) (4 ) (1,163 ) Other income 31 58 (27 ) Net loss $ (7,751 ) $ (3,864 ) $ (3,887 ) Net loss attributable to non-controlling interest (69 ) - (69 ) Net loss attributable to stockholders $ (7,682 ) $ (3,864 ) $ (3,818 ) Revenue Revenue
+increased approximately $2.1 million, or 70%, to approximately $5.1 million for the three months ended March 31, 2026 compared to $3.0
+million for the three months ended March 31, 2025. This was due to an increase of approximately $2.0 million in sleep testing services
+and an increase of approximately $0.9 million of revenue generated from Vivos treatment to patients launched at two SCN locations. The
+increase in revenue during the three months ended March 31, 2026 was offset by the decline in product revenue attributable to a decrease
+of approximately $0.9 million in appliance sales to VIPs, offset by an increase of approximately $0.5 million in tooth positioner sales
+to VIPs. Additionally, we had a decrease in service revenue of approximately $0.2 million in our VIP enrollment revenue, a decrease of
+approximately $0.1 million in sponsorship, conference and training related revenue, and a decrease of approximately $0.1 million in Myofunctional
+therapy and BIS revenue. 39 During the three
+months ended March 31, 2026, we enrolled no VIPs and recognized VIP enrollment revenue of $37 thousand, a decrease of approximately 84%
+in enrollment revenue due to the pivot to the new business model, compared to the three months ended March 31, 2025, when we recognized
+approximately $0.2 million. Over the last year, our reliance on VIP enrollment revenue has diminished significantly as such revenues
+have decreased due to the pivot. Our revenue was impacted by the sales strategy shift and focus toward sleep center affiliations, coupled
+with no enrollments in 2025, which resulted in almost no service revenue from VIP enrollments for the three months ended March 31, 2026. For the three months ended March
+31, 2026, we sold 5,304 oral appliance arches and tooth positioners for a total of approximately $1.4 million, a 21% decrease in revenue
+from the three months ended March 31, 2025, when we sold 3,735 oral appliance arches and tooth positioners for a total of approximately
+$1.8 million. The revenue decrease is directly attributable to an increase in discounts offered during the same period, with $0.5 million
+in discounts offered during the three months ended March 31, 2026 compared to approximately $0.2 million offered during the three months
+ended March 31, 2025, coupled with an increase in tooth positioner sales at a lower price point product when compared to Vivos appliances. Cost
+of Sales and Gross Profit Cost
+of sales increased by approximately $0.6 million, or 38%, to approximately $2.1 million for the three months ended March 31, 2026, compared
+to approximately $1.5 million for the three months ended March 31, 2025. This was primarily due to approximately $0.7 million in higher
+costs related to additional staff associated with the sleep center affiliations and an increase of approximately $0.1 million in diagnostic
+services related to new sleep center affiliations. For
+the three months ended March 31, 2026, gross profit increased by approximately $1.5 million or 103% to $3.1 million. This increase was
+attributable to an increase in revenue of approximately $2.1 million, offset by an increase in cost of sales of approximately $0.6 million.
+Gross margin increased to 60% for the three months ended March 31, 2026, when compared to 50% for the three months ended March 31, 2025. General
+and Administrative Expenses General
+and Administrative expenses increased $4.1 million to approximately $9.0 million for the three months ended March 31, 2026, compared
+to approximately $4.9 million for the three months ended March 31, 2025. This increase was primarily due to approximately $1.5 million
+in costs associated with running SCN’s operations. In addition, approximately $0.9 million related to professional fees, approximately
+$1.5 million associated with salaries and wages for Vivos personnel and related Vivos treatment centers and infrastructure costs of approximately
+$0.2 million when compared to the three months ended March 31, 2025. Sales
+and Marketing Sales
+and marketing expense decreased by $0.1 million to $0.2 million for the three months ended March 31, 2026, compared to approximately
+$0.3 million for the three months ended March 31, 2025. This decrease was primarily driven by a $0.1 million decrease in media marketing
+and video production expenses as a result of our strategic pivot which allows us to rely less heavily on sales and marketing compared
+with the legacy VIP model. Depreciation
+and Amortization Depreciation
+and amortization expense was approximately $0.5 million for the three months ended March 31, 2026, compared to approximately $0.2 million
+for the three months ended March 31, 2025. Depreciation and amortization increased due to an increase in depreciable assets related to
+the new sleep center asset acquisition and affiliations. 40 Liquidity
+and Capital Resources The
+financial statements have been prepared in conformity with generally accepted accounting principles, which contemplate continuation of
+the Company as a going concern. We have incurred losses since inception, including $7.7 million and $3.9 million for the three months
+ended March 31, 2026 and 2025, respectively, resulting in an accumulated deficit of approximately $133 million as of March 31, 2026. Net
+cash used in operating activities amounted to approximately $6.0 and $3.8 million for the three months ended March 31, 2026 and 2025,
+respectively. As of March 31, 2026, we had total liabilities of approximately $26.3 million as compared with $26.7 million as of December
+31, 2025. As
+of March 31, 2026, we had approximately $2.1 million in cash and cash equivalents, which will not be sufficient to fund operations and
+strategic objectives over the next twelve months from the date of issuance of these financial statements. As of the date of this Report, we have both near and long term cash requirements
+to operate our business, and without additional financing,
+these factors raise substantial doubt regarding our ability to continue as a going concern. We have implemented cost savings
+measures that have reduced cash used in operations. However, sales did not grow in the 2025 and for the three months ended March 31, 2026
+as much as we had anticipated or in amounts sufficient to cover our expenses, as we continued to integrate SCN into our operations and
+refine and improve our product offerings and distribution strategies. As such, notwithstanding that we have raised equity capital throughout
+the fiscal year ended December 31, 2025 and through the first quarter of 2026, we will be required to obtain additional financing to satisfy
+our business cash needs and bolster our stockholders’ equity for Nasdaq compliance purposes, as management continues to work towards
+increasing revenue to achieve cash flow positive operations in the foreseeable future. In addition, to bolster our stockholders’ equity for Nasdaq compliance
+purposes, we are actively evaluating ways to restructure our senior debt (incurred in 2025 in connection with the SCN acquisition) to
+reduce our debt service obligations and reclassify some of the debt as equity on our balance sheet. Until we attain positive cash
+flow, our management is reviewing all options to obtain additional financing to fund our operations. We financed the SCN acquisition from
+the issuance of senior secured debt and equity securities. As reflected in our increase in revenue for the three months ended March 31,
+2026, we expect the SCN acquisition will ultimately allow our company to achieve positive cash flows; however, there is a risk this may
+not occur. We seek to acquire other sleep centers in transactions similar to the SCN Acquisition or enter into other strategic alliances
+with improved terms. There can be no assurances that adequate additional funding will be available on favorable terms, or at all. If such
+funds are not available in the future, or if alliances or acquisitions do not result in the patient volume, appliance sales and financial
+results within the timeframes we expect, we may be required to delay, significantly modify or terminate some or all of our operations,
+all of which could have a material adverse effect on us and our stockholders. We
+do not have any off-balance sheet arrangements, as defined by applicable regulations of the SEC, that are reasonably likely to have a
+current or future material effect on our financial condition, results of operations, liquidity, capital expenditures or capital resources. Cash
+Flows The
+following table presents a summary of our cash flow for the three months ended March 31, 2026 and 2025 (in thousands): 2026 2025 Net
+    cash provided by (used in): Operating
+    activities $ (6,010 ) $ (3,796 ) Investing
+    activities (18 ) (122 ) Financing
+    activities 6,109 - Net
+cash used in operating activities of approximately $6.0 million for the three months ended March 31, 2026 which represents an increase
+of approximately $2.4 million compared to net cash used in operating activities of approximately $3.8 million for the three months ended
+March 31, 2025. This increase is due primarily to an increase of approximately $3.9 million in our net loss, including $0.5 million in
+fair value of Common Stock issued for services, offset by an increase of approximately $0.6 million in accrued expenses, an increase
+of approximately $0.4 million in contract liabilities, an increase of $0.3 million for depreciation and amortization, and an increase
+of approximately $0.2 million in accounts payable. 41 For
+the three months ended March 31, 2026, net cash used in investing activities consisted of capital expenditures of less than $0.1 million
+for leasehold improvements. This compares to net cash used in investing activities for the three months ended March 31, 2025 of $0.1
+million due to capital expenditures for the development of software for internal use. Net
+cash provided by financing activities of $6.1 million for the three months ended March 31, 2026, is attributable to proceeds of approximately
+$4.6 million from the exercise of warrants, approximately $1.4 million from the issuance of debt, approximately $0.6 million from the
+issuance of warrants, and approximately $0.3 million from the issuance of common stock, net of approximately $0.4 million repayment of
+debt and $0.3 million of professional fees and other issuance costs associated with equity and debt financings. This compares to no cash
+provided by investing financing for the three months ended March 31, 2025. Critical
+Accounting Policies Involving Management Estimates and Assumptions Our
+critical accounting policies and estimates are described in “Management’s Discussion and Analysis of Financial Condition
+and Results of Operations—Critical Accounting Policies and Estimates” in our Annual Report on Form 10-K for the fiscal year
+ended December 31, 2025. We have reviewed and determined that those critical accounting policies and estimates remain our critical accounting
+policies and estimates as of and for the three months ended March 31, 2026. Recent
+Accounting Pronouncements From
+time to time, new accounting pronouncements are issued by the Financial Accounting Standards Board or other standard setting bodies that
+are adopted by us as of the specified effective date. Unless otherwise discussed in Note 1 to the accompanying condensed consolidated
+financial statements included in this Report, we believe that the impact of recently issued standards that are not yet effective could
+have a material impact on our financial position or results of operations upon adoption. For additional information on recently issued
+accounting standards and our plans for adoption of those standards, please refer to the section titled Recent Accounting Pronouncements under Note 1 to the accompanying condensed consolidated financial statements included in this Report. Item
+3. Quantitative and Qualitative Disclosures About Market Risk Not
+applicable to smaller reporting companies. Item
+4. Controls and Procedures. Evaluation
+of Disclosure Controls and Procedures Our
+disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e)) are designed to ensure that information required to
+be disclosed by us in reports we file or submit under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized
+and reported within the appropriate time periods, and that such information is accumulated and communicated to our Chief Executive Officer
+and Chief Financial Officer, as appropriate, to allow timely discussions regarding required disclosure. We, under the supervision of
+and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, have evaluated the effectiveness
+of our disclosure controls and procedures. Based on that evaluation, our Chief Executive Officer and Chief Financial Officer concluded
+that the design and operation of our disclosure controls and procedures were effective as of the end of the period covered by this Report. Changes
+in Internal Control over Financial Reporting We
+made no changes in internal control over financial reporting, as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act, during
+the quarter ended March 31, 2026 that has materially affected, or is reasonably likely to materially affect, our internal control over
+financial reporting. 42 PART
+II – OTHER INFORMATION Item
+1. Legal Proceedings. From
+time to time, we may become involved in various lawsuits and legal proceedings which arise in the ordinary course of business. Below
+is a description of our outstanding pending litigation matters. Litigation is subject to inherent uncertainties and an adverse result
+in the below described or other matters may arise from time to time that may harm our business. On
+June 5, 2020, we filed suit against Ortho-Tain, Inc. (“Ortho-Tain”) in the United States District Court for the District
+of Colorado seeking relief from certain false, threatening, and defamatory statements to our business affiliate, Benco Dental (“Benco”).
+We believed such statements have interfered with our business relationship and contract with Benco, causing harm to our reputation, loss
+of goodwill, and unspecified monetary damages. On February 12, 2021, we amended our complaint to add claims for false advertising and
+unfair business practices, as well as additional variants of the original claims to address Ortho-Tain’s alleged false advertising
+campaign against us in the fall of 2020. Our amended complaint sought permanent injunctive relief to prevent what we believe are defamatory
+statements and interference with our business relationships by Ortho-Tain. On
+July 22, 2020, Ortho-Tain, Inc. filed a complaint in the United States District Court for the Northern District of Illinois against the
+Company, our Chairman and Chief Executive Officer, R. Kirk Huntsman, Benco Dental Supply Co., Dr. Brian Kraft, Dr. Ben Miraglia, and
+Dr. Mark Musso (the “Illinois Ortho-Tain Case”). The complaint in the Illinois Ortho-Tain Case addressed the same events
+as the suit we filed against Ortho-Tain in June 2020 as described above. The complaint in the Illinois Ortho-Tain Case alleged violation
+of the Lanham Act and an alleged civil conspiracy among the defendants to violate the Lanham Act by an alleged false designation of origin
+related to a presentation given by Dr. Brian Kraft at an event sponsored by us and Benco Dental. Ortho-Tain
+also alleged that the actions of the defendants diverted sales from Ortho-Tain, deprived Ortho-Tain of advertising value and resulted
+in a loss of goodwill to Ortho-Tain. Ortho-Tain further alleges two separate breach of contract actions against Dr. Brian Kraft and Mr.
+Huntsman. Ortho-Tain’s allegation of breach of contract against Mr. Huntsman, relates to a Non-Disclosure Agreement entered into
+in October 2013 with Mr. Huntsman’s prior entity, Xenith Practices, LLC, which Non-Disclosure Agreement expired pursuant to its
+terms in October 2016. On
+September 9, 2020, we moved to dismiss the claims against it in the Illinois Ortho-Tain Case. On October 23, 2020, we filed a motion
+requesting, in the alternative, that if the case is not dismissed, it be transferred to the Colorado action described above or stayed.
+On May 14, 2021, the United States District Judge entered an order granting our motion to stay this case pending the outcome of a substantially
+similar, first-filed suit by us is pending in the United States District Court. In light of the stay, the District Court denied, without
+prejudice, our pending motion to dismiss. On March 2, 2023, the District Court lifted the stay. The
+Defendants renewed their motions to dismiss. On August 23, 2024, the District Court of Colorado issued its order partially granting the
+motions to dismiss, including dismissing Defendants Benco Dental Supply Co. and Dr. Mark Musso. Ortho-Tain subsequently sought leave
+to amend its Complaint to try and address the deficiencies identified by the District Court of Colorado in its August 23, 2024 order.
+The Defendants opposed the Motion for Leave to Amend, and, on October 9, 2024, the District Court of Colorado held a hearing to address
+the Motion for Leave to Amend. The District Court of Colorado denied Plaintiff’s Motion for Leave to File an Amended Complaint
+without Prejudice. The
+Parties submitted a Joint Discovery Plan to the District Court on October 21, 2024. On October 22, 2024, the District Court ordered the
+parties to exchange Rule 26(a)(1) initial disclosures by November 22, 2024 and Initial Written Discovery to Be Issued by the same date,
+which the parties completed. The parties continued with discovery and have provided additional status reports to the District Court on
+January 6, 2025, February 24, April 7, May 5, June 11, July 9, August 6, 2025, August 26, 2025, and September 16, 2025. On October 23,
+2025, the parties attended a mediation in an effort to resolve their disputes and agreed upon principal terms of a confidential settlement. 43 On
+March 13, 2026, we entered into a confidential joint settlement and release agreement (the “Settlement Agreement”) with Ortho-Tain. The
+Settlement Agreement resolved any claim for relief that was, or could have been alleged in the foregoing litigation matters. Pursuant
+to the Settlement Agreement, we will pay Ortho-Tain a confidential sum and, among other considerations, not make use of the phrase “Guide”
+or “Guides” in the formal product name of any of our oral appliance products and cease direct solicitation and training of
+independent dental professionals in the use of any Vivos pre-formed tooth positioner products that are competitive with Ortho-Tain. Item
+1A. Risk Factors Not
+applicable to smaller reporting companies. Item
+2. Unregistered Sales of Equity Securities and Use of Proceeds None. Item
+3. Default Upon Senior Securities None. Item
+4. Mine Safety Disclosures Not
+applicable. Item
+5. Other Information None. Item
+6. Exhibits, Financial Statement Schedules. The
+following documents are filed as exhibits to this Quarterly Report on Form 10-Q. Exhibit
+    No. Exhibit
+    Description 3.1 Certificate
+    of Incorporation of Vivos Therapeutics, Inc. filed with Delaware Secretary of State on August 12, 2020. (1) 3.2 Amended
+    and Restated Bylaws of Vivos Therapeutics, Inc. (1) 3.3 Certificate
+    of Conversion filed with Delaware Secretary of State on August 12, 2020. (1) 3.4 Certificate of Amendment to the Certificate of Incorporation of Vivos Therapeutics, Inc., dated October 25, 2023. (2) 31.1 Certification of the Chief Executive Officer pursuant to Rule 13a-14(a) under the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. (*) 31.2 Certification of the Chief Financial Officer pursuant to Rule 13a-14(a) under the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. (*) 32.1 Certification of the Chief Executive Officer pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. (*)# 32.2 Certification of the Chief Financial Officer pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. (*)# 101.INS* Inline
+    XBRL Instance Document 101.SCH* Inline
+    XBRL Taxonomy Extension Schema Document 101.CAL* Inline
+    XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF* Inline
+    XBRL Taxonomy Extension Definition Linkbase Document 101.LAB* Inline
+    XBRL Taxonomy Extension Label Linkbase Document 101.PRE* Inline
+    XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover
+    Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). * Filed
+    herewith (1) Incorporated
+    by reference to the Company’s Registration Statement on Form S-1, filed with the SEC on October 9, 2020. (2) Incorporated
+    by reference to the Company’s Current Report on Form 8-K, filed with the SEC on October 27, 2023. # A
+    signed original of this written statement required by Section 906 has been provided to the Company and will be retained by the Company
+    and furnished to the Securities and Exchange Commission or its staff upon request. 44 SIGNATURES Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized. Vivos
+    Therapeutics, Inc. Date:
+    May 20, 2026 By: /s/
+    R. Kirk Huntsman R.
+    Kirk Huntsman Chairman
+    of the Board and Chief Executive Officer (principal
+    executive officer) Date:
+    May 20, 2026 By: /s/
+    Bradford Amman Bradford
+    Amman Chief
+    Financial Officer and Secretary (principal
+    accounting officer) 45

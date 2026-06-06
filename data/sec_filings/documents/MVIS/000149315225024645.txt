@@ -1,0 +1,61 @@
+false 0000065770 0000065770 2025-11-17 2025-11-17 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 8-K CURRENT
+REPORT PURSUANT
+TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934 DATE
+OF REPORT (DATE OF EARLIEST EVENT REPORTED) November 17, 2025 MicroVision,
+Inc. (Exact
+name of registrant as specified in its charter) Delaware 001-34170 91-1600822 (State
+    or other jurisdiction of
+    incorporation) (Commission File
+    Number) (I.R.S.
+    Employer Identification
+    No.) 18390
+NE 68 th Street Redmond , Washington 98052 (Address
+of principal executive offices) (Zip code) (425) 936-6847 (Registrant’s
+telephone number, including area code) Not
+Applicable (Former
+name or former address if changed since last report) Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions: ☐ Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities
+registered pursuant to Section 12(b) of the Act: Title
+    of each class Trading
+    symbol(s) Name
+    of each exchange on which registered Common
+    stock, par value $0.001 per share MVIS The
+    NASDAQ Stock Market Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging
+growth company ☐ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Item
+5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of
+Certain Officers. On
+November 17, 2025, Anubhav Verma, the Chief Financial Officer of MicroVision, Inc. (the “Company”), resigned from his position
+with the Company, effective no later than December 31, 2025 (the “Effective Date”). Mr. Verma’s resignation from the
+Company was not the result of any disagreement with the Company on any matter relating to its financial statements, internal control
+over financial reporting, operations, policies, or practices. In
+connection with Mr. Verma’s departure, the Company’s Board of Directors (the “Board”) appointed Stephen Hrynewich,
+currently the Company’s Vice President, Global Finance & Operations, to serve as Interim Chief Financial Officer as of the
+Effective Date. Mr.
+Hrynewich, age 59, has served as the Company’s Vice President, Global Finance & Operations since August 2023. Prior to that,
+starting 2021, Mr. Hrynewich served as Director, Corporate Finance at Lucid Group, Inc., with previous finance roles at Republic Services
+from 2018 to 2020, as well as several automotive OEMs, including General Motors, Nissan North America, Mazda Motor Corporation, and Ford
+Motor Company. The
+Board also designated Mr. Hrynewich as the Company’s principal financial officer and principal accounting officer, effective as
+of the Effective Date. There are no family relationships between Mr. Hrynewich and any director or executive officer of the Company and
+he has no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K. The
+Company has initiated a search to identify a permanent Chief Financial Officer. SIGNATURE Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. MICROVISION,
+    INC. By: /s/
+    Drew G. Markham Drew
+    G. Markham Senior
+    Vice President, General Counsel and Secretary Dated:
+November 21, 2025

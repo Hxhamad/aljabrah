@@ -1,0 +1,97 @@
+false 0001716166 0001716166 2026-04-03 2026-04-03 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 8-K CURRENT
+REPORT Pursuant
+to Section 13 OR 15(d) of the Securities
+Exchange Act of 1934 Date
+of Report (Date of earliest event reported): April 3, 2026 (March 31, 2026) Vivos
+Therapeutics, Inc. (Exact
+name of registrant as specified in its charter) Delaware 001-39796 81-3224056 (State
+    or other jurisdiction (Commission (I.R.S.
+    Employer of
+    incorporation) File
+    Number) Identification
+    No.) 7921
+Southpark Plaza , Suite 210 Littleton , Colorado 80120 (Address
+of principal executive offices) (Zip Code) (866) 908-4867 (Registrant’s
+telephone number, including area code) N/A (Former
+name or former address, if changed since last report) Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions: ☐ Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities
+registered pursuant to Section 12(b) of the Act: Title
+    of each class Trading
+    Symbol(s) Name
+    of each exchange on which registered Common
+    Stock, par value $0.0001 per share VVOS The
+    NASDAQ Stock Market LLC Indicate
+by check mark whether the registrant is an emerging growth company as defined in as defined in Rule 405 of the Securities Act of 1933
+(§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging
+growth company ☐ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Item
+1.01 Entry into a Material Definitive Agreement. On
+March 31, 2026, Vivos Therapeutics, Inc., a Delaware corporation (the “ Company ”) entered into a Securities Purchase
+Agreement (the “ PIPE SPA ”) with V-Co Investors 3 LLC, a Wyoming limited liability company (“ V-Co 3 ”).
+V-Co 3 is an affiliate of New Seneca Partners Inc., a Michigan corporation (“ Seneca ”), a leading independent private
+equity firm and an existing sponsor of significant private investment in the Company. Pursuant
+to the PIPE SPA, the Company sold to V-Co 3 in a private placement offering (the “ PIPE Offering ”): (i) 1,353,625 shares
+(the “ PIPE Shares ”) of Common Stock, (ii) a pre-funded warrant to purchase 429,957 shares of Common Stock (the “ Pre-Funded
+Warrant ”, with the shares of Common Stock underlying the Pre-Funded Warrant being referred to as the “ PFW Shares ”),
+(iii) a Series A Common Stock Purchase Warrant (the “ Series A Warrant ”) to purchase up to 1,783,582 shares of Common
+Stock and (iv) a Series B Common Stock Purchase Warrant to purchase up to 1,783,582 shares of Common Stock (the “ Series B Warrant ”,
+and together with the Series A Warrant, the “ Common Stock Purchase Warrants” , and together with the Pre-Funded Warrant,
+the “ Warrants ”, and with the shares of Common Stock underlying the Common Stock Purchase Warrants being referred to
+as the “ Warrant Shares ”). V-Co
+3 paid a purchase price of $1.34 for each PIPE Share and Pre-Funded Warrant Share and associated Common Stock Purchase Warrants, with
+such price being established for purposes of compliance with the listing rules of the Nasdaq Stock Market LLC. The PIPE Offering closed
+on March 31, 2026. The Company received $850,000 in cash proceeds upon the closing of the PIPE Offering. Additionally, $1,400,000 previously
+funded by V-Co 3 under a previously reported bridge promissory note entered into by the Company and V-Co 3 on January 15, 2026 (the “ Bridge
+Note ”) automatically converted into the PIPE Offering. The gross proceeds funded under the Bridge Note exclude an original
+issue discount of $140,000 paid by the Company in connection with previous funding under the Bridge Note. The Company
+intends to use the net proceeds from the PIPE Offering for general working capital purposes. No placement agent was used in connection
+with the PIPE Offering. Both
+Common Stock Purchase Warrants have an exercise price of $1.09 per share and became exercisable immediately as of the date of issuance.
+The Common Stock Purchase Warrants are identical to each other, other than their dates of expiration (the Series A Warrant has a term
+of two years and the Series B Warrant has a term of five years). The Pre-Funded Warrant has a term ending on the complete exercise of
+the Pre-Funded Warrant, an exercise price of $0.0001 per share and became exercisable immediately as of the date of issuance. The Warrants
+also contain customary stock-based (but not price-based) anti-dilution protection as well as beneficial ownership limitations preventing
+Seneca or its affiliates from exercising Warrants if such exercise would result in Seneca or its affiliates from owning in excess of
+19.99% of the then outstanding Common Stock. The
+terms of the PIPE SPA require the Company to file a registration statement on Form S-3 or other appropriate form (the “ Resale
+Registration Statement ”) registering the PIPE Shares, the PFW Shares and the Warrant Shares (collectively, the “ Registerable
+Securities ”) for resale no later than 45 days of the closing of the PIPE Offering and to use commercially reasonable best efforts
+to cause the Resale Registration Statement to be effective within 90 days of the closing of the PIPE Offering. The Company must also
+use its commercially reasonable efforts to keep the Resale Registration Statement continuously effective (including by filing a post-effective
+amendment to the Resale Registration Statement or a new registration statement if the Resale Registration Statement expires) for a period
+of three (3) years after the date of effectiveness of the Resale Registration Statement or for such shorter period as such securities
+no longer constitute Registrable Securities, subject to certain limitations specified in the PIPE SPA. The
+PIPE SPA further provides that the Company shall pay V-Co 3 in the amount equal to $50,000 for the fees and expenses of V-Co 3’s
+counsel incurred in connection with the PIPE Offering. The PIPE SPA also includes standard representations, warranties, indemnifications,
+and covenants of the Company and V-Co 3. The
+foregoing descriptions of the Pre-Funded Warrant, Series A Warrant, Series B Warrant and
+the PIPE SPA are not complete and are subject to and qualified in their entirety by reference to the full text of the forms of such documents,
+which are filed as Exhibits 4.1, 4.2, 4.3, and 10.1 hereto, respectively, and incorporated herein by reference. Item
+3.02 Unregistered Sales of Equity Securities. The
+information contained above under Item 1.01, to the extent applicable, is hereby incorporated by reference herein. Based in part upon
+the representations of V-Co 3, the offer and sale of the PIPE Shares and the Warrants was made in a private placement transaction exempt
+for registration in reliance on the exemption afforded by Section 4(a)(2) of the Securities Act and corresponding provisions of state
+securities or “blue sky” laws. The
+PIPE Shares and Warrants have not been registered under the Securities Act or any state securities laws and may not be offered or sold
+in the United States absent registration with the Securities & Exchange Commission or an applicable exemption from the registration
+requirements. Item
+9.01. Financial Statements and Exhibits. (d)
+Exhibits Exhibit
+    No. Description 4.1 Pre-Funded Warrant, dated March 31, 2026 by and between the Company and V-Co 3. 4.2 Series A Common Stock Purchase Warrant, dated March 31, 2026, by and between the Company and V-Co 3. 4.3 Series B Common Stock Purchase Warrant, dated March 31, 2026, by and between the Company and V-Co 3. 10.1 Securities Purchase Agreement, dated March 31, 2026, by and between the Company and V-Co 3. 104 Cover
+    Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURE Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. VIVOS
+    THERAPEUTICS, INC. Dated:
+    April 3, 2026 By: /s/
+    Bradford Amman Name: Bradford
+    Amman Title: Chief
+    Financial Officer

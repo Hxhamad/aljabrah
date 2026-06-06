@@ -1,0 +1,31 @@
+false 0001817760 0001817760 2026-04-13 2026-04-13 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, DC 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934 Date of Report (Date of earliest event reported): April 13, 2026 SmartKem, Inc. (Exact name of registrant as specified in its
+charter) Delaware 001-42115 85-1083654 (State or other jurisdiction of incorporation) (Commission File Number) (IRS Employer Identification No.) Manchester
+Technology Center, Hexagon Tower Delaunays
+Road , Blackley Manchester , M9 8GQ U.K. (Address of principal executive offices, including
+zip code) 011-44-161 - 721-1514 (Registrant’s telephone number, including
+area code) N/A (Former name or former address, if changed since
+last report) Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: ¨ Written communications pursuant
+    to Rule 425 under the Securities Act (17 CFR 230.425) ¨ Soliciting material pursuant
+    to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ¨ Pre-commencement communications
+    pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement communications
+    pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to
+Section 12(b) of the Act: Title
+    of each class Trading
+    Symbol(s) Name
+    of exchange on which registered Common
+    Stock, par value $0.0001 per share SMTK The Nasdaq Stock
+    Market LLC Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b - 2 of
+the Securities Exchange Act of 1934 (§240.12b - 2 of this chapter). Emerging
+growth company x If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ Item 5.02. Departure of
+Directors or Principal Officers; Election of Directors; Appointment of Principal Officers. On
+April 10, 2026, SmartKem, Inc. (the “ Company ”) accepted the voluntary resignation of Simon Ogier as the Chief Technology
+Officer of SmartKem Ltd., a subsidiary of the Company, effective April 13, 2026. His resignation is not the result of any dispute
+or disagreement with the Company on any matters relating to the Company’s financial statements, internal controls, operations,
+policies, or practices. Signature Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. SMARTKEM, INC. Dated: April 17, 2026 By: /s/ Barbra
+    C. Keck Barbra C. Keck Chief Financial Officer

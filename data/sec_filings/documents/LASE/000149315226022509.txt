@@ -1,0 +1,79 @@
+false 0001807887 0001807887 2026-05-07 2026-05-07 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 8-K CURRENT
+REPORT Pursuant
+to Section 13 OR 15(d) of The Securities Exchange Act of 1934 Date
+of Report (Date of earliest event reported): May 7, 2026 Laser
+Photonics Corporation (Exact
+name of registrant as specified in its charter) Delaware 001-41515 84-3628771 (State
+    of other jurisdiction (Commission (IRS
+    Employer of
+    incorporation) File
+    Number) Identification
+    No.) 250
+    Technology Park Lake
+    Mary , FL 32746 (Address
+    of principal executive offices) (Zip
+    Code) Registrant’s
+telephone number, including area code: (407) 804-1000 Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (see General Instruction A.2. below): ☐ Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities
+registered pursuant to Section 12(b) of the Act: Title
+    of each class Trading
+    Symbol Name
+    of exchange on which registered Common
+    Stock, par value $0.001 per share LASE The
+    NASDAQ Stock Market LLC Emerging
+growth company ☒ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☒ Item
+5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of
+Certain Officers On
+May 7, 2026, the registrant (“Laser Photonics” or the “Company”) appointed Roman Franklin to serve as its Chief
+Financial Officer and Principal Financial Officer under the terms of a Master Services Agreement (the “MSA”) between the
+Company and The CFO Portal, LLC, a Florida limited liability company specializing in fractional Chief Financial Officer services for
+microcap public companies and private companies preparing for public markets (the “MSA”). Mr. Franklin is the founder and
+Chief Executive Officer of The CFO Portal, LLC, which he founded in 2025. Under
+the terms of the MSA, Mr. Franklin is engaged to serve as the Company’s Chief Financial Officer and the Principal Financial Officer
+(the “Services”) for an initial six month term that automatically renews on a month-to-month basis unless either party provides
+a written notice of non-renewal 30 days prior to the end of the then-current term. Either party can terminate the MSA following 30 days
+prior notice or for cause. The MSA allows for conversion by the Company of Mr. Franklin to a full-time CFO upon terms to be mutually
+agreed to by both parties. Mr. Franklin will receive a fixed monthly retainer of $22,500 per month for the Services, but services outside
+the scope of the statement of work, including (without limitation) capital raise documentation, S-1/S-3/Reg A+/PIPE filings, M&A
+diligence and integration, restatement support and SEC enforcement response, will be quoted and invoiced separately on a fixed-fee basis.
+The foregoing description of the MSA does not purport to be complete and is qualified in its entirety by reference to the full text of
+the MSA that is attached as Exhibit 10.1 hereto and is incorporated herein by reference. Mr.
+Franklin, age 42, has more than 20 years of experience in finance and operations leadership in several public and private companies.
+Since September 2025, Mr. Franklin has served as Chief Executive Officer of The CFO Portal, LLC, where he leads engagements covering
+SEC reporting (Forms 10-K, 10-Q, and 8-K), material weakness remediation, SEC comment letter response, audit management and capital markets
+readiness, including S-1 preparation, Regulation A+ offerings, and reverse merger integration. Concurrently, since January 2024, Mr.
+Franklin has served as Chief Financial Officer of the Diocese of Central Florida, a religious non-profit corporation, where he leads
+a team overseeing accounting, financial reporting and employee benefits administration, and where he is responsible for the management
+of more than $100 million in trust, endowment and real estate assets. From September 2017 to November 2023, Mr. Franklin served as President,
+Chief Financial Officer and a member of the Board of Directors of Simplicity Esports and Gaming Company (OTCIQ:WINR), an experiential
+entertainment company with retail gaming center locations in 16 states, where he primarily supported the company’s acquisition
+program, capital markets activities and franchise growth. From January 2004 to September 2017, Mr. Franklin served as President, Chief
+Financial Officer, and Chief Compliance Officer of Franklin Financial Planning, a fee-only registered investment advisory firm he founded
+and ultimately exited in 2017. Mr.
+Franklin holds a Master of Business Administration in Finance and Management from Stetson University (2011) and a Bachelor of Science
+in Professional Studies, with concentrations in Management and Finance, from Barry University (2005). He has been quoted in financial
+publications including Bloomberg Businessweek, The Wall Street Journal, Barron’s, and InvestmentNews on financial planning and
+investment topics. Other than his service as a director of Simplicity Esports and Gaming Company, which concluded in 2023, Mr. Franklin
+does not currently serve, and has not during the past five years served, on the board of directors of any other public company. Item
+7.01 Regulation FD Disclosures. Laser
+Photonics issued a press release on May 12, 2026, regarding the appointment of Mr. Franklin as Chief Financial Officer and Principal
+Financial Officer, a copy of which is attached hereto and incorporated herein as Exhibit 99.1. Item
+9.01 Financial Statements and Exhibits. Exhibits 10.1 Master Services Agreement dated May 7, 2026, between Laser Photonics Corporation and Roman Franklin 99.1 Press Release Issued by Laser Photonics Corporation dated May 12, 2026. 104 Cover
+    Page Interactive Data File (embedded within the Inline XBRL document) - 2 - SIGNATURES Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized. Date: May
+12, 2026 Laser
+    Photonics Corporation By: /s/
+    Wayne Tupuola Wayne
+    Tupuola President
+    and CEO - 3 -

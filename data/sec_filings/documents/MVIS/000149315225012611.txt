@@ -1,0 +1,98 @@
+false 0000065770 0000065770 2025-09-02 2025-09-02 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 8-K CURRENT
+REPORT PURSUANT
+TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934 DATE
+OF REPORT (DATE OF EARLIEST EVENT REPORTED) September 2, 2025 MicroVision,
+Inc. (Exact
+name of registrant as specified in its charter) Delaware 001-34170 91-1600822 (State
+    or other jurisdiction of
+    incorporation) (Commission File
+    Number) (I.R.S.
+    Employer Identification
+    No.) 18390
+NE 68 th Street Redmond , Washington 98052 (Address
+of principal executive offices) (Zip code) (425) 936-6847 (Registrant’s
+telephone number, including area code) Not
+Applicable (Former
+name or former address if changed since last report) Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions: ☐ Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities
+registered pursuant to Section 12(b) of the Act: Title
+    of each class Trading
+    symbol(s) Name
+    of each exchange on which registered Common
+    stock, par value $0.001 per share MVIS The
+    NASDAQ Stock Market Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging
+growth company ☐ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Item
+5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of
+Certain Officers. Chief
+Executive Officer Transition On
+September 2, 2025, the Board of Directors (the “Board”) of MicroVision, Inc. (the “Company”) appointed Glen W.
+DeVos, the Company’s current Chief Technology Officer, to be the Company’s President and Chief Executive Officer and a member
+of the Company’s Board as of September 30, 2025 (the “Effective Date”), taking the place of the Company’s current
+President and Chief Executive Officer, Sumit Sharma, who will continue to serve in that role until the Effective Date. In
+connection with his appointment as President and Chief Executive Officer, the Company and Mr. DeVos have entered an employment agreement
+(the “2025 CEO Agreement”). T he 2025 CEO Agreement includes the following terms and
+conditions: (i) Mr. DeVos’s base salary will be $530,000 per annum, as may be adjusted from time to time at the discretion
+of the Board; (ii) Mr. DeVos will be eligible for short-term incentive compensation, including equity compensation, which will be determined
+at the discretion of the Board; (iii) Mr. DeVos will participate in the Company’s Key Executive Severance and Change in Control
+Plan at the highest benefit levels previously disclosed in the Company’s Form 8-K filed June 10, 2024; and (iv) Mr. DeVos will
+participate in the benefits and programs generally available to other employees of the Company, including expense reimbursement, retirement,
+insurance and vacation. As
+of the Effective Date, and pursuant to the terms of the 2025 CEO Agreement, the Board approved a short-term incentive bonus opportunity
+of 100% of Mr. DeVos’ base salary tied to achievement of certain company financial, team and individual business objectives pursuant
+to the terms of the 2025 Executive Bonus Plan for Mr. DeVos. Additionally, on the Effective
+Date, Mr. DeVos will receive a grant of 539,000 RSUs to account for the difference between the grant for his new role as Chief Executive
+Officer and his former role as Chief Technology Officer. These RSUs will vest on June 6, 2026, only upon satisfactory achievement of
+specified company financial objectives and individual business objectives. In 2026, the Board, in its discretion, expects to determine
+a long-term incentive equity structure for Mr. DeVos. There
+are no family relationships between Mr. DeVos and any Company director or executive officer, and there are no arrangements or understandings
+between Mr. DeVos and any other person pursuant to which he was appointed as Chief Executive Officer. Mr. DeVos is not a party to any
+current or proposed transaction with the Company for which disclosure is required under Item 404(a) of Regulation S-K. Mr.
+Sharma’s removal as President and Chief Executive Officer as of the Effective Date constitutes an “involuntary termination”
+for purposes of the Company’s Executive Severance and Change in Control Plan. Accordingly, subject to execution of a customary
+release, Mr. Sharma will receive the severance benefits to which he is entitled under such plan. In
+connection with this transition, on September 2, 2025, Mr. Sharma resigned from the Board, effective as of the Effective Date. Mr. Sharma’s
+resignation from the Board was not due to any disagreement with the Company on any matter relating to the Company’s operations,
+policies or practices. For
+additional details on the Key Executive Severance and Change in Control Plan, please refer to the disclosure in the Company’s Form
+8-K filed June 10, 2024. For additional details on the 2025 Executive Bonus Plan, please refer to the disclosure in the Company’s
+Form 8-K filed June 6, 2025. Appointment
+of Executive Vice Chair On
+September 2, 2025, the Board appointed Simon Biddiscombe, who currently serves as an independent director on the Board, to be the Company’s
+Executive Vice Chair as of the Effective Date to serve as a resource to Mr. DeVos, at the request of Mr. DeVos, for a temporary period
+of no more than twelve months. In
+connection with his role as Executive Vice Chair, Mr. Biddiscombe will receive the following compensation: (i) a cash salary of $265,000
+per annum, (ii) a sign-on equity award in the form of 241,000 RSUs, scheduled to vest in full on October 1, 2026, subject to Mr. Biddiscombe’s
+continuing provision of services to the Company at such date (whether as Executive Vice Chair, as an independent director, or otherwise),
+and (iii) full eligibility for Company benefits as a 50%-time or greater employee. During
+the period that he serves as Executive Vice Chair, Mr. Biddiscombe will not be deemed an “independent director” pursuant
+to Nasdaq rules. Accordingly, for so long as he is serving as Executive Vice Chair, Mr. Biddiscombe will not serve as Chair of the Audit
+Committee and will not be a member of the Audit Committee or the Compensation Committee. The Board has appointed Robert Carlile, the
+Company’s Board Chair and a designated Audit Committee Financial Expert, to be Audit Committee Chair as of the Effective Date. Item
+7.01. Regulation FD Disclosure. A
+copy of the press release relating to the above matters is attached as Exhibit 99.1 and is incorporated herein by reference. The information
+in Exhibit 99.1 is being furnished and will not be deemed “filed” for the purposes of Section 18 of the Securities Exchange
+Act of 1934, as amended, or otherwise subject to the liabilities of that Section. Item
+9.01. Financial Statements and Exhibits. (c)
+Exhibits. Exhibit
+    No. Description 99.1 Press Release of MicroVision, Inc., dated September 4, 2025 104 Cover
+    Page Interactive File (the cover page tags are embedded within the Inline XBRL document) SIGNATURE Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. MICROVISION,
+    INC. By: /s/
+    Drew G. Markham Drew
+    G. Markham Senior
+    Vice President, General Counsel and Secretary Dated:
+September 4, 2025

@@ -1,0 +1,63 @@
+false 0000065770 0000065770 2026-02-03 2026-02-03 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 8-K CURRENT
+REPORT PURSUANT
+TO SECTION 13 OR 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934 DATE
+OF REPORT (DATE OF EARLIEST EVENT REPORTED): February 3, 2026 MicroVision,
+Inc. (Exact
+name of registrant as specified in its charter) Delaware 001-34170 91-1600822 (State
+                                            or other jurisdiction of
+    incorporation) (Commission File
+    Number) (I.R.S.
+                                            Employer Identification
+    No.) 18390
+NE 68th Street Redmond , Washington 98052 (Address
+of principal executive offices) (Zip code) (425) 936-6847 Registrant’s
+telephone number, including area code Not
+Applicable (Former
+name or former address if changed since last report) Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions: ☐ Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities
+registered pursuant to Section 12(b) of the Act: Title
+    of each class Trading symbol(s) Name
+                                            of each exchange on which registered Common
+    stock, par value $0.001 per share MVIS The
+    NASDAQ Stock Market Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging
+growth company ☐ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Item
+2.01. Completion of Acquisition of Assets. As
+previously disclosed in our Current Report on Form 8-K filed on January 30, 2026 with the U.S. Securities and Exchange Commission (the
+“SEC”), MicroVision, Inc. (“MicroVision” or the “Company”) entered into an Asset Purchase Agreement
+(the “Asset Purchase Agreement”) with Luminar Technologies, Inc. (“Luminar”), pursuant to which MicroVision agreed
+to acquire from Luminar certain assets related to Luminar’s lidar sensor business (the “Acquisition”). On
+February 3, 2026, pursuant to the terms of the Asset Purchase Agreement, the Acquisition was consummated and closing of the Acquisition
+(the “Closing”) occurred. Pursuant to the terms and subject to the conditions set forth in the Asset Purchase Agreement,
+at the Closing, MicroVision paid to Luminar $33,000,000 (the “Purchase Price”). MicroVision funded the Purchase Price with
+cash on hand. Item
+9.01. Financial Statements and Exhibits. (a)
+Financial Statements of Businesses or Funds Acquired. To
+the extent required, financial statements required by this item will be filed by amendment to this Current Report on Form 8-K no later
+than 71 calendar days after the date on which this Current Report on Form 8-K is required to be filed. (b)
+Pro Forma Financial Information. To
+the extent required, pro forma financial information required by this item will be filed by amendment to this Current Report on Form
+8-K no later than 71 calendar days after the date on which this Current Report on Form 8-K is required to be filed. (c)
+Shell Company Transactions. Not
+applicable. (d)
+Exhibits. Exhibit No. Description 104 Cover
+    Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURE Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. MICROVISION,
+    INC. By: /s/
+                                            Drew G. Markham Drew
+    G. Markham Senior
+    Vice President, General Counsel and Secretary Dated:
+February 3, 2026

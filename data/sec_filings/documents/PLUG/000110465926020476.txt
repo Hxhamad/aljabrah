@@ -1,0 +1,43 @@
+false 0001093691 0001093691 2026-02-24 2026-02-24 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): February 24, 2026 Plug Power Inc. (Exact name of registrant as specified in its
+charter) Delaware 1-34392 22-3672377 (State
+    or other jurisdiction (Commission
+    File (IRS
+    Employer of
+    incorporation) Number) Identification
+    No.) 125 Vista Boulevard , Slingerlands , New York 12159 (Address
+    of principal executive offices) (Zip
+    Code) ( 518 ) 782-7700 Registrant’s telephone number, including
+area code: N/A (Former name or former address, if changed
+since last report.) Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General
+Instruction A.2. below): ¨ Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425) ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12) ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under
+the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to 12(b) of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered Common
+    Stock, par value $0.01 per share PLUG The Nasdaq Capital
+    Market Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§ 240.12b-2 of this chapter). Emerging growth
+company ¨ If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ Item 1.01 Entry Into a Material Definitive Agreement. On February 24, 2026, Plug Power Inc., a Delaware corporation,
+and its wholly owned subsidiary, Plug Project Holding Co., LLC, a Delaware limited liability company (together with Plug Power Inc., the
+“Company”), entered into a Purchase and Sale Agreement and Joint Escrow Instructions (the “Agreement”) with Stream
+US Data Centers, LLC, a Texas limited liability company (“Purchaser”), pursuant to which the Company agreed to sell to Purchaser
+certain real property and related assets located in the Town of Alabama, Genesee County, New York (the “Property”). The Company will be entitled to receive a purchase price ranging between
+$132.5 million and $142.0 million, depending on the timing of closing and the removal status of certain hydrogen storage spheres located
+on the Property. The closing must occur no later than June 30, 2026, subject to the terms and conditions of the Agreement. The obligations of the parties to consummate the transaction are subject
+to certain closing conditions, including delivery of insurable title, assignment of specified agreements and permits, assignment and transfer
+of substation assets to the Genesee County Economic Development Center, receipt of certain governmental approvals, satisfaction of environmental
+review requirements, and entry into a binding lease by the Purchaser with a tenant for the Property. If the closing has not occurred on or before June 30, 2026, either
+party may terminate the Agreement. The Agreement contains customary representations, warranties, covenants, termination rights and remedies,
+including liquidated damages provisions in favor of the Company in the event of certain defaults by the Purchaser. The foregoing description of the Agreement does not purport to be complete
+and is qualified in its entirety by reference to the full text of the Agreement, which is filed as Exhibit 10.1 to this Current Report
+on Form 8-K and incorporated herein by reference. Item 8.01. Other Events. On February 26, 2026, the Company issued a press release announcing
+the Agreement. A copy of the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibit Number Description 10.1†* Purchase and Sale Agreement and Joint Escrow Instructions, dated as of February 24, 2026, by and among Plug Power Inc., Plug Project Holdings Co., LLC and Stream US Data Centers, LLC. 99.1 Press Release of Plug Power Inc., dated February 26, 2026. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). † Certain of the exhibits and schedules to this Exhibit
+have been omitted in accordance with Regulation S-K Item 601(a)(5). The Registrant agrees to furnish a copy of all omitted exhibits
+and schedules to the SEC upon its request. * Certain portions of this Exhibit have been omitted pursuant to Item 601(b)(10)(iv) of Regulation S-K. The Company agrees to furnish supplementally a
+copy of any omitted schedule or exhibit to the Securities and Exchange Commission upon request. SIGNATURE Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Plug Power Inc. Date: February 26, 2026 By: /s/ Paul Middleton Name: Paul Middleton Title: Chief Financial Officer

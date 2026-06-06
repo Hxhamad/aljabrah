@@ -1,0 +1,54 @@
+false 0001093691 0001093691 2025-12-30 2025-12-30 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND
+EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934 Date of Report (Date of earliest event
+reported): December 30, 2025 Plug Power Inc. (Exact name of registrant as specified in its
+charter) Delaware 1-34392 22-3672377 (State
+    or other jurisdiction (Commission
+    File (IRS
+    Employer of
+    incorporation) Number) Identification
+    No.) 125 Vista Boulevard , Slingerlands , New York 12159 (Address
+    of principal executive offices) (Zip
+    Code) Registrant’s telephone number,
+including area code: ( 518 ) 782-7700 N/A (Former name or former address, if changed since
+last report.) Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General
+Instruction A.2. below): ¨ Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425) ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12) ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under
+the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to 12(b) of the Act: Title of each class Trading
+    Symbol(s) Name of each exchange
+on which registered Common
+    Stock, par value $0.01 per share PLUG The Nasdaq Capital
+    Market Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§ 240.12b-2 of this chapter). Emerging growth
+company ¨ If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ Item 1.01 Entry into a Material Definitive Agreement On December 30, 2025 (the “Effective Date”), Plug
+Power Inc. (the “Company”) entered into a Release Event License Agreement (the “License Agreement”) with Walmart
+Inc. (“Walmart”) pursuant to which, upon the occurrence of certain specified events (each, a “Release Event”),
+the Company has agreed to grant Walmart a contingent, limited-use license to access and use certain escrowed GenKey System-related materials.
+The Company will retain all intellectual property rights in and to the escrowed materials and GenKey System, and Walmart may only use
+the escrowed materials for internal GenKey System maintenance purposes at its facilities solely upon a Release Event. Pursuant to the License Agreement, the Company will place certain software,
+documentation, and related materials associated with the GenKey system into escrow for Walmart’s benefit. The License Agreement
+also establishes a framework under which the Company will use commercially reasonable efforts to identify and qualify alternative stack
+suppliers, and under limited circumstances provides Walmart with conditional rights related to stack sourcing, subject to restrictions.
+Walmart will be entitled to certain compensation from the Company for costs incurred by Walmart to sustain industrial truck operational
+capabilities under certain circumstances. Walmart will pay the Company a one-time initial license fee upon confirmation
+of the escrow deposit and an annual license fee in the absence of a Release Event. In the event of a Release Event, Walmart will pay the
+Company an increased annual license fee plus an additional increased one-time fee. The License Agreement includes mutual indemnification and limitation
+of liability provisions. Pursuant to the License Agreement, Walmart irrevocably agreed to terminate
+the Transaction Agreement, dated July 20, 2017, between the Company and Walmart, pursuant to which the Company had issued to Walmart
+a warrant to purchase up to 55,286,696 shares of the Company's common stock (the "Warrant"), and to forfeit all vested portions
+of the Warrant. The unvested portions of the Warrant were cancelled and accordingly, no shares of common stock will become issuable by
+the Company in connection with the Warrant, eliminating potential future dilution of up to 42,192,479 shares of the Company’s common
+stock. As of the Effective Date,  34,554,185 shares subject to the Warrant had vested and  7,638,294 shares remained unvested. The License Agreement shall commence on the Effective Date and will
+continue for 15 years unless earlier terminated by the Company or Walmart. Either party may terminate the License Agreement upon certain
+material uncured breaches that remain uncured for 60 days after written notice. The foregoing description of the License Agreement does not purport
+to be complete and is qualified in its entirety by reference to the full text of the License Agreement, which is filed as Exhibit 10.1
+to this Current Report on Form 8-K and incorporated herein by reference. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibit Number Description 10.1* Release Event License Agreement, dated as of December 30, 2025, by and between Plug Power Inc. and Walmart Inc. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). * Certain portions of the License Agreement have been omitted pursuant
+to Item 601(b)(10)(iv) of Regulation S-K. The Company agrees to furnish supplementally a copy of any omitted schedule or exhibit
+to the Securities and Exchange Commission upon request. SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Plug Power Inc. Date: January 6, 2026 By: /s/ Paul Middleton Name: Paul Middleton Title: Chief Financial Officer

@@ -1,181 +1,92 @@
-Invest Portfolio Template - Saudi/U.S. Deterministic Analytics
-==============================================================
+# Overnight Penny-Stock Research Lab
 
-This fork extends `petrnohejl/invest-portfolio-template` into a strict Google Sheets and Google Apps Script portfolio analytics workbook for Saudi and U.S. listed stocks.
+Deterministic historical research for identifying small-cap or low-priced equities whose historical overnight returns dominate their intraday returns.
 
-This phase is **not** an AI stock recommendation tool. The workbook separates manual inputs, approved sources, raw data, calculated metrics, deterministic scores, portfolio risk, AI-ready export data, and a human dashboard. Missing data stays visible.
+This is research, not investment advice. The project never emits buy, sell, hold, target-price, or recommendation language.
 
-Architecture
-------------
+## Install
 
-Workbook layers:
+Python 3.11 is recommended.
 
-- Manual input: `Setup`, `Portfolio`, `Transactions`, `Manual_Signals`
-- Source control: `Source_Control`
-- Raw data: `Raw_Prices`, `Raw_Fundamentals`
-- Calculations: `Metrics_Calculated`, `Technical_Short_Term`
-- Scoring: `Long_Term_Score`, `Short_Term_Score`
-- Risk: `Portfolio_Risk`
-- Future AI export: `AI_Input`
-- Human view: `Dashboard`
-- Audit support: `Error_Log`, `Validation_Report`
-
-Apps Script files:
-
-- `config.gs` - workbook schema, setup defaults, formatting, dropdowns, sample seeding
-- `menu.gs` - `Stock Analytics` custom menu
-- `sources.gs` - source tiers, source quality, provider API-key helpers
-- `portfolio.gs` - SAR-based portfolio valuation and transaction audit helpers
-- `prices.gs` - price provider abstraction, raw price normalization, technical metrics
-- `fundamentals.gs` - fundamentals provider abstraction and raw fundamentals normalization
-- `metrics.gs` - deterministic CAGR, margin, balance sheet, and valuation metrics
-- `scoring_long_term.gs` - long-term deterministic scoring rules
-- `scoring_short_term.gs` - short-term deterministic scoring rules
-- `risk.gs` - concentration, exposure, and portfolio-level risk dashboard data
-- `ai_export_placeholder.gs` - structured AI-ready export, with no AI calls
-- `utils.gs` - shared sheet, math, source, setup, and error helpers
-- `tests.gs` - workbook validation and scoring helper tests
-- `performance.gs.js` - original legacy performance sheet generator, still available
-
-Setup
------
-
-Recommended `clasp` setup for the live Sheet is documented in [CLASP_SETUP.md](CLASP_SETUP.md).
-
-Manual setup is also possible:
-
-1. Make a copy of the original Google Sheet template or create a blank Google Sheet.
-2. Open `Extensions -> Apps Script`.
-3. Add the Apps Script files in this repository.
-4. Reload the spreadsheet.
-5. Use `Stock Analytics -> Initialize Workbook Structure`.
-6. Optional: use `Stock Analytics -> Seed Sample Data` to create example rows for:
-   - Saudi: `2222` on Tadawul
-   - U.S.: `AAPL` on NASDAQ
-
-API keys must not be stored in visible sheet cells. Store them in Apps Script PropertiesService:
-
-```javascript
-setProviderApiKey("FMP", "YOUR_FMP_KEY");
-setProviderApiKey("EODHD", "YOUR_EODHD_KEY");
-setProviderApiKey("SAHMK", "YOUR_SAHMK_KEY");
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
 ```
 
-Refresh Workflow
-----------------
+## Run
 
-Use the `Stock Analytics` menu:
+Run the example universe from `config.yaml`:
 
-- `Refresh Prices`
-- `Refresh Fundamentals`
-- `Recalculate Metrics`
-- `Recalculate Scores`
-- `Generate AI Input`
-- `Validate Workbook`
-- `Show Error Log`
+```powershell
+python -m src.main --config config.yaml
+```
 
-Provider adapters are intentionally conservative. If an approved API key or endpoint is missing, the system logs the issue in `Error_Log` and leaves the affected value missing instead of guessing.
+Run an explicit universe:
 
-Source Quality
---------------
+```powershell
+python -m src.main --config config.yaml --tickers CXAI BBAI PLUG SOUN KULR
+```
 
-`Source_Control` assigns deterministic quality scores:
+Useful options:
 
-- Tier 1 = `1.00`: exchange data, SEC filings, Tadawul/company filings, audited annual reports
-- Tier 2 = `0.85`: SAHMK, FMP, EODHD, Polygon/Massive, structured APIs
-- Tier 3 = `0.70`: reputable news, investor relations, analyst estimate APIs
-- Tier 4 = `0.25`: blogs, social media, forums, unverified commentary
-- Missing source = `0.00`
+```text
+--refresh   Ignore cached price and SEC files.
+--skip-sec  Skip SEC requests and mark SEC evidence as not checked.
+--no-pdf    Generate HTML but skip PDF output.
+```
 
-Low-tier sources are never treated as confirmed fundamental facts.
+## Add Tickers
 
-Scoring
--------
+Use one of three input styles:
 
-Scores are deterministic. Same inputs produce same outputs.
+1. Pass symbols after `--tickers`.
+2. Edit the `tickers` list in `config.yaml`.
+3. Set `universe_mode: csv` and edit `data/universe/manual_candidates.csv`.
 
-Long-term scoring weights:
+The example symbols are research candidates only. Their inclusion is not an assessment of quality or suitability.
 
-- Business durability 10%
-- Moat proxy 10%
-- Revenue growth 10%
-- Earnings growth 8%
-- Free cash flow strength 12%
-- Profitability 12%
-- Balance sheet 10%
-- Shareholder treatment 8%
-- Valuation 10%
-- Risk penalty 10%
+## Outputs
 
-Short-term scoring weights:
+- `data/outputs/ranked_candidates.csv`: eligible candidates ranked using adjusted OHLC evidence.
+- `data/outputs/ticker_detail_stats.csv`: raw and adjusted statistics for every analyzable ticker.
+- `data/outputs/sec_event_evidence.csv`: keyword matches with filing-level evidence.
+- `data/outputs/rejected_tickers.csv`: hard-screen and data failures.
+- `data/outputs/run_manifest.json`: inputs, versions, data sources, and failures.
+- `reports/html/final_report.html`: complete audit report.
+- `reports/pdf/final_report.pdf`: PDF report when ReportLab is available.
+- `reports/charts/`: top-candidate evidence charts.
 
-- Price trend 15%
-- Momentum 12%
-- Volume confirmation 10%
-- Earnings setup 15%
-- Sector strength 10%
-- Valuation pressure 8%
-- Volatility risk 8%
-- News catalyst 10%
-- Market direction 7%
-- Liquidity 5%
+## Methodology
 
-Missing data contributes zero to weighted scores and lowers `Data_Completeness_Score`. It is not replaced with zero, a neutral score, or market averages.
+For trading day `t`:
 
-Validation
-----------
+```text
+overnight_return[t] = open[t] / close[t-1] - 1
+intraday_return[t] = close[t] / open[t] - 1
+close_to_close_return[t] = close[t] / close[t-1] - 1
+```
 
-`validateWorkbook()` writes `Validation_Report` and checks:
+Both raw and split-adjusted OHLC modes are calculated. Adjusted OHLC is derived from:
 
-- Required tabs and columns
-- Valid market labels
-- Duplicate or missing `Holding_ID`
-- Duplicate or missing `Transaction_ID`
-- Portfolio weights close to 100%
-- Missing source IDs
-- Missing FX rates
-- Negative shares
-- Missing price data
-- Low data completeness
-- Source tier score consistency
+```text
+adjustment_factor[t] = adjusted_close[t] / close[t]
+adjusted_open[t] = open[t] * adjustment_factor[t]
+adjusted_close[t] = close[t] * adjustment_factor[t]
+```
 
-Tests
------
+The adjusted mode drives eligibility and ranking. Raw results remain in the audit output, and material disagreement is flagged as corporate-action sensitivity.
 
-Run `runStockAnalyticsTests()` from Apps Script to test the core scoring thresholds.
+## Data Limitations
 
-Current Limitations
--------------------
+- yfinance is a convenient public-data wrapper, not a proof-grade market-data source. Data can be revised, omitted, delayed, rate-limited, or affected by Yahoo schema changes.
+- Stooq coverage and symbol conventions are incomplete, especially for delisted or newly listed U.S. securities.
+- Free metadata such as market capitalization and sector can be missing or stale.
+- Penny-stock history is unusually exposed to reverse splits, offerings, ticker changes, delistings, sparse prints, bad opens, and extreme outliers.
+- A present-day ticker list introduces survivorship bias. Delisted securities are not automatically reconstructed.
+- Adjusted-close factors may incorporate distributions as well as splits. Raw-versus-adjusted comparison is therefore evidence for manual review, not a perfect corporate-action reconstruction.
+- SEC keyword matching is evidence retrieval, not legal or accounting interpretation. Missing evidence means not checked or not found, never safe.
+- Statistical significance does not establish causality, persistence, or tradability.
+- The cost model is deterministic and simplified. It does not model spread, borrow, slippage, halts, order size, auction access, or market impact.
 
-- Saudi provider adapters are placeholders until an approved SAHMK/Tadawul/company filing endpoint is configured.
-- FMP U.S. adapters are implemented for basic price and annual statements, but material facts should be verified against Tier 1 filings.
-- Five-year valuation percentile remains `NA` until enough audited historical valuation data is available.
-- No buy/sell recommendations are generated.
-- No trading execution, scraping, autonomous agent, or OpenAI API call is included.
-
-Future AI Layer
----------------
-
-`AI_Input` is the only AI-facing tab in this phase. A future model should consume that structured data and produce neutral explanations covering data quality, bullish evidence, bearish evidence, missing data, what would change the view, and confidence level.
-
-Original Project
-----------------
-
-This work is based on [Petr Nohejl's Invest Portfolio Template](https://github.com/petrnohejl/invest-portfolio-template), including the original Google Sheets template and `performance.gs.js` performance generator.
-
-License
--------
-
-    Copyright 2022 Petr Nohejl
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+Results are historical research rankings, not trading recommendations.

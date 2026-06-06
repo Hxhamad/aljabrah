@@ -1,0 +1,200 @@
+false 0000720154 0000720154 2026-06-02 2026-06-02 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934 Date of Report (Date of earliest event reported): June 2, 2026 INOTIV, INC. (Exact name of registrant as specified in its charter) Indiana 0-23357 35-1345024 (State or other jurisdiction of incorporation) (Commission File Number) (IRS Employer Identification No.) 2701 KENT AVENUE WEST LAFAYETTE , indiana 47906-1382 (Address of principal executive offices) (Zip Code) Registrant's telephone number, including area code: ( 765 ) 463-4527 Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: ¨ Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ¨ Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ¨ Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of the Act: Title of
+    each class Trading Symbol(s) Name of each
+    exchange on which registered Common Shares NOTV The Nasdaq Stock Market LLC Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter). Emerging growth
+company ¨ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ Explanatory Note Prepackaged Debt Restructuring Pursuant to Restructuring Support
+Agreement Inotiv, Inc. (the “Company”)
+and certain of its direct and indirect subsidiaries (collectively with the Company, the “Company Parties” or the “Debtors”),
+intend to implement a comprehensive restructuring of the Company’s debt obligations and capital structure (the “Restructuring”)
+in accordance with a Restructuring Support Agreement (as defined below) with certain of its key creditors. The Restructuring is expected
+to reduce the Company’s total funded debt obligations by approximately $326 million through a conversion of a substantial portion
+of the Company’s funded debt obligations into equity of the reorganized Company, and to reduce the Company’s annual cash interest
+expense by providing the Company with a simplified capital structure on the Plan Effective Date. In connection with the Restructuring,
+the Company will also obtain a debtor-in-possession financing facility to fund operations during the pendency of the Chapter 11 Cases,
+which will be rolled into a first lien exit financing facility upon emergence. The Restructuring Support Agreement
+contemplates implementing the Restructuring through a consensual, joint prepackaged plan of reorganization (the “Plan”)
+of the Company Parties in voluntary cases (the “Chapter 11 Cases”) filed on June 3, 2026 (the “Petition
+Date”) pursuant to chapter 11 of title 11 of the United States Code (the “Bankruptcy Code”). Holders of
+substantial majorities of the Company’s prepetition first lien loans, second lien PIK notes, and unsecured convertible notes,
+have all entered into the Restructuring Support Agreement agreeing to support the Restructuring, and voted in favor of the
+Restructuring and the Plan substantially contemporaneously with signing the Restructuring Support Agreement as part of the Company
+Parties’ prepetition solicitation of votes on the Plan. The Company does not expect any adverse operational impact from the
+Restructuring and plans to continue to operate and pay vendors and employees in the ordinary course of business as “debtors in
+possession” under the jurisdiction of the United States Bankruptcy Court for the Southern District of Texas (the
+“Bankruptcy Court”) in accordance with the applicable provisions of the Bankruptcy Code and orders of the Bankruptcy
+Court. The Company expects to emerge from the Chapter 11 Cases as a private company within 50 days. Capitalized terms used but not defined herein
+have the meanings given to them in the Restructuring Support Agreement and the term sheet attached thereto as Exhibit B (the “Restructuring
+Term Sheet”). Item 1.01. Entry into a Material Definitive
+Agreement. Restructuring
+Support Agreement On June 2 2026, the Company entered into
+a Restructuring Support Agreement (together with all exhibits and schedules thereto, the “Restructuring Support Agreement”)
+with: · certain lenders, or investment advisors, or holders
+of claims pursuant to the Company’s obligations under that certain credit agreement, dated as of November 5, 2021, between
+the Company, as borrower, the guarantors and lenders party thereto, and Acquiom Agency Services LLC, as successor administrative agent
+and collateral agent (as amended, the “Prepetition First Lien Credit Agreement,” and such lenders, advisors, or managers who
+are party to the Restructuring Support Agreement, the “Consenting First Lien Lenders”); · certain holders, or investment advisors, sub-advisors,
+or managers for the accounts of beneficial holders or beneficial holders (which such accounts or beneficial holders such investment advisors,
+sub-advisors, or managers have authority to bind or direct) of the Company’s 15.00% Senior Secured Second Lien PIK Notes due 2027
+issued under that certain indenture, dated as of September 13, 2024, by and between the Company, as issuer, and U.S. Bank Trust Company,
+National Association, as trustee and notes collateral agent (the “Prepetition PIK Notes Indenture,” and such holders, advisors,
+or managers who are party to the Restructuring Support Agreement, the “Consenting PIK Noteholders”); and 2 · certain holders, or investment advisors, sub-advisors,
+or managers for the accounts of beneficial holders or beneficial holders (which such accounts or beneficial holders such investment advisors,
+sub-advisors, or managers have authority to bind or direct) of the Company’s 3.25% Convertible Senior Notes due 2027 issued under
+that certain indenture, dated as of September 27, 2021, by and between Inotiv, Inc., as issuer, the guarantor party thereto,
+and U.S. Bank Trust Company, National Association, as trustee (the “Prepetition Convertible Unsecured Notes Indenture,” and
+such holders, advisors, or managers who are party to the Restructuring Support Agreement, the “Consenting Unsecured Convertible
+Noteholders,” and together with the Consenting First Lien Lenders and the Consenting PIK Noteholders, the “Consenting Stakeholders”). The Restructuring Support Agreement provides for
+the Restructuring to be effectuated through the Plan, a copy of which is furnished as part of Exhibit 99.1 hereto, and the specific
+terms underlying the Restructuring Support Agreement are further detailed in the Plan. Commitments and Representations . The Company
+and the Consenting Stakeholders have made certain customary commitments and representations in the Restructuring Support Agreement, including,
+among other things, to support and take all commercially reasonable actions reasonably necessary to facilitate the transactions contemplated
+by the Restructuring Support Agreement. Specifically, the Consenting Stakeholders have committed to the Company, among other things, to
+support and vote for the Plan. Milestones . The Restructuring Support Agreement
+contains certain milestones (“Milestones”) relating to the progress of the anticipated Chapter 11 Cases, which include, among
+other things, commencement of the Chapter 11 Cases no later than June 3, 2026 (the “Petition Date”), entry of an interim
+order by the Bankruptcy Court authorizing the Debtors’ use of cash collateral and the DIP Facility and entry of a case scheduling
+order no later than three (3) days following the Petition Date, entry of a final order by the Bankruptcy Court authorizing the Debtors’
+use of cash collateral and the DIP Facility on a final basis and entry of the confirmation order no later than 45 days following the
+Petition Date, and the occurrence of the date on which the Plan has become effective in accordance with its terms (the “Plan Effective
+Date”) no later than 50 days following the Petition Date. Summary of Material Terms . The material
+terms of the Plan, subject to Bankruptcy Court approval, include, among other things: · DIP Facility. In connection with the Chapter
+11 Cases, the Consenting First Lien Lenders will provide the Company with a debtor-in-possession financing facility in an aggregate amount
+of $65.4 million (the “DIP Facility”), consisting of (a) $25 million in new money senior secured superpriority term
+loans, and (b) a $40.4 million roll-up of outstanding delayed draw term loans under the Company’s prepetition bridge facility.
+The DIP Facility will bear interest at either, at the Company’s election, SOFR plus 9.00% or Alternate Base Rate plus 8.00%
+and will mature 90 days following the Petition Date, subject to further extension with the consent of the required DIP lenders. · Exit Term Loan Facility. On the Plan Effective
+Date, the reorganized Debtors are expected to enter into a senior secured first lien exit term loan facility (the “Exit Term Loan
+Facility”) in an aggregate principal amount of up to $150 million (including paid-in-kind interest, fees, original issue discount,
+and premiums). All outstanding DIP obligations are expected to be converted dollar-for-dollar into exit term loans under the Exit Term
+Loan Facility. · Prepetition First Lien Claims. Holders
+of allowed prepetition first lien claims are expected to receive, in full and final satisfaction of such claims, their pro rata share
+of (a) 93% of the new equity interests to be issued by the reorganized Company on the Plan Effective Date (the “New Equity
+Interests”), subject to dilution on account of the New Warrants (as defined below) and the Management Incentive Plan (as defined
+below), and (b) the remaining exit term loans under the Exit Term Loan Facility (i.e., exit term loans that were not provided to
+the DIP lenders in satisfaction of the DIP claims). · Prepetition PIK Notes Claims. Holders
+of allowed prepetition PIK notes claims are expected to receive, in full and final satisfaction of such claims, their pro rata share of
+21% of (a) 7% of the New Equity Interests, subject to dilution on account of the New Warrants and the Management Incentive Plan,
+and (b) the New Warrants (defined below) ((a) and (b) collectively, the “Notes Recovery”). · Prepetition Unsecured Convertible Notes Claims. Holders of allowed prepetition unsecured convertible notes claims are expected to receive, in full and final satisfaction of such
+claims, their pro rata share of 79% of the Notes Recovery. 3 · DOJ Claims. The claims of the United States
+Department of Justice arising under that certain Plea Agreement, dated June 3, 2024 (the “DOJ Claims”), are expected
+to be allowed and reinstated on the Plan Effective Date. · General Unsecured Claims. Each holder
+of an allowed general unsecured claim is expected to have such claim reinstated, or to otherwise receive treatment rendering such claim
+unimpaired pursuant to section 1124 of the Bankruptcy Code. · Section 510(b) Claims. All Section 510(b) claims,
+including claims arising from the purchase or sale of securities of any Debtor, are expected to be discharged and released on the Plan
+Effective Date, and holders thereof shall not receive or retain any distribution on account of such claims. · Existing Equity Interests. On the Plan
+Effective Date, all existing equity interests in the Company will be cancelled, released, and extinguished without any distribution, and
+holders of existing equity interests shall not receive or retain any distribution, property, or other value on account of such interests. · New Equity Interests and New Warrants. On
+the Plan Effective Date, the reorganized Company is expected to issue a single class of New Equity Interests, and new warrants exercisable
+into New Equity Interests representing 11% of New Equity Interests issued on the Plan Effective Date, in the aggregate, on a fully diluted
+basis (subject to dilution by the Management Incentive Plan) (the “New Warrants”). The New Warrants will have a strike price
+equal to an implied share price using a post-transaction enterprise value of $350 million and a four-year exercise period following the
+Plan Effective Date. · Management Incentive Plan. The new board
+of directors of the reorganized Company (the “New Board”) may implement a management incentive plan pursuant to which equity-based
+awards for up to 10% of the New Equity Interests of the reorganized Company, on a fully diluted basis (assuming the New Warrants are treated
+as having been fully exercised), may be made available to the Company’s employees and directors (the “Management Incentive
+Plan”). Termination . Each of the parties to the
+Restructuring Support Agreement may terminate the agreement under certain circumstances and subject to the terms set forth therein, including,
+among other things: (i) in the case of the Consenting Stakeholders, (a) the failure of the Company to meet a Milestone or achieve
+the Plan Effective Date before the applicable outside date; or (b) if the Company seeks or obtains an order of the Bankruptcy Court
+authorizing the rejection of the Restructuring Support Agreement; (ii) the occurrence of certain breaches of the Restructuring Support
+Agreement; (iii) the mutual agreement of the parties; and (iv) in the case of the Company, if the board of directors, board
+of managers, or such similar governing body of the Company reasonably determines in good faith after consultation with outside counsel
+that proceeding with any of the transactions under the Restructuring Support Agreement would be inconsistent with the exercise of its
+fiduciary duties under applicable law. Consummation . Consummation of the transactions
+contemplated by the Restructuring Support Agreement is subject to, among other things, approval of the Plan by the Bankruptcy Court. Accordingly,
+no assurance can be given that the transactions described therein will be consummated. The foregoing description of the Restructuring
+Support Agreement is not complete and is qualified in its entirety by reference to the Restructuring Support Agreement, a copy of which
+is filed as Exhibit 10.1 to this Current Report on Form 8-K (this “Current Report”) and is incorporated herein by
+reference. The representations, warranties and covenants contained in the Restructuring Support Agreement have been made solely for the
+purpose of such agreement and as of specific dates, for the benefit of the parties thereto. In addition, such representations, warranties
+and covenants (i) may have been qualified by confidential disclosures exchanged between the parties, (ii) are subject to materiality
+qualifications contained in such agreement which may differ from what may be viewed as material by investors, and (iii) have been
+included in such agreement for the purpose of allocating risk between the contracting parties rather than establishing matters of fact.
+Investors should not rely on the representations, warranties and covenants or any descriptions thereof as characterizations of actual
+facts or circumstances, and the subject matter of representations and warranties may change after the date as of which such representations
+or warranties were made. Moreover, information concerning the subject matter of the representations, warranties and covenants may change
+after the date of the Restructuring Support Agreement, which subsequent information may or may not be fully reflected in the Company’s
+public disclosures. 4 Item 1.03. Bankruptcy or Receivership. On June 3, 2026 (i.e., the Petition Date),
+the Company Parties filed voluntary petitions to commence the Chapter 11 Cases in the Bankruptcy Court to implement the Plan effectuating
+the Restructuring in accordance with the Restructuring Support Agreement. Prior to commencing the Chapter 11 Cases, the Company commenced
+the solicitation of the Plan (the “Solicitation”) with a related disclosure statement (the “Disclosure Statement”).
+The Company has requested that the Bankruptcy Court administer the Chapter 11 Cases jointly for administrative purposes only under the
+caption In re Inotiv, Inc., et al. The Company Parties continue to operate their
+business as debtors-in-possession under the jurisdiction of the Bankruptcy Court in accordance with the applicable provisions of the Bankruptcy
+Code and orders of the Bankruptcy Court. The Company Parties have filed with the Bankruptcy Court customary motions seeking “first
+day” relief intended to ensure the Company Parties’ ability to continue their ordinary course operations during the Chapter
+11 Cases, including the authority to obtain postpetition financing under the DIP Facility, use cash collateral, pay employee wages and
+benefits and vendors and suppliers in the ordinary course of business, and other customary operational and administrative relief. Item 2.04. Triggering Events that Accelerate or Increase a
+Direct Financial Obligation or an Obligation Under an Off-Balance Sheet Arrangement. The filing of the Chapter 11 Cases constitutes
+an event of default that accelerated the Company’s obligations under the following instruments (the “Debt Instruments”): · the Prepetition First Lien Credit Agreement; · the Prepetition PIK Notes Indenture; and · the Prepetition Convertible Unsecured Notes Indenture. The Debt Instruments provide that as a result
+of the Chapter 11 Cases, the principal and interest, and, if applicable, premiums, due thereunder shall be immediately due and payable.
+Any efforts to enforce such payment obligations under the Debt Instruments are automatically stayed as a result of the Chapter 11 Cases,
+and the creditors’ rights of enforcement in respect of the Debt Instruments are subject to the applicable provisions of the Bankruptcy
+Code. Item 7.01. Regulation FD Disclosure. Commencement
+of Solicitation Pursuant to the Restructuring Support Agreement,
+on June 2, 2026, and prior to filing the Chapter 11 Cases, the Company Parties commenced the Solicitation, including by distributing
+the Disclosure Statement and other solicitation materials to certain eligible holders of claims against the Company Parties that are entitled
+to vote on the Plan. A copy of the Disclosure Statement (including the Plan and certain other exhibits attached thereto) is furnished
+as Exhibit 99.1 hereto. This Current Report on Form 8-K does not
+constitute an offer to sell or buy, nor the solicitation of an offer to sell or buy, any securities referred to herein, nor is this Current
+Report a solicitation of consents to or votes to accept the Plan. Any solicitation or offer will only be made pursuant to the Disclosure
+Statement (as may be amended) and only to such persons and in such jurisdictions as is permitted under applicable law, and in compliance
+with all applicable securities laws and provisions of the Bankruptcy Code. 5 Press Release On June 3, 2026, the Company issued a press
+release announcing the Company’s entry into the Restructuring Support Agreement, commencement of the Solicitation, and filing of
+the Chapter 11 Cases. A copy of the press release is furnished as Exhibit 99.2 hereto. Additional
+Information on the Chapter 11 Cases Additional information about the Chapter 11 Cases,
+including access to Bankruptcy Court documents, is available online at https://restructuring.ra.kroll.com/Inotiv, a website administered
+by the Debtors’ claims and noticing agent, Kroll Restructuring Administration LLC (“Kroll”). Information may also be
+obtained by contacting Kroll by calling (844) 408-3698 (U.S./Canada, toll-free) or +1 (646) 825-3849 (international), by emailing InotivInfo@ra.kroll.com,
+or by writing to Inotiv, Inc., c/o Kroll Restructuring Administration LLC, 850 Third Avenue, Suite 412, Brooklyn, NY 11232. The information contained in this Item 7.01, including
+Exhibits 99.1 and 99.2 shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of
+1934, as amended (the “ Exchange Act ”), or otherwise subject to the liabilities of that section, and shall not be deemed
+to be incorporated by reference into any of the Company’s filings under the Securities Act of 1933, as amended (the “ Securities
+Act ”), or the Exchange Act, whether made before or after the date hereof and regardless of any general incorporation language
+in such filings, except to the extent expressly set forth by specific reference in such a filing. Item 8.01. Other Events. Cautionary
+Note Regarding the Company’s Securities The Company cautions that trading in its securities
+(including its Common Shares) during the pendency of the Chapter 11 Cases is highly speculative and poses substantial risks. Trading prices
+for these securities may bear little or no relationship to the actual recovery, if any, by the holders of the Company’s securities
+in the Chapter 11 Cases. The Company expects that holders of its existing equity interests could experience a total loss on their investment,
+as the Plan contemplates that all existing equity interests in the Company will be cancelled without any distribution to existing equity
+holders. Item 9.01. Financial Statements and Exhibits. (d)            Exhibits Exhibit No. Description 10.1 Restructuring Support Agreement, dated as of June 2, 2026, by and among the Company Parties, the Consenting First Lien Lenders, the Consenting PIK Noteholders, and the Consenting Unsecured Convertible Noteholders. 99.1 Disclosure Statement, dated as of June 3, 2026. 99.2 Press Release, dated as of June 3, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) 6 Cautionary
+Note Regarding Forward-Looking Statements Certain statements contained in this Current Report
+on Form 8-K constitute “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933
+and Section 21E of the Securities Exchange Act of 1934. These statements are predictive in nature and are identified generally by
+the use of the terms “could,” “will,” “may,” “expect,” “intend,” “plan,”
+“estimate,” “anticipate,” “believe,” “project,” “potential,” “continue”
+and similar words or expressions indicating possible future expectations, events or actions. Forward-looking statements are based on current
+expectations, assumptions, estimates and projections about the Company’s business and its industry, and are not guarantees of future
+performance. These statements are subject to a number of known and unknown risks, uncertainties and other factors, many of which are beyond
+the Company’s ability to control or predict, which may cause actual events to be materially different from those expressed or implied
+herein. All statements in this Current Report on Form 8-K
+that are not historical are forward-looking statements, including statements regarding the timing and implementation of the transactions
+contemplated by the Restructuring Support Agreement, the intent to solicit approval of the Plan, the Company’s ability to continue
+operating in the ordinary course, and the potential benefits of the Restructuring, including the Company’s ability to emerge from
+the Chapter 11 Cases as a private company. Such risks and uncertainties include, among other
+things, risks attendant to the bankruptcy process, including the Company’s ability to obtain court approval from the Bankruptcy
+Court with respect to motions or other requests made to the Bankruptcy Court throughout the course of the Chapter 11 Cases; the ability
+of the Company to consummate the Plan; the effects of the Chapter 11 Cases, including increased legal and other professional costs necessary
+to execute the Company’s reorganization, on the Company’s liquidity (including the availability of operating capital during
+the pendency of the Chapter 11 Cases), results of operations or business prospects; the effects of the Chapter 11 Cases on the interests
+of various constituents and the Company’s relationships with its vendors, customers, employees, and other stakeholders; the length
+of time that the Company will operate under Chapter 11 protection; risks associated with third-party motions in the Chapter 11 Cases;
+Bankruptcy Court rulings in the Chapter 11 Cases and the outcome of the Chapter 11 Cases in general; the Company’s ability to satisfy
+the conditions and milestones in the Restructuring Support Agreement; the Company’s ability to obtain the DIP Facility on the terms
+described herein; changes in the Company’s ability to meet its financial obligations during the Chapter 11 Cases; the actions and
+decisions of creditors, regulators, and other third parties that have an interest in the Chapter 11 Cases; and other factors described
+in the “Risk Factors” sections of the Company’s most recently filed Annual Report on Form 10-K and subsequently
+filed Quarterly Reports on Form 10-Q and Current Reports on Form 8-K. Readers are cautioned not to place undue reliance
+on forward-looking statements, which speak only as of the date hereof, and, except as required by law, the Company undertakes no obligation
+to update those statements or to publicly announce the results of any revisions to any of those statements to reflect future events or
+developments. 7 SIGNATURES Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. INOTIV, INC. Date: June 3, 2026 By: /s/ Beth Taylor Beth Taylor Chief Financial Officer, Executive Vice President

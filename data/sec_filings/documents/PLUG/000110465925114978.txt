@@ -1,0 +1,141 @@
+false 0001093691 0001093691 2025-11-18 2025-11-18 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND
+EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934 Date of Report (Date of earliest event
+reported): November 18, 2025 Plug Power Inc. (Exact name of registrant as specified in its
+charter) Delaware 1-34392 22-3672377 (State
+    or other jurisdiction (Commission
+    File (IRS
+    Employer of
+    incorporation) Number) Identification
+    No.) 125 Vista Boulevard , Slingerlands , New York 12159 (Address
+    of principal executive offices) (Zip
+    Code) ( 518 ) 782-7700 Registrant’s
+telephone number, including area code: N/A (Former name or former address, if changed
+since last report.) Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General
+Instruction A.2. below): ¨ Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425) ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12) ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under
+the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to 12(b) of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered Common
+    Stock, par value $0.01 per share PLUG The Nasdaq Capital
+    Market Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§ 240.12b-2 of this chapter). Emerging growth
+company ¨ If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ Item 1.01 Entry Into a Material Definitive Agreement. Indenture and Notes On November 21, 2025, Plug Power Inc., a Delaware corporation (the
+“Company”), completed its previously announced private offering (the “offering”) of $431.25 million aggregate
+principal amount of 6.75% Convertible Senior Notes due 2033 (the “notes”), including the exercise in full of the initial purchasers’
+option to purchase up to an additional $56.25 million principal amount of the notes. The notes were issued pursuant to an indenture, dated
+November 21, 2025 (the “Indenture”), between the Company and U.S. Bank Trust Company, National Association, as trustee. The notes are general unsecured obligations of the Company and rank
+senior in right of payment to all of its future indebtedness that is expressly subordinated in right of payment to the notes, equal in
+right of payment to all of its existing and future liabilities that are not so subordinated, effectively junior to all of its secured
+indebtedness, to the extent of the value of the assets securing such indebtedness, and structurally junior to all indebtedness and other
+liabilities of its subsidiaries. The notes bear interest at a rate of 6.75% per year. Interest is payable semi-annually in arrears on
+June 1 and December 1 of each year, beginning on June 1, 2026. The notes mature on December 1, 2033, unless earlier
+repurchased, redeemed or converted. The notes may not be converted prior to the earlier of (i) February 28,
+2026 and (ii) the “reserved share effective date” (as defined in the Indenture) (such earlier date, the “conversion
+limit end date”). On or after the conversion limit end date, the notes are convertible at the option of the holders at any time
+prior to the close of business on the second scheduled trading day immediately preceding the maturity date. Upon conversion, the Company
+will pay or deliver, as the case may be, cash, shares of the Company’s common stock, par value $0.01 per share (the “common
+stock”), or a combination of cash and shares of common stock, at the Company’s election, in the manner and subject to the
+terms and conditions provided in the Indenture; provided that unless and until the reserved share effective date occurs, the Company will
+settle conversion of notes solely with cash. The conversion rate of the notes will initially be 333.3333 shares
+of common stock per $1,000 principal amount of notes, which is equivalent to an initial conversion price of approximately $3.00 per share
+of common stock. The initial conversion price of the notes represents a premium of approximately 40% over the last reported sale price
+of $2.14 per share of common stock on The Nasdaq Capital Market on November 18, 2025. The conversion rate for the notes is subject
+to adjustment under certain circumstances in accordance with the terms of the Indenture. In addition, following certain corporate events
+that occur prior to the maturity date or if the Company delivers a notice of redemption in respect of the notes, the Company will, in
+certain circumstances, increase the conversion rate of the notes for a holder who elects to convert its notes in connection with such
+a corporate event or convert its notes called (or deemed called) for redemption during the related redemption period (as defined in the
+Indenture), as the case may be. 2 The Company may not redeem the notes prior to December 6, 2028.
+The Company may redeem for cash all or any portion of the notes (subject to certain limitations), at its option, on or after December 6,
+2028 and prior to the 26th scheduled trading day immediately preceding the maturity date, if the last reported sale price of the
+common stock has been at least 130% of the conversion price for the notes then in effect for at least 20 trading days (whether or not
+consecutive) during any 30 consecutive trading day period (including the last trading day of such period) ending on, and including, the
+trading day immediately preceding the date on which the Company provides notice of redemption at a redemption price equal to 100% of the
+principal amount of the notes to be redeemed, plus accrued and unpaid interest to, but excluding, the redemption date. However, the Company
+may not redeem less than all of the outstanding notes unless at least $50.0 million aggregate principal amount of notes are outstanding
+and not called for redemption as of the time we send the related notice of redemption (and after giving effect to the delivery of such
+notice of redemption). Holders of notes may require the Company to repurchase for cash all
+or any portion of their notes on December 6, 2029 at a repurchase price equal to 100% of the principal amount of notes to be repurchased,
+plus accrued and unpaid interest to, but excluding, December 6, 2029. In addition, if the Company undergoes a fundamental change
+(as defined in the Indenture), then, subject to certain conditions and except as set forth in the Indenture, holders may require the Company
+to repurchase for cash all or any portion of their notes at a repurchase price equal to 100% of the principal amount of the notes to be
+repurchased, plus accrued and unpaid interest to, but excluding, the fundamental change repurchase date. The Indenture includes customary covenants and sets forth certain events
+of default after which the notes may be declared immediately due and payable and sets forth certain types of bankruptcy or insolvency
+events of default involving the Company after which the notes become automatically due and payable. The following events are considered
+“events of default” under the Indenture: · default in any payment of interest on any note when due and payable and the
+default continues for a period of 30 days; · default in the payment of principal of any Note when due and payable at its
+stated maturity, upon optional redemption, upon any required repurchase, upon declaration of acceleration or otherwise; · failure by the Company to comply with its obligation to convert the notes
+in accordance with the Indenture upon exercise of a holder’s conversion right and such failure continues for five business days; · failure by the Company to give (i) a fundamental change notice or notice
+of a make-whole fundamental change (each as described in the Indenture), in either case when due and such failure continues for five business
+days, or (ii) notice of a specified distribution (as described in the Indenture) when due and such failure continues for one business
+day; · failure by the Company to comply with its obligations in respect of any consolidation,
+merger or sale of assets; · failure by the Company to comply with any of the Company’s other agreements
+in the notes or the Indenture for 60 days after receipt of written notice of such failure from the trustee or the holders of at least
+25% in principal amount of the notes then outstanding; 3 · default by the Company or any of its significant subsidiaries (as defined
+in the Indenture) with respect to any mortgage, agreement or other instrument under which there may be outstanding, or by which there
+may be secured or evidenced, any indebtedness for money borrowed with a principal amount in excess of $35 million (or its foreign currency
+equivalent) in the aggregate of the Company and/or any such significant subsidiary, whether such indebtedness now exists or shall hereafter
+be created, (i) resulting in such indebtedness becoming or being declared due and payable prior to its stated maturity date or (ii) constituting
+a failure to pay the principal of any such indebtedness when due and payable (after the expiration of all applicable grace periods) at
+its stated maturity, upon required repurchase, upon declaration of acceleration or otherwise, and in the cases of clauses (i) and
+(ii), such acceleration shall not have been rescinded or annulled or such failure to pay or default shall not have been cured or waived,
+or such indebtedness is not paid or discharged, as the case may be, within 30 days after written notice to the Company by the trustee
+or to the Company and the trustee by holders of at least 25% in aggregate principal amount of the notes then outstanding in accordance
+with the Indenture; and · certain events of bankruptcy, insolvency or reorganization of the Company
+or any of the Company’s significant subsidiaries. In case of certain bankruptcy and insolvency-related events of default
+with respect to the Company, the principal of, and accrued and unpaid interest on, all of the then outstanding notes shall automatically
+become due and payable. If an event of default, other than certain bankruptcy and insolvency-related events of default with respect to
+the Company, occurs and is continuing, the trustee, by written notice to the Company, or the holders of at least 25% in principal amount
+of the outstanding notes by written notice to the Company and the trustee, may, declare 100% of the principal of, and accrued and unpaid
+interest on, all the outstanding notes to be due and payable. Notwithstanding the foregoing, the Indenture provides that, to the extent
+the Company so elects, the sole remedy for an event of default relating to the failure by the Company to comply with certain reporting
+covenants in the Indenture will, for the first 365 days after the occurrence of such an event of default, consist exclusively of the right
+to receive additional interest on the notes at a rate equal to 0.25% per annum of the principal amount of the notes outstanding for each
+day that such event of default is continuing during the first 180 days after the occurrence of such an event of default and 0.50% per
+annum of the principal amount of the notes outstanding from the 181st day to, and including, the 365th day following the occurrence of
+such event of default, as long as such event of default is continuing. The Indenture provides that the Company shall not consolidate with
+or merge with or into, or sell, convey, transfer or lease all or substantially all of the consolidated properties and assets of the Company
+and its subsidiaries, taken as a whole, to, another person (other than any such sale, conveyance, transfer or lease to one or more of
+the Company’s direct or indirect wholly owned subsidiaries), unless: (i) the resulting, surviving or transferee person (if
+not the Company) is a “qualified successor entity” (as defined in the Indenture) organized and existing under the laws of
+the United States of America, any state thereof or the District of Columbia, and such qualified successor entity (if not the Company)
+expressly assumes by supplemental indenture all of the Company’s obligations under the notes and the Indenture; and (ii) immediately
+after giving effect to such transaction, no default or event of default has occurred and is continuing under the Indenture. A copy of the Indenture is attached hereto as Exhibit 4.1 (including
+the form of the notes attached hereto as Exhibit 4.2) and is incorporated herein by reference (and this description is qualified
+in its entirety by reference to such document). 4 Proceeds The offering price of the notes was 95% of the principal amount of
+notes. The Company’s net proceeds from the offering were approximately $399.4 million after deducting the initial purchasers’
+discounts and commissions and the estimated offering expenses payable by the Company. The Company used approximately $245.7 million of
+the net proceeds from the offering to fully repay the outstanding principal amount of, plus accrued and unpaid interest on, its 15.00%
+secured debentures, and to pay the related termination fee in connection therewith, and approximately $153.9 million of the net proceeds
+to repurchase for cash approximately $138.0 million aggregate principal amount of the Company’s 7.00% convertible senior notes due
+2026, including accrued and unpaid interest thereon. The Company intends to use the remaining net proceeds from the offering for working
+capital and other general corporate purposes. Item 1.02. Termination of a Material Definitive Agreement. The information set forth under Item 1.01 of this Current Report on
+Form 8-K is incorporated herein by reference. Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant. The information set forth under Item 1.01 of this Current Report on
+Form 8-K is incorporated herein by reference. Item 3.02 Unregistered Sales of Equity Securities. The information set forth under Item 1.01 of this Current Report on
+Form 8-K is incorporated herein by reference. The Company offered and sold the notes to the initial purchasers in
+reliance on the exemption from registration provided by Section 4(a)(2) of the Securities Act of 1933, as amended (the
+“Securities Act”), and for resale by the initial purchasers to persons reasonably believed to be qualified institutional buyers
+pursuant to the exemption from registration provided by Rule 144A under the Securities Act. The Company relied on
+these exemptions from registration based in part on representations made by the initial purchasers in the purchase agreement dated November 18,
+2025 by and among the Company and the initial purchasers. The notes and the shares of common stock issuable upon conversion of
+the notes, if any, have not been registered under the Securities Act and may not be offered or sold in the United States absent
+registration or an applicable exemption from registration requirements. To the extent that any shares of common stock are issued upon conversion
+of the notes, they will be issued in transactions anticipated to be exempt from registration under the Securities Act by virtue
+of Section 3(a)(9) thereof because no commission or other remuneration is expected to be paid in connection with conversion
+of the notes and any resulting issuance of shares of common stock. Initially, a maximum of 201,518,683 shares of common stock may be issued
+upon conversion of the notes based on the initial maximum conversion rate of 467.2897 shares of common stock per $1,000 principal amount
+of notes, which is subject to customary anti-dilution adjustment provisions. 5 Item 8.01. Other Events. On November 18, 2025, the Company issued a press release announcing
+the proposed offering. A copy of the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference. On November 18, 2025, the Company issued a press release announcing
+the pricing of the notes. A copy of the press release is attached hereto as Exhibit 99.2 and is incorporated herein by reference. On November 21, 2025, the Company issued a press release announcing
+the closing of the offering. A copy of the press release is attached hereto as Exhibit 99.3 and is incorporated herein by reference. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibit Number Description 4.1 Indenture, dated as of November 21, 2025, between
+    Plug Power Inc. and U.S. Bank Trust Company, National Association. 4.2 Form of 6.75% Convertible Senior Notes due December 1,
+    2033 (included as Exhibit A to Exhibit 4.1). 99.1 Press Release of Plug Power Inc., dated November 18,
+    2025. 99.2 Press Release of Plug Power Inc., dated November 18,
+    2025. 99.3 Press Release of Plug Power Inc., dated November 21,
+    2025. 104 Cover Page Interactive Data File (embedded within
+    the Inline XBRL document). 6 SIGNATURE Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Plug Power Inc. Date: November 21, 2025 By: /s/ Paul Middleton Name: Paul Middleton Title: Chief Financial Officer 7

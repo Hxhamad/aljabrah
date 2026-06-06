@@ -1,0 +1,50 @@
+false --12-31 0001807887 0001807887 2026-03-20 2026-03-20 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 8-K CURRENT
+REPORT Pursuant
+to Section 13 OR 15(d) of The Securities Exchange Act of 1934 Date
+of Report (Date of earliest event reported): March 20, 2026 Laser
+Photonics Corporation (Exact
+name of registrant as specified in its charter) Delaware 001-41515 84-3628771 (State
+    of other jurisdiction (Commission (IRS
+    Employer of
+    incorporation) File
+    Number) Identification
+    No.) 250
+    Technology Park Lake
+    Mary , FL 32746 (Address
+    of principal executive offices) (Zip
+    Code) Registrant’s
+telephone number, including area code: (407) 804-1000 Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (see General Instruction A.2. below): ☐ Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of the Act: Title
+    of each class Trading
+    Symbol Name
+    of exchange on which registered Common
+    Stock, par value $0.001 per share LASE The
+    NASDAQ Stock Market LLC Emerging
+growth company ☒ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☒ Item
+5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year. On
+March 20, 2026, the Board of Directors of the registrant (“Laser Photonics” or the “Company”) amended section
+2.6 of its Bylaws to reduce the quorum for annual and special meetings of the shareholders from a majority of the shares entitled to
+vote at such meetings to one-third (1/3rd ) of the shares entitled to vote at such meetings. The Board believed that this amendment will
+facilitate the holding of such meetings in light of the many retail investors that hold a small number of its shares who might not respond
+to requests in proxy statements that they receive and the decision by a number of broker/dealer firms to not exercise their discretionary
+authority to vote on behalf of such shareholders. A copy of the Amended and Restated Bylaws it attached hereto and incorporated herein
+as Exhibit 3.1 to this Current Report on Form 8-K. Item
+9.01 Financial Statements and Exhibits. Exhibits 3.1 Amended and Restated Bylaws 104 Cover Page Interactive Data File (embedded within the Inline
+XBRL document) - 2 - SIGNATURES Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized. Date:
+    March 23, 2026 Laser
+    Photonics Corporation By: /s/
+    Wayne Tupuola Wayne
+    Tupuola President
+    and CEO - 3 -

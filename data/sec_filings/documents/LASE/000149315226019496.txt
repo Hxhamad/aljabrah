@@ -1,0 +1,90 @@
+false 0001807887 0001807887 2026-04-26 2026-04-26 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 8-K CURRENT
+REPORT Pursuant
+to Section 13 OR 15(d) of The Securities Exchange Act of 1934 Date
+of Report (Date of earliest event reported): April 26, 2026 Laser
+Photonics Corporation (Exact
+name of registrant as specified in its charter) Delaware 001-41515 84-3628771 (State
+    of other jurisdiction (Commission (IRS
+    Employer of
+    incorporation) File
+    Number) Identification
+    No.) 250
+    Technology Park Lake
+    Mary , FL 32746 (Address
+    of principal executive offices) (Zip
+    Code) Registrant’s
+telephone number, including area code: (407) 804-1000 Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (see General Instruction A.2. below): ☐ Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities
+registered pursuant to Section 12(b) of the Act: Title
+    of each class Trading
+    Symbol Name
+    of exchange on which registered Common
+    Stock, par value $0.001 per share LASE The
+    NASDAQ Stock Market LLC Emerging
+growth company ☒ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☒ Item
+1.01. Entry into a Material Definitive Agreement. On
+April 26, 2026, the registrant (“Laser Photonics” or the “Company”) entered into a warrant inducement
+agreement with the holders of existing Series A-1 and Series A-2 warrants to purchase up to 5,715,085 shares of the Company’s
+common stock (the “Existing Warrants”) at an original exercise price of $0.70 per share as set forth in the Company’s
+S-1 registration statement (Registration No. 333-292932) declared effective on February 6, 2026. The Company has offered as an inducement
+to these warrant holders for exercising the Existing Warrants in cash new unregistered Series A-5 warrants to purchase up to 4,742,860
+shares of common stock and new unregistered Series A-6 warrants to purchase up to 6,687,310 shares of common stock. The new warrants
+will have an exercise price of $0.975 per share and will be exercisable beginning on the effective date of stockholder approval of the
+issuance of the shares issuable upon exercise of the new warrants. (the “Initial Exercise Date”) The Series A-5 new
+warrants will expire five years after the later of (i) the date of stockholder approval and (ii) the effective date of the Resale Registration
+Statement (as defined below) and the Series A-6 new warrants will expire 24 months after the later of (x) the date of stockholder approval
+and (y) the effective date of the Resale Registration Statement. . The
+Company faces a cash penalty as provided in the warrant inducement agreement for a failure to meet the required dates for filing the
+S-1 registration statement and it being declared effective by the SEC as discussed below. The number of Series A-1 warrants and
+Series A-2 warrants to be exercised for cash are subject to beneficial ownership limitations of either 4.99% or 9.99% at the election
+of the Series A-1 and Series A-2 warrant holders. To the extent that the beneficial ownership limitations apply, the balance
+of any issuance of free trading shares of the Company’s common stock will be held in abeyance until notice from the warrant holder
+that the balance (or portion thereof) may be issued in compliance with such beneficial ownership limitations, and those underlying shares
+of the Company’s common stock will be treated as having been prepaid, including the cash payment in full of the exercise price. H.C.
+Wainwright & Co., LLC (“Wainwright”) served as exclusive placement agent for this transaction. Under the terms of its
+August 21, 2025, engagement agreement with the Company as amended on February 13, 2026, Wainwright has received a cash fee of 7.0% of
+the funds raised through the warrant inducement agreement and a placement agent warrant to Wainwright or its designees to purchase up
+to 400,056 shares of the Company’s common stock (equal to 7.0% of the Company’s shares of common stock issued upon exercise
+of the Existing Warrants) exercisable on or after the Initial Exercise Date for five years after the later of (i) the Initial Exercise
+Date and (ii) the Effective Date, at an exercise price of $0.875 per share, and reimbursement of Wainwright’s accountable expenses
+of up to $75,000 and clearing expenses of $15,950. Under
+the terms of the warrant inducement agreement, the Company has received aggregate gross proceeds of $4,000,559.50 and must file a registration
+statement within 30 days from the date of this agreement on Form S-1 to register the sale of the 11,430,170 shares of common stock underlying
+the Series A-5 and Series A-6 warrants and either 60 days or 90 days for the S-1 registration statement to be declared effective depending
+on whether it is reviewed or not by the SEC. In addition, the Company is prohibited (i) for 30 days from the closing of the warrant inducement
+agreement from issuing, entering into any agreement to issue or announce the issuance or proposed issuance of any shares of its common
+stock or common stock equivalents or filing any registration statement or any amendment or supplement to any existing registration statement,
+with certain exceptions, and (ii) for 12 months from the closing of the warrant inducement agreement from entering into any variable
+rate transaction, subject to an exception. The
+foregoing descriptions of the warrant inducement agreement, Series A-5 warrants and the Series A-6 warrants do not purport to be complete
+and are qualified in their entirety by reference to the full text of the agreements, forms of which are attached as Exhibits 4.1, 4.2
+and 10.1 hereto, and incorporated herein by reference. Item
+3.02. Unregistered Sales of Equity Securities. The
+matters described in Item 1.01 of this Current Report on Form 8-K are incorporated herein by reference. Item
+7.01 Regulation FD Disclosures. On
+April 29, 2026,
+the Company issued a press release regarding the closing terms of the warrant inducement transaction described in Item 1.01 of this Current
+Report on Form 8-K under which Laser Photonics received approximately $4 million prior to its payment of any fees and offering expenses
+in connection with this financing. A copy of the press release is attached as Exhibit 99.1 and is incorporated herein by reference. Item
+9.01 Financial Statements and Exhibits. Exhibits 4.1 Form of Series A-5 Warrant 4.2 Form of Series A-6 Warrant 10.1 Form
+    of Warrant Inducement Agreement dated April 26, 2026, between Laser Photonics Corporation and the Series A-5 warrant
+    holders and Series A-6 warrant holders 99.1 Press
+    Release issued April 29, 2026 104 Cover
+    Page Interactive Data File (embedded within the Inline XBRL document) - 2 - SIGNATURES Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized. Date:
+    April 29, 2026 Laser
+    Photonics Corporation By: /s/
+    Wayne Tupuola Wayne
+    Tupuola President
+    and CEO - 3 -

@@ -1,0 +1,178 @@
+false --12-31 0001817760 0001817760 2026-03-30 2026-03-30 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, DC 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934 Date of Report (Date of earliest event reported): March 30, 2026 SmartKem, Inc. (Exact name of registrant as specified in its
+charter) Delaware 001-42115 85-1083654 (State or other jurisdiction of incorporation) (Commission File Number) (IRS Employer Identification No.) Manchester
+Technology Center, Hexagon Tower Delaunays
+Road , Blackley Manchester , M9 8GQ U.K. (Address of principal executive offices, including
+zip code) 011-44-161 - 721-1514 (Registrant’s telephone number, including
+area code) N/A (Former name or former address, if changed since
+last report) Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: ¨ Written communications pursuant
+    to Rule 425 under the Securities Act (17 CFR 230.425) ¨ Soliciting material pursuant
+    to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ¨ Pre-commencement communications
+    pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement communications
+    pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to
+Section 12(b) of the Act: Title
+    of each class Trading
+    Symbol(s) Name
+    of exchange on which registered Common
+    Stock, par value $0.0001 per share SMTK The Nasdaq Stock
+    Market LLC Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b - 2 of
+the Securities Exchange Act of 1934 (§240.12b - 2 of this chapter). Emerging
+growth company x If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ Item 1.01 Entry into a Material Definitive Agreement. Series A Preferred
+Stock Offering On
+March 30, 2026, SmartKem, Inc. (the "Company") entered into a Securities Purchase Agreement (the "Preferred Stock
+Purchase Agreement") with certain institutional investors (collectively, the "Buyers"), including certain March Noteholders
+(as defined below) pursuant to which the Company agreed to issue and sell to the Buyers in a private placement (the “Private Placement”),
+at an initial closing, (i) 11,411.5 shares of the Company's newly designated Series A Convertible Preferred Stock, par value
+$0.0001 per share (the "Series A Preferred Stock"), with a stated value of $1,000 per share, convertible into shares of
+the Company's common stock, par value $0.0001 per share (the "Common Stock"), at an initial conversion price of $0.5812 per
+share, subject to adjustment as set forth in the Certificate of Designations (as defined below), and (ii) warrants to purchase up
+to 23,251,960 shares of Common Stock (the "Warrants"). The purchase price under the Preferred Stock Purchase Agreement may be
+satisfied in cash or by exchange of Notes (defined below). As
+previously reported in a Current Report on Form 8-K filed by the Company, on March 18, 2026, entered
+into a Securities Purchase Agreement (the "March Note Purchase Agreement") with certain accredited investors (the “March Noteholders”),
+pursuant to which the Company agreed to issue and sell to the March Note Holders senior secured promissory notes (the "Notes")
+in the aggregate original principal amount of $3,750,000 for an aggregate purchase price of $2,625,000, reflecting an original issue discount
+of approximately 30%. Pursuant to the Notes, each March Noteholder may elect to exchange all or any portion of the then outstanding
+principal amount of its Note into the securities being issued in such subsequent placement, with the aggregate amount of such securities
+valued at 120% of the exchanged principal amount. Each
+Warrant is exercisable for shares of Common Stock at an initial exercise price of $0.5812 per share, subject to adjustment, and is exercisable
+at any time after the six-month anniversary of the issuance date and until the third anniversary thereof. The Warrants provide for cashless
+exercise in the event a registration statement covering the resale of the shares of Common Stock issuable upon exercise of the Warrants
+is not effective. The exercise of the Warrants is subject to a beneficial ownership limitation of 4.99% of the outstanding shares of Common
+Stock (adjustable to 9.99% upon 61 days' prior written notice by the holder). The exercise price of the Warrants is subject to customary
+adjustments for stock dividends, stock splits and similar transactions, as well as full ratchet anti-dilution protection upon the issuance
+of shares of Common Stock or Common Stock equivalents (other than certain excluded securities) at a price per share below the then-effective
+exercise price. The exercise price is also subject to adjustment upon certain stock combination events and, following the date the Preferred
+Stock Stockholder Approval (as defined below) is obtained, is subject to periodic adjustment to the market price of the Common Stock for
+a period of 180 calendar days. Prior to the date the Preferred Stock Stockholder Approval is obtained, no adjustment may reduce the exercise
+price below $0.5812. The
+Preferred Stock Purchase Agreement also provides the Buyers with the right, subject to the satisfaction of certain conditions, to require
+the Company to participate in one or more additional closings for the purchase of up to an aggregate of 10,000 additional shares of Series A
+Preferred Stock and Warrants within 12 months of the initial closing date. In connection with the Preferred Stock Purchase Agreement,
+each holder of a Note provided a limited waiver of any term or condition of the transaction documents entered into in connection with
+the March Note Purchase Agreement that would otherwise restrict or prohibit the execution and delivery of the Preferred Stock Purchase
+Agreement and the other transaction documents entered into in connection therewith and the issuance of the securities thereunder, solely
+with respect to the transactions contemplated by the Preferred Stock Purchase Agreement. The
+Preferred Stock Purchase Agreement contains customary representations and warranties of the Company and the Buyers customary for similar
+transactions. The representations, warranties and covenants contained in the Preferred Stock Purchase Agreement were made solely for the
+benefit of the parties to the Preferred Stock Purchase Agreement and may be subject to limitations agreed upon by the contracting parties.
+Accordingly, the Preferred Stock Purchase Agreement is incorporated herein by reference only to provide investors with information regarding
+the terms thereof and not to provide investors with any other factual information regarding the Company or its business, and should be
+read in conjunction with the disclosures in the Company’s periodic reports and other filings with the SEC. In
+addition, the Preferred Stock Purchase Agreement prohibits the Company from issuing any shares of Series A Preferred Stock (other
+than to the Buyers) without the prior written consent of the Required Holders (as defined under the Preferred Stock Purchase Agreement).
+During the period commencing on the date of the Preferred Stock Purchase Agreement and ending on the date immediately following the 90th
+trading day after the earlier of (x) the effectiveness of the initial registration statement required by the Preferred Stock Registration
+Rights Agreement and (y) the date all registrable securities are eligible for resale under Rule 144, the Company and its subsidiaries
+are prohibited from directly or indirectly issuing, offering, selling or otherwise disposing of any equity or equity-linked securities,
+subject to certain exceptions for employee equity awards, conversions of existing securities and shares issuable under the ELOC Purchase
+Agreement (as defined below). Furthermore, the Company and its subsidiaries are prohibited from effecting any variable rate transaction
+(other than in connection with the ELOC Purchase Agreement) until the later of (x) the expiration of the additional closing period
+and (y) the date no shares of Series A Preferred Stock remain outstanding. The Company is also prohibited from granting, issuing
+or selling shares of Common Stock or Common Stock equivalents (other than certain excluded securities) at a price per share less than
+the then-effective conversion price of the Series A Preferred Stock during the period commencing on the initial closing date and
+ending on the third anniversary of the initial closing date. The
+Company is required to seek stockholder approval (the "Preferred Stock Stockholder Approval"), either by (x) obtaining
+the written consent of the requisite stockholders and filing an information statement with the SEC no later than 45 calendar days after
+the initial closing date, or (y) holding a special or annual meeting of stockholders no later than the 60th calendar day after the
+initial closing date, for (i) an increase in the Company's authorized shares of Common Stock from 300,000,000 to 5,000,000,000, (ii) the
+removal of the restriction on stockholder action by written consent, (iii) the issuance of all securities under the Preferred Stock
+Purchase Agreement in compliance with the rules and regulations of The Nasdaq Stock Market LLC, (iv) a reverse stock split of
+the Common Stock in such ratio as determined by the Board of Directors, and (v) an increase in the number of shares issuable under
+the Company's 2021 Equity Incentive Plan. Moreover, until the later of (x) the expiration of the additional closing period and (y) the
+date no shares of Series A Preferred Stock remain outstanding, the Company is prohibited from (a) directly or indirectly redeeming,
+or declaring or paying any cash dividend or distribution on, any securities of the Company without the prior written consent of the Buyers
+(other than as required by the Certificate of Designations) and (b) effecting any stock combination, reverse stock split or similar
+transaction without the prior written consent of the Required Holders (except as necessary to maintain the listing of the Common Stock
+on The Nasdaq Stock Market LLC). The Company is also required to retain a consultant, recommended by the Required Holders and reasonably
+acceptable to the Company, to provide advice on strategic acquisitions and new business development and related consulting services within
+30 days of the initial closing date, for compensation not to exceed $240,000. In
+connection with the Preferred Stock Purchase Agreement, on March 30, 2026, the Company entered into a Registration Rights Agreement
+(the "Preferred Stock Registration Rights Agreement") with the Buyers, pursuant to which the Company agreed to file a registration
+statement with the Securities and Exchange Commission (the "SEC") registering the resale of the shares of Common Stock issuable
+upon conversion of the Series A Preferred Stock and exercise of the no later than the tenth day following the Company's filing of its annual report on Form 10-K for the year ended December 31, 2025, and to use its reasonable best efforts to cause such registration statement to be declared effective by the SEC no later than 60
+calendar days after the initial closing date (or 120 calendar days if subject to a full review by the SEC). The Preferred Stock Registration
+Rights Agreement provides for the payment of certain cash penalties to the Buyers in the event the Company fails to satisfy its registration
+obligations thereunder. The
+closing of the Private Placement is expected to take place on our about March 31, 2026, subject to the satisfaction of customary
+closing conditions. The gross proceeds of the Private Placement are expected to be $9,129,200, prior to the deduction of any fees and
+expenses. The gross proceeds of the Private Placement include the exchange of an aggregate of $3,750,000 which were valued at a premium
+of 120% or an aggregate of $4,500,000 in accordance with the terms of the Notes. The Company expects to use the net proceeds from the
+Private Placement for working capital and general corporate purposes. The
+foregoing descriptions of the Preferred Stock Purchase Agreement, the Warrants, and the Preferred Stock Registration Rights Agreement
+are not complete and are qualified in their entirety by reference to the full text of such documents, copies of which are filed as Exhibits
+10.1, 4.1 and 10.2, respectively, to this Current Report on Form 8-K and are incorporated by reference herein. Equity Line of Credit On March 30, 2026, the Company entered into a Common Stock Purchase
+Agreement (the "ELOC Purchase Agreement") with an equity line investor (the “Investor”), pursuant to which the Company
+has the right, but not the obligation, to sell to the Investor, and the Investor is obligated to purchase, up to the lesser of (a) $500,000,000
+and (b) 19.99% of the Company's outstanding shares of Common Stock as of the date of the ELOC Purchase Agreement, which number of shares
+shall be reduced, on a share-for-share basis, by the number of shares of Common Stock issued or issuable pursuant to any transaction or
+series of transactions that may be aggregated with the transactions contemplated by the ELOC Purchase Agreement under applicable rules
+of the Trading Market (as defined under the ELOC Purchase Agreement), (unless stockholder approval is obtained or applicable sales qualify
+as "at market" under applicable rules of The Nasdaq Stock Market LLC), from time to time during the period commencing on the
+effective date of a registration statement registering the resale of shares issuable under the ELOC Purchase Agreement and ending upon
+termination of the ELOC Purchase Agreement. Sales of Common Stock to the Investor under the ELOC Purchase Agreement, if any, will be made
+by the Company at its sole discretion from time to time by delivering purchase notices to the Investor (each, a "VWAP Purchase").
+The purchase price per share for each VWAP Purchase will be equal to 90% of the lesser of (i) the lowest sale price of the Common Stock
+on the applicable purchase date and (ii) the volume weighted average price of the Common Stock during the applicable purchase period.
+The Investor's aggregate committed obligation under any single VWAP Purchase shall not exceed $5,000,000. The ELOC Purchase Agreement
+prohibits the Company from issuing shares to the Investor to the extent such shares, when aggregated with all other shares of Common Stock
+then beneficially owned by the Investor and its affiliates, would cause the Investor's beneficial ownership to exceed 4.99% of the outstanding
+shares of Common Stock. The
+ELOC Purchase Agreement requires stockholder approval (the "ELOC Stockholder Approval") to the approve the issuance of shares
+of Common Stock to the Investor in excess of 4,220,772 shares (representing 19.99% of the shares of Common Stock outstanding as of the
+date of the ELOC Purchase Agreement) in accordance with Nasdaq Listing Rule 5635(d). The Company expects to seek the ELOC Stockholder
+Approval concurrently with the Preferred Stock Stockholder Approval. Within two business days following the increase in authorized shares
+of Common Stock contemplated by the Preferred Stock Stockholder Approval, the Company is required to confirm that an aggregate of 1,000,000,000
+shares of Common Stock have been reserved for issuance under the ELOC Purchase Agreement. As
+consideration for the Investor's irrevocable commitment to purchase shares of Common Stock under the ELOC Purchase Agreement, the Company
+agreed to issue to the Investor 10,000 shares of Series A Preferred Stock (the "Commitment Shares"). Pursuant to the ELOC
+Purchase Agreement, the Company has agreed to use 25% of the gross proceeds from any sale of shares of Common Stock under the ELOC Purchase
+Agreement towards the redemption of the Company's Series A Preferred Stock pursuant to the Company's optional redemption provisions
+thereof, including any stated premiums thereon. In
+connection with the ELOC Purchase Agreement, on March 30, 2026, the Company entered into a Registration Rights Agreement (the "ELOC
+Registration Rights Agreement") with the Investor, pursuant to which the Company agreed to file a registration statement with the
+SEC registering the resale of the shares of Common Stock issuable under the ELOC Purchase Agreement no later than the tenth day following
+the Company's filing of its annual report on Form 10-K for the year ended December 31, 2025, and to use its commercially reasonable
+efforts to cause such registration statement to be declared effective by the SEC no later than the 60th calendar day following the filing
+thereof (or, if not reviewed by the SEC, the third business day following notification that such registration statement will not be reviewed). The
+foregoing descriptions of the ELOC Purchase Agreement and the ELOC Registration Rights Agreement are not complete and are qualified in
+their entirety by reference to the full text of such documents, copies of which are filed as Exhibits 10.3 and 10.4, respectively, to
+this Current Report on Form 8-K and are incorporated by reference herein. Item 3.02 Unregistered
+Sales of Equity Securities. The
+information set forth under Item 1.01 of this Current Report on Form 8-K is incorporated by reference into this Item 3.02. The Series A
+Preferred Stock, the Warrants and the Commitment Shares were offered and sold in transactions exempt from registration under the Securities
+Act, in reliance on Section 4(a)(2) thereof and Rule 506(b) of Regulation D promulgated thereunder. Item 5.03 Amendments
+to Articles of Incorporation or Bylaws; Change in Fiscal Year. On
+March 30, 2026, the Company filed the Certificate of Designations with the Secretary of State of the State of Delaware, establishing
+the terms of the Series A Preferred Stock. The Certificate of Designations became effective upon filing. The authorized number of
+shares of Series A Preferred Stock is 31,412 shares, each with a par value of $0.0001 per share and a stated value of $1,000 per
+share. Each share of Series A Preferred Stock is convertible at any time at the option of the holder into shares of Common Stock
+at a conversion rate determined by dividing the conversion amount by the conversion price of $0.5812 per share, with alternate conversion
+options available following stockholder approval (at 90% of the lowest VWAP during the five preceding trading days) or upon a triggering
+event (at 80% of such VWAP, with the conversion amount subject to a required premium of 125%), in each case subject to a 4.99% beneficial
+ownership limitation (adjustable to 9.99% upon 61 days' prior written notice). Dividends are payable when and as declared by the Board
+of Directors in its sole discretion, in cash, securities or other assets, on the stated value of each share, provided that upon the occurrence
+and continuance of a triggering event, default dividends accrue at a rate of 15.0% per annum. The
+Series A Preferred Stock ranks senior to the Common Stock and all other junior capital stock with respect to dividends, distributions
+and payments upon the liquidation, dissolution and winding up of the Company. Upon a liquidation event, holders of Series A Preferred
+Stock are entitled to receive, before any payment to holders of junior stock, an amount per share equal to the sum of (i) the Black-Scholes
+value of the outstanding portion of all Warrants held by such holder and (ii) the greater of (A) 125% of the applicable conversion
+amount and (B) the amount per share such holder would receive upon conversion immediately prior to such event; holders of Series A
+Preferred Stock have no voting power except as required by the Delaware General Corporation Law or as set forth in the Certificate of
+Designations with respect to certain protective matters requiring the consent of the Required Holders. The
+foregoing description of the Certificate of Designations is not complete and is qualified in its entirety to the full text of such document,
+a copy of which is filed as Exhibit 3.1 to this Current Report on Form 8-K and is incorporated by reference herein. Item 8.01 Other Events As previously disclosed, August 15, 2025, the Company was notified by the Listing Qualifications Staff
+of The Nasdaq Stock Market LLC (“Nasdaq”) that the Company’s securities were subject to delisting based upon the Company’s
+non-compliance with the $2.5 million stockholders’ equity requirement set forth in Nasdaq Listing Rule 5550(b) (the “Rule”).
+The Company requested a hearing before the Nasdaq Hearings Panel (the “Panel”) to address the deficiency, which request stayed
+any delisting action pending the issuance of the Panel’s decision following the hearing. As a result of the Private Placement, the
+Company believes it has stockholders’ equity of at least $2.5 million as of the date of this Current Report on Form 8-K. The Company
+awaits Nasdaq’s formal confirmation that it has regained compliance with the Rule and will provide a further update when appropriate.
+Furthermore, Nasdaq will continue to monitor the Company’s ongoing compliance with the Rule and, if the Company’s next periodic
+report does not evidence compliance with the Rule, the Company may again be subject to delisting. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 3.1 Certificate of Designations of Rights and Preferences of Series A Convertible Preferred Stock of SmartKem, Inc., filed with the Secretary of State of the State of Delaware on March 30, 2026 4.1 Form of Warrant 10.1 Form of Preferred Stock Purchase Agreement 10.2 Form of Preferred Stock Registration Rights Agreement 10.3 Common Stock Purchase Agreement, dated March 27, 2026, by and between SmartKem, Inc. and the investor signatory thereto 10.4 Registration Rights Agreement, dated March 27, 2026, by and between SmartKem, Inc. and the investor signatory thereto 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) Signature Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. SMARTKEM, INC. Dated: March 31, 2026 By: /s/ Barbra
+    C. Keck Barbra C. Keck Chief Financial Officer

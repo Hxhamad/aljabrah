@@ -1,0 +1,13 @@
+{
+  "cache_used": false,
+  "company_name": "Beyond Meat, Inc.",
+  "currency": "USD",
+  "downloaded_at_utc": "2026-06-06T11:27:15Z",
+  "exchange": "NMS",
+  "market_cap": 365583904,
+  "metadata_status": "checked",
+  "rows": 1784,
+  "sector": "Consumer Defensive",
+  "source": "yfinance",
+  "ticker": "BYND"
+}

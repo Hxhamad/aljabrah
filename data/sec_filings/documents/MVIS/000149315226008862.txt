@@ -1,0 +1,56 @@
+false 0000065770 0000065770 2026-03-04 2026-03-04 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 8-K CURRENT
+REPORT PURSUANT
+TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934 DATE
+OF REPORT (DATE OF EARLIEST EVENT REPORTED) March 4, 2026 MicroVision,
+Inc. (Exact
+name of registrant as specified in its charter) Delaware 001-34170 91-1600822 (State
+                                            or other jurisdiction of
+    incorporation) (Commission File
+    Number) (I.R.S.
+                                            Employer Identification
+    No.) 18390
+NE 68 th Street Redmond , Washington 98052 (Address
+of principal executive offices) (Zip code) (425) 936-6847 (Registrant’s
+telephone number, including area code) Not
+Applicable (Former
+name or former address if changed since last report) Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions: ☐ Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities
+registered pursuant to Section 12(b) of the Act: Title
+    of each class Trading
+    symbol(s) Name
+    of each exchange on which registered Common
+    stock, par value $0.001 per share MVIS The
+    NASDAQ Stock Market Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging
+growth company ☐ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Item
+2.02. Results of Operations and Financial Condition. The
+information in this Current Report is being furnished and shall not be deemed “filed” for the purposes of Section 18 of the
+Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that Section. The information in this Current
+Report shall not be incorporated by reference into any registration statement or other document pursuant to the Securities Act of 1933,
+as amended. On
+March 4, 2026, MicroVision, Inc. issued a press release announcing its fourth quarter and full year 2025 results. A copy of the press
+release is attached as Exhibit 99.1 and is incorporated herein by reference. Item
+9.01. Financial Statements and Exhibits. (c)
+Exhibits. Pursuant
+to the rules and regulations of the SEC, the attached exhibit is deemed to have been furnished to, but not filed with, the SEC. Exhibit
+    No. Description 99.1 Press Release of MicroVision, Inc. dated March 4, 2026 104 Cover
+    Page Interactive File (the cover page tags are embedded within the Inline XBRL document) SIGNATURE Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. MICROVISION,
+    INC. By: /s/
+    Drew G. Markham Drew
+    G. Markham Senior
+    Vice President, General Counsel and Secretary Dated:
+March 4, 2026

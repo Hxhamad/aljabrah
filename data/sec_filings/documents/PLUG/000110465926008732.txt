@@ -1,0 +1,43 @@
+false 0001093691 0001093691 2026-01-29 2026-01-29 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): January 29, 2026 Plug Power Inc. (Exact name of registrant as specified in its
+charter) Delaware 1-34392 22-3672377 (State
+    or other jurisdiction (Commission
+    File (IRS
+    Employer of
+    incorporation) Number) Identification
+    No.) 125 Vista Boulevard , Slingerlands , New York 12159 (Address
+    of principal executive offices) (Zip
+    Code) ( 518 ) 782-7700 Registrant’s telephone number, including
+area code: N/A (Former name or former address, if changed
+since last report.) Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General
+Instruction A.2. below): ¨ Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425) ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12) ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under
+the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to 12(b) of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered Common
+    Stock, par value $0.01 per share PLUG The Nasdaq Capital
+    Market Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§ 240.12b-2 of this chapter). Emerging growth
+company ¨ If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ Item 5.07. Submission of Matters to a Vote of Security Holders. On
+January 29, 2026, Plug Power Inc. (the “Company”) held its special meeting of stockholders (the “Special Meeting”). At the Special Meeting, the Company’s stockholders voted upon the following matters: 1. The approval of an amendment to the Company’s amended and restated certificate of incorporation, as amended (the “Charter”), to adjust the voting requirements for certain future amendments to align with Section 242(d)(2) of the Delaware General Corporation Law (“Proposal 1”). 2. The approval of an amendment to the Company’s Charter to increase the number of authorized shares of the Company’s common stock from 1,500,000,000 shares to 3,000,000,000 shares (“Proposal 2”). 3. The approval of the adjournment of the Special Meeting to a later date or dates, if necessary or appropriate, to solicit additional proxies if there are insufficient votes for the approval of Proposal 1 or Proposal 2 (“Proposal 3”). Holders of the Company’s common stock were entitled to one vote
+per share on each proposal. Present at the Special Meeting, in person or by proxy, were holders
+of 732,799,970 shares of common stock of the Company as of December 12, 2025 (the “Record Date”), representing at least one-third
+of the voting power of the outstanding shares of the Company’s common stock entitled to vote at the Special Meeting, which constituted
+a quorum for the transaction of business at the Special Meeting. Set forth below are the final voting results for
+each matter voted upon: Proposal 1 - Amendment of the Company’s Charter to Adjust
+Voting Requirements to Align with Section 242(d)(2) of the Delaware General Corporation Law For Against Abstain Broker Non-Votes 514,731,695 32,017,556 8,930,577 177,120,142 Proposal 2 - Amendment of the Company’s Charter to Increase
+the Number of Authorized Shares of the Company’s Common Stock For Against Abstain Broker Non-Votes 652,862,960 73,653,746 6,283,264 0 Proposal 3 - Adjournment of the Special Meeting For Against Abstain Broker Non-Votes 653,755,763 66,921,007 12,123,200 0 Item 8.01. Other Events. The Company adjourned the Special Meeting to February 5, 2026 at 10:00
+a.m. Eastern Standard Time in order to allow the Company to solicit additional proxies with respect to Proposals 1 and 2. The Company’s
+stockholders of record as of the Record Date will be able to attend virtually and vote at the reconvened special meeting using the same
+process in place for the originally scheduled Special Meeting, the details of which are set forth in the Company’s definitive proxy
+statement filed with the Securities and Exchange Commission on December 12, 2025. The Company does not expect any items of business at
+the reconvened Special Meeting other than conducting the vote on Proposals 1 and 2. The
+Company will be hosting an investor question-and-answer townhall on February 2, 2026 at 10:00 a.m. Eastern Standard Time to provide stockholders
+with an opportunity to ask questions regarding the proposals to be voted on at the Company’s adjourned Special Meeting. Investors
+may participate in the townhall by dialing 877-407-9221 (U.S.) or +1-201-689-8597 (international), or by accessing the webcast through
+the Company’s website at www.plugpower.com . SIGNATURES Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. PLUG POWER INC. January 30, 2026 By: /s/ Paul Middleton Paul Middleton Chief Financial Officer

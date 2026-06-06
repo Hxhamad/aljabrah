@@ -1,0 +1,74 @@
+false 0000065770 0000065770 2026-06-01 2026-06-01 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 8-K CURRENT
+REPORT PURSUANT
+TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934 DATE
+OF REPORT (DATE OF EARLIEST EVENT REPORTED) June 1, 2026 MicroVision,
+Inc. (Exact
+name of registrant as specified in its charter) Delaware 001-34170 91-1600822 (State
+                                            or other jurisdiction of
+    incorporation) (Commission File
+    Number) (I.R.S.
+                                            Employer Identification
+    No.) 18390
+NE 68 th Street Redmond , Washington 98052 (Address
+of principal executive offices) (Zip code) (425) 936-6847 (Registrant’s
+telephone number, including area code) Not
+Applicable (Former
+name or former address if changed since last report) Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions: ☐ Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☒ Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities
+registered pursuant to Section 12(b) of the Act: Title
+    of each class Trading
+    symbol(s) Name
+    of each exchange on which registered Common
+    stock, par value $0.001 per share MVIS The
+    NASDAQ Stock Market Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging
+growth company ☐ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Item
+8.01. Other Events. On
+June 1, 2026, MicroVision, Inc., a Delaware corporation (the “Company” or “MicroVision”), issued a press release
+announcing that it plans to seek approval for an amendment to the Company’s certificate of incorporation to provide MicroVison’s
+Board of Directors with the right to effect a reverse stock split of the Company’s common stock, par value $0.01 per share, at
+a ratio of not less than 1-for-5 or more than 1-for-15, with the exact ratio to be determined by the Board of Directors. The press release
+is attached hereto as Exhibit 99.1 and is incorporated herein by reference. MicroVision’s
+Board of Directors has set May 28, 2026 as the record date for shareholders entitled to vote at the Annual Meeting of Shareholders. The
+time and other details regarding the Annual Meeting will be communicated to shareholders via preliminary and definitive proxy materials
+which will be filed with, and will be subject to review by, the U.S. Securities and Exchange Commission (the “SEC”). Solicitation
+Material This
+communication may be deemed to be solicitation material in connection with the proposal to be submitted to MicroVision shareholders at
+its Annual Meeting seeking approval of an amendment to the Company’s certificate of incorporation to effect a reverse stock split.
+In connection with the proposal, MicroVision plans to file a preliminary proxy statement on Schedule 14A with the SEC. The Company expects
+to file its definitive proxy material in due course. Shareholders are encouraged to read the preliminary proxy statement and all other
+relevant documents filed with the SEC when they become available, including the definitive proxy statement, because they will contain
+important information about the proposal. Shareholders may obtain a free copy of the proxy statement and other documents that the Company
+files with the SEC at the SEC’s website (www.sec.gov) or from the Company by accessing information included on the Investor Relations
+website (ir.microvision.com). MicroVision
+and certain of its directors and executive officers may be deemed to be participants in the solicitation of proxies in connection with
+the proposal to be submitted to MicroVision’s shareholders at its 2026 Annual Meeting of Shareholders. Information about the directors
+and executive officers of MicroVision is set forth in its Annual Report on Form 10-K filed with the SEC on March 4, 2026, as amended
+(the “2025 Form 10-K”), under the heading “Directors, Executive Officers and Corporate Governance.” Investors
+may obtain additional information regarding the interests of such participants by reading the 2025 Form 10-K, the preliminary proxy statement
+and the definitive proxy statement, when it becomes available. MicroVision has also retained Saratoga Proxy Consulting LLC to assist
+in the solicitation of proxies at an estimated cost of $10,000 plus expenses. Item
+9.01. Financial Statements and Exhibits. (c)
+Exhibits. Pursuant
+to the rules and regulations of the SEC, the attached exhibit is deemed to have been furnished to, but not filed with, the SEC. Exhibit
+    No. Description 99.1 Press Release of MicroVision, Inc. dated June 1, 2026 104 Cover
+    Page Interactive File (the cover page tags are embedded within the Inline XBRL document) SIGNATURE Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. MICROVISION,
+    INC. By: /s/
+                                            Drew G. Markham Drew
+    G. Markham Senior
+    Vice President, General Counsel and Secretary Dated:
+June 1, 2026

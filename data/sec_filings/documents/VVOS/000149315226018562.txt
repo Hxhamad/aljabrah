@@ -1,0 +1,69 @@
+false 0001716166 0001716166 2026-04-22 2026-04-22 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 8-K CURRENT
+REPORT Pursuant
+to Section 13 OR 15(d) of the Securities
+Exchange Act of 1934 Date
+of Report (Date of earliest event reported): April 22, 2026 (April 17, 2026) Vivos
+Therapeutics, Inc. (Exact
+name of registrant as specified in its charter) Delaware 001-39796 81-3224056 (State
+    or other jurisdiction (Commission (I.R.S.
+    Employer of
+    incorporation) File
+    Number) Identification
+    No.) 7921
+Southpark Plaza , Suite 210 Littleton , Colorado 80120 (Address
+of principal executive offices) (Zip Code) (866) 908-4867 (Registrant’s
+telephone number, including area code) N/A (Former
+name or former address, if changed since last report) Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions: ☐ Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities
+registered pursuant to Section 12(b) of the Act: Title
+    of each class Trading
+    Symbol(s) Name
+    of each exchange on which registered Common
+    Stock, par value $0.0001 per share VVOS The
+    NASDAQ Stock Market LLC Indicate
+by check mark whether the registrant is an emerging growth company as defined in as defined in Rule 405 of the Securities Act of 1933
+(§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging
+growth company ☐ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Item
+3.01 Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing. On
+April 17, 2026, Vivos Therapeutics, Inc. (the “Company”) received a letter (“Letter”) from the Listing Qualifications
+Staff (the “Staff”) of The Nasdaq Stock Market LLC (“Nasdaq”) indicating that the Company’s stockholders’
+equity as reported in its Annual Report on Form 10-K for the year ended December 31, 2025 (the “Form 10-K”), did not satisfy
+the continued listing requirement under Nasdaq Listing Rule 5550(b)(1), which requires that a listed company’s stockholders’
+equity be at least $2,500,000 (the “Minimum Stockholders’ Equity Requirement”). As reported in its Form 10-K, as of
+December 31, 2025 the Company had a negative stockholders’ equity of approximately $1.55 million. The Staff’s notice has
+no immediate impact on the listing of the Company’s common stock on Nasdaq. The
+Company has taken affirmative steps since December 31, 2025 to remedy the Minimum Stockholders’ Equity Requirement. Specifically,
+as previously reported, the Company engaged in two equity financing transactions during the first quarter ended March 31, 2026 for aggregate
+gross proceeds of $6.8 million: a $4.6 million warrant exercise inducement transaction and $2.25 million private placement with an existing
+investor. While these equity financings do not in and of themselves cure the Minimum Stockholders’ Equity Requirement deficiency,
+they demonstrate the Company’s ability to raise funding to bolster its stockholders’ equity. In
+accordance with the Nasdaq Listing Rules, the Company has 45 calendar days, or until June 1, 2026, to submit a plan to regain compliance
+with the Stockholders’ Equity Requirement, which the Company plans to timely submit for the Staff’s consideration. If the
+plan is accepted, the Staff may grant the Company an extension period of up to 180 calendar days from the date of the deficiency notice
+(or through October 14, 2026) to regain compliance with the Minimum Stockholders’ Equity Requirement. Readers
+are cautioned that the Staff may not accept the Company’s plan to regain compliance with the Stockholders’ Equity Requirement.
+Further, even if the Company’s plan of compliance is accepted, the Company may be unable to evidence compliance with the Stockholders’
+Equity Requirement during any extension period that the Staff may grant, either through additional equity financings or improved operational
+results. If the Staff does not accept the Company’s plan or if the Company is unable to regain compliance within any extension
+period granted by the Staff, the Staff would be required to issue a delisting determination. The Company would at that time be entitled
+to request a hearing before a Nasdaq Hearings Panel to present its plan to regain compliance and to request a further extension period
+to regain compliance. The request for a hearing would stay any delisting action by the Staff. No assurances can be given that the Company’s
+efforts to comply with the Minimum Stockholders’ Equity Requirement will be successful, and any delisting of the Company’s
+common stock from Nasdaq would have a material adverse effect on the Company, its operations and reputation. SIGNATURE Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. VIVOS
+    THERAPEUTICS, INC. Dated:
+    April 22, 2026 By: /s/
+    Bradford Amman Name: Bradford
+    Amman Title: Chief
+    Financial Officer

@@ -1,0 +1,42 @@
+false --12-31 0001093691 0001093691 2026-02-12 2026-02-12 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): February 12, 2026 Plug Power Inc. (Exact name of registrant as specified in its
+charter) Delaware 1-34392 22-3672377 (State
+    or other jurisdiction (Commission
+    File (IRS
+    Employer of
+    incorporation) Number) Identification
+    No.) 125 Vista Boulevard , Slingerlands , New York 12159 (Address
+    of principal executive offices) (Zip
+    Code) ( 518 ) 782-7700 Registrant’s telephone number, including
+area code: N/A (Former name or former address, if changed
+since last report.) Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General
+Instruction A.2. below): ¨ Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425) ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12) ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under
+the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to 12(b) of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered Common
+    Stock, par value $0.01 per share PLUG The Nasdaq Capital
+    Market Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§ 240.12b-2 of this chapter). Emerging growth
+company ¨ If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year. As described in Item 5.07 of this Current Report on Form
+8-K, on February 12, 2026, Plug Power Inc. (the “Company”) held a reconvened special meeting of stockholders (the “Special
+Meeting”), at which the Company’s stockholders approved an amendment (the “Charter Amendment”) to the Company’s
+amended and restated certificate of incorporation, as amended (the “Charter”), to increase the number of authorized shares
+of the Company’s common stock from 1,500,000,000 shares to 3,000,000,000 shares. The Charter Amendment became effective
+February 12, 2026 upon its filing with the Secretary of State of the State of Delaware. The Charter Amendment is filed as Exhibit 3.1 to this Current
+Report on Form 8-K and is incorporated herein by reference. The foregoing description of the Charter Amendment is qualified
+in its entirety by reference thereto. Item 5.07. Submission of Matters to a Vote of Security Holders. Present at the Special Meeting, in person or by proxy, were
+holders of 769,385,735 shares of common stock of the Company as of December 12, 2025, representing at least one-third of the voting
+power of the outstanding shares of the Company’s common stock entitled to vote at the Special Meeting, which constituted a
+quorum. Holders of the Company’s common stock were entitled to one vote per share on each proposal. The stockholders considered the following proposals at the Special
+Meeting and the final voting results are set forth below: Proposal 1 - Amendment of the Company’s Charter to Adjust
+Voting Requirements to Align with Section 242(d)(2) of the Delaware General Corporation Law For Against Abstain Broker Non-Votes 562,318,084 32,118,632 9,099,148 165,849,871 Proposal 2 - Amendment of the Company’s Charter to Increase
+the Number of Authorized Shares of the Company’s Common Stock For Against Abstain Broker Non-Votes 696,657,258 66,316,964 6,411,513 0 At the Special Meeting, the stockholders approved Proposal 2 to amend
+the Charter to increase the number of authorized shares of the Company’s common stock from 1,500,000,000 shares to 3,000,000,000
+shares. Proposal 1 did not receive the affirmative vote of a majority of the voting power of the shares of common stock outstanding
+and entitled to vote on the matter and therefore was not approved. No other items were presented to the stockholders at the Special Meeting. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibit Number Description 3.1 Sixth Certificate of Amendment of Amended and Restated Certificate of Incorporation of Plug Power Inc. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. PLUG POWER INC. February 13, 2026 By: /s/ Paul Middleton Paul Middleton Chief Financial Officer

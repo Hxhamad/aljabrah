@@ -1,0 +1,53 @@
+false --12-31 0001840856 0001840856 2026-05-27 2026-05-27 0001840856 SOUN:ClassCommonStock0.0001ParValuePerShareMember 2026-05-27 2026-05-27 0001840856 SOUN:WarrantsEachExercisableForOneShareOfClassCommonStockAtExercisePriceOf11.50PerShareSubjectToAdjustmentMember 2026-05-27 2026-05-27 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): May 27, 2026 SOUNDHOUND AI, INC. (Exact name of registrant as specified in its charter) Delaware 001-40193 85-1286799 (State or other jurisdiction of incorporation) (Commission File Number) (I.R.S. Employer Identification No.) 5400 Betsy Ross Drive Santa Clara , CA 95054 (Address of principal executive offices) (Zip Code) Registrant’s telephone number, including
+area code: ( 408 ) 441-3200 (Former name or former address, if changed since
+last report) Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General
+Instruction A.2. below): ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Title of each class Trading Symbol Name of each exchange on which registered Class A Common Stock, $0.0001 par value per share SOUN The Nasdaq Stock Market LLC Warrants, each exercisable for one share of Class A Common Stock at an exercise price of $11.50 per share, subject to adjustment SOUNW The Nasdaq Stock Market LLC Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter). Emerging growth company ☐ If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Item 5.03. Amendments to Certificate
+of Incorporation or Bylaws; Change in Fiscal Year. On May 25, 2026, the Board
+of Directors (the “ Board ”) of SoundHound AI, Inc., a Delaware corporation (the “ Company ”), unanimously
+approved and adopted the Second Amended and Restated Bylaws of the Company (the “ Second Amended and Restated Bylaws ”).
+The Second Amended and Restated Bylaws amend and restate those certain Amended and Restated Bylaws of the Company adopted by the Board
+on April 26, 2022, to remove the provision allowing any unauthorized, defective or conflicted transaction questioned in any stockholders’
+derivative suit, or any other suit to enforce alleged rights of the Company or any of its stockholders, to be approved, ratified
+and confirmed by the Board or the Company’s stockholders before or after judgment, and thereby to be cured, and such approval, ratification
+or confirmation to constitute a bar to any claim or execution of any judgment in respect of such questioned transaction. The preceding is a summary
+of the material changes in the Amended and Restated Bylaws and is qualified in its entirety by reference to the complete text of the Amended
+and Restated Bylaws filed as Exhibit 3.1 to this Current Report on Form 8-K (this “ Report ”) and incorporated by reference
+herein. Item 5.07    Submission of Matters to a Vote
+of Security Holders. On May 22, 2026, the Company
+held its 2026 annual meeting of stockholders (the “ Annual Meeting ”). The number of shares of Class A common stock,
+par value $0.0001 per share (the “ Class A Common Stock ”), entitled to vote at the Annual Meeting was 393,674,647 shares
+and the number of shares of Class B common stock, par value $0.0001 per share (the “ Class B Common Stock ” and, together
+with the Class A Common Stock, the “ Voting Stock ”), entitled to vote at the Annual Meeting was 32,535,408 shares. Stockholders
+were entitled to one vote for each share of Class A Common Stock owned and 10 votes for each share of Class B Common Stock owned. The
+number of shares of Voting Stock present or represented by valid proxy at the Annual Meeting was 426,210,055 shares representing 719,028,727
+votes. At the Annual Meeting, the Company’s stockholders (i) re-elected each of Dr. Keyvan Mohajer, James Hom, Larry Marcus, Diana
+Sroka and Dr. Eric Ball as directors to serve on the Board for a one-year term that will expire at the Company’s 2027 annual
+meeting of stockholders, or until their successors are elected and qualified, and (ii) ratified the appointment by the Board of PricewaterhouseCoopers
+LLP as the Company’s independent registered public accounting firm for the fiscal year ending December 31, 2026. The following is a tabulation
+of the voting on each of the proposals presented at the Annual Meeting: Proposal No. 1 – Election of directors Dr. Keyvan Mohajer, James
+Hom, Larry Marcus, Diana Sroka and Dr. Eric Ball were elected to serve until the 2026 annual meeting of stockholders or until his
+or her successor is duly elected and qualified or until his or her earlier resignation or removal or otherwise is disqualified from serving
+as a director of the Company. The voting results were as follows: Nominee Shares Voted For Shares Withheld Broker Non-Votes Dr. Keyvan Mohajer 367,926,495 2,783,725 150,823,007 James Hom 366,138,436 4,571,784 150,823,007 Larry Marcus 356,789,793 13,920,427 150,823,007 Diana Sroka 360,252,557 10,457,663 150,823,007 Dr. Eric Ball 352,655,071 18,055,149 150,823,007 Proposal No. 2 – Ratification
+of the appointment by the Board of the Company of PricewaterhouseCoopers LLP as the Company’s independent registered public accounting
+firm for the fiscal year ending December 31, 2026 The ratification of the appointment
+by the Board of PricewaterhouseCoopers LLP as the Company’s independent registered public accounting firm for the fiscal year ending
+December 31, 2026 was approved. The voting results were as follows: Votes For Votes Against Abstentions 514,619,500 4,307,207 2,606,520 1 Item 8.01. Other Events. As disclosed in the Company’s Registration Statement on Form
+S-3ASR filed with the Securities and Exchange Commission on May 11, 2026 (the “ Registration Statement ”), on May 11,
+2026, the Company entered into an equity distribution agreement (the “ Equity Distribution Agreement ”) with Cantor Fitzgerald
+& Co., D.A. Davidson& Co., H.C. Wainwright & Co., LLC, Roth Capital Partners, LLC, Northland Securities, Inc., Ladenburg Thalmann
+& Co. Inc., Wedbush Securities Inc. and Joseph Gunnar & Co., LLC (collectively, the “ Managers ”), relating to
+the sale of up to $300,000,000 shares of the Company’s Class A common stock, par value $0.0001 per share, pursuant to the Registration
+Statement and the sales prospectus contained therein, from time to time through or to the Managers acting as agent or principal. A copy of the Equity Distribution Agreement is filed as Exhibit 1.1
+to this Report and incorporated by reference herein. Item 9.01. Financial Statement and Exhibits. (a) Financial Statements of Business Acquired The unaudited condensed consolidated
+financial statements of LivePerson, Inc. (“ LivePerson ”) as of and for the three months ended March 31, 2026 and 2025
+are attached as Exhibit 99.1 to this Report and incorporated herein by reference. Such financial statements of LivePerson were prepared
+in accordance with U.S. generally accepted accounting principles as issued by the Financial Accounting Standards Board. (b) Pro Forma Financial Information The unaudited pro forma condensed
+combined financial information of the Company and LivePerson as of and for the three months ended March 31, 2026 are attached as Exhibit
+99.2 to this Report and incorporated herein by reference. Exhibit Number Description 1.1 Equity Distribution Agreement, dated May 11, 2026. 3.1 Second Amended and Restated Bylaws. 99.1 Unaudited condensed consolidated financial statements of LivePerson, Inc. as of and for the three months ended March 31, 2026 and 2025. 99.2 Unaudited pro forma condensed combined financial information of SoundHound AI, Inc. and LivePerson, Inc.  as of and for the three months ended March 31, 2026. 104 Cover Page Interactive Data File (formatted as inline XBRL) 2 SIGNATURE Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized. Dated: May 27, 2026 SoundHound AI, Inc. /s/ Keyvan Mohajer Name: Keyvan Mohajer Title: Chief Executive Officer 3

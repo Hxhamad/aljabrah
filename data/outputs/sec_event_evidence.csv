@@ -1,0 +1,922 @@
+ticker,filing_date,form,accession_number,primary_document,matched_keyword,filing_url,risk_category
+CXAI,2026-06-03,8-K,0001829126-26-006014,cxappinc_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1820875/000182912626006014/cxappinc_8k.htm,dilution
+CXAI,2026-06-03,8-K,0001829126-26-006014,cxappinc_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912626006014/cxappinc_8k.htm,warrants_convertibles
+CXAI,2026-06-03,8-K,0001829126-26-006013,cxappinc_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912626006013/cxappinc_8k.htm,warrants_convertibles
+LASE,2026-06-03,DEF 14A,0001493152-26-027109,formdef14a.htm,offering,https://www.sec.gov/Archives/edgar/data/1807887/000149315226027109/formdef14a.htm,dilution
+LASE,2026-06-03,DEF 14A,0001493152-26-027109,formdef14a.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1807887/000149315226027109/formdef14a.htm,other
+LASE,2026-06-03,DEF 14A,0001493152-26-027109,formdef14a.htm,warrant,https://www.sec.gov/Archives/edgar/data/1807887/000149315226027109/formdef14a.htm,warrants_convertibles
+LASE,2026-06-03,DEF 14A,0001493152-26-027109,formdef14a.htm,compliance,https://www.sec.gov/Archives/edgar/data/1807887/000149315226027109/formdef14a.htm,delisting_compliance
+NOTV,2026-06-03,8-K,0001104659-26-069950,tm2616729d1_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/720154/000110465926069950/tm2616729d1_8k.htm,warrants_convertibles
+NOTV,2026-06-03,8-K,0001104659-26-069950,tm2616729d1_8k.htm,convertible note,https://www.sec.gov/Archives/edgar/data/720154/000110465926069950/tm2616729d1_8k.htm,warrants_convertibles
+NOTV,2026-06-03,8-K,0001104659-26-069950,tm2616729d1_8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/720154/000110465926069950/tm2616729d1_8k.htm,delisting_compliance
+NOTV,2026-06-03,8-K,0001104659-26-069950,tm2616729d1_8k.htm,dilution,https://www.sec.gov/Archives/edgar/data/720154/000110465926069950/tm2616729d1_8k.htm,dilution
+HIVE,2026-06-02,10-K,0001062993-26-002973,form10k.htm,offering,https://www.sec.gov/Archives/edgar/data/1720424/000106299326002973/form10k.htm,dilution
+HIVE,2026-06-02,10-K,0001062993-26-002973,form10k.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1720424/000106299326002973/form10k.htm,dilution
+HIVE,2026-06-02,10-K,0001062993-26-002973,form10k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1720424/000106299326002973/form10k.htm,warrants_convertibles
+HIVE,2026-06-02,10-K,0001062993-26-002973,form10k.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1720424/000106299326002973/form10k.htm,warrants_convertibles
+HIVE,2026-06-02,10-K,0001062993-26-002973,form10k.htm,going concern,https://www.sec.gov/Archives/edgar/data/1720424/000106299326002973/form10k.htm,going_concern
+HIVE,2026-06-02,10-K,0001062993-26-002973,form10k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1720424/000106299326002973/form10k.htm,delisting_compliance
+HIVE,2026-06-02,10-K,0001062993-26-002973,form10k.htm,dilution,https://www.sec.gov/Archives/edgar/data/1720424/000106299326002973/form10k.htm,dilution
+MVIS,2026-06-01,PRE 14A,0001493152-26-026664,formpre14a.htm,reverse split,https://www.sec.gov/Archives/edgar/data/65770/000149315226026664/formpre14a.htm,reverse_split
+MVIS,2026-06-01,PRE 14A,0001493152-26-026664,formpre14a.htm,stock split,https://www.sec.gov/Archives/edgar/data/65770/000149315226026664/formpre14a.htm,reverse_split
+MVIS,2026-06-01,PRE 14A,0001493152-26-026664,formpre14a.htm,offering,https://www.sec.gov/Archives/edgar/data/65770/000149315226026664/formpre14a.htm,dilution
+MVIS,2026-06-01,PRE 14A,0001493152-26-026664,formpre14a.htm,warrant,https://www.sec.gov/Archives/edgar/data/65770/000149315226026664/formpre14a.htm,warrants_convertibles
+MVIS,2026-06-01,PRE 14A,0001493152-26-026664,formpre14a.htm,convertible note,https://www.sec.gov/Archives/edgar/data/65770/000149315226026664/formpre14a.htm,warrants_convertibles
+MVIS,2026-06-01,PRE 14A,0001493152-26-026664,formpre14a.htm,delisting,https://www.sec.gov/Archives/edgar/data/65770/000149315226026664/formpre14a.htm,delisting_compliance
+MVIS,2026-06-01,PRE 14A,0001493152-26-026664,formpre14a.htm,compliance,https://www.sec.gov/Archives/edgar/data/65770/000149315226026664/formpre14a.htm,delisting_compliance
+MVIS,2026-06-01,PRE 14A,0001493152-26-026664,formpre14a.htm,dilution,https://www.sec.gov/Archives/edgar/data/65770/000149315226026664/formpre14a.htm,dilution
+MVIS,2026-06-01,8-K,0001493152-26-026656,form8-k.htm,stock split,https://www.sec.gov/Archives/edgar/data/65770/000149315226026656/form8-k.htm,reverse_split
+NOTV,2026-06-01,8-K,0001628280-26-039281,notv-20260528.htm,convertible note,https://www.sec.gov/Archives/edgar/data/720154/000162828026039281/notv-20260528.htm,warrants_convertibles
+CXAI,2026-05-28,8-K,0001829126-26-005752,cxappinc_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1820875/000182912626005752/cxappinc_8k.htm,dilution
+CXAI,2026-05-28,8-K,0001829126-26-005752,cxappinc_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912626005752/cxappinc_8k.htm,warrants_convertibles
+SOUN,2026-05-27,8-K,0001213900-26-061610,ea0292095-8k_sound.htm,warrant,https://www.sec.gov/Archives/edgar/data/1840856/000121390026061610/ea0292095-8k_sound.htm,warrants_convertibles
+WULF,2026-05-26,8-K,0001083301-26-000109,wulf-20260522.htm,offering,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000109/wulf-20260522.htm,dilution
+DEVS,2026-05-22,8-K,0001140361-26-022598,ef20074443_8k.htm,stock split,https://www.sec.gov/Archives/edgar/data/1854480/000114036126022598/ef20074443_8k.htm,reverse_split
+DEVS,2026-05-22,8-K,0001140361-26-022598,ef20074443_8k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1854480/000114036126022598/ef20074443_8k.htm,delisting_compliance
+DEVS,2026-05-22,8-K,0001140361-26-022598,ef20074443_8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1854480/000114036126022598/ef20074443_8k.htm,delisting_compliance
+LASE,2026-05-22,8-K,0001493152-26-025087,form8-k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1807887/000149315226025087/form8-k.htm,delisting_compliance
+LASE,2026-05-22,8-K,0001493152-26-025087,form8-k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1807887/000149315226025087/form8-k.htm,delisting_compliance
+SMTK,2026-05-20,10-Q,0001104659-26-064618,smtk-20260331x10q.htm,offering,https://www.sec.gov/Archives/edgar/data/1817760/000110465926064618/smtk-20260331x10q.htm,dilution
+SMTK,2026-05-20,10-Q,0001104659-26-064618,smtk-20260331x10q.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1817760/000110465926064618/smtk-20260331x10q.htm,other
+SMTK,2026-05-20,10-Q,0001104659-26-064618,smtk-20260331x10q.htm,warrant,https://www.sec.gov/Archives/edgar/data/1817760/000110465926064618/smtk-20260331x10q.htm,warrants_convertibles
+SMTK,2026-05-20,10-Q,0001104659-26-064618,smtk-20260331x10q.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1817760/000110465926064618/smtk-20260331x10q.htm,warrants_convertibles
+SMTK,2026-05-20,10-Q,0001104659-26-064618,smtk-20260331x10q.htm,going concern,https://www.sec.gov/Archives/edgar/data/1817760/000110465926064618/smtk-20260331x10q.htm,going_concern
+SMTK,2026-05-20,10-Q,0001104659-26-064618,smtk-20260331x10q.htm,compliance,https://www.sec.gov/Archives/edgar/data/1817760/000110465926064618/smtk-20260331x10q.htm,delisting_compliance
+SMTK,2026-05-20,10-Q,0001104659-26-064618,smtk-20260331x10q.htm,dilution,https://www.sec.gov/Archives/edgar/data/1817760/000110465926064618/smtk-20260331x10q.htm,dilution
+VVOS,2026-05-20,10-Q,0001493152-26-024650,form10-q.htm,stock split,https://www.sec.gov/Archives/edgar/data/1716166/000149315226024650/form10-q.htm,reverse_split
+VVOS,2026-05-20,10-Q,0001493152-26-024650,form10-q.htm,offering,https://www.sec.gov/Archives/edgar/data/1716166/000149315226024650/form10-q.htm,dilution
+VVOS,2026-05-20,10-Q,0001493152-26-024650,form10-q.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1716166/000149315226024650/form10-q.htm,dilution
+VVOS,2026-05-20,10-Q,0001493152-26-024650,form10-q.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1716166/000149315226024650/form10-q.htm,dilution
+VVOS,2026-05-20,10-Q,0001493152-26-024650,form10-q.htm,warrant,https://www.sec.gov/Archives/edgar/data/1716166/000149315226024650/form10-q.htm,warrants_convertibles
+VVOS,2026-05-20,10-Q,0001493152-26-024650,form10-q.htm,going concern,https://www.sec.gov/Archives/edgar/data/1716166/000149315226024650/form10-q.htm,going_concern
+VVOS,2026-05-20,10-Q,0001493152-26-024650,form10-q.htm,delisting,https://www.sec.gov/Archives/edgar/data/1716166/000149315226024650/form10-q.htm,delisting_compliance
+VVOS,2026-05-20,10-Q,0001493152-26-024650,form10-q.htm,compliance,https://www.sec.gov/Archives/edgar/data/1716166/000149315226024650/form10-q.htm,delisting_compliance
+VVOS,2026-05-20,10-Q,0001493152-26-024650,form10-q.htm,dilution,https://www.sec.gov/Archives/edgar/data/1716166/000149315226024650/form10-q.htm,dilution
+DEVS,2026-05-18,8-K,0001140361-26-021906,ef20074086_form8k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1854480/000114036126021906/ef20074086_form8k.htm,delisting_compliance
+DEVS,2026-05-18,8-K,0001140361-26-021906,ef20074086_form8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1854480/000114036126021906/ef20074086_form8k.htm,delisting_compliance
+NOTV,2026-05-18,8-K,0001104659-26-063032,tm2614614d1_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/720154/000110465926063032/tm2614614d1_8k.htm,warrants_convertibles
+NOTV,2026-05-18,8-K,0001104659-26-063032,tm2614614d1_8k.htm,convertible note,https://www.sec.gov/Archives/edgar/data/720154/000110465926063032/tm2614614d1_8k.htm,warrants_convertibles
+SMTK,2026-05-18,DEF 14A,0001104659-26-063286,tm261615-3_def14a.htm,reverse split,https://www.sec.gov/Archives/edgar/data/1817760/000110465926063286/tm261615-3_def14a.htm,reverse_split
+SMTK,2026-05-18,DEF 14A,0001104659-26-063286,tm261615-3_def14a.htm,stock split,https://www.sec.gov/Archives/edgar/data/1817760/000110465926063286/tm261615-3_def14a.htm,reverse_split
+SMTK,2026-05-18,DEF 14A,0001104659-26-063286,tm261615-3_def14a.htm,offering,https://www.sec.gov/Archives/edgar/data/1817760/000110465926063286/tm261615-3_def14a.htm,dilution
+SMTK,2026-05-18,DEF 14A,0001104659-26-063286,tm261615-3_def14a.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1817760/000110465926063286/tm261615-3_def14a.htm,other
+SMTK,2026-05-18,DEF 14A,0001104659-26-063286,tm261615-3_def14a.htm,warrant,https://www.sec.gov/Archives/edgar/data/1817760/000110465926063286/tm261615-3_def14a.htm,warrants_convertibles
+SMTK,2026-05-18,DEF 14A,0001104659-26-063286,tm261615-3_def14a.htm,going concern,https://www.sec.gov/Archives/edgar/data/1817760/000110465926063286/tm261615-3_def14a.htm,going_concern
+SMTK,2026-05-18,DEF 14A,0001104659-26-063286,tm261615-3_def14a.htm,delisting,https://www.sec.gov/Archives/edgar/data/1817760/000110465926063286/tm261615-3_def14a.htm,delisting_compliance
+SMTK,2026-05-18,DEF 14A,0001104659-26-063286,tm261615-3_def14a.htm,compliance,https://www.sec.gov/Archives/edgar/data/1817760/000110465926063286/tm261615-3_def14a.htm,delisting_compliance
+SMTK,2026-05-18,DEF 14A,0001104659-26-063286,tm261615-3_def14a.htm,dilution,https://www.sec.gov/Archives/edgar/data/1817760/000110465926063286/tm261615-3_def14a.htm,dilution
+BCDA,2026-05-15,8-K,0001437749-26-017222,bcda20260515_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/925741/000143774926017222/bcda20260515_8k.htm,warrants_convertibles
+BCDA,2026-05-15,10-Q,0001437749-26-017221,bcda20260331_10q.htm,offering,https://www.sec.gov/Archives/edgar/data/925741/000143774926017221/bcda20260331_10q.htm,dilution
+BCDA,2026-05-15,10-Q,0001437749-26-017221,bcda20260331_10q.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/925741/000143774926017221/bcda20260331_10q.htm,dilution
+BCDA,2026-05-15,10-Q,0001437749-26-017221,bcda20260331_10q.htm,warrant,https://www.sec.gov/Archives/edgar/data/925741/000143774926017221/bcda20260331_10q.htm,warrants_convertibles
+BCDA,2026-05-15,10-Q,0001437749-26-017221,bcda20260331_10q.htm,going concern,https://www.sec.gov/Archives/edgar/data/925741/000143774926017221/bcda20260331_10q.htm,going_concern
+BCDA,2026-05-15,10-Q,0001437749-26-017221,bcda20260331_10q.htm,delisting,https://www.sec.gov/Archives/edgar/data/925741/000143774926017221/bcda20260331_10q.htm,delisting_compliance
+BCDA,2026-05-15,10-Q,0001437749-26-017221,bcda20260331_10q.htm,compliance,https://www.sec.gov/Archives/edgar/data/925741/000143774926017221/bcda20260331_10q.htm,delisting_compliance
+BCDA,2026-05-15,10-Q,0001437749-26-017221,bcda20260331_10q.htm,dilution,https://www.sec.gov/Archives/edgar/data/925741/000143774926017221/bcda20260331_10q.htm,dilution
+MVIS,2026-05-15,10-Q,0001493152-26-023667,form10-q.htm,offering,https://www.sec.gov/Archives/edgar/data/65770/000149315226023667/form10-q.htm,dilution
+MVIS,2026-05-15,10-Q,0001493152-26-023667,form10-q.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/65770/000149315226023667/form10-q.htm,dilution
+MVIS,2026-05-15,10-Q,0001493152-26-023667,form10-q.htm,warrant,https://www.sec.gov/Archives/edgar/data/65770/000149315226023667/form10-q.htm,warrants_convertibles
+MVIS,2026-05-15,10-Q,0001493152-26-023667,form10-q.htm,convertible note,https://www.sec.gov/Archives/edgar/data/65770/000149315226023667/form10-q.htm,warrants_convertibles
+MVIS,2026-05-15,10-Q,0001493152-26-023667,form10-q.htm,going concern,https://www.sec.gov/Archives/edgar/data/65770/000149315226023667/form10-q.htm,going_concern
+MVIS,2026-05-15,10-Q,0001493152-26-023667,form10-q.htm,delisting,https://www.sec.gov/Archives/edgar/data/65770/000149315226023667/form10-q.htm,delisting_compliance
+MVIS,2026-05-15,10-Q,0001493152-26-023667,form10-q.htm,compliance,https://www.sec.gov/Archives/edgar/data/65770/000149315226023667/form10-q.htm,delisting_compliance
+MVIS,2026-05-15,10-Q,0001493152-26-023667,form10-q.htm,dilution,https://www.sec.gov/Archives/edgar/data/65770/000149315226023667/form10-q.htm,dilution
+KULR,2026-05-14,10-Q,0001104659-26-061180,tmb-20260331x10q.htm,stock split,https://www.sec.gov/Archives/edgar/data/1662684/000110465926061180/tmb-20260331x10q.htm,reverse_split
+KULR,2026-05-14,10-Q,0001104659-26-061180,tmb-20260331x10q.htm,offering,https://www.sec.gov/Archives/edgar/data/1662684/000110465926061180/tmb-20260331x10q.htm,dilution
+KULR,2026-05-14,10-Q,0001104659-26-061180,tmb-20260331x10q.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1662684/000110465926061180/tmb-20260331x10q.htm,dilution
+KULR,2026-05-14,10-Q,0001104659-26-061180,tmb-20260331x10q.htm,warrant,https://www.sec.gov/Archives/edgar/data/1662684/000110465926061180/tmb-20260331x10q.htm,warrants_convertibles
+KULR,2026-05-14,10-Q,0001104659-26-061180,tmb-20260331x10q.htm,going concern,https://www.sec.gov/Archives/edgar/data/1662684/000110465926061180/tmb-20260331x10q.htm,going_concern
+KULR,2026-05-14,10-Q,0001104659-26-061180,tmb-20260331x10q.htm,compliance,https://www.sec.gov/Archives/edgar/data/1662684/000110465926061180/tmb-20260331x10q.htm,delisting_compliance
+CXAI,2026-05-13,8-K,0001829126-26-005105,cxapp_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912626005105/cxapp_8k.htm,warrants_convertibles
+CXAI,2026-05-13,10-Q,0001829126-26-005103,cxappinc_10q.htm,offering,https://www.sec.gov/Archives/edgar/data/1820875/000182912626005103/cxappinc_10q.htm,dilution
+CXAI,2026-05-13,10-Q,0001829126-26-005103,cxappinc_10q.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1820875/000182912626005103/cxappinc_10q.htm,dilution
+CXAI,2026-05-13,10-Q,0001829126-26-005103,cxappinc_10q.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912626005103/cxappinc_10q.htm,warrants_convertibles
+CXAI,2026-05-13,10-Q,0001829126-26-005103,cxappinc_10q.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1820875/000182912626005103/cxappinc_10q.htm,warrants_convertibles
+CXAI,2026-05-13,10-Q,0001829126-26-005103,cxappinc_10q.htm,going concern,https://www.sec.gov/Archives/edgar/data/1820875/000182912626005103/cxappinc_10q.htm,going_concern
+CXAI,2026-05-13,10-Q,0001829126-26-005103,cxappinc_10q.htm,compliance,https://www.sec.gov/Archives/edgar/data/1820875/000182912626005103/cxappinc_10q.htm,delisting_compliance
+HIVE,2026-05-12,8-K,0001062993-26-002517,form8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1720424/000106299326002517/form8k.htm,delisting_compliance
+LASE,2026-05-12,8-K,0001493152-26-022509,form8-k.htm,offering,https://www.sec.gov/Archives/edgar/data/1807887/000149315226022509/form8-k.htm,dilution
+LASE,2026-05-12,8-K,0001493152-26-022509,form8-k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1807887/000149315226022509/form8-k.htm,delisting_compliance
+NOTV,2026-05-11,10-Q,0001628280-26-033620,notv-20260331.htm,reverse split,https://www.sec.gov/Archives/edgar/data/720154/000162828026033620/notv-20260331.htm,reverse_split
+NOTV,2026-05-11,10-Q,0001628280-26-033620,notv-20260331.htm,offering,https://www.sec.gov/Archives/edgar/data/720154/000162828026033620/notv-20260331.htm,dilution
+NOTV,2026-05-11,10-Q,0001628280-26-033620,notv-20260331.htm,warrant,https://www.sec.gov/Archives/edgar/data/720154/000162828026033620/notv-20260331.htm,warrants_convertibles
+NOTV,2026-05-11,10-Q,0001628280-26-033620,notv-20260331.htm,convertible note,https://www.sec.gov/Archives/edgar/data/720154/000162828026033620/notv-20260331.htm,warrants_convertibles
+NOTV,2026-05-11,10-Q,0001628280-26-033620,notv-20260331.htm,going concern,https://www.sec.gov/Archives/edgar/data/720154/000162828026033620/notv-20260331.htm,going_concern
+NOTV,2026-05-11,10-Q,0001628280-26-033620,notv-20260331.htm,delisting,https://www.sec.gov/Archives/edgar/data/720154/000162828026033620/notv-20260331.htm,delisting_compliance
+NOTV,2026-05-11,10-Q,0001628280-26-033620,notv-20260331.htm,compliance,https://www.sec.gov/Archives/edgar/data/720154/000162828026033620/notv-20260331.htm,delisting_compliance
+NOTV,2026-05-11,10-Q,0001628280-26-033620,notv-20260331.htm,dilution,https://www.sec.gov/Archives/edgar/data/720154/000162828026033620/notv-20260331.htm,dilution
+PLUG,2026-05-11,10-Q,0001104659-26-058712,plug-20260331x10q.htm,offering,https://www.sec.gov/Archives/edgar/data/1093691/000110465926058712/plug-20260331x10q.htm,dilution
+PLUG,2026-05-11,10-Q,0001104659-26-058712,plug-20260331x10q.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1093691/000110465926058712/plug-20260331x10q.htm,other
+PLUG,2026-05-11,10-Q,0001104659-26-058712,plug-20260331x10q.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1093691/000110465926058712/plug-20260331x10q.htm,dilution
+PLUG,2026-05-11,10-Q,0001104659-26-058712,plug-20260331x10q.htm,warrant,https://www.sec.gov/Archives/edgar/data/1093691/000110465926058712/plug-20260331x10q.htm,warrants_convertibles
+PLUG,2026-05-11,10-Q,0001104659-26-058712,plug-20260331x10q.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1093691/000110465926058712/plug-20260331x10q.htm,warrants_convertibles
+PLUG,2026-05-11,10-Q,0001104659-26-058712,plug-20260331x10q.htm,compliance,https://www.sec.gov/Archives/edgar/data/1093691/000110465926058712/plug-20260331x10q.htm,delisting_compliance
+PLUG,2026-05-11,10-Q,0001104659-26-058712,plug-20260331x10q.htm,dilution,https://www.sec.gov/Archives/edgar/data/1093691/000110465926058712/plug-20260331x10q.htm,dilution
+SOUN,2026-05-11,10-Q,0001840856-26-000015,soun-20260331.htm,offering,https://www.sec.gov/Archives/edgar/data/1840856/000184085626000015/soun-20260331.htm,dilution
+SOUN,2026-05-11,10-Q,0001840856-26-000015,soun-20260331.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1840856/000184085626000015/soun-20260331.htm,dilution
+SOUN,2026-05-11,10-Q,0001840856-26-000015,soun-20260331.htm,warrant,https://www.sec.gov/Archives/edgar/data/1840856/000184085626000015/soun-20260331.htm,warrants_convertibles
+SOUN,2026-05-11,10-Q,0001840856-26-000015,soun-20260331.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1840856/000184085626000015/soun-20260331.htm,warrants_convertibles
+SOUN,2026-05-11,10-Q,0001840856-26-000015,soun-20260331.htm,going concern,https://www.sec.gov/Archives/edgar/data/1840856/000184085626000015/soun-20260331.htm,going_concern
+SOUN,2026-05-11,10-Q,0001840856-26-000015,soun-20260331.htm,compliance,https://www.sec.gov/Archives/edgar/data/1840856/000184085626000015/soun-20260331.htm,delisting_compliance
+VVOS,2026-05-08,424B3,0001493152-26-022022,form424b3.htm,offering,https://www.sec.gov/Archives/edgar/data/1716166/000149315226022022/form424b3.htm,dilution
+VVOS,2026-05-08,424B3,0001493152-26-022022,form424b3.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1716166/000149315226022022/form424b3.htm,other
+VVOS,2026-05-08,424B3,0001493152-26-022022,form424b3.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1716166/000149315226022022/form424b3.htm,dilution
+VVOS,2026-05-08,424B3,0001493152-26-022022,form424b3.htm,warrant,https://www.sec.gov/Archives/edgar/data/1716166/000149315226022022/form424b3.htm,warrants_convertibles
+VVOS,2026-05-08,424B3,0001493152-26-022022,form424b3.htm,going concern,https://www.sec.gov/Archives/edgar/data/1716166/000149315226022022/form424b3.htm,going_concern
+VVOS,2026-05-08,424B3,0001493152-26-022022,form424b3.htm,compliance,https://www.sec.gov/Archives/edgar/data/1716166/000149315226022022/form424b3.htm,delisting_compliance
+VVOS,2026-05-08,424B3,0001493152-26-022022,form424b3.htm,dilution,https://www.sec.gov/Archives/edgar/data/1716166/000149315226022022/form424b3.htm,dilution
+WULF,2026-05-08,10-Q,0001083301-26-000092,wulf-20260331.htm,offering,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000092/wulf-20260331.htm,dilution
+WULF,2026-05-08,10-Q,0001083301-26-000092,wulf-20260331.htm,warrant,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000092/wulf-20260331.htm,warrants_convertibles
+WULF,2026-05-08,10-Q,0001083301-26-000092,wulf-20260331.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000092/wulf-20260331.htm,warrants_convertibles
+WULF,2026-05-08,10-Q,0001083301-26-000092,wulf-20260331.htm,delisting,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000092/wulf-20260331.htm,delisting_compliance
+WULF,2026-05-08,10-Q,0001083301-26-000092,wulf-20260331.htm,compliance,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000092/wulf-20260331.htm,delisting_compliance
+WULF,2026-05-08,10-Q,0001083301-26-000092,wulf-20260331.htm,dilution,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000092/wulf-20260331.htm,dilution
+BYND,2026-05-07,10-Q,0001655210-26-000037,bynd-20260328.htm,stock split,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000037/bynd-20260328.htm,reverse_split
+BYND,2026-05-07,10-Q,0001655210-26-000037,bynd-20260328.htm,offering,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000037/bynd-20260328.htm,dilution
+BYND,2026-05-07,10-Q,0001655210-26-000037,bynd-20260328.htm,warrant,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000037/bynd-20260328.htm,warrants_convertibles
+BYND,2026-05-07,10-Q,0001655210-26-000037,bynd-20260328.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000037/bynd-20260328.htm,warrants_convertibles
+BYND,2026-05-07,10-Q,0001655210-26-000037,bynd-20260328.htm,delisting,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000037/bynd-20260328.htm,delisting_compliance
+BYND,2026-05-07,10-Q,0001655210-26-000037,bynd-20260328.htm,compliance,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000037/bynd-20260328.htm,delisting_compliance
+BYND,2026-05-07,10-Q,0001655210-26-000037,bynd-20260328.htm,dilution,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000037/bynd-20260328.htm,dilution
+CXAI,2026-05-07,DEF 14A,0001829126-26-004743,cxappinc_def14a.htm,stock split,https://www.sec.gov/Archives/edgar/data/1820875/000182912626004743/cxappinc_def14a.htm,reverse_split
+CXAI,2026-05-07,DEF 14A,0001829126-26-004743,cxappinc_def14a.htm,offering,https://www.sec.gov/Archives/edgar/data/1820875/000182912626004743/cxappinc_def14a.htm,dilution
+CXAI,2026-05-07,DEF 14A,0001829126-26-004743,cxappinc_def14a.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1820875/000182912626004743/cxappinc_def14a.htm,other
+CXAI,2026-05-07,DEF 14A,0001829126-26-004743,cxappinc_def14a.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912626004743/cxappinc_def14a.htm,warrants_convertibles
+CXAI,2026-05-07,DEF 14A,0001829126-26-004743,cxappinc_def14a.htm,going concern,https://www.sec.gov/Archives/edgar/data/1820875/000182912626004743/cxappinc_def14a.htm,going_concern
+CXAI,2026-05-07,DEF 14A,0001829126-26-004743,cxappinc_def14a.htm,compliance,https://www.sec.gov/Archives/edgar/data/1820875/000182912626004743/cxappinc_def14a.htm,delisting_compliance
+CXAI,2026-05-07,DEF 14A,0001829126-26-004743,cxappinc_def14a.htm,dilution,https://www.sec.gov/Archives/edgar/data/1820875/000182912626004743/cxappinc_def14a.htm,dilution
+HIVE,2026-05-07,8-K,0001062993-26-002404,form8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1720424/000106299326002404/form8k.htm,dilution
+HIVE,2026-05-07,8-K,0001062993-26-002404,form8k.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1720424/000106299326002404/form8k.htm,dilution
+HIVE,2026-05-07,8-K,0001062993-26-002404,form8k.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1720424/000106299326002404/form8k.htm,dilution
+OPEN,2026-05-07,10-Q,0001801169-26-000014,open-20260331.htm,offering,https://www.sec.gov/Archives/edgar/data/1801169/000180116926000014/open-20260331.htm,dilution
+OPEN,2026-05-07,10-Q,0001801169-26-000014,open-20260331.htm,warrant,https://www.sec.gov/Archives/edgar/data/1801169/000180116926000014/open-20260331.htm,warrants_convertibles
+OPEN,2026-05-07,10-Q,0001801169-26-000014,open-20260331.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1801169/000180116926000014/open-20260331.htm,warrants_convertibles
+OPEN,2026-05-07,10-Q,0001801169-26-000014,open-20260331.htm,delisting,https://www.sec.gov/Archives/edgar/data/1801169/000180116926000014/open-20260331.htm,delisting_compliance
+OPEN,2026-05-07,10-Q,0001801169-26-000014,open-20260331.htm,compliance,https://www.sec.gov/Archives/edgar/data/1801169/000180116926000014/open-20260331.htm,delisting_compliance
+OPEN,2026-05-07,8-K,0001801169-26-000013,open-20260507.htm,warrant,https://www.sec.gov/Archives/edgar/data/1801169/000180116926000013/open-20260507.htm,warrants_convertibles
+SOUN,2026-05-07,8-K,0001840856-26-000012,soun-20260507.htm,warrant,https://www.sec.gov/Archives/edgar/data/1840856/000184085626000012/soun-20260507.htm,warrants_convertibles
+BBAI,2026-05-05,10-Q,0001836981-26-000049,bbai-20260331.htm,stock split,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000049/bbai-20260331.htm,reverse_split
+BBAI,2026-05-05,10-Q,0001836981-26-000049,bbai-20260331.htm,offering,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000049/bbai-20260331.htm,dilution
+BBAI,2026-05-05,10-Q,0001836981-26-000049,bbai-20260331.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000049/bbai-20260331.htm,other
+BBAI,2026-05-05,10-Q,0001836981-26-000049,bbai-20260331.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000049/bbai-20260331.htm,dilution
+BBAI,2026-05-05,10-Q,0001836981-26-000049,bbai-20260331.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000049/bbai-20260331.htm,dilution
+BBAI,2026-05-05,10-Q,0001836981-26-000049,bbai-20260331.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000049/bbai-20260331.htm,warrants_convertibles
+BBAI,2026-05-05,10-Q,0001836981-26-000049,bbai-20260331.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000049/bbai-20260331.htm,warrants_convertibles
+BBAI,2026-05-05,10-Q,0001836981-26-000049,bbai-20260331.htm,compliance,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000049/bbai-20260331.htm,delisting_compliance
+BBAI,2026-05-05,8-K,0001836981-26-000047,bbai-20260505.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000047/bbai-20260505.htm,warrants_convertibles
+LASE,2026-05-05,424B3,0001493152-26-021326,form424b3.htm,reverse split,https://www.sec.gov/Archives/edgar/data/1807887/000149315226021326/form424b3.htm,reverse_split
+LASE,2026-05-05,424B3,0001493152-26-021326,form424b3.htm,stock split,https://www.sec.gov/Archives/edgar/data/1807887/000149315226021326/form424b3.htm,reverse_split
+LASE,2026-05-05,424B3,0001493152-26-021326,form424b3.htm,offering,https://www.sec.gov/Archives/edgar/data/1807887/000149315226021326/form424b3.htm,dilution
+LASE,2026-05-05,424B3,0001493152-26-021326,form424b3.htm,warrant,https://www.sec.gov/Archives/edgar/data/1807887/000149315226021326/form424b3.htm,warrants_convertibles
+LASE,2026-05-05,424B3,0001493152-26-021326,form424b3.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1807887/000149315226021326/form424b3.htm,warrants_convertibles
+LASE,2026-05-05,424B3,0001493152-26-021326,form424b3.htm,compliance,https://www.sec.gov/Archives/edgar/data/1807887/000149315226021326/form424b3.htm,delisting_compliance
+LASE,2026-05-05,424B3,0001493152-26-021326,form424b3.htm,dilution,https://www.sec.gov/Archives/edgar/data/1807887/000149315226021326/form424b3.htm,dilution
+SMTK,2026-05-05,PRE 14A,0001104659-26-055518,tm261615-1_pre14a.htm,reverse split,https://www.sec.gov/Archives/edgar/data/1817760/000110465926055518/tm261615-1_pre14a.htm,reverse_split
+SMTK,2026-05-05,PRE 14A,0001104659-26-055518,tm261615-1_pre14a.htm,stock split,https://www.sec.gov/Archives/edgar/data/1817760/000110465926055518/tm261615-1_pre14a.htm,reverse_split
+SMTK,2026-05-05,PRE 14A,0001104659-26-055518,tm261615-1_pre14a.htm,offering,https://www.sec.gov/Archives/edgar/data/1817760/000110465926055518/tm261615-1_pre14a.htm,dilution
+SMTK,2026-05-05,PRE 14A,0001104659-26-055518,tm261615-1_pre14a.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1817760/000110465926055518/tm261615-1_pre14a.htm,other
+SMTK,2026-05-05,PRE 14A,0001104659-26-055518,tm261615-1_pre14a.htm,warrant,https://www.sec.gov/Archives/edgar/data/1817760/000110465926055518/tm261615-1_pre14a.htm,warrants_convertibles
+SMTK,2026-05-05,PRE 14A,0001104659-26-055518,tm261615-1_pre14a.htm,going concern,https://www.sec.gov/Archives/edgar/data/1817760/000110465926055518/tm261615-1_pre14a.htm,going_concern
+SMTK,2026-05-05,PRE 14A,0001104659-26-055518,tm261615-1_pre14a.htm,delisting,https://www.sec.gov/Archives/edgar/data/1817760/000110465926055518/tm261615-1_pre14a.htm,delisting_compliance
+SMTK,2026-05-05,PRE 14A,0001104659-26-055518,tm261615-1_pre14a.htm,compliance,https://www.sec.gov/Archives/edgar/data/1817760/000110465926055518/tm261615-1_pre14a.htm,delisting_compliance
+SMTK,2026-05-05,PRE 14A,0001104659-26-055518,tm261615-1_pre14a.htm,dilution,https://www.sec.gov/Archives/edgar/data/1817760/000110465926055518/tm261615-1_pre14a.htm,dilution
+MVIS,2026-05-04,424B5,0001493152-26-021158,form424b5.htm,offering,https://www.sec.gov/Archives/edgar/data/65770/000149315226021158/form424b5.htm,dilution
+MVIS,2026-05-04,424B5,0001493152-26-021158,form424b5.htm,warrant,https://www.sec.gov/Archives/edgar/data/65770/000149315226021158/form424b5.htm,warrants_convertibles
+MVIS,2026-05-04,424B5,0001493152-26-021158,form424b5.htm,convertible note,https://www.sec.gov/Archives/edgar/data/65770/000149315226021158/form424b5.htm,warrants_convertibles
+MVIS,2026-05-04,424B5,0001493152-26-021158,form424b5.htm,going concern,https://www.sec.gov/Archives/edgar/data/65770/000149315226021158/form424b5.htm,going_concern
+MVIS,2026-05-04,424B5,0001493152-26-021158,form424b5.htm,compliance,https://www.sec.gov/Archives/edgar/data/65770/000149315226021158/form424b5.htm,delisting_compliance
+MVIS,2026-05-04,424B5,0001493152-26-021158,form424b5.htm,dilution,https://www.sec.gov/Archives/edgar/data/65770/000149315226021158/form424b5.htm,dilution
+DEVS,2026-05-01,8-K,0001140361-26-018610,ef20071946_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1854480/000114036126018610/ef20071946_8k.htm,dilution
+DEVS,2026-05-01,8-K,0001140361-26-018610,ef20071946_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1854480/000114036126018610/ef20071946_8k.htm,warrants_convertibles
+DEVS,2026-05-01,8-K,0001140361-26-018610,ef20071946_8k.htm,dilution,https://www.sec.gov/Archives/edgar/data/1854480/000114036126018610/ef20071946_8k.htm,dilution
+LASE,2026-04-30,PRE 14A,0001493152-26-019830,formpre14a.htm,offering,https://www.sec.gov/Archives/edgar/data/1807887/000149315226019830/formpre14a.htm,dilution
+LASE,2026-04-30,PRE 14A,0001493152-26-019830,formpre14a.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1807887/000149315226019830/formpre14a.htm,other
+LASE,2026-04-30,PRE 14A,0001493152-26-019830,formpre14a.htm,warrant,https://www.sec.gov/Archives/edgar/data/1807887/000149315226019830/formpre14a.htm,warrants_convertibles
+LASE,2026-04-30,PRE 14A,0001493152-26-019830,formpre14a.htm,compliance,https://www.sec.gov/Archives/edgar/data/1807887/000149315226019830/formpre14a.htm,delisting_compliance
+PLUG,2026-04-30,DEF 14A,0001104659-26-052851,tm263044-1_def14a.htm,stock split,https://www.sec.gov/Archives/edgar/data/1093691/000110465926052851/tm263044-1_def14a.htm,reverse_split
+PLUG,2026-04-30,DEF 14A,0001104659-26-052851,tm263044-1_def14a.htm,offering,https://www.sec.gov/Archives/edgar/data/1093691/000110465926052851/tm263044-1_def14a.htm,dilution
+PLUG,2026-04-30,DEF 14A,0001104659-26-052851,tm263044-1_def14a.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1093691/000110465926052851/tm263044-1_def14a.htm,other
+PLUG,2026-04-30,DEF 14A,0001104659-26-052851,tm263044-1_def14a.htm,warrant,https://www.sec.gov/Archives/edgar/data/1093691/000110465926052851/tm263044-1_def14a.htm,warrants_convertibles
+PLUG,2026-04-30,DEF 14A,0001104659-26-052851,tm263044-1_def14a.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1093691/000110465926052851/tm263044-1_def14a.htm,warrants_convertibles
+PLUG,2026-04-30,DEF 14A,0001104659-26-052851,tm263044-1_def14a.htm,compliance,https://www.sec.gov/Archives/edgar/data/1093691/000110465926052851/tm263044-1_def14a.htm,delisting_compliance
+PLUG,2026-04-30,DEF 14A,0001104659-26-052851,tm263044-1_def14a.htm,dilution,https://www.sec.gov/Archives/edgar/data/1093691/000110465926052851/tm263044-1_def14a.htm,dilution
+RIOT,2026-04-30,10-Q,0001104659-26-053120,riot-20260331x10q.htm,offering,https://www.sec.gov/Archives/edgar/data/1167419/000110465926053120/riot-20260331x10q.htm,dilution
+RIOT,2026-04-30,10-Q,0001104659-26-053120,riot-20260331x10q.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1167419/000110465926053120/riot-20260331x10q.htm,dilution
+RIOT,2026-04-30,10-Q,0001104659-26-053120,riot-20260331x10q.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1167419/000110465926053120/riot-20260331x10q.htm,dilution
+RIOT,2026-04-30,10-Q,0001104659-26-053120,riot-20260331x10q.htm,warrant,https://www.sec.gov/Archives/edgar/data/1167419/000110465926053120/riot-20260331x10q.htm,warrants_convertibles
+RIOT,2026-04-30,10-Q,0001104659-26-053120,riot-20260331x10q.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1167419/000110465926053120/riot-20260331x10q.htm,warrants_convertibles
+RIOT,2026-04-30,10-Q,0001104659-26-053120,riot-20260331x10q.htm,dilution,https://www.sec.gov/Archives/edgar/data/1167419/000110465926053120/riot-20260331x10q.htm,dilution
+RIOT,2026-04-30,DEF 14A,0001104659-26-053098,riot-20260609xdef14a.htm,stock split,https://www.sec.gov/Archives/edgar/data/1167419/000110465926053098/riot-20260609xdef14a.htm,reverse_split
+RIOT,2026-04-30,DEF 14A,0001104659-26-053098,riot-20260609xdef14a.htm,offering,https://www.sec.gov/Archives/edgar/data/1167419/000110465926053098/riot-20260609xdef14a.htm,dilution
+RIOT,2026-04-30,DEF 14A,0001104659-26-053098,riot-20260609xdef14a.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1167419/000110465926053098/riot-20260609xdef14a.htm,other
+RIOT,2026-04-30,DEF 14A,0001104659-26-053098,riot-20260609xdef14a.htm,warrant,https://www.sec.gov/Archives/edgar/data/1167419/000110465926053098/riot-20260609xdef14a.htm,warrants_convertibles
+RIOT,2026-04-30,DEF 14A,0001104659-26-053098,riot-20260609xdef14a.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1167419/000110465926053098/riot-20260609xdef14a.htm,warrants_convertibles
+RIOT,2026-04-30,DEF 14A,0001104659-26-053098,riot-20260609xdef14a.htm,compliance,https://www.sec.gov/Archives/edgar/data/1167419/000110465926053098/riot-20260609xdef14a.htm,delisting_compliance
+RIOT,2026-04-30,DEF 14A,0001104659-26-053098,riot-20260609xdef14a.htm,dilution,https://www.sec.gov/Archives/edgar/data/1167419/000110465926053098/riot-20260609xdef14a.htm,dilution
+LASE,2026-04-29,8-K,0001493152-26-019496,form8-k.htm,offering,https://www.sec.gov/Archives/edgar/data/1807887/000149315226019496/form8-k.htm,dilution
+LASE,2026-04-29,8-K,0001493152-26-019496,form8-k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1807887/000149315226019496/form8-k.htm,warrants_convertibles
+LASE,2026-04-29,8-K,0001493152-26-019496,form8-k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1807887/000149315226019496/form8-k.htm,delisting_compliance
+SMTK,2026-04-29,8-K,0001104659-26-051601,tm2613090d1_8k.htm,stock split,https://www.sec.gov/Archives/edgar/data/1817760/000110465926051601/tm2613090d1_8k.htm,reverse_split
+BBAI,2026-04-28,DEF 14A,0001836981-26-000028,bbai-20260428.htm,offering,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000028/bbai-20260428.htm,dilution
+BBAI,2026-04-28,DEF 14A,0001836981-26-000028,bbai-20260428.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000028/bbai-20260428.htm,warrants_convertibles
+BBAI,2026-04-28,DEF 14A,0001836981-26-000028,bbai-20260428.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000028/bbai-20260428.htm,warrants_convertibles
+BBAI,2026-04-28,DEF 14A,0001836981-26-000028,bbai-20260428.htm,compliance,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000028/bbai-20260428.htm,delisting_compliance
+OPEN,2026-04-28,DEF 14A,0001140361-26-017460,ny20064714x1_def14a.htm,stock split,https://www.sec.gov/Archives/edgar/data/1801169/000114036126017460/ny20064714x1_def14a.htm,reverse_split
+OPEN,2026-04-28,DEF 14A,0001140361-26-017460,ny20064714x1_def14a.htm,offering,https://www.sec.gov/Archives/edgar/data/1801169/000114036126017460/ny20064714x1_def14a.htm,dilution
+OPEN,2026-04-28,DEF 14A,0001140361-26-017460,ny20064714x1_def14a.htm,warrant,https://www.sec.gov/Archives/edgar/data/1801169/000114036126017460/ny20064714x1_def14a.htm,warrants_convertibles
+OPEN,2026-04-28,DEF 14A,0001140361-26-017460,ny20064714x1_def14a.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1801169/000114036126017460/ny20064714x1_def14a.htm,warrants_convertibles
+OPEN,2026-04-28,DEF 14A,0001140361-26-017460,ny20064714x1_def14a.htm,compliance,https://www.sec.gov/Archives/edgar/data/1801169/000114036126017460/ny20064714x1_def14a.htm,delisting_compliance
+OPEN,2026-04-28,DEF 14A,0001140361-26-017460,ny20064714x1_def14a.htm,dilution,https://www.sec.gov/Archives/edgar/data/1801169/000114036126017460/ny20064714x1_def14a.htm,dilution
+WULF,2026-04-28,DEF 14A,0001083301-26-000077,wulf-20260428.htm,offering,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000077/wulf-20260428.htm,dilution
+WULF,2026-04-28,DEF 14A,0001083301-26-000077,wulf-20260428.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000077/wulf-20260428.htm,other
+WULF,2026-04-28,DEF 14A,0001083301-26-000077,wulf-20260428.htm,warrant,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000077/wulf-20260428.htm,warrants_convertibles
+WULF,2026-04-28,DEF 14A,0001083301-26-000077,wulf-20260428.htm,compliance,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000077/wulf-20260428.htm,delisting_compliance
+CXAI,2026-04-27,PRE 14A,0001829126-26-003985,cxappinc_pre14a.htm,stock split,https://www.sec.gov/Archives/edgar/data/1820875/000182912626003985/cxappinc_pre14a.htm,reverse_split
+CXAI,2026-04-27,PRE 14A,0001829126-26-003985,cxappinc_pre14a.htm,offering,https://www.sec.gov/Archives/edgar/data/1820875/000182912626003985/cxappinc_pre14a.htm,dilution
+CXAI,2026-04-27,PRE 14A,0001829126-26-003985,cxappinc_pre14a.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1820875/000182912626003985/cxappinc_pre14a.htm,other
+CXAI,2026-04-27,PRE 14A,0001829126-26-003985,cxappinc_pre14a.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912626003985/cxappinc_pre14a.htm,warrants_convertibles
+CXAI,2026-04-27,PRE 14A,0001829126-26-003985,cxappinc_pre14a.htm,going concern,https://www.sec.gov/Archives/edgar/data/1820875/000182912626003985/cxappinc_pre14a.htm,going_concern
+CXAI,2026-04-27,PRE 14A,0001829126-26-003985,cxappinc_pre14a.htm,compliance,https://www.sec.gov/Archives/edgar/data/1820875/000182912626003985/cxappinc_pre14a.htm,delisting_compliance
+CXAI,2026-04-27,PRE 14A,0001829126-26-003985,cxappinc_pre14a.htm,dilution,https://www.sec.gov/Archives/edgar/data/1820875/000182912626003985/cxappinc_pre14a.htm,dilution
+RIOT,2026-04-27,8-K,0001104659-26-049432,riot-20260421x8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1167419/000110465926049432/riot-20260421x8k.htm,warrants_convertibles
+SMTK,2026-04-27,424B3,0001104659-26-049463,tm2612741d2_424b3.htm,stock split,https://www.sec.gov/Archives/edgar/data/1817760/000110465926049463/tm2612741d2_424b3.htm,reverse_split
+SMTK,2026-04-27,424B3,0001104659-26-049463,tm2612741d2_424b3.htm,offering,https://www.sec.gov/Archives/edgar/data/1817760/000110465926049463/tm2612741d2_424b3.htm,dilution
+SMTK,2026-04-27,424B3,0001104659-26-049463,tm2612741d2_424b3.htm,warrant,https://www.sec.gov/Archives/edgar/data/1817760/000110465926049463/tm2612741d2_424b3.htm,warrants_convertibles
+SMTK,2026-04-27,424B3,0001104659-26-049463,tm2612741d2_424b3.htm,going concern,https://www.sec.gov/Archives/edgar/data/1817760/000110465926049463/tm2612741d2_424b3.htm,going_concern
+SMTK,2026-04-27,424B3,0001104659-26-049463,tm2612741d2_424b3.htm,compliance,https://www.sec.gov/Archives/edgar/data/1817760/000110465926049463/tm2612741d2_424b3.htm,delisting_compliance
+SMTK,2026-04-27,424B3,0001104659-26-049463,tm2612741d2_424b3.htm,dilution,https://www.sec.gov/Archives/edgar/data/1817760/000110465926049463/tm2612741d2_424b3.htm,dilution
+SMTK,2026-04-27,424B3,0001104659-26-049460,tm2612741d1_424b3.htm,offering,https://www.sec.gov/Archives/edgar/data/1817760/000110465926049460/tm2612741d1_424b3.htm,dilution
+SMTK,2026-04-27,424B3,0001104659-26-049460,tm2612741d1_424b3.htm,warrant,https://www.sec.gov/Archives/edgar/data/1817760/000110465926049460/tm2612741d1_424b3.htm,warrants_convertibles
+SMTK,2026-04-27,424B3,0001104659-26-049460,tm2612741d1_424b3.htm,going concern,https://www.sec.gov/Archives/edgar/data/1817760/000110465926049460/tm2612741d1_424b3.htm,going_concern
+SMTK,2026-04-27,424B3,0001104659-26-049460,tm2612741d1_424b3.htm,compliance,https://www.sec.gov/Archives/edgar/data/1817760/000110465926049460/tm2612741d1_424b3.htm,delisting_compliance
+SMTK,2026-04-27,424B3,0001104659-26-049460,tm2612741d1_424b3.htm,dilution,https://www.sec.gov/Archives/edgar/data/1817760/000110465926049460/tm2612741d1_424b3.htm,dilution
+LASE,2026-04-24,S-1,0001493152-26-018979,forms-1.htm,reverse split,https://www.sec.gov/Archives/edgar/data/1807887/000149315226018979/forms-1.htm,reverse_split
+LASE,2026-04-24,S-1,0001493152-26-018979,forms-1.htm,stock split,https://www.sec.gov/Archives/edgar/data/1807887/000149315226018979/forms-1.htm,reverse_split
+LASE,2026-04-24,S-1,0001493152-26-018979,forms-1.htm,offering,https://www.sec.gov/Archives/edgar/data/1807887/000149315226018979/forms-1.htm,dilution
+LASE,2026-04-24,S-1,0001493152-26-018979,forms-1.htm,warrant,https://www.sec.gov/Archives/edgar/data/1807887/000149315226018979/forms-1.htm,warrants_convertibles
+LASE,2026-04-24,S-1,0001493152-26-018979,forms-1.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1807887/000149315226018979/forms-1.htm,warrants_convertibles
+LASE,2026-04-24,S-1,0001493152-26-018979,forms-1.htm,compliance,https://www.sec.gov/Archives/edgar/data/1807887/000149315226018979/forms-1.htm,delisting_compliance
+LASE,2026-04-24,S-1,0001493152-26-018979,forms-1.htm,dilution,https://www.sec.gov/Archives/edgar/data/1807887/000149315226018979/forms-1.htm,dilution
+MVIS,2026-04-24,S-3,0001493152-26-018973,forms-3.htm,offering,https://www.sec.gov/Archives/edgar/data/65770/000149315226018973/forms-3.htm,dilution
+MVIS,2026-04-24,S-3,0001493152-26-018973,forms-3.htm,warrant,https://www.sec.gov/Archives/edgar/data/65770/000149315226018973/forms-3.htm,warrants_convertibles
+MVIS,2026-04-24,S-3,0001493152-26-018973,forms-3.htm,convertible note,https://www.sec.gov/Archives/edgar/data/65770/000149315226018973/forms-3.htm,warrants_convertibles
+MVIS,2026-04-24,S-3,0001493152-26-018973,forms-3.htm,going concern,https://www.sec.gov/Archives/edgar/data/65770/000149315226018973/forms-3.htm,going_concern
+MVIS,2026-04-24,S-3,0001493152-26-018973,forms-3.htm,compliance,https://www.sec.gov/Archives/edgar/data/65770/000149315226018973/forms-3.htm,delisting_compliance
+MVIS,2026-04-24,S-3,0001493152-26-018973,forms-3.htm,dilution,https://www.sec.gov/Archives/edgar/data/65770/000149315226018973/forms-3.htm,dilution
+SMTK,2026-04-23,8-K,0001104659-26-047274,tm2612408d2_8k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1817760/000110465926047274/tm2612408d2_8k.htm,delisting_compliance
+SMTK,2026-04-23,8-K,0001104659-26-047274,tm2612408d2_8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1817760/000110465926047274/tm2612408d2_8k.htm,delisting_compliance
+BBAI,2026-04-22,8-K,0001140361-26-016118,ef20071146_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000114036126016118/ef20071146_8k.htm,warrants_convertibles
+HIVE,2026-04-22,8-K,0001062993-26-002077,form8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1720424/000106299326002077/form8k.htm,dilution
+HIVE,2026-04-22,8-K,0001062993-26-002077,form8k.htm,dilution,https://www.sec.gov/Archives/edgar/data/1720424/000106299326002077/form8k.htm,dilution
+VVOS,2026-04-22,8-K,0001493152-26-018562,form8-k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1716166/000149315226018562/form8-k.htm,warrants_convertibles
+VVOS,2026-04-22,8-K,0001493152-26-018562,form8-k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1716166/000149315226018562/form8-k.htm,delisting_compliance
+VVOS,2026-04-22,8-K,0001493152-26-018562,form8-k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1716166/000149315226018562/form8-k.htm,delisting_compliance
+LASE,2026-04-21,8-K,0001493152-26-018345,form8-k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1807887/000149315226018345/form8-k.htm,delisting_compliance
+LASE,2026-04-21,8-K,0001493152-26-018345,form8-k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1807887/000149315226018345/form8-k.htm,delisting_compliance
+SOUN,2026-04-21,8-K,0001213900-26-045987,ea0287117-8k425_sound.htm,offering,https://www.sec.gov/Archives/edgar/data/1840856/000121390026045987/ea0287117-8k425_sound.htm,dilution
+SOUN,2026-04-21,8-K,0001213900-26-045987,ea0287117-8k425_sound.htm,warrant,https://www.sec.gov/Archives/edgar/data/1840856/000121390026045987/ea0287117-8k425_sound.htm,warrants_convertibles
+SOUN,2026-04-21,8-K,0001213900-26-045987,ea0287117-8k425_sound.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1840856/000121390026045987/ea0287117-8k425_sound.htm,warrants_convertibles
+SOUN,2026-04-21,8-K,0001213900-26-045987,ea0287117-8k425_sound.htm,compliance,https://www.sec.gov/Archives/edgar/data/1840856/000121390026045987/ea0287117-8k425_sound.htm,delisting_compliance
+LASE,2026-04-20,10-K,0001493152-26-018110,form10-k.htm,reverse split,https://www.sec.gov/Archives/edgar/data/1807887/000149315226018110/form10-k.htm,reverse_split
+LASE,2026-04-20,10-K,0001493152-26-018110,form10-k.htm,stock split,https://www.sec.gov/Archives/edgar/data/1807887/000149315226018110/form10-k.htm,reverse_split
+LASE,2026-04-20,10-K,0001493152-26-018110,form10-k.htm,offering,https://www.sec.gov/Archives/edgar/data/1807887/000149315226018110/form10-k.htm,dilution
+LASE,2026-04-20,10-K,0001493152-26-018110,form10-k.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1807887/000149315226018110/form10-k.htm,dilution
+LASE,2026-04-20,10-K,0001493152-26-018110,form10-k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1807887/000149315226018110/form10-k.htm,warrants_convertibles
+LASE,2026-04-20,10-K,0001493152-26-018110,form10-k.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1807887/000149315226018110/form10-k.htm,warrants_convertibles
+LASE,2026-04-20,10-K,0001493152-26-018110,form10-k.htm,going concern,https://www.sec.gov/Archives/edgar/data/1807887/000149315226018110/form10-k.htm,going_concern
+LASE,2026-04-20,10-K,0001493152-26-018110,form10-k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1807887/000149315226018110/form10-k.htm,delisting_compliance
+LASE,2026-04-20,10-K,0001493152-26-018110,form10-k.htm,dilution,https://www.sec.gov/Archives/edgar/data/1807887/000149315226018110/form10-k.htm,dilution
+CXAI,2026-04-17,8-K,0001829126-26-003618,cxapp_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1820875/000182912626003618/cxapp_8k.htm,dilution
+CXAI,2026-04-17,8-K,0001829126-26-003618,cxapp_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912626003618/cxapp_8k.htm,warrants_convertibles
+SMTK,2026-04-17,S-1,0001104659-26-044933,tm2611840d1_s1.htm,offering,https://www.sec.gov/Archives/edgar/data/1817760/000110465926044933/tm2611840d1_s1.htm,dilution
+SMTK,2026-04-17,S-1,0001104659-26-044933,tm2611840d1_s1.htm,warrant,https://www.sec.gov/Archives/edgar/data/1817760/000110465926044933/tm2611840d1_s1.htm,warrants_convertibles
+SMTK,2026-04-17,S-1,0001104659-26-044933,tm2611840d1_s1.htm,going concern,https://www.sec.gov/Archives/edgar/data/1817760/000110465926044933/tm2611840d1_s1.htm,going_concern
+SMTK,2026-04-17,S-1,0001104659-26-044933,tm2611840d1_s1.htm,compliance,https://www.sec.gov/Archives/edgar/data/1817760/000110465926044933/tm2611840d1_s1.htm,delisting_compliance
+SMTK,2026-04-17,S-1,0001104659-26-044933,tm2611840d1_s1.htm,dilution,https://www.sec.gov/Archives/edgar/data/1817760/000110465926044933/tm2611840d1_s1.htm,dilution
+SMTK,2026-04-17,S-3,0001104659-26-044939,tm2611840d2_s3.htm,stock split,https://www.sec.gov/Archives/edgar/data/1817760/000110465926044939/tm2611840d2_s3.htm,reverse_split
+SMTK,2026-04-17,S-3,0001104659-26-044939,tm2611840d2_s3.htm,offering,https://www.sec.gov/Archives/edgar/data/1817760/000110465926044939/tm2611840d2_s3.htm,dilution
+SMTK,2026-04-17,S-3,0001104659-26-044939,tm2611840d2_s3.htm,warrant,https://www.sec.gov/Archives/edgar/data/1817760/000110465926044939/tm2611840d2_s3.htm,warrants_convertibles
+SMTK,2026-04-17,S-3,0001104659-26-044939,tm2611840d2_s3.htm,going concern,https://www.sec.gov/Archives/edgar/data/1817760/000110465926044939/tm2611840d2_s3.htm,going_concern
+SMTK,2026-04-17,S-3,0001104659-26-044939,tm2611840d2_s3.htm,compliance,https://www.sec.gov/Archives/edgar/data/1817760/000110465926044939/tm2611840d2_s3.htm,delisting_compliance
+SMTK,2026-04-17,S-3,0001104659-26-044939,tm2611840d2_s3.htm,dilution,https://www.sec.gov/Archives/edgar/data/1817760/000110465926044939/tm2611840d2_s3.htm,dilution
+WULF,2026-04-16,8-K,0001104659-26-044387,tm2611661d9_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1083301/000110465926044387/tm2611661d9_8k.htm,dilution
+WULF,2026-04-16,8-K,0001104659-26-044387,tm2611661d9_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1083301/000110465926044387/tm2611661d9_8k.htm,warrants_convertibles
+WULF,2026-04-16,424B5,0001104659-26-044031,tm2611661-8_424b5.htm,stock split,https://www.sec.gov/Archives/edgar/data/1083301/000110465926044031/tm2611661-8_424b5.htm,reverse_split
+WULF,2026-04-16,424B5,0001104659-26-044031,tm2611661-8_424b5.htm,offering,https://www.sec.gov/Archives/edgar/data/1083301/000110465926044031/tm2611661-8_424b5.htm,dilution
+WULF,2026-04-16,424B5,0001104659-26-044031,tm2611661-8_424b5.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1083301/000110465926044031/tm2611661-8_424b5.htm,dilution
+WULF,2026-04-16,424B5,0001104659-26-044031,tm2611661-8_424b5.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1083301/000110465926044031/tm2611661-8_424b5.htm,dilution
+WULF,2026-04-16,424B5,0001104659-26-044031,tm2611661-8_424b5.htm,warrant,https://www.sec.gov/Archives/edgar/data/1083301/000110465926044031/tm2611661-8_424b5.htm,warrants_convertibles
+WULF,2026-04-16,424B5,0001104659-26-044031,tm2611661-8_424b5.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1083301/000110465926044031/tm2611661-8_424b5.htm,warrants_convertibles
+WULF,2026-04-16,424B5,0001104659-26-044031,tm2611661-8_424b5.htm,compliance,https://www.sec.gov/Archives/edgar/data/1083301/000110465926044031/tm2611661-8_424b5.htm,delisting_compliance
+WULF,2026-04-16,424B5,0001104659-26-044031,tm2611661-8_424b5.htm,dilution,https://www.sec.gov/Archives/edgar/data/1083301/000110465926044031/tm2611661-8_424b5.htm,dilution
+BBAI,2026-04-15,PRE 14A,0001836981-26-000024,bbai-20260415.htm,offering,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000024/bbai-20260415.htm,dilution
+BBAI,2026-04-15,PRE 14A,0001836981-26-000024,bbai-20260415.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000024/bbai-20260415.htm,warrants_convertibles
+BBAI,2026-04-15,PRE 14A,0001836981-26-000024,bbai-20260415.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000024/bbai-20260415.htm,warrants_convertibles
+BBAI,2026-04-15,PRE 14A,0001836981-26-000024,bbai-20260415.htm,compliance,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000024/bbai-20260415.htm,delisting_compliance
+BCDA,2026-04-15,8-K,0001437749-26-012412,bcda20260414_8k.htm,delisting,https://www.sec.gov/Archives/edgar/data/925741/000143774926012412/bcda20260414_8k.htm,delisting_compliance
+BCDA,2026-04-15,8-K,0001437749-26-012412,bcda20260414_8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/925741/000143774926012412/bcda20260414_8k.htm,delisting_compliance
+HIVE,2026-04-15,8-K,0001062993-26-002003,form8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1720424/000106299326002003/form8k.htm,dilution
+HIVE,2026-04-15,8-K,0001062993-26-002003,form8k.htm,dilution,https://www.sec.gov/Archives/edgar/data/1720424/000106299326002003/form8k.htm,dilution
+VVOS,2026-04-15,10-K,0001493152-26-016854,form10-k.htm,stock split,https://www.sec.gov/Archives/edgar/data/1716166/000149315226016854/form10-k.htm,reverse_split
+VVOS,2026-04-15,10-K,0001493152-26-016854,form10-k.htm,offering,https://www.sec.gov/Archives/edgar/data/1716166/000149315226016854/form10-k.htm,dilution
+VVOS,2026-04-15,10-K,0001493152-26-016854,form10-k.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1716166/000149315226016854/form10-k.htm,other
+VVOS,2026-04-15,10-K,0001493152-26-016854,form10-k.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1716166/000149315226016854/form10-k.htm,dilution
+VVOS,2026-04-15,10-K,0001493152-26-016854,form10-k.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1716166/000149315226016854/form10-k.htm,dilution
+VVOS,2026-04-15,10-K,0001493152-26-016854,form10-k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1716166/000149315226016854/form10-k.htm,warrants_convertibles
+VVOS,2026-04-15,10-K,0001493152-26-016854,form10-k.htm,going concern,https://www.sec.gov/Archives/edgar/data/1716166/000149315226016854/form10-k.htm,going_concern
+VVOS,2026-04-15,10-K,0001493152-26-016854,form10-k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1716166/000149315226016854/form10-k.htm,delisting_compliance
+VVOS,2026-04-15,10-K,0001493152-26-016854,form10-k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1716166/000149315226016854/form10-k.htm,delisting_compliance
+VVOS,2026-04-15,10-K,0001493152-26-016854,form10-k.htm,dilution,https://www.sec.gov/Archives/edgar/data/1716166/000149315226016854/form10-k.htm,dilution
+WULF,2026-04-15,8-K,0001104659-26-043402,tm2611661d5_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1083301/000110465926043402/tm2611661d5_8k.htm,dilution
+WULF,2026-04-15,424B5,0001104659-26-043376,tm2611661-6_424b5.htm,stock split,https://www.sec.gov/Archives/edgar/data/1083301/000110465926043376/tm2611661-6_424b5.htm,reverse_split
+WULF,2026-04-15,424B5,0001104659-26-043376,tm2611661-6_424b5.htm,offering,https://www.sec.gov/Archives/edgar/data/1083301/000110465926043376/tm2611661-6_424b5.htm,dilution
+WULF,2026-04-15,424B5,0001104659-26-043376,tm2611661-6_424b5.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1083301/000110465926043376/tm2611661-6_424b5.htm,dilution
+WULF,2026-04-15,424B5,0001104659-26-043376,tm2611661-6_424b5.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1083301/000110465926043376/tm2611661-6_424b5.htm,dilution
+WULF,2026-04-15,424B5,0001104659-26-043376,tm2611661-6_424b5.htm,warrant,https://www.sec.gov/Archives/edgar/data/1083301/000110465926043376/tm2611661-6_424b5.htm,warrants_convertibles
+WULF,2026-04-15,424B5,0001104659-26-043376,tm2611661-6_424b5.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1083301/000110465926043376/tm2611661-6_424b5.htm,warrants_convertibles
+WULF,2026-04-15,424B5,0001104659-26-043376,tm2611661-6_424b5.htm,compliance,https://www.sec.gov/Archives/edgar/data/1083301/000110465926043376/tm2611661-6_424b5.htm,delisting_compliance
+WULF,2026-04-15,424B5,0001104659-26-043376,tm2611661-6_424b5.htm,dilution,https://www.sec.gov/Archives/edgar/data/1083301/000110465926043376/tm2611661-6_424b5.htm,dilution
+DEVS,2026-04-14,424B3,0001140361-26-014573,ef20070530_424b3.htm,reverse split,https://www.sec.gov/Archives/edgar/data/1854480/000114036126014573/ef20070530_424b3.htm,reverse_split
+DEVS,2026-04-14,424B3,0001140361-26-014573,ef20070530_424b3.htm,offering,https://www.sec.gov/Archives/edgar/data/1854480/000114036126014573/ef20070530_424b3.htm,dilution
+DEVS,2026-04-14,424B3,0001140361-26-014573,ef20070530_424b3.htm,warrant,https://www.sec.gov/Archives/edgar/data/1854480/000114036126014573/ef20070530_424b3.htm,warrants_convertibles
+DEVS,2026-04-14,424B3,0001140361-26-014573,ef20070530_424b3.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1854480/000114036126014573/ef20070530_424b3.htm,warrants_convertibles
+DEVS,2026-04-14,424B3,0001140361-26-014573,ef20070530_424b3.htm,delisting,https://www.sec.gov/Archives/edgar/data/1854480/000114036126014573/ef20070530_424b3.htm,delisting_compliance
+DEVS,2026-04-14,424B3,0001140361-26-014573,ef20070530_424b3.htm,compliance,https://www.sec.gov/Archives/edgar/data/1854480/000114036126014573/ef20070530_424b3.htm,delisting_compliance
+DEVS,2026-04-14,424B3,0001140361-26-014573,ef20070530_424b3.htm,dilution,https://www.sec.gov/Archives/edgar/data/1854480/000114036126014573/ef20070530_424b3.htm,dilution
+DEVS,2026-04-14,8-K,0001140361-26-014502,ef20070306_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1854480/000114036126014502/ef20070306_8k.htm,dilution
+DEVS,2026-04-14,8-K,0001140361-26-014502,ef20070306_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1854480/000114036126014502/ef20070306_8k.htm,warrants_convertibles
+DEVS,2026-04-14,8-K,0001140361-26-014502,ef20070306_8k.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1854480/000114036126014502/ef20070306_8k.htm,warrants_convertibles
+DEVS,2026-04-14,8-K,0001140361-26-014502,ef20070306_8k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1854480/000114036126014502/ef20070306_8k.htm,delisting_compliance
+DEVS,2026-04-14,8-K,0001140361-26-014502,ef20070306_8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1854480/000114036126014502/ef20070306_8k.htm,delisting_compliance
+WULF,2026-04-14,8-K,0001104659-26-043279,tm2611661d4_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1083301/000110465926043279/tm2611661d4_8k.htm,dilution
+WULF,2026-04-14,424B5,0001104659-26-043250,tm2611661-3_424b5.htm,stock split,https://www.sec.gov/Archives/edgar/data/1083301/000110465926043250/tm2611661-3_424b5.htm,reverse_split
+WULF,2026-04-14,424B5,0001104659-26-043250,tm2611661-3_424b5.htm,offering,https://www.sec.gov/Archives/edgar/data/1083301/000110465926043250/tm2611661-3_424b5.htm,dilution
+WULF,2026-04-14,424B5,0001104659-26-043250,tm2611661-3_424b5.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1083301/000110465926043250/tm2611661-3_424b5.htm,dilution
+WULF,2026-04-14,424B5,0001104659-26-043250,tm2611661-3_424b5.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1083301/000110465926043250/tm2611661-3_424b5.htm,dilution
+WULF,2026-04-14,424B5,0001104659-26-043250,tm2611661-3_424b5.htm,warrant,https://www.sec.gov/Archives/edgar/data/1083301/000110465926043250/tm2611661-3_424b5.htm,warrants_convertibles
+WULF,2026-04-14,424B5,0001104659-26-043250,tm2611661-3_424b5.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1083301/000110465926043250/tm2611661-3_424b5.htm,warrants_convertibles
+WULF,2026-04-14,424B5,0001104659-26-043250,tm2611661-3_424b5.htm,compliance,https://www.sec.gov/Archives/edgar/data/1083301/000110465926043250/tm2611661-3_424b5.htm,delisting_compliance
+WULF,2026-04-14,424B5,0001104659-26-043250,tm2611661-3_424b5.htm,dilution,https://www.sec.gov/Archives/edgar/data/1083301/000110465926043250/tm2611661-3_424b5.htm,dilution
+BYND,2026-04-10,DEF 14A,0001193125-26-150400,d143614ddef14a.htm,offering,https://www.sec.gov/Archives/edgar/data/1655210/000119312526150400/d143614ddef14a.htm,dilution
+BYND,2026-04-10,DEF 14A,0001193125-26-150400,d143614ddef14a.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1655210/000119312526150400/d143614ddef14a.htm,other
+BYND,2026-04-10,DEF 14A,0001193125-26-150400,d143614ddef14a.htm,warrant,https://www.sec.gov/Archives/edgar/data/1655210/000119312526150400/d143614ddef14a.htm,warrants_convertibles
+BYND,2026-04-10,DEF 14A,0001193125-26-150400,d143614ddef14a.htm,compliance,https://www.sec.gov/Archives/edgar/data/1655210/000119312526150400/d143614ddef14a.htm,delisting_compliance
+BYND,2026-04-10,DEF 14A,0001193125-26-150400,d143614ddef14a.htm,dilution,https://www.sec.gov/Archives/edgar/data/1655210/000119312526150400/d143614ddef14a.htm,dilution
+CXAI,2026-04-10,8-K,0001829126-26-003413,cxapp_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1820875/000182912626003413/cxapp_8k.htm,dilution
+CXAI,2026-04-10,8-K,0001829126-26-003413,cxapp_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912626003413/cxapp_8k.htm,warrants_convertibles
+DEVS,2026-04-10,8-K,0001140361-26-014267,ef20070134_8k.htm,stock split,https://www.sec.gov/Archives/edgar/data/1854480/000114036126014267/ef20070134_8k.htm,reverse_split
+DEVS,2026-04-10,8-K,0001140361-26-014267,ef20070134_8k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1854480/000114036126014267/ef20070134_8k.htm,delisting_compliance
+DEVS,2026-04-10,8-K,0001140361-26-014267,ef20070134_8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1854480/000114036126014267/ef20070134_8k.htm,delisting_compliance
+BYND,2026-04-09,8-K,0001655210-26-000025,bynd-20260406.htm,delisting,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000025/bynd-20260406.htm,delisting_compliance
+BYND,2026-04-09,8-K,0001655210-26-000025,bynd-20260406.htm,compliance,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000025/bynd-20260406.htm,delisting_compliance
+BYND,2026-04-09,10-K,0001655210-26-000022,bynd-20251231.htm,stock split,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000022/bynd-20251231.htm,reverse_split
+BYND,2026-04-09,10-K,0001655210-26-000022,bynd-20251231.htm,offering,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000022/bynd-20251231.htm,dilution
+BYND,2026-04-09,10-K,0001655210-26-000022,bynd-20251231.htm,warrant,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000022/bynd-20251231.htm,warrants_convertibles
+BYND,2026-04-09,10-K,0001655210-26-000022,bynd-20251231.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000022/bynd-20251231.htm,warrants_convertibles
+BYND,2026-04-09,10-K,0001655210-26-000022,bynd-20251231.htm,Nasdaq deficiency,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000022/bynd-20251231.htm,delisting_compliance
+BYND,2026-04-09,10-K,0001655210-26-000022,bynd-20251231.htm,delisting,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000022/bynd-20251231.htm,delisting_compliance
+BYND,2026-04-09,10-K,0001655210-26-000022,bynd-20251231.htm,compliance,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000022/bynd-20251231.htm,delisting_compliance
+BYND,2026-04-09,10-K,0001655210-26-000022,bynd-20251231.htm,dilution,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000022/bynd-20251231.htm,dilution
+SOUN,2026-04-09,DEF 14A,0001213900-26-041978,ea0285618-01.htm,offering,https://www.sec.gov/Archives/edgar/data/1840856/000121390026041978/ea0285618-01.htm,dilution
+SOUN,2026-04-09,DEF 14A,0001213900-26-041978,ea0285618-01.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1840856/000121390026041978/ea0285618-01.htm,other
+SOUN,2026-04-09,DEF 14A,0001213900-26-041978,ea0285618-01.htm,warrant,https://www.sec.gov/Archives/edgar/data/1840856/000121390026041978/ea0285618-01.htm,warrants_convertibles
+SOUN,2026-04-09,DEF 14A,0001213900-26-041978,ea0285618-01.htm,compliance,https://www.sec.gov/Archives/edgar/data/1840856/000121390026041978/ea0285618-01.htm,delisting_compliance
+SMTK,2026-04-08,10-K,0001104659-26-040562,smtk-20251231x10k.htm,stock split,https://www.sec.gov/Archives/edgar/data/1817760/000110465926040562/smtk-20251231x10k.htm,reverse_split
+SMTK,2026-04-08,10-K,0001104659-26-040562,smtk-20251231x10k.htm,offering,https://www.sec.gov/Archives/edgar/data/1817760/000110465926040562/smtk-20251231x10k.htm,dilution
+SMTK,2026-04-08,10-K,0001104659-26-040562,smtk-20251231x10k.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1817760/000110465926040562/smtk-20251231x10k.htm,other
+SMTK,2026-04-08,10-K,0001104659-26-040562,smtk-20251231x10k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1817760/000110465926040562/smtk-20251231x10k.htm,warrants_convertibles
+SMTK,2026-04-08,10-K,0001104659-26-040562,smtk-20251231x10k.htm,going concern,https://www.sec.gov/Archives/edgar/data/1817760/000110465926040562/smtk-20251231x10k.htm,going_concern
+SMTK,2026-04-08,10-K,0001104659-26-040562,smtk-20251231x10k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1817760/000110465926040562/smtk-20251231x10k.htm,delisting_compliance
+SMTK,2026-04-08,10-K,0001104659-26-040562,smtk-20251231x10k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1817760/000110465926040562/smtk-20251231x10k.htm,delisting_compliance
+SMTK,2026-04-08,10-K,0001104659-26-040562,smtk-20251231x10k.htm,dilution,https://www.sec.gov/Archives/edgar/data/1817760/000110465926040562/smtk-20251231x10k.htm,dilution
+MVIS,2026-04-07,8-K,0001493152-26-015455,form8-k.htm,warrant,https://www.sec.gov/Archives/edgar/data/65770/000149315226015455/form8-k.htm,warrants_convertibles
+VVOS,2026-04-03,8-K,0001493152-26-015132,form8-k.htm,offering,https://www.sec.gov/Archives/edgar/data/1716166/000149315226015132/form8-k.htm,dilution
+VVOS,2026-04-03,8-K,0001493152-26-015132,form8-k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1716166/000149315226015132/form8-k.htm,warrants_convertibles
+VVOS,2026-04-03,8-K,0001493152-26-015132,form8-k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1716166/000149315226015132/form8-k.htm,delisting_compliance
+VVOS,2026-04-03,8-K,0001493152-26-015132,form8-k.htm,dilution,https://www.sec.gov/Archives/edgar/data/1716166/000149315226015132/form8-k.htm,dilution
+KULR,2026-03-31,10-K,0001104659-26-037918,tmb-20251231x10k.htm,stock split,https://www.sec.gov/Archives/edgar/data/1662684/000110465926037918/tmb-20251231x10k.htm,reverse_split
+KULR,2026-03-31,10-K,0001104659-26-037918,tmb-20251231x10k.htm,offering,https://www.sec.gov/Archives/edgar/data/1662684/000110465926037918/tmb-20251231x10k.htm,dilution
+KULR,2026-03-31,10-K,0001104659-26-037918,tmb-20251231x10k.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1662684/000110465926037918/tmb-20251231x10k.htm,dilution
+KULR,2026-03-31,10-K,0001104659-26-037918,tmb-20251231x10k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1662684/000110465926037918/tmb-20251231x10k.htm,warrants_convertibles
+KULR,2026-03-31,10-K,0001104659-26-037918,tmb-20251231x10k.htm,going concern,https://www.sec.gov/Archives/edgar/data/1662684/000110465926037918/tmb-20251231x10k.htm,going_concern
+KULR,2026-03-31,10-K,0001104659-26-037918,tmb-20251231x10k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1662684/000110465926037918/tmb-20251231x10k.htm,delisting_compliance
+KULR,2026-03-31,10-K,0001104659-26-037918,tmb-20251231x10k.htm,dilution,https://www.sec.gov/Archives/edgar/data/1662684/000110465926037918/tmb-20251231x10k.htm,dilution
+SMTK,2026-03-31,8-K,0001104659-26-037405,tm2610643d1_8k.htm,stock split,https://www.sec.gov/Archives/edgar/data/1817760/000110465926037405/tm2610643d1_8k.htm,reverse_split
+SMTK,2026-03-31,8-K,0001104659-26-037405,tm2610643d1_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1817760/000110465926037405/tm2610643d1_8k.htm,dilution
+SMTK,2026-03-31,8-K,0001104659-26-037405,tm2610643d1_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1817760/000110465926037405/tm2610643d1_8k.htm,warrants_convertibles
+SMTK,2026-03-31,8-K,0001104659-26-037405,tm2610643d1_8k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1817760/000110465926037405/tm2610643d1_8k.htm,delisting_compliance
+SMTK,2026-03-31,8-K,0001104659-26-037405,tm2610643d1_8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1817760/000110465926037405/tm2610643d1_8k.htm,delisting_compliance
+SMTK,2026-03-31,8-K,0001104659-26-037405,tm2610643d1_8k.htm,dilution,https://www.sec.gov/Archives/edgar/data/1817760/000110465926037405/tm2610643d1_8k.htm,dilution
+CXAI,2026-03-30,10-K,0001829126-26-002840,cxappinc_10k.htm,offering,https://www.sec.gov/Archives/edgar/data/1820875/000182912626002840/cxappinc_10k.htm,dilution
+CXAI,2026-03-30,10-K,0001829126-26-002840,cxappinc_10k.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1820875/000182912626002840/cxappinc_10k.htm,dilution
+CXAI,2026-03-30,10-K,0001829126-26-002840,cxappinc_10k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912626002840/cxappinc_10k.htm,warrants_convertibles
+CXAI,2026-03-30,10-K,0001829126-26-002840,cxappinc_10k.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1820875/000182912626002840/cxappinc_10k.htm,warrants_convertibles
+CXAI,2026-03-30,10-K,0001829126-26-002840,cxappinc_10k.htm,going concern,https://www.sec.gov/Archives/edgar/data/1820875/000182912626002840/cxappinc_10k.htm,going_concern
+CXAI,2026-03-30,10-K,0001829126-26-002840,cxappinc_10k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1820875/000182912626002840/cxappinc_10k.htm,delisting_compliance
+CXAI,2026-03-30,10-K,0001829126-26-002840,cxappinc_10k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1820875/000182912626002840/cxappinc_10k.htm,delisting_compliance
+CXAI,2026-03-30,10-K,0001829126-26-002840,cxappinc_10k.htm,dilution,https://www.sec.gov/Archives/edgar/data/1820875/000182912626002840/cxappinc_10k.htm,dilution
+CXAI,2026-03-26,8-K,0001829126-26-002748,cxapp_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1820875/000182912626002748/cxapp_8k.htm,dilution
+CXAI,2026-03-26,8-K,0001829126-26-002748,cxapp_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912626002748/cxapp_8k.htm,warrants_convertibles
+SMTK,2026-03-26,8-K,0001104659-26-035240,tm269537d1_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1817760/000110465926035240/tm269537d1_8k.htm,dilution
+SMTK,2026-03-26,8-K,0001104659-26-035240,tm269537d1_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1817760/000110465926035240/tm269537d1_8k.htm,warrants_convertibles
+BCDA,2026-03-24,10-K,0001437749-26-009587,bcda20251231_10k.htm,stock split,https://www.sec.gov/Archives/edgar/data/925741/000143774926009587/bcda20251231_10k.htm,reverse_split
+BCDA,2026-03-24,10-K,0001437749-26-009587,bcda20251231_10k.htm,offering,https://www.sec.gov/Archives/edgar/data/925741/000143774926009587/bcda20251231_10k.htm,dilution
+BCDA,2026-03-24,10-K,0001437749-26-009587,bcda20251231_10k.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/925741/000143774926009587/bcda20251231_10k.htm,dilution
+BCDA,2026-03-24,10-K,0001437749-26-009587,bcda20251231_10k.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/925741/000143774926009587/bcda20251231_10k.htm,dilution
+BCDA,2026-03-24,10-K,0001437749-26-009587,bcda20251231_10k.htm,warrant,https://www.sec.gov/Archives/edgar/data/925741/000143774926009587/bcda20251231_10k.htm,warrants_convertibles
+BCDA,2026-03-24,10-K,0001437749-26-009587,bcda20251231_10k.htm,going concern,https://www.sec.gov/Archives/edgar/data/925741/000143774926009587/bcda20251231_10k.htm,going_concern
+BCDA,2026-03-24,10-K,0001437749-26-009587,bcda20251231_10k.htm,delisting,https://www.sec.gov/Archives/edgar/data/925741/000143774926009587/bcda20251231_10k.htm,delisting_compliance
+BCDA,2026-03-24,10-K,0001437749-26-009587,bcda20251231_10k.htm,compliance,https://www.sec.gov/Archives/edgar/data/925741/000143774926009587/bcda20251231_10k.htm,delisting_compliance
+BCDA,2026-03-24,10-K,0001437749-26-009587,bcda20251231_10k.htm,dilution,https://www.sec.gov/Archives/edgar/data/925741/000143774926009587/bcda20251231_10k.htm,dilution
+SMTK,2026-03-23,424B5,0001104659-26-033047,tm269507d1_424b5.htm,stock split,https://www.sec.gov/Archives/edgar/data/1817760/000110465926033047/tm269507d1_424b5.htm,reverse_split
+SMTK,2026-03-23,424B5,0001104659-26-033047,tm269507d1_424b5.htm,offering,https://www.sec.gov/Archives/edgar/data/1817760/000110465926033047/tm269507d1_424b5.htm,dilution
+SMTK,2026-03-23,424B5,0001104659-26-033047,tm269507d1_424b5.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1817760/000110465926033047/tm269507d1_424b5.htm,other
+SMTK,2026-03-23,424B5,0001104659-26-033047,tm269507d1_424b5.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1817760/000110465926033047/tm269507d1_424b5.htm,dilution
+SMTK,2026-03-23,424B5,0001104659-26-033047,tm269507d1_424b5.htm,warrant,https://www.sec.gov/Archives/edgar/data/1817760/000110465926033047/tm269507d1_424b5.htm,warrants_convertibles
+SMTK,2026-03-23,424B5,0001104659-26-033047,tm269507d1_424b5.htm,going concern,https://www.sec.gov/Archives/edgar/data/1817760/000110465926033047/tm269507d1_424b5.htm,going_concern
+SMTK,2026-03-23,424B5,0001104659-26-033047,tm269507d1_424b5.htm,delisting,https://www.sec.gov/Archives/edgar/data/1817760/000110465926033047/tm269507d1_424b5.htm,delisting_compliance
+SMTK,2026-03-23,424B5,0001104659-26-033047,tm269507d1_424b5.htm,compliance,https://www.sec.gov/Archives/edgar/data/1817760/000110465926033047/tm269507d1_424b5.htm,delisting_compliance
+SMTK,2026-03-23,424B5,0001104659-26-033047,tm269507d1_424b5.htm,dilution,https://www.sec.gov/Archives/edgar/data/1817760/000110465926033047/tm269507d1_424b5.htm,dilution
+DEVS,2026-03-19,8-K,0001140361-26-010324,ef20068315_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1854480/000114036126010324/ef20068315_8k.htm,warrants_convertibles
+DEVS,2026-03-19,8-K,0001140361-26-010324,ef20068315_8k.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1854480/000114036126010324/ef20068315_8k.htm,warrants_convertibles
+DEVS,2026-03-19,8-K,0001140361-26-010324,ef20068315_8k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1854480/000114036126010324/ef20068315_8k.htm,delisting_compliance
+DEVS,2026-03-19,8-K,0001140361-26-010324,ef20068315_8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1854480/000114036126010324/ef20068315_8k.htm,delisting_compliance
+SMTK,2026-03-19,8-K,0001104659-26-032112,tm269203d1_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1817760/000110465926032112/tm269203d1_8k.htm,dilution
+SMTK,2026-03-19,8-K,0001104659-26-032112,tm269203d1_8k.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1817760/000110465926032112/tm269203d1_8k.htm,other
+SMTK,2026-03-19,8-K,0001104659-26-032112,tm269203d1_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1817760/000110465926032112/tm269203d1_8k.htm,warrants_convertibles
+SMTK,2026-03-19,8-K,0001104659-26-032112,tm269203d1_8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1817760/000110465926032112/tm269203d1_8k.htm,delisting_compliance
+LASE,2026-03-18,8-K,0001493152-26-010669,form8-k.htm,offering,https://www.sec.gov/Archives/edgar/data/1807887/000149315226010669/form8-k.htm,dilution
+LASE,2026-03-18,8-K,0001493152-26-010669,form8-k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1807887/000149315226010669/form8-k.htm,warrants_convertibles
+LASE,2026-03-18,8-K,0001493152-26-010669,form8-k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1807887/000149315226010669/form8-k.htm,delisting_compliance
+SOUN,2026-03-18,8-K,0001213900-26-030707,ea0282324-8k_sound.htm,warrant,https://www.sec.gov/Archives/edgar/data/1840856/000121390026030707/ea0282324-8k_sound.htm,warrants_convertibles
+LAES,2026-03-17,424B5,0001104659-26-029206,tm268871-1_424b5.htm,stock split,https://www.sec.gov/Archives/edgar/data/1951222/000110465926029206/tm268871-1_424b5.htm,reverse_split
+LAES,2026-03-17,424B5,0001104659-26-029206,tm268871-1_424b5.htm,offering,https://www.sec.gov/Archives/edgar/data/1951222/000110465926029206/tm268871-1_424b5.htm,dilution
+LAES,2026-03-17,424B5,0001104659-26-029206,tm268871-1_424b5.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1951222/000110465926029206/tm268871-1_424b5.htm,other
+LAES,2026-03-17,424B5,0001104659-26-029206,tm268871-1_424b5.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1951222/000110465926029206/tm268871-1_424b5.htm,dilution
+LAES,2026-03-17,424B5,0001104659-26-029206,tm268871-1_424b5.htm,warrant,https://www.sec.gov/Archives/edgar/data/1951222/000110465926029206/tm268871-1_424b5.htm,warrants_convertibles
+LAES,2026-03-17,424B5,0001104659-26-029206,tm268871-1_424b5.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1951222/000110465926029206/tm268871-1_424b5.htm,warrants_convertibles
+LAES,2026-03-17,424B5,0001104659-26-029206,tm268871-1_424b5.htm,compliance,https://www.sec.gov/Archives/edgar/data/1951222/000110465926029206/tm268871-1_424b5.htm,delisting_compliance
+LAES,2026-03-17,424B5,0001104659-26-029206,tm268871-1_424b5.htm,dilution,https://www.sec.gov/Archives/edgar/data/1951222/000110465926029206/tm268871-1_424b5.htm,dilution
+WULF,2026-03-16,8-K,0000950142-26-000720,eh260751501_8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1083301/000095014226000720/eh260751501_8k.htm,delisting_compliance
+DEVS,2026-03-13,10-Q,0001140361-26-009427,ef20061933_10q.htm,stock split,https://www.sec.gov/Archives/edgar/data/1854480/000114036126009427/ef20061933_10q.htm,reverse_split
+DEVS,2026-03-13,10-Q,0001140361-26-009427,ef20061933_10q.htm,offering,https://www.sec.gov/Archives/edgar/data/1854480/000114036126009427/ef20061933_10q.htm,dilution
+DEVS,2026-03-13,10-Q,0001140361-26-009427,ef20061933_10q.htm,warrant,https://www.sec.gov/Archives/edgar/data/1854480/000114036126009427/ef20061933_10q.htm,warrants_convertibles
+DEVS,2026-03-13,10-Q,0001140361-26-009427,ef20061933_10q.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1854480/000114036126009427/ef20061933_10q.htm,warrants_convertibles
+DEVS,2026-03-13,10-Q,0001140361-26-009427,ef20061933_10q.htm,going concern,https://www.sec.gov/Archives/edgar/data/1854480/000114036126009427/ef20061933_10q.htm,going_concern
+DEVS,2026-03-13,10-Q,0001140361-26-009427,ef20061933_10q.htm,delisting,https://www.sec.gov/Archives/edgar/data/1854480/000114036126009427/ef20061933_10q.htm,delisting_compliance
+DEVS,2026-03-13,10-Q,0001140361-26-009427,ef20061933_10q.htm,compliance,https://www.sec.gov/Archives/edgar/data/1854480/000114036126009427/ef20061933_10q.htm,delisting_compliance
+DEVS,2026-03-13,10-Q,0001140361-26-009427,ef20061933_10q.htm,dilution,https://www.sec.gov/Archives/edgar/data/1854480/000114036126009427/ef20061933_10q.htm,dilution
+CXAI,2026-03-12,424B3,0001829126-26-002217,cxapp_424b3.htm,stock split,https://www.sec.gov/Archives/edgar/data/1820875/000182912626002217/cxapp_424b3.htm,reverse_split
+CXAI,2026-03-12,424B3,0001829126-26-002217,cxapp_424b3.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912626002217/cxapp_424b3.htm,warrants_convertibles
+CXAI,2026-03-12,424B3,0001829126-26-002217,cxapp_424b3.htm,delisting,https://www.sec.gov/Archives/edgar/data/1820875/000182912626002217/cxapp_424b3.htm,delisting_compliance
+CXAI,2026-03-12,424B3,0001829126-26-002217,cxapp_424b3.htm,compliance,https://www.sec.gov/Archives/edgar/data/1820875/000182912626002217/cxapp_424b3.htm,delisting_compliance
+CXAI,2026-03-12,8-K,0001829126-26-002216,cxapp_8k.htm,stock split,https://www.sec.gov/Archives/edgar/data/1820875/000182912626002216/cxapp_8k.htm,reverse_split
+CXAI,2026-03-12,8-K,0001829126-26-002216,cxapp_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912626002216/cxapp_8k.htm,warrants_convertibles
+CXAI,2026-03-12,8-K,0001829126-26-002216,cxapp_8k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1820875/000182912626002216/cxapp_8k.htm,delisting_compliance
+CXAI,2026-03-12,8-K,0001829126-26-002216,cxapp_8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1820875/000182912626002216/cxapp_8k.htm,delisting_compliance
+SMTK,2026-03-11,8-K,0001104659-26-026443,tm268569d1_8k.htm,stock split,https://www.sec.gov/Archives/edgar/data/1817760/000110465926026443/tm268569d1_8k.htm,reverse_split
+SMTK,2026-03-11,8-K,0001104659-26-026443,tm268569d1_8k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1817760/000110465926026443/tm268569d1_8k.htm,delisting_compliance
+SMTK,2026-03-11,8-K,0001104659-26-026443,tm268569d1_8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1817760/000110465926026443/tm268569d1_8k.htm,delisting_compliance
+BYND,2026-03-06,8-K,0001655210-26-000006,bynd-20260304.htm,stock split,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000006/bynd-20260304.htm,reverse_split
+BYND,2026-03-06,8-K,0001655210-26-000006,bynd-20260304.htm,Nasdaq deficiency,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000006/bynd-20260304.htm,delisting_compliance
+BYND,2026-03-06,8-K,0001655210-26-000006,bynd-20260304.htm,delisting,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000006/bynd-20260304.htm,delisting_compliance
+BYND,2026-03-06,8-K,0001655210-26-000006,bynd-20260304.htm,compliance,https://www.sec.gov/Archives/edgar/data/1655210/000165521026000006/bynd-20260304.htm,delisting_compliance
+MVIS,2026-03-04,10-K,0001493152-26-008898,form10-k.htm,offering,https://www.sec.gov/Archives/edgar/data/65770/000149315226008898/form10-k.htm,dilution
+MVIS,2026-03-04,10-K,0001493152-26-008898,form10-k.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/65770/000149315226008898/form10-k.htm,dilution
+MVIS,2026-03-04,10-K,0001493152-26-008898,form10-k.htm,warrant,https://www.sec.gov/Archives/edgar/data/65770/000149315226008898/form10-k.htm,warrants_convertibles
+MVIS,2026-03-04,10-K,0001493152-26-008898,form10-k.htm,convertible note,https://www.sec.gov/Archives/edgar/data/65770/000149315226008898/form10-k.htm,warrants_convertibles
+MVIS,2026-03-04,10-K,0001493152-26-008898,form10-k.htm,going concern,https://www.sec.gov/Archives/edgar/data/65770/000149315226008898/form10-k.htm,going_concern
+MVIS,2026-03-04,10-K,0001493152-26-008898,form10-k.htm,delisting,https://www.sec.gov/Archives/edgar/data/65770/000149315226008898/form10-k.htm,delisting_compliance
+MVIS,2026-03-04,10-K,0001493152-26-008898,form10-k.htm,compliance,https://www.sec.gov/Archives/edgar/data/65770/000149315226008898/form10-k.htm,delisting_compliance
+MVIS,2026-03-04,10-K,0001493152-26-008898,form10-k.htm,dilution,https://www.sec.gov/Archives/edgar/data/65770/000149315226008898/form10-k.htm,dilution
+BBAI,2026-03-02,10-K,0001836981-26-000018,bbai-20251231.htm,stock split,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000018/bbai-20251231.htm,reverse_split
+BBAI,2026-03-02,10-K,0001836981-26-000018,bbai-20251231.htm,offering,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000018/bbai-20251231.htm,dilution
+BBAI,2026-03-02,10-K,0001836981-26-000018,bbai-20251231.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000018/bbai-20251231.htm,other
+BBAI,2026-03-02,10-K,0001836981-26-000018,bbai-20251231.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000018/bbai-20251231.htm,dilution
+BBAI,2026-03-02,10-K,0001836981-26-000018,bbai-20251231.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000018/bbai-20251231.htm,dilution
+BBAI,2026-03-02,10-K,0001836981-26-000018,bbai-20251231.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000018/bbai-20251231.htm,warrants_convertibles
+BBAI,2026-03-02,10-K,0001836981-26-000018,bbai-20251231.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000018/bbai-20251231.htm,warrants_convertibles
+BBAI,2026-03-02,10-K,0001836981-26-000018,bbai-20251231.htm,going concern,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000018/bbai-20251231.htm,going_concern
+BBAI,2026-03-02,10-K,0001836981-26-000018,bbai-20251231.htm,delisting,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000018/bbai-20251231.htm,delisting_compliance
+BBAI,2026-03-02,10-K,0001836981-26-000018,bbai-20251231.htm,compliance,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000018/bbai-20251231.htm,delisting_compliance
+BBAI,2026-03-02,10-K,0001836981-26-000018,bbai-20251231.htm,dilution,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000018/bbai-20251231.htm,dilution
+BBAI,2026-03-02,8-K,0001836981-26-000016,bbai-20260302.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000183698126000016/bbai-20260302.htm,warrants_convertibles
+PLUG,2026-03-02,10-K,0001104659-26-022286,plug-20251231x10k.htm,stock split,https://www.sec.gov/Archives/edgar/data/1093691/000110465926022286/plug-20251231x10k.htm,reverse_split
+PLUG,2026-03-02,10-K,0001104659-26-022286,plug-20251231x10k.htm,offering,https://www.sec.gov/Archives/edgar/data/1093691/000110465926022286/plug-20251231x10k.htm,dilution
+PLUG,2026-03-02,10-K,0001104659-26-022286,plug-20251231x10k.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1093691/000110465926022286/plug-20251231x10k.htm,other
+PLUG,2026-03-02,10-K,0001104659-26-022286,plug-20251231x10k.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1093691/000110465926022286/plug-20251231x10k.htm,dilution
+PLUG,2026-03-02,10-K,0001104659-26-022286,plug-20251231x10k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1093691/000110465926022286/plug-20251231x10k.htm,warrants_convertibles
+PLUG,2026-03-02,10-K,0001104659-26-022286,plug-20251231x10k.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1093691/000110465926022286/plug-20251231x10k.htm,warrants_convertibles
+PLUG,2026-03-02,10-K,0001104659-26-022286,plug-20251231x10k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1093691/000110465926022286/plug-20251231x10k.htm,delisting_compliance
+PLUG,2026-03-02,10-K,0001104659-26-022286,plug-20251231x10k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1093691/000110465926022286/plug-20251231x10k.htm,delisting_compliance
+PLUG,2026-03-02,10-K,0001104659-26-022286,plug-20251231x10k.htm,dilution,https://www.sec.gov/Archives/edgar/data/1093691/000110465926022286/plug-20251231x10k.htm,dilution
+RIOT,2026-03-02,10-K,0001104659-26-022322,riot-20251231x10k.htm,stock split,https://www.sec.gov/Archives/edgar/data/1167419/000110465926022322/riot-20251231x10k.htm,reverse_split
+RIOT,2026-03-02,10-K,0001104659-26-022322,riot-20251231x10k.htm,offering,https://www.sec.gov/Archives/edgar/data/1167419/000110465926022322/riot-20251231x10k.htm,dilution
+RIOT,2026-03-02,10-K,0001104659-26-022322,riot-20251231x10k.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1167419/000110465926022322/riot-20251231x10k.htm,dilution
+RIOT,2026-03-02,10-K,0001104659-26-022322,riot-20251231x10k.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1167419/000110465926022322/riot-20251231x10k.htm,dilution
+RIOT,2026-03-02,10-K,0001104659-26-022322,riot-20251231x10k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1167419/000110465926022322/riot-20251231x10k.htm,warrants_convertibles
+RIOT,2026-03-02,10-K,0001104659-26-022322,riot-20251231x10k.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1167419/000110465926022322/riot-20251231x10k.htm,warrants_convertibles
+RIOT,2026-03-02,10-K,0001104659-26-022322,riot-20251231x10k.htm,going concern,https://www.sec.gov/Archives/edgar/data/1167419/000110465926022322/riot-20251231x10k.htm,going_concern
+RIOT,2026-03-02,10-K,0001104659-26-022322,riot-20251231x10k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1167419/000110465926022322/riot-20251231x10k.htm,delisting_compliance
+RIOT,2026-03-02,10-K,0001104659-26-022322,riot-20251231x10k.htm,dilution,https://www.sec.gov/Archives/edgar/data/1167419/000110465926022322/riot-20251231x10k.htm,dilution
+SOUN,2026-03-02,10-K,0001840856-26-000006,soun-20251231.htm,offering,https://www.sec.gov/Archives/edgar/data/1840856/000184085626000006/soun-20251231.htm,dilution
+SOUN,2026-03-02,10-K,0001840856-26-000006,soun-20251231.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1840856/000184085626000006/soun-20251231.htm,dilution
+SOUN,2026-03-02,10-K,0001840856-26-000006,soun-20251231.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1840856/000184085626000006/soun-20251231.htm,dilution
+SOUN,2026-03-02,10-K,0001840856-26-000006,soun-20251231.htm,warrant,https://www.sec.gov/Archives/edgar/data/1840856/000184085626000006/soun-20251231.htm,warrants_convertibles
+SOUN,2026-03-02,10-K,0001840856-26-000006,soun-20251231.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1840856/000184085626000006/soun-20251231.htm,warrants_convertibles
+SOUN,2026-03-02,10-K,0001840856-26-000006,soun-20251231.htm,going concern,https://www.sec.gov/Archives/edgar/data/1840856/000184085626000006/soun-20251231.htm,going_concern
+SOUN,2026-03-02,10-K,0001840856-26-000006,soun-20251231.htm,compliance,https://www.sec.gov/Archives/edgar/data/1840856/000184085626000006/soun-20251231.htm,delisting_compliance
+SOUN,2026-03-02,10-K,0001840856-26-000006,soun-20251231.htm,dilution,https://www.sec.gov/Archives/edgar/data/1840856/000184085626000006/soun-20251231.htm,dilution
+WULF,2026-02-27,10-K,0001083301-26-000031,wulf-20251231.htm,offering,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000031/wulf-20251231.htm,dilution
+WULF,2026-02-27,10-K,0001083301-26-000031,wulf-20251231.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000031/wulf-20251231.htm,dilution
+WULF,2026-02-27,10-K,0001083301-26-000031,wulf-20251231.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000031/wulf-20251231.htm,dilution
+WULF,2026-02-27,10-K,0001083301-26-000031,wulf-20251231.htm,warrant,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000031/wulf-20251231.htm,warrants_convertibles
+WULF,2026-02-27,10-K,0001083301-26-000031,wulf-20251231.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000031/wulf-20251231.htm,warrants_convertibles
+WULF,2026-02-27,10-K,0001083301-26-000031,wulf-20251231.htm,going concern,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000031/wulf-20251231.htm,going_concern
+WULF,2026-02-27,10-K,0001083301-26-000031,wulf-20251231.htm,delisting,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000031/wulf-20251231.htm,delisting_compliance
+WULF,2026-02-27,10-K,0001083301-26-000031,wulf-20251231.htm,compliance,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000031/wulf-20251231.htm,delisting_compliance
+WULF,2026-02-27,10-K,0001083301-26-000031,wulf-20251231.htm,dilution,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000031/wulf-20251231.htm,dilution
+PLUG,2026-02-26,8-K,0001104659-26-020476,tm267395d1_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1093691/000110465926020476/tm267395d1_8k.htm,warrants_convertibles
+SOUN,2026-02-26,8-K,0001840856-26-000002,soun-20260226.htm,warrant,https://www.sec.gov/Archives/edgar/data/1840856/000184085626000002/soun-20260226.htm,warrants_convertibles
+DEVS,2026-02-25,8-K,0001140361-26-006731,ef20066498_8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1854480/000114036126006731/ef20066498_8k.htm,delisting_compliance
+MVIS,2026-02-24,8-K,0001493152-26-007835,form8-k.htm,convertible note,https://www.sec.gov/Archives/edgar/data/65770/000149315226007835/form8-k.htm,warrants_convertibles
+MVIS,2026-02-24,8-K,0001493152-26-007835,form8-k.htm,dilution,https://www.sec.gov/Archives/edgar/data/65770/000149315226007835/form8-k.htm,dilution
+OPEN,2026-02-19,10-K,0001801169-26-000010,open-20251231.htm,offering,https://www.sec.gov/Archives/edgar/data/1801169/000180116926000010/open-20251231.htm,dilution
+OPEN,2026-02-19,10-K,0001801169-26-000010,open-20251231.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1801169/000180116926000010/open-20251231.htm,other
+OPEN,2026-02-19,10-K,0001801169-26-000010,open-20251231.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1801169/000180116926000010/open-20251231.htm,dilution
+OPEN,2026-02-19,10-K,0001801169-26-000010,open-20251231.htm,warrant,https://www.sec.gov/Archives/edgar/data/1801169/000180116926000010/open-20251231.htm,warrants_convertibles
+OPEN,2026-02-19,10-K,0001801169-26-000010,open-20251231.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1801169/000180116926000010/open-20251231.htm,warrants_convertibles
+OPEN,2026-02-19,10-K,0001801169-26-000010,open-20251231.htm,delisting,https://www.sec.gov/Archives/edgar/data/1801169/000180116926000010/open-20251231.htm,delisting_compliance
+OPEN,2026-02-19,10-K,0001801169-26-000010,open-20251231.htm,compliance,https://www.sec.gov/Archives/edgar/data/1801169/000180116926000010/open-20251231.htm,delisting_compliance
+OPEN,2026-02-19,10-K,0001801169-26-000010,open-20251231.htm,dilution,https://www.sec.gov/Archives/edgar/data/1801169/000180116926000010/open-20251231.htm,dilution
+OPEN,2026-02-19,8-K,0001801169-26-000009,open-20260219.htm,warrant,https://www.sec.gov/Archives/edgar/data/1801169/000180116926000009/open-20260219.htm,warrants_convertibles
+VVOS,2026-02-17,S-3,0001493152-26-006829,forms-3.htm,offering,https://www.sec.gov/Archives/edgar/data/1716166/000149315226006829/forms-3.htm,dilution
+VVOS,2026-02-17,S-3,0001493152-26-006829,forms-3.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1716166/000149315226006829/forms-3.htm,other
+VVOS,2026-02-17,S-3,0001493152-26-006829,forms-3.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1716166/000149315226006829/forms-3.htm,dilution
+VVOS,2026-02-17,S-3,0001493152-26-006829,forms-3.htm,warrant,https://www.sec.gov/Archives/edgar/data/1716166/000149315226006829/forms-3.htm,warrants_convertibles
+VVOS,2026-02-17,S-3,0001493152-26-006829,forms-3.htm,going concern,https://www.sec.gov/Archives/edgar/data/1716166/000149315226006829/forms-3.htm,going_concern
+VVOS,2026-02-17,S-3,0001493152-26-006829,forms-3.htm,compliance,https://www.sec.gov/Archives/edgar/data/1716166/000149315226006829/forms-3.htm,delisting_compliance
+VVOS,2026-02-17,S-3,0001493152-26-006829,forms-3.htm,dilution,https://www.sec.gov/Archives/edgar/data/1716166/000149315226006829/forms-3.htm,dilution
+SMTK,2026-02-13,8-K,0001104659-26-015258,tm266425d1_8k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1817760/000110465926015258/tm266425d1_8k.htm,delisting_compliance
+SMTK,2026-02-13,8-K,0001104659-26-015258,tm266425d1_8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1817760/000110465926015258/tm266425d1_8k.htm,delisting_compliance
+NOTV,2026-02-09,10-Q,0001628280-26-006468,notv-20251231.htm,reverse split,https://www.sec.gov/Archives/edgar/data/720154/000162828026006468/notv-20251231.htm,reverse_split
+NOTV,2026-02-09,10-Q,0001628280-26-006468,notv-20251231.htm,offering,https://www.sec.gov/Archives/edgar/data/720154/000162828026006468/notv-20251231.htm,dilution
+NOTV,2026-02-09,10-Q,0001628280-26-006468,notv-20251231.htm,warrant,https://www.sec.gov/Archives/edgar/data/720154/000162828026006468/notv-20251231.htm,warrants_convertibles
+NOTV,2026-02-09,10-Q,0001628280-26-006468,notv-20251231.htm,going concern,https://www.sec.gov/Archives/edgar/data/720154/000162828026006468/notv-20251231.htm,going_concern
+NOTV,2026-02-09,10-Q,0001628280-26-006468,notv-20251231.htm,delisting,https://www.sec.gov/Archives/edgar/data/720154/000162828026006468/notv-20251231.htm,delisting_compliance
+NOTV,2026-02-09,10-Q,0001628280-26-006468,notv-20251231.htm,compliance,https://www.sec.gov/Archives/edgar/data/720154/000162828026006468/notv-20251231.htm,delisting_compliance
+SMTK,2026-02-06,8-K,0001104659-26-011252,tm265435d1_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1817760/000110465926011252/tm265435d1_8k.htm,warrants_convertibles
+VVOS,2026-02-06,8-K,0001493152-26-005554,form8-k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1716166/000149315226005554/form8-k.htm,delisting_compliance
+WULF,2026-02-02,8-K,0001083301-26-000023,wulf-20260202.htm,offering,https://www.sec.gov/Archives/edgar/data/1083301/000108330126000023/wulf-20260202.htm,dilution
+CXAI,2026-01-30,424B3,0001829126-26-000827,cxapp_424b3.htm,offering,https://www.sec.gov/Archives/edgar/data/1820875/000182912626000827/cxapp_424b3.htm,dilution
+CXAI,2026-01-30,424B3,0001829126-26-000827,cxapp_424b3.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912626000827/cxapp_424b3.htm,warrants_convertibles
+CXAI,2026-01-30,8-K,0001829126-26-000826,cxapp_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1820875/000182912626000826/cxapp_8k.htm,dilution
+CXAI,2026-01-30,8-K,0001829126-26-000826,cxapp_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912626000826/cxapp_8k.htm,warrants_convertibles
+SMTK,2026-01-30,8-K,0001104659-26-008511,tm264567d1_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1817760/000110465926008511/tm264567d1_8k.htm,dilution
+SMTK,2026-01-30,8-K,0001104659-26-008511,tm264567d1_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1817760/000110465926008511/tm264567d1_8k.htm,warrants_convertibles
+SMTK,2026-01-30,424B5,0001104659-26-008336,tm264503d1_424b5.htm,stock split,https://www.sec.gov/Archives/edgar/data/1817760/000110465926008336/tm264503d1_424b5.htm,reverse_split
+SMTK,2026-01-30,424B5,0001104659-26-008336,tm264503d1_424b5.htm,offering,https://www.sec.gov/Archives/edgar/data/1817760/000110465926008336/tm264503d1_424b5.htm,dilution
+SMTK,2026-01-30,424B5,0001104659-26-008336,tm264503d1_424b5.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1817760/000110465926008336/tm264503d1_424b5.htm,other
+SMTK,2026-01-30,424B5,0001104659-26-008336,tm264503d1_424b5.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1817760/000110465926008336/tm264503d1_424b5.htm,dilution
+SMTK,2026-01-30,424B5,0001104659-26-008336,tm264503d1_424b5.htm,warrant,https://www.sec.gov/Archives/edgar/data/1817760/000110465926008336/tm264503d1_424b5.htm,warrants_convertibles
+SMTK,2026-01-30,424B5,0001104659-26-008336,tm264503d1_424b5.htm,going concern,https://www.sec.gov/Archives/edgar/data/1817760/000110465926008336/tm264503d1_424b5.htm,going_concern
+SMTK,2026-01-30,424B5,0001104659-26-008336,tm264503d1_424b5.htm,compliance,https://www.sec.gov/Archives/edgar/data/1817760/000110465926008336/tm264503d1_424b5.htm,delisting_compliance
+SMTK,2026-01-30,424B5,0001104659-26-008336,tm264503d1_424b5.htm,dilution,https://www.sec.gov/Archives/edgar/data/1817760/000110465926008336/tm264503d1_424b5.htm,dilution
+DEVS,2026-01-26,8-K,0001140361-26-002310,ef20063892_8k.htm,reverse split,https://www.sec.gov/Archives/edgar/data/1854480/000114036126002310/ef20063892_8k.htm,reverse_split
+DEVS,2026-01-26,8-K,0001140361-26-002310,ef20063892_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1854480/000114036126002310/ef20063892_8k.htm,warrants_convertibles
+DEVS,2026-01-26,8-K,0001140361-26-002310,ef20063892_8k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1854480/000114036126002310/ef20063892_8k.htm,delisting_compliance
+DEVS,2026-01-26,8-K,0001140361-26-002310,ef20063892_8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1854480/000114036126002310/ef20063892_8k.htm,delisting_compliance
+OPEN,2026-01-26,8-K,0001801169-26-000004,open-20260126.htm,warrant,https://www.sec.gov/Archives/edgar/data/1801169/000180116926000004/open-20260126.htm,warrants_convertibles
+LASE,2026-01-23,S-1,0001493152-26-003461,forms-1.htm,reverse split,https://www.sec.gov/Archives/edgar/data/1807887/000149315226003461/forms-1.htm,reverse_split
+LASE,2026-01-23,S-1,0001493152-26-003461,forms-1.htm,stock split,https://www.sec.gov/Archives/edgar/data/1807887/000149315226003461/forms-1.htm,reverse_split
+LASE,2026-01-23,S-1,0001493152-26-003461,forms-1.htm,offering,https://www.sec.gov/Archives/edgar/data/1807887/000149315226003461/forms-1.htm,dilution
+LASE,2026-01-23,S-1,0001493152-26-003461,forms-1.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1807887/000149315226003461/forms-1.htm,dilution
+LASE,2026-01-23,S-1,0001493152-26-003461,forms-1.htm,warrant,https://www.sec.gov/Archives/edgar/data/1807887/000149315226003461/forms-1.htm,warrants_convertibles
+LASE,2026-01-23,S-1,0001493152-26-003461,forms-1.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1807887/000149315226003461/forms-1.htm,warrants_convertibles
+LASE,2026-01-23,S-1,0001493152-26-003461,forms-1.htm,going concern,https://www.sec.gov/Archives/edgar/data/1807887/000149315226003461/forms-1.htm,going_concern
+LASE,2026-01-23,S-1,0001493152-26-003461,forms-1.htm,compliance,https://www.sec.gov/Archives/edgar/data/1807887/000149315226003461/forms-1.htm,delisting_compliance
+LASE,2026-01-23,S-1,0001493152-26-003461,forms-1.htm,dilution,https://www.sec.gov/Archives/edgar/data/1807887/000149315226003461/forms-1.htm,dilution
+VVOS,2026-01-20,8-K,0001493152-26-002844,form8-k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1716166/000149315226002844/form8-k.htm,warrants_convertibles
+VVOS,2026-01-20,8-K,0001493152-26-002844,form8-k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1716166/000149315226002844/form8-k.htm,delisting_compliance
+VVOS,2026-01-20,8-K,0001493152-26-002844,form8-k.htm,dilution,https://www.sec.gov/Archives/edgar/data/1716166/000149315226002844/form8-k.htm,dilution
+MVIS,2026-01-16,8-K,0001493152-26-002621,form8-k.htm,delisting,https://www.sec.gov/Archives/edgar/data/65770/000149315226002621/form8-k.htm,delisting_compliance
+MVIS,2026-01-16,8-K,0001493152-26-002621,form8-k.htm,compliance,https://www.sec.gov/Archives/edgar/data/65770/000149315226002621/form8-k.htm,delisting_compliance
+VVOS,2026-01-14,424B3,0001493152-26-002251,form424b3.htm,offering,https://www.sec.gov/Archives/edgar/data/1716166/000149315226002251/form424b3.htm,dilution
+VVOS,2026-01-14,424B3,0001493152-26-002251,form424b3.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1716166/000149315226002251/form424b3.htm,other
+VVOS,2026-01-14,424B3,0001493152-26-002251,form424b3.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1716166/000149315226002251/form424b3.htm,dilution
+VVOS,2026-01-14,424B3,0001493152-26-002251,form424b3.htm,warrant,https://www.sec.gov/Archives/edgar/data/1716166/000149315226002251/form424b3.htm,warrants_convertibles
+VVOS,2026-01-14,424B3,0001493152-26-002251,form424b3.htm,going concern,https://www.sec.gov/Archives/edgar/data/1716166/000149315226002251/form424b3.htm,going_concern
+VVOS,2026-01-14,424B3,0001493152-26-002251,form424b3.htm,compliance,https://www.sec.gov/Archives/edgar/data/1716166/000149315226002251/form424b3.htm,delisting_compliance
+VVOS,2026-01-14,424B3,0001493152-26-002251,form424b3.htm,dilution,https://www.sec.gov/Archives/edgar/data/1716166/000149315226002251/form424b3.htm,dilution
+NOTV,2026-01-07,8-K,0001628280-26-001160,notv-20251231.htm,delisting,https://www.sec.gov/Archives/edgar/data/720154/000162828026001160/notv-20251231.htm,delisting_compliance
+NOTV,2026-01-07,8-K,0001628280-26-001160,notv-20251231.htm,compliance,https://www.sec.gov/Archives/edgar/data/720154/000162828026001160/notv-20251231.htm,delisting_compliance
+PLUG,2026-01-06,8-K,0001104659-26-001336,tm262057d1_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1093691/000110465926001336/tm262057d1_8k.htm,warrants_convertibles
+PLUG,2026-01-06,8-K,0001104659-26-001336,tm262057d1_8k.htm,dilution,https://www.sec.gov/Archives/edgar/data/1093691/000110465926001336/tm262057d1_8k.htm,dilution
+BBAI,2026-01-02,8-K,0001193125-26-000952,d26482d8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1836981/000119312526000952/d26482d8k.htm,dilution
+BBAI,2026-01-02,8-K,0001193125-26-000952,d26482d8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000119312526000952/d26482d8k.htm,warrants_convertibles
+LASE,2026-01-02,424B3,0001493152-26-000031,form424b3.htm,reverse split,https://www.sec.gov/Archives/edgar/data/1807887/000149315226000031/form424b3.htm,reverse_split
+LASE,2026-01-02,424B3,0001493152-26-000031,form424b3.htm,stock split,https://www.sec.gov/Archives/edgar/data/1807887/000149315226000031/form424b3.htm,reverse_split
+LASE,2026-01-02,424B3,0001493152-26-000031,form424b3.htm,offering,https://www.sec.gov/Archives/edgar/data/1807887/000149315226000031/form424b3.htm,dilution
+LASE,2026-01-02,424B3,0001493152-26-000031,form424b3.htm,warrant,https://www.sec.gov/Archives/edgar/data/1807887/000149315226000031/form424b3.htm,warrants_convertibles
+LASE,2026-01-02,424B3,0001493152-26-000031,form424b3.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1807887/000149315226000031/form424b3.htm,warrants_convertibles
+LASE,2026-01-02,424B3,0001493152-26-000031,form424b3.htm,compliance,https://www.sec.gov/Archives/edgar/data/1807887/000149315226000031/form424b3.htm,delisting_compliance
+LASE,2026-01-02,424B3,0001493152-26-000031,form424b3.htm,dilution,https://www.sec.gov/Archives/edgar/data/1807887/000149315226000031/form424b3.htm,dilution
+LASE,2025-12-31,8-K,0001493152-25-029721,form8-k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1807887/000149315225029721/form8-k.htm,delisting_compliance
+LASE,2025-12-31,8-K,0001493152-25-029721,form8-k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1807887/000149315225029721/form8-k.htm,delisting_compliance
+RIOT,2025-12-31,8-K,0001104659-25-125324,riot-20251230x8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1167419/000110465925125324/riot-20251230x8k.htm,dilution
+RIOT,2025-12-31,8-K,0001104659-25-125324,riot-20251230x8k.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1167419/000110465925125324/riot-20251230x8k.htm,dilution
+RIOT,2025-12-31,8-K,0001104659-25-125324,riot-20251230x8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1167419/000110465925125324/riot-20251230x8k.htm,warrants_convertibles
+RIOT,2025-12-31,424B5,0001104659-25-125315,riot-20251230x424b5.htm,offering,https://www.sec.gov/Archives/edgar/data/1167419/000110465925125315/riot-20251230x424b5.htm,dilution
+RIOT,2025-12-31,424B5,0001104659-25-125315,riot-20251230x424b5.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1167419/000110465925125315/riot-20251230x424b5.htm,dilution
+RIOT,2025-12-31,424B5,0001104659-25-125315,riot-20251230x424b5.htm,warrant,https://www.sec.gov/Archives/edgar/data/1167419/000110465925125315/riot-20251230x424b5.htm,warrants_convertibles
+RIOT,2025-12-31,424B5,0001104659-25-125315,riot-20251230x424b5.htm,going concern,https://www.sec.gov/Archives/edgar/data/1167419/000110465925125315/riot-20251230x424b5.htm,going_concern
+RIOT,2025-12-31,424B5,0001104659-25-125315,riot-20251230x424b5.htm,compliance,https://www.sec.gov/Archives/edgar/data/1167419/000110465925125315/riot-20251230x424b5.htm,delisting_compliance
+RIOT,2025-12-31,424B5,0001104659-25-125315,riot-20251230x424b5.htm,dilution,https://www.sec.gov/Archives/edgar/data/1167419/000110465925125315/riot-20251230x424b5.htm,dilution
+WULF,2025-12-29,8-K,0001104659-25-124839,tm2534384d1_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1083301/000110465925124839/tm2534384d1_8k.htm,dilution
+WULF,2025-12-29,8-K,0001104659-25-124839,tm2534384d1_8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1083301/000110465925124839/tm2534384d1_8k.htm,delisting_compliance
+BYND,2025-12-23,8-K,0001193125-25-329436,d33057d8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1655210/000119312525329436/d33057d8k.htm,warrants_convertibles
+BYND,2025-12-23,8-K,0001193125-25-329436,d33057d8k.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1655210/000119312525329436/d33057d8k.htm,warrants_convertibles
+LASE,2025-12-23,10-Q,0001493152-25-028857,form10-q.htm,reverse split,https://www.sec.gov/Archives/edgar/data/1807887/000149315225028857/form10-q.htm,reverse_split
+LASE,2025-12-23,10-Q,0001493152-25-028857,form10-q.htm,offering,https://www.sec.gov/Archives/edgar/data/1807887/000149315225028857/form10-q.htm,dilution
+LASE,2025-12-23,10-Q,0001493152-25-028857,form10-q.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1807887/000149315225028857/form10-q.htm,dilution
+LASE,2025-12-23,10-Q,0001493152-25-028857,form10-q.htm,warrant,https://www.sec.gov/Archives/edgar/data/1807887/000149315225028857/form10-q.htm,warrants_convertibles
+LASE,2025-12-23,10-Q,0001493152-25-028857,form10-q.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1807887/000149315225028857/form10-q.htm,warrants_convertibles
+LASE,2025-12-23,10-Q,0001493152-25-028857,form10-q.htm,going concern,https://www.sec.gov/Archives/edgar/data/1807887/000149315225028857/form10-q.htm,going_concern
+LASE,2025-12-23,10-Q,0001493152-25-028857,form10-q.htm,compliance,https://www.sec.gov/Archives/edgar/data/1807887/000149315225028857/form10-q.htm,delisting_compliance
+LASE,2025-12-23,10-Q,0001493152-25-028857,form10-q.htm,dilution,https://www.sec.gov/Archives/edgar/data/1807887/000149315225028857/form10-q.htm,dilution
+KULR,2025-12-22,8-K,0001104659-25-123511,tm2534003d1_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1662684/000110465925123511/tm2534003d1_8k.htm,dilution
+KULR,2025-12-22,8-K,0001104659-25-123511,tm2534003d1_8k.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1662684/000110465925123511/tm2534003d1_8k.htm,dilution
+WULF,2025-12-18,8-K,0001104659-25-122616,tm2533501d2_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1083301/000110465925122616/tm2533501d2_8k.htm,dilution
+WULF,2025-12-18,8-K,0001104659-25-122616,tm2533501d2_8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1083301/000110465925122616/tm2533501d2_8k.htm,delisting_compliance
+WULF,2025-12-18,8-K,0001104659-25-122387,tm2533871d1_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1083301/000110465925122387/tm2533871d1_8k.htm,dilution
+WULF,2025-12-18,8-K,0001104659-25-122293,tm2533501d1_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1083301/000110465925122293/tm2533501d1_8k.htm,dilution
+WULF,2025-12-18,8-K,0001104659-25-122293,tm2533501d1_8k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1083301/000110465925122293/tm2533501d1_8k.htm,delisting_compliance
+DEVS,2025-12-16,10-Q,0001140361-25-045680,ef20060821_10q.htm,stock split,https://www.sec.gov/Archives/edgar/data/1854480/000114036125045680/ef20060821_10q.htm,reverse_split
+DEVS,2025-12-16,10-Q,0001140361-25-045680,ef20060821_10q.htm,offering,https://www.sec.gov/Archives/edgar/data/1854480/000114036125045680/ef20060821_10q.htm,dilution
+DEVS,2025-12-16,10-Q,0001140361-25-045680,ef20060821_10q.htm,warrant,https://www.sec.gov/Archives/edgar/data/1854480/000114036125045680/ef20060821_10q.htm,warrants_convertibles
+DEVS,2025-12-16,10-Q,0001140361-25-045680,ef20060821_10q.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1854480/000114036125045680/ef20060821_10q.htm,warrants_convertibles
+DEVS,2025-12-16,10-Q,0001140361-25-045680,ef20060821_10q.htm,going concern,https://www.sec.gov/Archives/edgar/data/1854480/000114036125045680/ef20060821_10q.htm,going_concern
+DEVS,2025-12-16,10-Q,0001140361-25-045680,ef20060821_10q.htm,Nasdaq deficiency,https://www.sec.gov/Archives/edgar/data/1854480/000114036125045680/ef20060821_10q.htm,delisting_compliance
+DEVS,2025-12-16,10-Q,0001140361-25-045680,ef20060821_10q.htm,delisting,https://www.sec.gov/Archives/edgar/data/1854480/000114036125045680/ef20060821_10q.htm,delisting_compliance
+DEVS,2025-12-16,10-Q,0001140361-25-045680,ef20060821_10q.htm,compliance,https://www.sec.gov/Archives/edgar/data/1854480/000114036125045680/ef20060821_10q.htm,delisting_compliance
+DEVS,2025-12-16,10-Q,0001140361-25-045680,ef20060821_10q.htm,dilution,https://www.sec.gov/Archives/edgar/data/1854480/000114036125045680/ef20060821_10q.htm,dilution
+OPEN,2025-12-15,8-K,0001140361-25-045459,ef20061208_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1801169/000114036125045459/ef20061208_8k.htm,warrants_convertibles
+CXAI,2025-12-12,424B3,0001829126-25-009956,cxapp_424b3.htm,offering,https://www.sec.gov/Archives/edgar/data/1820875/000182912625009956/cxapp_424b3.htm,dilution
+CXAI,2025-12-12,424B3,0001829126-25-009956,cxapp_424b3.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912625009956/cxapp_424b3.htm,warrants_convertibles
+CXAI,2025-12-12,8-K,0001829126-25-009955,cxapp_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1820875/000182912625009955/cxapp_8k.htm,dilution
+CXAI,2025-12-12,8-K,0001829126-25-009955,cxapp_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912625009955/cxapp_8k.htm,warrants_convertibles
+PLUG,2025-12-12,DEF 14A,0001104659-25-120686,tm2527479-4_def14a.htm,reverse split,https://www.sec.gov/Archives/edgar/data/1093691/000110465925120686/tm2527479-4_def14a.htm,reverse_split
+PLUG,2025-12-12,DEF 14A,0001104659-25-120686,tm2527479-4_def14a.htm,stock split,https://www.sec.gov/Archives/edgar/data/1093691/000110465925120686/tm2527479-4_def14a.htm,reverse_split
+PLUG,2025-12-12,DEF 14A,0001104659-25-120686,tm2527479-4_def14a.htm,offering,https://www.sec.gov/Archives/edgar/data/1093691/000110465925120686/tm2527479-4_def14a.htm,dilution
+PLUG,2025-12-12,DEF 14A,0001104659-25-120686,tm2527479-4_def14a.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1093691/000110465925120686/tm2527479-4_def14a.htm,other
+PLUG,2025-12-12,DEF 14A,0001104659-25-120686,tm2527479-4_def14a.htm,warrant,https://www.sec.gov/Archives/edgar/data/1093691/000110465925120686/tm2527479-4_def14a.htm,warrants_convertibles
+PLUG,2025-12-12,DEF 14A,0001104659-25-120686,tm2527479-4_def14a.htm,dilution,https://www.sec.gov/Archives/edgar/data/1093691/000110465925120686/tm2527479-4_def14a.htm,dilution
+NOTV,2025-12-05,10-K,0001628280-25-055483,notv-20250930.htm,offering,https://www.sec.gov/Archives/edgar/data/720154/000162828025055483/notv-20250930.htm,dilution
+NOTV,2025-12-05,10-K,0001628280-25-055483,notv-20250930.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/720154/000162828025055483/notv-20250930.htm,dilution
+NOTV,2025-12-05,10-K,0001628280-25-055483,notv-20250930.htm,warrant,https://www.sec.gov/Archives/edgar/data/720154/000162828025055483/notv-20250930.htm,warrants_convertibles
+NOTV,2025-12-05,10-K,0001628280-25-055483,notv-20250930.htm,going concern,https://www.sec.gov/Archives/edgar/data/720154/000162828025055483/notv-20250930.htm,going_concern
+NOTV,2025-12-05,10-K,0001628280-25-055483,notv-20250930.htm,compliance,https://www.sec.gov/Archives/edgar/data/720154/000162828025055483/notv-20250930.htm,delisting_compliance
+NOTV,2025-12-05,10-K,0001628280-25-055483,notv-20250930.htm,dilution,https://www.sec.gov/Archives/edgar/data/720154/000162828025055483/notv-20250930.htm,dilution
+VVOS,2025-12-05,8-K,0001493152-25-026438,form8-k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1716166/000149315225026438/form8-k.htm,warrants_convertibles
+DEVS,2025-12-03,424B3,0001140361-25-044189,ef20060564_424b3.htm,reverse split,https://www.sec.gov/Archives/edgar/data/1854480/000114036125044189/ef20060564_424b3.htm,reverse_split
+DEVS,2025-12-03,424B3,0001140361-25-044189,ef20060564_424b3.htm,stock split,https://www.sec.gov/Archives/edgar/data/1854480/000114036125044189/ef20060564_424b3.htm,reverse_split
+DEVS,2025-12-03,424B3,0001140361-25-044189,ef20060564_424b3.htm,offering,https://www.sec.gov/Archives/edgar/data/1854480/000114036125044189/ef20060564_424b3.htm,dilution
+DEVS,2025-12-03,424B3,0001140361-25-044189,ef20060564_424b3.htm,warrant,https://www.sec.gov/Archives/edgar/data/1854480/000114036125044189/ef20060564_424b3.htm,warrants_convertibles
+DEVS,2025-12-03,424B3,0001140361-25-044189,ef20060564_424b3.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1854480/000114036125044189/ef20060564_424b3.htm,warrants_convertibles
+DEVS,2025-12-03,424B3,0001140361-25-044189,ef20060564_424b3.htm,delisting,https://www.sec.gov/Archives/edgar/data/1854480/000114036125044189/ef20060564_424b3.htm,delisting_compliance
+DEVS,2025-12-03,424B3,0001140361-25-044189,ef20060564_424b3.htm,compliance,https://www.sec.gov/Archives/edgar/data/1854480/000114036125044189/ef20060564_424b3.htm,delisting_compliance
+DEVS,2025-12-03,424B3,0001140361-25-044189,ef20060564_424b3.htm,dilution,https://www.sec.gov/Archives/edgar/data/1854480/000114036125044189/ef20060564_424b3.htm,dilution
+BBAI,2025-12-01,8-K,0001193125-25-303945,d75195d8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000119312525303945/d75195d8k.htm,warrants_convertibles
+LASE,2025-11-28,8-K,0001493152-25-025400,form8-k.htm,delisting,https://www.sec.gov/Archives/edgar/data/1807887/000149315225025400/form8-k.htm,delisting_compliance
+LASE,2025-11-28,8-K,0001493152-25-025400,form8-k.htm,compliance,https://www.sec.gov/Archives/edgar/data/1807887/000149315225025400/form8-k.htm,delisting_compliance
+HIVE,2025-11-25,424B5,0001062993-25-017025,form424b5.htm,offering,https://www.sec.gov/Archives/edgar/data/1720424/000106299325017025/form424b5.htm,dilution
+HIVE,2025-11-25,424B5,0001062993-25-017025,form424b5.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1720424/000106299325017025/form424b5.htm,dilution
+HIVE,2025-11-25,424B5,0001062993-25-017025,form424b5.htm,warrant,https://www.sec.gov/Archives/edgar/data/1720424/000106299325017025/form424b5.htm,warrants_convertibles
+HIVE,2025-11-25,424B5,0001062993-25-017025,form424b5.htm,compliance,https://www.sec.gov/Archives/edgar/data/1720424/000106299325017025/form424b5.htm,delisting_compliance
+HIVE,2025-11-25,424B5,0001062993-25-017025,form424b5.htm,dilution,https://www.sec.gov/Archives/edgar/data/1720424/000106299325017025/form424b5.htm,dilution
+WULF,2025-11-25,8-K,0001083301-25-000107,wulf-20251125.htm,offering,https://www.sec.gov/Archives/edgar/data/1083301/000108330125000107/wulf-20251125.htm,dilution
+OPEN,2025-11-21,8-K,0001140361-25-042984,ef20059583_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1801169/000114036125042984/ef20059583_8k.htm,warrants_convertibles
+OPEN,2025-11-21,8-K,0001140361-25-042984,ef20059583_8k.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1801169/000114036125042984/ef20059583_8k.htm,warrants_convertibles
+OPEN,2025-11-21,8-K,0001140361-25-042984,ef20059583_8k.htm,dilution,https://www.sec.gov/Archives/edgar/data/1801169/000114036125042984/ef20059583_8k.htm,dilution
+OPEN,2025-11-21,424B5,0001140361-25-042979,ny20059627x1_424b5.htm,stock split,https://www.sec.gov/Archives/edgar/data/1801169/000114036125042979/ny20059627x1_424b5.htm,reverse_split
+OPEN,2025-11-21,424B5,0001140361-25-042979,ny20059627x1_424b5.htm,offering,https://www.sec.gov/Archives/edgar/data/1801169/000114036125042979/ny20059627x1_424b5.htm,dilution
+OPEN,2025-11-21,424B5,0001140361-25-042979,ny20059627x1_424b5.htm,warrant,https://www.sec.gov/Archives/edgar/data/1801169/000114036125042979/ny20059627x1_424b5.htm,warrants_convertibles
+OPEN,2025-11-21,424B5,0001140361-25-042979,ny20059627x1_424b5.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1801169/000114036125042979/ny20059627x1_424b5.htm,warrants_convertibles
+OPEN,2025-11-21,424B5,0001140361-25-042979,ny20059627x1_424b5.htm,compliance,https://www.sec.gov/Archives/edgar/data/1801169/000114036125042979/ny20059627x1_424b5.htm,delisting_compliance
+OPEN,2025-11-21,424B5,0001140361-25-042979,ny20059627x1_424b5.htm,dilution,https://www.sec.gov/Archives/edgar/data/1801169/000114036125042979/ny20059627x1_424b5.htm,dilution
+PLUG,2025-11-21,8-K,0001104659-25-114978,tm2531936d1_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1093691/000110465925114978/tm2531936d1_8k.htm,dilution
+PLUG,2025-11-21,8-K,0001104659-25-114978,tm2531936d1_8k.htm,dilution,https://www.sec.gov/Archives/edgar/data/1093691/000110465925114978/tm2531936d1_8k.htm,dilution
+BYND,2025-11-20,8-K,0001655210-25-000214,bynd-20251119.htm,stock split,https://www.sec.gov/Archives/edgar/data/1655210/000165521025000214/bynd-20251119.htm,reverse_split
+PLUG,2025-11-20,PRE 14A,0001104659-25-114656,tm2527479-3_pre14a.htm,reverse split,https://www.sec.gov/Archives/edgar/data/1093691/000110465925114656/tm2527479-3_pre14a.htm,reverse_split
+PLUG,2025-11-20,PRE 14A,0001104659-25-114656,tm2527479-3_pre14a.htm,stock split,https://www.sec.gov/Archives/edgar/data/1093691/000110465925114656/tm2527479-3_pre14a.htm,reverse_split
+PLUG,2025-11-20,PRE 14A,0001104659-25-114656,tm2527479-3_pre14a.htm,offering,https://www.sec.gov/Archives/edgar/data/1093691/000110465925114656/tm2527479-3_pre14a.htm,dilution
+PLUG,2025-11-20,PRE 14A,0001104659-25-114656,tm2527479-3_pre14a.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1093691/000110465925114656/tm2527479-3_pre14a.htm,other
+PLUG,2025-11-20,PRE 14A,0001104659-25-114656,tm2527479-3_pre14a.htm,warrant,https://www.sec.gov/Archives/edgar/data/1093691/000110465925114656/tm2527479-3_pre14a.htm,warrants_convertibles
+PLUG,2025-11-20,PRE 14A,0001104659-25-114656,tm2527479-3_pre14a.htm,dilution,https://www.sec.gov/Archives/edgar/data/1093691/000110465925114656/tm2527479-3_pre14a.htm,dilution
+VVOS,2025-11-19,10-Q,0001493152-25-024253,form10-q.htm,offering,https://www.sec.gov/Archives/edgar/data/1716166/000149315225024253/form10-q.htm,dilution
+VVOS,2025-11-19,10-Q,0001493152-25-024253,form10-q.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1716166/000149315225024253/form10-q.htm,other
+VVOS,2025-11-19,10-Q,0001493152-25-024253,form10-q.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1716166/000149315225024253/form10-q.htm,dilution
+VVOS,2025-11-19,10-Q,0001493152-25-024253,form10-q.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1716166/000149315225024253/form10-q.htm,dilution
+VVOS,2025-11-19,10-Q,0001493152-25-024253,form10-q.htm,warrant,https://www.sec.gov/Archives/edgar/data/1716166/000149315225024253/form10-q.htm,warrants_convertibles
+VVOS,2025-11-19,10-Q,0001493152-25-024253,form10-q.htm,going concern,https://www.sec.gov/Archives/edgar/data/1716166/000149315225024253/form10-q.htm,going_concern
+VVOS,2025-11-19,10-Q,0001493152-25-024253,form10-q.htm,delisting,https://www.sec.gov/Archives/edgar/data/1716166/000149315225024253/form10-q.htm,delisting_compliance
+VVOS,2025-11-19,10-Q,0001493152-25-024253,form10-q.htm,compliance,https://www.sec.gov/Archives/edgar/data/1716166/000149315225024253/form10-q.htm,delisting_compliance
+VVOS,2025-11-19,10-Q,0001493152-25-024253,form10-q.htm,dilution,https://www.sec.gov/Archives/edgar/data/1716166/000149315225024253/form10-q.htm,dilution
+KULR,2025-11-18,10-Q,0001104659-25-113662,tmb-20250930x10q.htm,stock split,https://www.sec.gov/Archives/edgar/data/1662684/000110465925113662/tmb-20250930x10q.htm,reverse_split
+KULR,2025-11-18,10-Q,0001104659-25-113662,tmb-20250930x10q.htm,offering,https://www.sec.gov/Archives/edgar/data/1662684/000110465925113662/tmb-20250930x10q.htm,dilution
+KULR,2025-11-18,10-Q,0001104659-25-113662,tmb-20250930x10q.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1662684/000110465925113662/tmb-20250930x10q.htm,dilution
+KULR,2025-11-18,10-Q,0001104659-25-113662,tmb-20250930x10q.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1662684/000110465925113662/tmb-20250930x10q.htm,dilution
+KULR,2025-11-18,10-Q,0001104659-25-113662,tmb-20250930x10q.htm,warrant,https://www.sec.gov/Archives/edgar/data/1662684/000110465925113662/tmb-20250930x10q.htm,warrants_convertibles
+KULR,2025-11-18,10-Q,0001104659-25-113662,tmb-20250930x10q.htm,going concern,https://www.sec.gov/Archives/edgar/data/1662684/000110465925113662/tmb-20250930x10q.htm,going_concern
+KULR,2025-11-18,10-Q,0001104659-25-113662,tmb-20250930x10q.htm,compliance,https://www.sec.gov/Archives/edgar/data/1662684/000110465925113662/tmb-20250930x10q.htm,delisting_compliance
+KULR,2025-11-18,10-Q,0001104659-25-113662,tmb-20250930x10q.htm,dilution,https://www.sec.gov/Archives/edgar/data/1662684/000110465925113662/tmb-20250930x10q.htm,dilution
+BYND,2025-11-14,8-K,0001193125-25-281523,d35087d8k.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1655210/000119312525281523/d35087d8k.htm,warrants_convertibles
+BCDA,2025-11-12,8-K,0001437749-25-034442,bcda20251112_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/925741/000143774925034442/bcda20251112_8k.htm,warrants_convertibles
+CXAI,2025-11-12,424B3,0001829126-25-009079,cxapp_424b3.htm,offering,https://www.sec.gov/Archives/edgar/data/1820875/000182912625009079/cxapp_424b3.htm,dilution
+CXAI,2025-11-12,424B3,0001829126-25-009079,cxapp_424b3.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912625009079/cxapp_424b3.htm,warrants_convertibles
+CXAI,2025-11-12,424B3,0001829126-25-009079,cxapp_424b3.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1820875/000182912625009079/cxapp_424b3.htm,warrants_convertibles
+CXAI,2025-11-12,424B3,0001829126-25-009079,cxapp_424b3.htm,going concern,https://www.sec.gov/Archives/edgar/data/1820875/000182912625009079/cxapp_424b3.htm,going_concern
+CXAI,2025-11-12,424B3,0001829126-25-009079,cxapp_424b3.htm,compliance,https://www.sec.gov/Archives/edgar/data/1820875/000182912625009079/cxapp_424b3.htm,delisting_compliance
+CXAI,2025-11-12,10-Q,0001829126-25-009077,cxappinc_10q.htm,offering,https://www.sec.gov/Archives/edgar/data/1820875/000182912625009077/cxappinc_10q.htm,dilution
+CXAI,2025-11-12,10-Q,0001829126-25-009077,cxappinc_10q.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912625009077/cxappinc_10q.htm,warrants_convertibles
+CXAI,2025-11-12,10-Q,0001829126-25-009077,cxappinc_10q.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1820875/000182912625009077/cxappinc_10q.htm,warrants_convertibles
+CXAI,2025-11-12,10-Q,0001829126-25-009077,cxappinc_10q.htm,going concern,https://www.sec.gov/Archives/edgar/data/1820875/000182912625009077/cxappinc_10q.htm,going_concern
+CXAI,2025-11-12,10-Q,0001829126-25-009077,cxappinc_10q.htm,compliance,https://www.sec.gov/Archives/edgar/data/1820875/000182912625009077/cxappinc_10q.htm,delisting_compliance
+MVIS,2025-11-12,10-Q,0001493152-25-021931,form10-q.htm,offering,https://www.sec.gov/Archives/edgar/data/65770/000149315225021931/form10-q.htm,dilution
+MVIS,2025-11-12,10-Q,0001493152-25-021931,form10-q.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/65770/000149315225021931/form10-q.htm,dilution
+MVIS,2025-11-12,10-Q,0001493152-25-021931,form10-q.htm,warrant,https://www.sec.gov/Archives/edgar/data/65770/000149315225021931/form10-q.htm,warrants_convertibles
+MVIS,2025-11-12,10-Q,0001493152-25-021931,form10-q.htm,convertible note,https://www.sec.gov/Archives/edgar/data/65770/000149315225021931/form10-q.htm,warrants_convertibles
+MVIS,2025-11-12,10-Q,0001493152-25-021931,form10-q.htm,going concern,https://www.sec.gov/Archives/edgar/data/65770/000149315225021931/form10-q.htm,going_concern
+MVIS,2025-11-12,10-Q,0001493152-25-021931,form10-q.htm,delisting,https://www.sec.gov/Archives/edgar/data/65770/000149315225021931/form10-q.htm,delisting_compliance
+MVIS,2025-11-12,10-Q,0001493152-25-021931,form10-q.htm,compliance,https://www.sec.gov/Archives/edgar/data/65770/000149315225021931/form10-q.htm,delisting_compliance
+MVIS,2025-11-12,10-Q,0001493152-25-021931,form10-q.htm,dilution,https://www.sec.gov/Archives/edgar/data/65770/000149315225021931/form10-q.htm,dilution
+BBAI,2025-11-10,8-K,0001836981-25-000025,bbai-20251110.htm,offering,https://www.sec.gov/Archives/edgar/data/1836981/000183698125000025/bbai-20251110.htm,dilution
+BBAI,2025-11-10,8-K,0001836981-25-000025,bbai-20251110.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000183698125000025/bbai-20251110.htm,warrants_convertibles
+BBAI,2025-11-10,10-Q,0001836981-25-000028,bbai-20250930.htm,stock split,https://www.sec.gov/Archives/edgar/data/1836981/000183698125000028/bbai-20250930.htm,reverse_split
+BBAI,2025-11-10,10-Q,0001836981-25-000028,bbai-20250930.htm,offering,https://www.sec.gov/Archives/edgar/data/1836981/000183698125000028/bbai-20250930.htm,dilution
+BBAI,2025-11-10,10-Q,0001836981-25-000028,bbai-20250930.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1836981/000183698125000028/bbai-20250930.htm,other
+BBAI,2025-11-10,10-Q,0001836981-25-000028,bbai-20250930.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1836981/000183698125000028/bbai-20250930.htm,dilution
+BBAI,2025-11-10,10-Q,0001836981-25-000028,bbai-20250930.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1836981/000183698125000028/bbai-20250930.htm,dilution
+BBAI,2025-11-10,10-Q,0001836981-25-000028,bbai-20250930.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000183698125000028/bbai-20250930.htm,warrants_convertibles
+BBAI,2025-11-10,10-Q,0001836981-25-000028,bbai-20250930.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1836981/000183698125000028/bbai-20250930.htm,warrants_convertibles
+BBAI,2025-11-10,10-Q,0001836981-25-000028,bbai-20250930.htm,compliance,https://www.sec.gov/Archives/edgar/data/1836981/000183698125000028/bbai-20250930.htm,delisting_compliance
+SOUN,2025-11-10,10-Q,0001840856-25-000022,soun-20250930.htm,offering,https://www.sec.gov/Archives/edgar/data/1840856/000184085625000022/soun-20250930.htm,dilution
+SOUN,2025-11-10,10-Q,0001840856-25-000022,soun-20250930.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1840856/000184085625000022/soun-20250930.htm,dilution
+SOUN,2025-11-10,10-Q,0001840856-25-000022,soun-20250930.htm,warrant,https://www.sec.gov/Archives/edgar/data/1840856/000184085625000022/soun-20250930.htm,warrants_convertibles
+SOUN,2025-11-10,10-Q,0001840856-25-000022,soun-20250930.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1840856/000184085625000022/soun-20250930.htm,warrants_convertibles
+SOUN,2025-11-10,10-Q,0001840856-25-000022,soun-20250930.htm,going concern,https://www.sec.gov/Archives/edgar/data/1840856/000184085625000022/soun-20250930.htm,going_concern
+SOUN,2025-11-10,10-Q,0001840856-25-000022,soun-20250930.htm,compliance,https://www.sec.gov/Archives/edgar/data/1840856/000184085625000022/soun-20250930.htm,delisting_compliance
+WULF,2025-11-10,10-Q,0001083301-25-000099,wulf-20250930.htm,stock split,https://www.sec.gov/Archives/edgar/data/1083301/000108330125000099/wulf-20250930.htm,reverse_split
+WULF,2025-11-10,10-Q,0001083301-25-000099,wulf-20250930.htm,offering,https://www.sec.gov/Archives/edgar/data/1083301/000108330125000099/wulf-20250930.htm,dilution
+WULF,2025-11-10,10-Q,0001083301-25-000099,wulf-20250930.htm,warrant,https://www.sec.gov/Archives/edgar/data/1083301/000108330125000099/wulf-20250930.htm,warrants_convertibles
+WULF,2025-11-10,10-Q,0001083301-25-000099,wulf-20250930.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1083301/000108330125000099/wulf-20250930.htm,warrants_convertibles
+WULF,2025-11-10,10-Q,0001083301-25-000099,wulf-20250930.htm,delisting,https://www.sec.gov/Archives/edgar/data/1083301/000108330125000099/wulf-20250930.htm,delisting_compliance
+WULF,2025-11-10,10-Q,0001083301-25-000099,wulf-20250930.htm,dilution,https://www.sec.gov/Archives/edgar/data/1083301/000108330125000099/wulf-20250930.htm,dilution
+OPEN,2025-11-07,424B5,0001140361-25-040965,ny20058304x4_424b5.htm,offering,https://www.sec.gov/Archives/edgar/data/1801169/000114036125040965/ny20058304x4_424b5.htm,dilution
+OPEN,2025-11-07,424B5,0001140361-25-040965,ny20058304x4_424b5.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1801169/000114036125040965/ny20058304x4_424b5.htm,other
+OPEN,2025-11-07,424B5,0001140361-25-040965,ny20058304x4_424b5.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1801169/000114036125040965/ny20058304x4_424b5.htm,dilution
+OPEN,2025-11-07,424B5,0001140361-25-040965,ny20058304x4_424b5.htm,warrant,https://www.sec.gov/Archives/edgar/data/1801169/000114036125040965/ny20058304x4_424b5.htm,warrants_convertibles
+OPEN,2025-11-07,424B5,0001140361-25-040965,ny20058304x4_424b5.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1801169/000114036125040965/ny20058304x4_424b5.htm,warrants_convertibles
+OPEN,2025-11-07,424B5,0001140361-25-040965,ny20058304x4_424b5.htm,compliance,https://www.sec.gov/Archives/edgar/data/1801169/000114036125040965/ny20058304x4_424b5.htm,delisting_compliance
+OPEN,2025-11-06,10-Q,0001801169-25-000092,open-20250930.htm,offering,https://www.sec.gov/Archives/edgar/data/1801169/000180116925000092/open-20250930.htm,dilution
+OPEN,2025-11-06,10-Q,0001801169-25-000092,open-20250930.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1801169/000180116925000092/open-20250930.htm,other
+OPEN,2025-11-06,10-Q,0001801169-25-000092,open-20250930.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1801169/000180116925000092/open-20250930.htm,dilution
+OPEN,2025-11-06,10-Q,0001801169-25-000092,open-20250930.htm,warrant,https://www.sec.gov/Archives/edgar/data/1801169/000180116925000092/open-20250930.htm,warrants_convertibles
+OPEN,2025-11-06,10-Q,0001801169-25-000092,open-20250930.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1801169/000180116925000092/open-20250930.htm,warrants_convertibles
+OPEN,2025-11-06,10-Q,0001801169-25-000092,open-20250930.htm,delisting,https://www.sec.gov/Archives/edgar/data/1801169/000180116925000092/open-20250930.htm,delisting_compliance
+OPEN,2025-11-06,10-Q,0001801169-25-000092,open-20250930.htm,compliance,https://www.sec.gov/Archives/edgar/data/1801169/000180116925000092/open-20250930.htm,delisting_compliance
+OPEN,2025-11-06,10-Q,0001801169-25-000092,open-20250930.htm,dilution,https://www.sec.gov/Archives/edgar/data/1801169/000180116925000092/open-20250930.htm,dilution
+OPEN,2025-11-06,8-K,0001140361-25-040804,ny20058304x2_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1801169/000114036125040804/ny20058304x2_8k.htm,dilution
+OPEN,2025-11-06,8-K,0001140361-25-040804,ny20058304x2_8k.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1801169/000114036125040804/ny20058304x2_8k.htm,other
+OPEN,2025-11-06,8-K,0001140361-25-040804,ny20058304x2_8k.htm,warrant,https://www.sec.gov/Archives/edgar/data/1801169/000114036125040804/ny20058304x2_8k.htm,warrants_convertibles
+OPEN,2025-11-06,8-K,0001140361-25-040804,ny20058304x2_8k.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1801169/000114036125040804/ny20058304x2_8k.htm,warrants_convertibles
+OPEN,2025-11-06,424B5,0001140361-25-040822,ny20058304x1_424b5.htm,offering,https://www.sec.gov/Archives/edgar/data/1801169/000114036125040822/ny20058304x1_424b5.htm,dilution
+OPEN,2025-11-06,424B5,0001140361-25-040822,ny20058304x1_424b5.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1801169/000114036125040822/ny20058304x1_424b5.htm,other
+OPEN,2025-11-06,424B5,0001140361-25-040822,ny20058304x1_424b5.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1801169/000114036125040822/ny20058304x1_424b5.htm,dilution
+OPEN,2025-11-06,424B5,0001140361-25-040822,ny20058304x1_424b5.htm,warrant,https://www.sec.gov/Archives/edgar/data/1801169/000114036125040822/ny20058304x1_424b5.htm,warrants_convertibles
+OPEN,2025-11-06,424B5,0001140361-25-040822,ny20058304x1_424b5.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1801169/000114036125040822/ny20058304x1_424b5.htm,warrants_convertibles
+OPEN,2025-11-06,424B5,0001140361-25-040822,ny20058304x1_424b5.htm,compliance,https://www.sec.gov/Archives/edgar/data/1801169/000114036125040822/ny20058304x1_424b5.htm,delisting_compliance
+SOUN,2025-11-06,8-K,0001840856-25-000018,soun-20251106.htm,warrant,https://www.sec.gov/Archives/edgar/data/1840856/000184085625000018/soun-20251106.htm,warrants_convertibles
+CAN,2025-11-04,424B5,0001104659-25-106149,tm2530041-1_424b5.htm,offering,https://www.sec.gov/Archives/edgar/data/1780652/000110465925106149/tm2530041-1_424b5.htm,dilution
+CAN,2025-11-04,424B5,0001104659-25-106149,tm2530041-1_424b5.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1780652/000110465925106149/tm2530041-1_424b5.htm,other
+CAN,2025-11-04,424B5,0001104659-25-106149,tm2530041-1_424b5.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1780652/000110465925106149/tm2530041-1_424b5.htm,dilution
+CAN,2025-11-04,424B5,0001104659-25-106149,tm2530041-1_424b5.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1780652/000110465925106149/tm2530041-1_424b5.htm,dilution
+CAN,2025-11-04,424B5,0001104659-25-106149,tm2530041-1_424b5.htm,warrant,https://www.sec.gov/Archives/edgar/data/1780652/000110465925106149/tm2530041-1_424b5.htm,warrants_convertibles
+CAN,2025-11-04,424B5,0001104659-25-106149,tm2530041-1_424b5.htm,delisting,https://www.sec.gov/Archives/edgar/data/1780652/000110465925106149/tm2530041-1_424b5.htm,delisting_compliance
+CAN,2025-11-04,424B5,0001104659-25-106149,tm2530041-1_424b5.htm,compliance,https://www.sec.gov/Archives/edgar/data/1780652/000110465925106149/tm2530041-1_424b5.htm,delisting_compliance
+CAN,2025-11-04,424B5,0001104659-25-106149,tm2530041-1_424b5.htm,dilution,https://www.sec.gov/Archives/edgar/data/1780652/000110465925106149/tm2530041-1_424b5.htm,dilution
+RIOT,2025-10-30,10-Q,0001104659-25-104466,riot-20250930x10q.htm,offering,https://www.sec.gov/Archives/edgar/data/1167419/000110465925104466/riot-20250930x10q.htm,dilution
+RIOT,2025-10-30,10-Q,0001104659-25-104466,riot-20250930x10q.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1167419/000110465925104466/riot-20250930x10q.htm,dilution
+RIOT,2025-10-30,10-Q,0001104659-25-104466,riot-20250930x10q.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1167419/000110465925104466/riot-20250930x10q.htm,dilution
+RIOT,2025-10-30,10-Q,0001104659-25-104466,riot-20250930x10q.htm,warrant,https://www.sec.gov/Archives/edgar/data/1167419/000110465925104466/riot-20250930x10q.htm,warrants_convertibles
+RIOT,2025-10-30,10-Q,0001104659-25-104466,riot-20250930x10q.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1167419/000110465925104466/riot-20250930x10q.htm,warrants_convertibles
+RIOT,2025-10-30,10-Q,0001104659-25-104466,riot-20250930x10q.htm,dilution,https://www.sec.gov/Archives/edgar/data/1167419/000110465925104466/riot-20250930x10q.htm,dilution
+CAN,2025-10-24,424B5,0001104659-25-102125,tm2529349-2_424b5.htm,offering,https://www.sec.gov/Archives/edgar/data/1780652/000110465925102125/tm2529349-2_424b5.htm,dilution
+CAN,2025-10-24,424B5,0001104659-25-102125,tm2529349-2_424b5.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1780652/000110465925102125/tm2529349-2_424b5.htm,other
+CAN,2025-10-24,424B5,0001104659-25-102125,tm2529349-2_424b5.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1780652/000110465925102125/tm2529349-2_424b5.htm,dilution
+CAN,2025-10-24,424B5,0001104659-25-102125,tm2529349-2_424b5.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1780652/000110465925102125/tm2529349-2_424b5.htm,dilution
+CAN,2025-10-24,424B5,0001104659-25-102125,tm2529349-2_424b5.htm,warrant,https://www.sec.gov/Archives/edgar/data/1780652/000110465925102125/tm2529349-2_424b5.htm,warrants_convertibles
+CAN,2025-10-24,424B5,0001104659-25-102125,tm2529349-2_424b5.htm,delisting,https://www.sec.gov/Archives/edgar/data/1780652/000110465925102125/tm2529349-2_424b5.htm,delisting_compliance
+CAN,2025-10-24,424B5,0001104659-25-102125,tm2529349-2_424b5.htm,compliance,https://www.sec.gov/Archives/edgar/data/1780652/000110465925102125/tm2529349-2_424b5.htm,delisting_compliance
+CAN,2025-10-24,424B5,0001104659-25-102125,tm2529349-2_424b5.htm,dilution,https://www.sec.gov/Archives/edgar/data/1780652/000110465925102125/tm2529349-2_424b5.htm,dilution
+VVOS,2025-10-24,424B5,0001493152-25-019362,form424b5.htm,offering,https://www.sec.gov/Archives/edgar/data/1716166/000149315225019362/form424b5.htm,dilution
+VVOS,2025-10-24,8-K,0001493152-25-019359,form8-k.htm,offering,https://www.sec.gov/Archives/edgar/data/1716166/000149315225019359/form8-k.htm,dilution
+CXAI,2025-10-23,424B3,0001829126-25-008391,cxapp_424b3.htm,warrant,https://www.sec.gov/Archives/edgar/data/1820875/000182912625008391/cxapp_424b3.htm,warrants_convertibles
+LAES,2025-10-20,424B3,0001193805-25-001475,e664912_424b3-sealsq.htm,offering,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001475/e664912_424b3-sealsq.htm,dilution
+LAES,2025-10-20,424B3,0001193805-25-001475,e664912_424b3-sealsq.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001475/e664912_424b3-sealsq.htm,other
+LAES,2025-10-20,424B3,0001193805-25-001475,e664912_424b3-sealsq.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001475/e664912_424b3-sealsq.htm,dilution
+LAES,2025-10-20,424B3,0001193805-25-001475,e664912_424b3-sealsq.htm,warrant,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001475/e664912_424b3-sealsq.htm,warrants_convertibles
+LAES,2025-10-20,424B3,0001193805-25-001475,e664912_424b3-sealsq.htm,compliance,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001475/e664912_424b3-sealsq.htm,delisting_compliance
+LAES,2025-10-20,424B3,0001193805-25-001475,e664912_424b3-sealsq.htm,dilution,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001475/e664912_424b3-sealsq.htm,dilution
+BBAI,2025-10-17,DEF 14A,0001193125-25-241870,d62721ddef14a.htm,offering,https://www.sec.gov/Archives/edgar/data/1836981/000119312525241870/d62721ddef14a.htm,dilution
+BBAI,2025-10-17,DEF 14A,0001193125-25-241870,d62721ddef14a.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000119312525241870/d62721ddef14a.htm,warrants_convertibles
+BBAI,2025-10-17,DEF 14A,0001193125-25-241870,d62721ddef14a.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1836981/000119312525241870/d62721ddef14a.htm,warrants_convertibles
+LAES,2025-10-16,424B5,0001193805-25-001464,e664909_424b5-sealsq.htm,stock split,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001464/e664909_424b5-sealsq.htm,reverse_split
+LAES,2025-10-16,424B5,0001193805-25-001464,e664909_424b5-sealsq.htm,offering,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001464/e664909_424b5-sealsq.htm,dilution
+LAES,2025-10-16,424B5,0001193805-25-001464,e664909_424b5-sealsq.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001464/e664909_424b5-sealsq.htm,other
+LAES,2025-10-16,424B5,0001193805-25-001464,e664909_424b5-sealsq.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001464/e664909_424b5-sealsq.htm,dilution
+LAES,2025-10-16,424B5,0001193805-25-001464,e664909_424b5-sealsq.htm,warrant,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001464/e664909_424b5-sealsq.htm,warrants_convertibles
+LAES,2025-10-16,424B5,0001193805-25-001464,e664909_424b5-sealsq.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001464/e664909_424b5-sealsq.htm,warrants_convertibles
+LAES,2025-10-16,424B5,0001193805-25-001464,e664909_424b5-sealsq.htm,compliance,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001464/e664909_424b5-sealsq.htm,delisting_compliance
+LAES,2025-10-16,424B5,0001193805-25-001464,e664909_424b5-sealsq.htm,dilution,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001464/e664909_424b5-sealsq.htm,dilution
+BBAI,2025-10-14,8-K,0001836981-25-000015,bbai-20251014.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000183698125000015/bbai-20251014.htm,warrants_convertibles
+LAES,2025-10-07,424B5,0001193805-25-001417,e664888_424b5-sealsq.htm,stock split,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001417/e664888_424b5-sealsq.htm,reverse_split
+LAES,2025-10-07,424B5,0001193805-25-001417,e664888_424b5-sealsq.htm,offering,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001417/e664888_424b5-sealsq.htm,dilution
+LAES,2025-10-07,424B5,0001193805-25-001417,e664888_424b5-sealsq.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001417/e664888_424b5-sealsq.htm,other
+LAES,2025-10-07,424B5,0001193805-25-001417,e664888_424b5-sealsq.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001417/e664888_424b5-sealsq.htm,dilution
+LAES,2025-10-07,424B5,0001193805-25-001417,e664888_424b5-sealsq.htm,warrant,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001417/e664888_424b5-sealsq.htm,warrants_convertibles
+LAES,2025-10-07,424B5,0001193805-25-001417,e664888_424b5-sealsq.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001417/e664888_424b5-sealsq.htm,warrants_convertibles
+LAES,2025-10-07,424B5,0001193805-25-001417,e664888_424b5-sealsq.htm,compliance,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001417/e664888_424b5-sealsq.htm,delisting_compliance
+LAES,2025-10-07,424B5,0001193805-25-001417,e664888_424b5-sealsq.htm,dilution,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001417/e664888_424b5-sealsq.htm,dilution
+KULR,2025-10-06,DEF 14A,0001104659-25-096890,tm2526912d1_def14a.htm,reverse split,https://www.sec.gov/Archives/edgar/data/1662684/000110465925096890/tm2526912d1_def14a.htm,reverse_split
+KULR,2025-10-06,DEF 14A,0001104659-25-096890,tm2526912d1_def14a.htm,stock split,https://www.sec.gov/Archives/edgar/data/1662684/000110465925096890/tm2526912d1_def14a.htm,reverse_split
+KULR,2025-10-06,DEF 14A,0001104659-25-096890,tm2526912d1_def14a.htm,offering,https://www.sec.gov/Archives/edgar/data/1662684/000110465925096890/tm2526912d1_def14a.htm,dilution
+KULR,2025-10-06,DEF 14A,0001104659-25-096890,tm2526912d1_def14a.htm,warrant,https://www.sec.gov/Archives/edgar/data/1662684/000110465925096890/tm2526912d1_def14a.htm,warrants_convertibles
+KULR,2025-10-06,DEF 14A,0001104659-25-096890,tm2526912d1_def14a.htm,going concern,https://www.sec.gov/Archives/edgar/data/1662684/000110465925096890/tm2526912d1_def14a.htm,going_concern
+KULR,2025-10-06,DEF 14A,0001104659-25-096890,tm2526912d1_def14a.htm,compliance,https://www.sec.gov/Archives/edgar/data/1662684/000110465925096890/tm2526912d1_def14a.htm,delisting_compliance
+KULR,2025-10-06,DEF 14A,0001104659-25-096890,tm2526912d1_def14a.htm,dilution,https://www.sec.gov/Archives/edgar/data/1662684/000110465925096890/tm2526912d1_def14a.htm,dilution
+BBAI,2025-10-03,PRE 14A,0001193125-25-230388,d62721dpre14a.htm,offering,https://www.sec.gov/Archives/edgar/data/1836981/000119312525230388/d62721dpre14a.htm,dilution
+BBAI,2025-10-03,PRE 14A,0001193125-25-230388,d62721dpre14a.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000119312525230388/d62721dpre14a.htm,warrants_convertibles
+BBAI,2025-10-03,PRE 14A,0001193125-25-230388,d62721dpre14a.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1836981/000119312525230388/d62721dpre14a.htm,warrants_convertibles
+KULR,2025-09-30,424B5,0001104659-25-094763,tm2526981d1_424b5.htm,offering,https://www.sec.gov/Archives/edgar/data/1662684/000110465925094763/tm2526981d1_424b5.htm,dilution
+VVOS,2025-09-29,DEF 14A,0001493152-25-015837,formdef14a.htm,stock split,https://www.sec.gov/Archives/edgar/data/1716166/000149315225015837/formdef14a.htm,reverse_split
+VVOS,2025-09-29,DEF 14A,0001493152-25-015837,formdef14a.htm,offering,https://www.sec.gov/Archives/edgar/data/1716166/000149315225015837/formdef14a.htm,dilution
+VVOS,2025-09-29,DEF 14A,0001493152-25-015837,formdef14a.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1716166/000149315225015837/formdef14a.htm,other
+VVOS,2025-09-29,DEF 14A,0001493152-25-015837,formdef14a.htm,warrant,https://www.sec.gov/Archives/edgar/data/1716166/000149315225015837/formdef14a.htm,warrants_convertibles
+VVOS,2025-09-29,DEF 14A,0001493152-25-015837,formdef14a.htm,going concern,https://www.sec.gov/Archives/edgar/data/1716166/000149315225015837/formdef14a.htm,going_concern
+VVOS,2025-09-29,DEF 14A,0001493152-25-015837,formdef14a.htm,compliance,https://www.sec.gov/Archives/edgar/data/1716166/000149315225015837/formdef14a.htm,delisting_compliance
+OPEN,2025-09-17,8-K,0001801169-25-000082,open-20250916.htm,offering,https://www.sec.gov/Archives/edgar/data/1801169/000180116925000082/open-20250916.htm,dilution
+OPEN,2025-09-17,8-K,0001801169-25-000082,open-20250916.htm,compliance,https://www.sec.gov/Archives/edgar/data/1801169/000180116925000082/open-20250916.htm,delisting_compliance
+OPEN,2025-09-11,8-K,0001140361-25-034609,ef20055426_8k.htm,offering,https://www.sec.gov/Archives/edgar/data/1801169/000114036125034609/ef20055426_8k.htm,dilution
+SOUN,2025-09-09,8-K,0001213900-25-086243,ea0256604-8k_sound.htm,warrant,https://www.sec.gov/Archives/edgar/data/1840856/000121390025086243/ea0256604-8k_sound.htm,warrants_convertibles
+NOTV,2025-08-29,S-3,0001628280-25-041413,inotiv-formsx3.htm,offering,https://www.sec.gov/Archives/edgar/data/720154/000162828025041413/inotiv-formsx3.htm,dilution
+NOTV,2025-08-29,S-3,0001628280-25-041413,inotiv-formsx3.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/720154/000162828025041413/inotiv-formsx3.htm,dilution
+NOTV,2025-08-29,S-3,0001628280-25-041413,inotiv-formsx3.htm,warrant,https://www.sec.gov/Archives/edgar/data/720154/000162828025041413/inotiv-formsx3.htm,warrants_convertibles
+NOTV,2025-08-29,S-3,0001628280-25-041413,inotiv-formsx3.htm,going concern,https://www.sec.gov/Archives/edgar/data/720154/000162828025041413/inotiv-formsx3.htm,going_concern
+NOTV,2025-08-29,S-3,0001628280-25-041413,inotiv-formsx3.htm,compliance,https://www.sec.gov/Archives/edgar/data/720154/000162828025041413/inotiv-formsx3.htm,delisting_compliance
+NOTV,2025-08-29,S-3,0001628280-25-041413,inotiv-formsx3.htm,dilution,https://www.sec.gov/Archives/edgar/data/720154/000162828025041413/inotiv-formsx3.htm,dilution
+BBAI,2025-08-15,8-K,0001836981-25-000010,bbai-20250812.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000183698125000010/bbai-20250812.htm,warrants_convertibles
+BBAI,2025-08-11,10-Q,0001628280-25-039629,bbai-20250630.htm,stock split,https://www.sec.gov/Archives/edgar/data/1836981/000162828025039629/bbai-20250630.htm,reverse_split
+BBAI,2025-08-11,10-Q,0001628280-25-039629,bbai-20250630.htm,offering,https://www.sec.gov/Archives/edgar/data/1836981/000162828025039629/bbai-20250630.htm,dilution
+BBAI,2025-08-11,10-Q,0001628280-25-039629,bbai-20250630.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1836981/000162828025039629/bbai-20250630.htm,other
+BBAI,2025-08-11,10-Q,0001628280-25-039629,bbai-20250630.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1836981/000162828025039629/bbai-20250630.htm,dilution
+BBAI,2025-08-11,10-Q,0001628280-25-039629,bbai-20250630.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1836981/000162828025039629/bbai-20250630.htm,dilution
+BBAI,2025-08-11,10-Q,0001628280-25-039629,bbai-20250630.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000162828025039629/bbai-20250630.htm,warrants_convertibles
+BBAI,2025-08-11,10-Q,0001628280-25-039629,bbai-20250630.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1836981/000162828025039629/bbai-20250630.htm,warrants_convertibles
+BBAI,2025-08-11,10-Q,0001628280-25-039629,bbai-20250630.htm,compliance,https://www.sec.gov/Archives/edgar/data/1836981/000162828025039629/bbai-20250630.htm,delisting_compliance
+BBAI,2025-08-11,8-K,0001628280-25-039572,bbai-20250811.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000162828025039572/bbai-20250811.htm,warrants_convertibles
+SOUN,2025-08-11,10-Q,0001628280-25-039596,soun-20250630.htm,offering,https://www.sec.gov/Archives/edgar/data/1840856/000162828025039596/soun-20250630.htm,dilution
+SOUN,2025-08-11,10-Q,0001628280-25-039596,soun-20250630.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1840856/000162828025039596/soun-20250630.htm,dilution
+SOUN,2025-08-11,10-Q,0001628280-25-039596,soun-20250630.htm,warrant,https://www.sec.gov/Archives/edgar/data/1840856/000162828025039596/soun-20250630.htm,warrants_convertibles
+SOUN,2025-08-11,10-Q,0001628280-25-039596,soun-20250630.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1840856/000162828025039596/soun-20250630.htm,warrants_convertibles
+SOUN,2025-08-11,10-Q,0001628280-25-039596,soun-20250630.htm,going concern,https://www.sec.gov/Archives/edgar/data/1840856/000162828025039596/soun-20250630.htm,going_concern
+SOUN,2025-08-11,10-Q,0001628280-25-039596,soun-20250630.htm,compliance,https://www.sec.gov/Archives/edgar/data/1840856/000162828025039596/soun-20250630.htm,delisting_compliance
+MVIS,2025-08-08,10-Q,0001641172-25-022632,form10-q.htm,offering,https://www.sec.gov/Archives/edgar/data/65770/000164117225022632/form10-q.htm,dilution
+MVIS,2025-08-08,10-Q,0001641172-25-022632,form10-q.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/65770/000164117225022632/form10-q.htm,dilution
+MVIS,2025-08-08,10-Q,0001641172-25-022632,form10-q.htm,warrant,https://www.sec.gov/Archives/edgar/data/65770/000164117225022632/form10-q.htm,warrants_convertibles
+MVIS,2025-08-08,10-Q,0001641172-25-022632,form10-q.htm,convertible note,https://www.sec.gov/Archives/edgar/data/65770/000164117225022632/form10-q.htm,warrants_convertibles
+MVIS,2025-08-08,10-Q,0001641172-25-022632,form10-q.htm,going concern,https://www.sec.gov/Archives/edgar/data/65770/000164117225022632/form10-q.htm,going_concern
+MVIS,2025-08-08,10-Q,0001641172-25-022632,form10-q.htm,delisting,https://www.sec.gov/Archives/edgar/data/65770/000164117225022632/form10-q.htm,delisting_compliance
+MVIS,2025-08-08,10-Q,0001641172-25-022632,form10-q.htm,compliance,https://www.sec.gov/Archives/edgar/data/65770/000164117225022632/form10-q.htm,delisting_compliance
+MVIS,2025-08-08,10-Q,0001641172-25-022632,form10-q.htm,dilution,https://www.sec.gov/Archives/edgar/data/65770/000164117225022632/form10-q.htm,dilution
+NOTV,2025-08-07,10-Q,0001628280-25-039017,notv-20250630.htm,offering,https://www.sec.gov/Archives/edgar/data/720154/000162828025039017/notv-20250630.htm,dilution
+NOTV,2025-08-07,10-Q,0001628280-25-039017,notv-20250630.htm,warrant,https://www.sec.gov/Archives/edgar/data/720154/000162828025039017/notv-20250630.htm,warrants_convertibles
+NOTV,2025-08-07,10-Q,0001628280-25-039017,notv-20250630.htm,going concern,https://www.sec.gov/Archives/edgar/data/720154/000162828025039017/notv-20250630.htm,going_concern
+NOTV,2025-08-07,10-Q,0001628280-25-039017,notv-20250630.htm,compliance,https://www.sec.gov/Archives/edgar/data/720154/000162828025039017/notv-20250630.htm,delisting_compliance
+SOUN,2025-08-07,8-K,0001628280-25-038931,soun-20250807.htm,warrant,https://www.sec.gov/Archives/edgar/data/1840856/000162828025038931/soun-20250807.htm,warrants_convertibles
+RIOT,2025-07-31,10-Q,0001558370-25-009896,riot-20250630x10q.htm,offering,https://www.sec.gov/Archives/edgar/data/1167419/000155837025009896/riot-20250630x10q.htm,dilution
+RIOT,2025-07-31,10-Q,0001558370-25-009896,riot-20250630x10q.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1167419/000155837025009896/riot-20250630x10q.htm,dilution
+RIOT,2025-07-31,10-Q,0001558370-25-009896,riot-20250630x10q.htm,ATM offering,https://www.sec.gov/Archives/edgar/data/1167419/000155837025009896/riot-20250630x10q.htm,dilution
+RIOT,2025-07-31,10-Q,0001558370-25-009896,riot-20250630x10q.htm,warrant,https://www.sec.gov/Archives/edgar/data/1167419/000155837025009896/riot-20250630x10q.htm,warrants_convertibles
+RIOT,2025-07-31,10-Q,0001558370-25-009896,riot-20250630x10q.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1167419/000155837025009896/riot-20250630x10q.htm,warrants_convertibles
+RIOT,2025-07-31,10-Q,0001558370-25-009896,riot-20250630x10q.htm,dilution,https://www.sec.gov/Archives/edgar/data/1167419/000155837025009896/riot-20250630x10q.htm,dilution
+BBAI,2025-07-17,8-K,0001836981-25-000007,bbai-20250714.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000183698125000007/bbai-20250714.htm,warrants_convertibles
+LAES,2025-07-15,424B5,0001193805-25-001018,e664696_424b5-sealsq.htm,stock split,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001018/e664696_424b5-sealsq.htm,reverse_split
+LAES,2025-07-15,424B5,0001193805-25-001018,e664696_424b5-sealsq.htm,offering,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001018/e664696_424b5-sealsq.htm,dilution
+LAES,2025-07-15,424B5,0001193805-25-001018,e664696_424b5-sealsq.htm,registered direct,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001018/e664696_424b5-sealsq.htm,other
+LAES,2025-07-15,424B5,0001193805-25-001018,e664696_424b5-sealsq.htm,at-the-market,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001018/e664696_424b5-sealsq.htm,dilution
+LAES,2025-07-15,424B5,0001193805-25-001018,e664696_424b5-sealsq.htm,warrant,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001018/e664696_424b5-sealsq.htm,warrants_convertibles
+LAES,2025-07-15,424B5,0001193805-25-001018,e664696_424b5-sealsq.htm,convertible note,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001018/e664696_424b5-sealsq.htm,warrants_convertibles
+LAES,2025-07-15,424B5,0001193805-25-001018,e664696_424b5-sealsq.htm,compliance,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001018/e664696_424b5-sealsq.htm,delisting_compliance
+LAES,2025-07-15,424B5,0001193805-25-001018,e664696_424b5-sealsq.htm,dilution,https://www.sec.gov/Archives/edgar/data/1951222/000119380525001018/e664696_424b5-sealsq.htm,dilution
+BBAI,2025-06-06,8-K,0001628280-25-030042,bbai-20250606.htm,warrant,https://www.sec.gov/Archives/edgar/data/1836981/000162828025030042/bbai-20250606.htm,warrants_convertibles

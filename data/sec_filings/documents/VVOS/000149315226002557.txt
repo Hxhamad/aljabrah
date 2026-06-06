@@ -1,0 +1,81 @@
+false 0001716166 0001716166 2026-01-16 2026-01-16 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 8-K CURRENT
+REPORT Pursuant
+to Section 13 OR 15(d) of the Securities
+Exchange Act of 1934 Date
+of Report (Date of earliest event reported): January 16, 2026 (January 15, 2026) Vivos
+Therapeutics, Inc. (Exact
+name of registrant as specified in its charter) Delaware 001-39796 81-3224056 (State
+    or other jurisdiction (Commission (I.R.S.
+    Employer of
+    incorporation) File
+    Number) Identification
+    No.) 7921
+Southpark Plaza , Suite 210 Littleton , Colorado 80120 (Address
+of principal executive offices) (Zip Code) (866) 908-4867 (Registrant’s
+telephone number, including area code) N/A (Former
+name or former address, if changed since last report) Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions: ☐ Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities
+registered pursuant to Section 12(b) of the Act: Title
+    of each class Trading
+    Symbol(s) Name
+    of each exchange on which registered Common
+    Stock, par value $0.0001 per share VVOS The
+    NASDAQ Stock Market LLC Indicate
+by check mark whether the registrant is an emerging growth company as defined in as defined in Rule 405 of the Securities Act of 1933
+(§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging
+growth company ☒ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Item
+1.01. Entry into a Material Definitive Agreement. On
+January 15, 2026, Vivos Therapeutics, Inc. (the “ Company ”) entered into an unsecured convertible promissory note in
+favor of V-Co Investors 3 LLC (“ V-Co ”) in the maximum principal amount of up to $5,500,000 (the “ Note ”
+and the maximum principal amount, inclusive of the original issuance discount described below, the “ Maximum Principal ”).
+V-Co is an affiliate of New Seneca Partners Inc., an existing private equity investor in, and advisor to, the Company. The
+purpose of the Note is to provide advanced funding and support to the Company in connection with a proposed equity financing of the Company
+in the aggregate amount of up to $5,500,000 (the “ Subsequent Financing ”). The Company expects to close the Subsequent
+Financing no later than February 16, 2026 (the “ Outside Date ”). On
+January 15, 2026, V-Co funded an initial $900,000 to the Company under the Note. At any time until the close of business day on the Outside
+Date, V-Co shall advance funds and confirm such amount in advance to the Company, up to the Maximum Principal. The Maximum Principal
+shall include a ten percent (10%) original issuance discount of the aggregate Maximum Principal as a financing fee to V-Co. The
+Note does not bear any interest, except in the case of an Event of Default, which is defined as (i) the Company fails to pay the principal
+or any accrued interest under the Note on demand, (ii) the Company fails to observe or perform any other material covenant, obligation,
+condition or agreement in any material respect contained in the Note, (iii) the Company’s voluntary bankruptcy or (iv) an involuntary
+bankruptcy is commenced against the Company. Upon the occurrence of any Event of Default, interest shall accrue on the Note at a rate
+equal to fifteen percent (15%) per annum and shall be computed on the basis of a 365-day year. In
+the event of a Subsequent Financing prior to the Outside Date, all principal under the Note shall automatically convert dollar-to-dollar,
+without any further action required on the part of V-Co or the Company, into such equity instruments of the Company as are issued in
+the Subsequent Financing. The Subsequent Financing may, but is not required to be, led by V-Co. Following the Outside Date, the Company
+may repay all or any portion of the outstanding principal amount and any accrued interest of the Note in whole or in part without penalty. The
+foregoing description of the Note is not complete and is subject to and qualified in its entirety by reference to the full text of the
+Note, which is filed as Exhibit 4.1 hereto and incorporated herein by reference. Item
+2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant. The
+information contained above under Item 1.01, to the extent applicable, is hereby incorporated by reference herein. Item
+3.02 Unregistered Sales of Equity Securities. The
+information contained above under Item 1.01, to the extent applicable, is hereby incorporated by reference herein. Based in part upon
+the representations of V-Co, the offer and sale of the Note was made in a private placement transaction exempt for registration in reliance
+on the exemption afforded by Section 4(a)(2) of the Securities Act and corresponding provisions of state securities or “blue sky”
+laws. Neither
+the Note nor any securities of the Company which may be issued upon conversion of the Note have been registered under the Securities
+Act or any state securities laws and may not be offered or sold in the United States absent registration with the Securities & Exchange
+Commission or an applicable exemption from the registration requirements. Neither
+this Current Report on Form 8-K nor any exhibit attached hereto is an offer to sell or the solicitation of an offer to buy shares of
+common stock or other securities of the Company. Item
+9.01. Financial Statements and Exhibits. (d)
+Exhibits Exhibit
+    No. Description 4.1 Convertible Promissory Note, dated January 15, 2026, made by the Company in favor of V-Co Investors 3 LLC 104 Cover
+    Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURE Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. VIVOS
+    THERAPEUTICS, INC. Dated:
+    January 16, 2026 By: /s/
+    Bradford Amman Name: Bradford
+    Amman Title: Chief
+    Financial Officer

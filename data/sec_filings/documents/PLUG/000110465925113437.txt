@@ -1,0 +1,49 @@
+false 0001093691 0001093691 2025-11-18 2025-11-18 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND
+EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934 Date of Report (Date of earliest event
+reported): November 18, 2025 Plug Power Inc. (Exact name of registrant as specified in its
+charter) Delaware 1-34392 22-3672377 (State
+    or other jurisdiction (Commission
+    File (IRS
+    Employer of
+    incorporation) Number) Identification
+    No.) 125 Vista Boulevard , Slingerlands , New York 12159 (Address
+    of principal executive offices) (Zip
+    Code) Registrant’s telephone
+number, including area code: ( 518 ) 782-7700 N/A (Former name or former address, if changed since
+last report.) Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General
+Instruction A.2. below): ¨ Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425) ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12) ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under
+the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to 12(b) of the Act: Title of each class Trading
+    Symbol(s) Name of each exchange
+    on which registered Common
+    Stock, par value $0.01 per share PLUG The Nasdaq Capital
+    Market Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§ 240.12b-2 of this chapter). Emerging growth
+company ¨ If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ Item 7.01 Regulation FD Disclosure Plug Power Inc. (the “Company”) will host its seventh annual Plug
+Symposium at its Vista manufacturing facility in Slingerlands, New York starting at 9:00 a.m. Eastern Time on November 18, 2025. This year's theme, "Strengthening Energy Independence," underscores hydrogen's critical role in enhancing global energy security. During
+the symposium, the Company’s senior leadership team, including Andrew J. Marsh, the Chief Executive Officer (the ‘‘CEO’’), Jose Luis Crespo, the
+President and Chief Revenue Officer, and Paul B. Middleton, the Chief Financial Officer, will present on the Company’s strategic
+vision and role in the hydrogen economy and provide a financial update. The symposium will include panel
+discussions with third-party partners and customers, as well as a fireside chat between Mr. Marsh and Mr. Crespo regarding the Company's strategy and leadership transition, as Mr. Marsh
+prepares to transition the CEO role to Mr. Crespo in March 2026. Topics to be addressed include the Company's Project Quantum Leap initiatives to streamline the business and strengthen the balance sheet, operational milestones, energy grid challenges and Plug's energy
+management solutions, scaling operations at the Vista manufacturing facility, and engineering and technology developments. The symposium
+will highlight the Company’s electrolyzer deployment milestones and pipeline, hydrogen production network, hydrogen plant design
+and execution, and key partnerships and customer projects. A copy of the presentation materials that will be used at the symposium is furnished herewith
+as Exhibit 99.1 to this Current Report on Form 8-K and incorporated herein by reference. A recording of the webcast will be available
+on the Company's website for a period of time following the symposium. In connection with the foregoing, the Company also issued a press
+release. A copy of the press release is furnished as Exhibit 99.2 to this Current Report on Form 8-K and incorporated herein by reference. The information included in this Item 7.01, Exhibit 99.1 and Exhibit
+99.2 of this Current Report on Form 8-K is not deemed to be “filed” for purposes of Section 18 of the Securities Exchange
+Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall this item,
+Exhibit 99.1 or Exhibit 99.2 be incorporated by reference into the Company’s filings under the Securities Act of 1933, as amended
+(the “Securities Act”) or the Exchange Act, except as expressly set forth by specific reference in such future filing. Item 9.01. Financial Statements and Exhibits. (d) Exhibits Exhibit Number Title 99.1 Presentation
+    of Plug Power Inc., dated November 18, 2025. 99.2 Press Release
+    of Plug Power Inc., dated November 18, 2025. 104 Cover Page
+    Interactive Data File (embedded within the Inline XBRL document). SIGNATURE Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Plug Power Inc. Date: November 18, 2025 By: /s/ Paul B. Middleton Name: Paul B. Middleton Title: Chief Financial Officer

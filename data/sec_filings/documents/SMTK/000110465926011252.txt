@@ -1,0 +1,31 @@
+false 0001817760 0001817760 2026-02-05 2026-02-05 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, DC 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934 Date of Report (Date of earliest event reported): February 5, 2026 SmartKem, Inc. (Exact name of registrant as specified in its charter) Delaware 001-42115 85-1083654 (State or other jurisdiction of incorporation) (Commission File Number) (IRS Employer Identification No.) Manchester Technology Center, Hexagon Tower Delaunays Road , Blackley Manchester , M9 8GQ U.K. (Address of principal executive offices, including
+zip code) 011-44-161 - 721-1514 (Registrant’s telephone number, including
+area code) N/A (Former name or former address, if changed since
+last report) Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: ¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to
+Section 12(b) of the Act: Title of each class Trading Symbol(s) Name of exchange on which registered Common Stock, par value $0.0001 per share SMTK The Nasdaq Stock Market LLC Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b - 2 of
+the Securities Exchange Act of 1934 (§240.12b - 2 of this chapter). Emerging growth
+company x If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ Item 1.01 Entry into a Material Definitive Agreement. On
+February 5, 2026, SmartKem, Inc. (the “Company”) entered into a debt conversion agreement (the “Debt Conversion Agreement”)
+with SmartKem Limited, a wholly owned subsidiary of the Company, and a creditor (the “Creditor”), pursuant to which the Company
+agreed to issue to the Creditor (i) 385,130 shares of the Company’s common stock, par value $0.0001 per share (“Common Stock”),
+at an ascribed price of $2.75 per share and (ii) pre-funded warrants (the “Pre-Funded Warrant”) to purchase 348,260 shares
+of Common Stock in satisfaction of approximately $2,016,821 owed to the Creditor by SmartKem Limited. The
+Pre-Funded Warrants are immediately exercisable at an exercise price of $0.0001 per share and may be exercised at any time until the Pre-Funded
+Warrants are exercised in full. The Creditor will not have the right to exercise any portion of a Pre-Funded Warrant if it (together with
+its Attribution Parties (as defined in the Pre-Funded Warrant)) would beneficially own in excess of 4.99% of the number of shares of Common
+Stock outstanding immediately after giving effect to the exercise, as such percentage ownership is determined in accordance with the terms
+of the Pre-Funded Warrant. However, the Creditor may increase or decrease such percentage to any other percentage not in excess of 9.99%
+upon notice to the Company, provided, that any increase in this limitation will not be effective until 61 days after such notice from
+the Creditor to the Company. The
+foregoing descriptions of the Pre-Funded Warrant and Debt Conversion Agreement are not complete and are qualified in their entirety by
+reference to the full text of the form of Pre-Funded Warrant and the form of the Debt Conversion Agreement, copies of which are filed
+as Exhibits 4.1 and 10.1, respectively, to this Current Report on Form 8-K and are incorporated by reference herein. Item 3.02. Unregistered
+Sales of Equity Securities. The information set forth
+in Item 1.01 is incorporated herein by reference. The shares of Common Stock and the Pre-Funded Warrants issued pursuant to the Debt Conversion
+Agreement were issued in reliance upon the exemption from registration provided by Section 4(a)(2) of the Securities Act. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 4.1 Form of Pre-Funded Warrant 10.1 Form of Debt Conversion Agreement 99.1 Press Release, dated February 6, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) Signature Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. SMARTKEM, INC. Dated: February 6, 2026 By: /s/ Barbra C. Keck Barbra C. Keck Chief Financial Officer

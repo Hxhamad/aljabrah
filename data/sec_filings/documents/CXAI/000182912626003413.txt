@@ -1,0 +1,49 @@
+false 0001820875 0001820875 2026-04-08 2026-04-08 0001820875 cxai:CommonStockParValue0.0001PerShareMember 2026-04-08 2026-04-08 0001820875 cxai:WarrantsToPurchaseCommonStockMember 2026-04-08 2026-04-08 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION W ashington , D.C. 20549 FORM 8-K CURRENT REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 Date of Report (Date of earliest event
+reported): April 10, 2026 ( April 8, 2026 ) CXApp Inc. (Exact name of registrant as specified in its
+charter) Delaware 001-39642 85-2104918 (State
+                                            or other jurisdiction of
+    incorporation) (Commission File
+    Number) (I.R.S.
+                                                        Employer Identification No.) Four Palo Alto Square , Suite 200 3000 El Camino Real California , CA 94306 (Address
+    of principal executive offices) (Zip
+    Code) (650) 785-7171 (Registrant’s telephone number, including
+area code) Not Applicable (Former name or former address, if changed since last report) Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b)
+of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered Common Stock, par value $0.0001 per share CXAI The Nasdaq Stock Market LLC Warrants to purchase common stock CXAIW The Nasdaq Stock Market LLC Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the
+Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company ☒ If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Item
+3.02 Unregistered Sales of Equity Securities. CXApp
+Inc. (the “Company”) issued an aggregate of 4,116,659 shares of common stock to Avondale Capital, LLC (“Avondale”)
+under a Pre-Paid Purchase #1, dated as of March 26, 2025, and a Pre-Paid Purchase #2, dated as of August 7, 2025, both of which were
+entered into pursuant to the Securities Purchase Agreement, dated as of March 26, 2025, by and between the Company and Avondale. The
+shares of common stock were issued on March 30, 2026, April 1, 2026, April 8, 2026 and April 10, 2026, at a price of $0.180453, $0.18045,
+$0.154427 and $0.154427 per share, respectively. The offer and sale of these shares of common stock was made in reliance on Section 4(a)(2)
+of the Securities Act of 1933, as amended, for transactions not involving a public offering. Cautionary
+Statement Regarding Forward-Looking Statements This
+report includes “forward-looking statements” within the meaning of the “safe harbor” provisions of the Private
+Securities Litigation Reform Act of 1995. The expectations, estimates, and projections of the Company may differ from its actual results
+and consequently, you should not rely on these forward-looking statements as predictions of future events. Words such as “expect,”
+“estimate,” “project,” “budget,” “forecast,” “anticipate,” “intend,”
+“plan,” “may,” “will,” “could,” “should,” “believes,” “predicts,”
+“potential,” “continue,” or the negative or other variations thereof and similar expressions are intended to
+identify such forward looking statements. These forward-looking statements include, without limitation, expectations with respect to
+future performance of the Company, including projected financial information (which is not audited or reviewed by the Company’s
+auditors), and the future plans, operations and opportunities for the Company and other statements that are not historical facts. These
+statements are based on the current expectations of the Company’s management and are not predictions of actual performance. These
+forward-looking statements involve significant risks and uncertainties that could cause the actual results to differ materially from
+the expected results. Factors that may cause such differences include, but are not limited to: the demand for the Company’s services
+together with the possibility that the Company may be adversely affected by other economic, business, and/or competitive factors or changes
+in the business environment in which the Company operates; changes in consumer preferences or the market for the Company’s services;
+changes in applicable laws or regulations; the availability or competition for opportunities for expansion of the Company’s business;
+difficulties of managing growth profitably; the loss of one or more members of the Company’s management team; loss of a major customer
+and other risks and uncertainties included from time to time in the Company’s reports (including all amendments to those reports)
+filed with the Securities and Exchange Commission. The Company cautions that the foregoing list of factors is not exclusive. You should
+not place undue reliance upon any forward-looking statements, which speak only as of the date made. The Company does not undertake or
+accept any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements to reflect any change
+in its expectations or any change in events, conditions, or circumstances on which any such statement is based, except as required by
+law. These forward-looking statements should not be relied upon as representing the Company’s assessments as of any date subsequent
+to the date of this communication. 1 SIGNATURES Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. CXApp Inc. Date: April 10, 2026 By: /s/ Khurram P. Sheikh Name: Khurram P. Sheikh Title: Chairman and Chief Executive Officer 2

@@ -1,0 +1,13 @@
+{
+  "cache_used": false,
+  "company_name": "MicroVision, Inc.",
+  "currency": "USD",
+  "downloaded_at_utc": "2026-06-06T11:29:46Z",
+  "exchange": "NGM",
+  "market_cap": 129495776,
+  "metadata_status": "checked",
+  "rows": 7491,
+  "sector": "Technology",
+  "source": "yfinance",
+  "ticker": "MVIS"
+}

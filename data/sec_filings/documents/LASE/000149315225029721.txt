@@ -1,0 +1,50 @@
+false 0001807887 0001807887 2025-12-30 2025-12-30 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 8-K CURRENT
+REPORT Pursuant
+to Section 13 OR 15(d) of The Securities Exchange Act of 1934 Date
+of Report (Date of earliest event reported): December 30, 2025 LASER
+PHOTONICS CORPORATION (Exact
+name of registrant as specified in its charter) Delaware 001-41515 84-3628771 (State
+    of other jurisdiction (Commission (IRS
+    Employer of
+    incorporation) File
+    Number) Identification
+    No.) 1101
+    N. Keller Rd. Suite
+    G Orlando , FL 32810 (Address
+    of principal executive offices) (Zip
+    Code) Registrant’s
+telephone number, including area code: (407) 804-1000 (Former
+name or former address, if changed since last report.) Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (see General Instruction A.2. below): ☐ Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Title
+    of each class Trading
+    Symbol(s) Name
+    of each exchange on which registered Common
+    Stock LASE The
+    Nasdaq Stock Market LLC Emerging
+growth company ☒ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☒ Item 3.01 Notice of Delisting or Failure to Satisfy a Continued
+Listing Rule or Standard; Transfer of Listing. On December 30, 2025, the
+registrant (“Laser Photonics” or the “Company”) received a letter of compliance from Nasdaq stating that based
+on the Company having filed on December 23, 2025, its Form 10-Q for the period ended September 30, 2025, the Staff has determined that
+Laser Photonics complies with the periodic filing requirement for The Nasdaq Stock Market under Listing Rule 5250(c)(1) (the “Rule”)
+and that the matter of non-compliance with the Rule addressed in its November 20, 2025, notice to the Company was now closed. A copy of the press release
+announcing the compliance notice is attached hereto and incorporated herein to this Current Report on Form 8-K as Exhibit 99.1. Item
+9.01 Financial Statements and Exhibits. Exhibits 99.1 Press
+    Release Issued by Laser Photonics Corporation dated December 31, 2025 104 Cover
+    Page Interactive Data File (embedded within the Inline XBRL document) - 2 - SIGNATURES Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized. Date:
+    December 31, 2025 Laser
+    Photonics Corporation By: /s/
+    Wayne Tupuola Wayne
+    Tupuola President
+    and CEO - 3 -

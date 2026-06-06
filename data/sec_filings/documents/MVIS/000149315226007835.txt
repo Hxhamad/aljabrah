@@ -1,0 +1,127 @@
+false 0000065770 0000065770 2026-02-23 2026-02-23 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 8-K CURRENT
+REPORT Pursuant
+to Section 13 of 15(d) of
+the Securities Exchange Act of 1934 Date
+of report (Date of earliest event reported): February 23, 2026 MicroVision,
+Inc. (Exact
+name of registrant as specified in its charter) Delaware 001-34170 91-1600822 (State
+    or other jurisdiction of incorporation or organization) (Commission File Number) (I.R.S.
+    Employer Identification No.) 18390
+NE 68 th Street , Redmond , Washington 98052 (Address
+of principal executive offices) (Zip Code) (425) 936-6847 (Registrant’s
+telephone number, include area code) N/A (Former
+Name or Former Address, if Changed Since Last Report) Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions: ☐ Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities
+registered pursuant to Section 12(b) of the Act: Title
+    of each class Trading
+    Symbol(s) Name
+    of each exchange on which registered Common
+    Stock $0.001 Par Value MVIS The
+    NASDAQ Stock Market Indicate
+by check mark whether the registrant is an emerging growth company as defined in as defined in Rule 405 of the Securities Act of 1933
+(§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter). Emerging
+growth company ☐ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Item
+                                            1.01. Entry
+    into a Material Definitive Agreement. On
+February 23, 2026, MicroVision, Inc. (the “Company”) entered into a Securities Purchase and Exchange Agreement (the “Purchase
+Agreement”) for the exchange of senior secured convertible notes due 2026 for senior secured convertible notes due 2028 (the “Exchanged
+Note”) and the purchase of senior secured convertible notes due 2028 (the “New Note” and together with the Exchanged
+Note, the “Convertible Notes”) with an institutional investor (the “Holder”). The aggregate principal amount
+for the Convertible Notes is $43 million (the “Principal Amount”). The Convertible Notes bear zero coupon and mature on March
+1, 2028. The Convertible Notes rank senior to all outstanding and future indebtedness of the Company and its subsidiaries, and are secured
+by a first priority perfected security interest in all bank and securities accounts, now owned and later created or acquired, of the
+Company and its subsidiaries. The transactions pursuant to the Purchase Agreement were completed and the Convertible Notes were issued
+on February 23, 2026. The
+Holder will have the option to partially redeem the Convertible Notes (a “Partial Redemption Payment”) on the date of issuance
+of the Convertible Notes and on the first day of each month beginning April 1, 2026 and ending on March 1, 2028. The
+Convertible Notes will be optionally convertible by the Holder, subject to certain limitations as described below. If the Holder elects
+to convert the Convertible Notes (including with respect to the Principal Amount underlying the Partial Redemption Payments), the initial
+conversion price will be an amount equal to $0.8819, which is equal to one hundred ten percent (110%) of the last reported sale
+price on February 23, 2026, subject to customary anti-dilution adjustments. If
+the issuance of Common Stock pursuant to the Convertible Notes requires approval by the Company’s stockholders to satisfy Nasdaq
+Listing Rule 5635(d)(2), until the requisite stockholder approval is obtained, in no event will the number of shares of Common Stock
+issuable upon conversion or otherwise pursuant to the Convertible Notes, including (for the avoidance of doubt) any portion constituting
+a Partial Redemption Payment exceed 61,315,970 shares in the aggregate. The
+conversion of the Convertible Notes is subject to certain conditions, including that the shares are freely tradeable, the Holder is not
+in possession of material non-public information, no pending, proposed or intended fundamental change of the Company has occurred that
+has not been abandoned, terminated or consummated, the Holder remains within the Beneficial Ownership Limitation (as defined below),
+no event of default has occurred that has not been waived and no default has occurred and is continuing which has not been waived. Subject
+to certain conditions, the Company can require the Holder to convert the Convertible Notes (a “Forced Conversion”) at any
+time if, for the immediately preceding 20 consecutive VWAP Trading Days (as defined in the Convertible Notes), the stock price has closed
+above $2.00 per share of Common Stock on The Nasdaq Stock Market and certain conditions are satisfied on each of the 20 consecutive VWAP
+Trading Days. The conversion rate for a Forced Conversion will be the same as the conversion rate which would then be applicable for
+an optional conversion by the Holder. The
+Convertible Notes may not be converted into shares of Common Stock if such conversion would result in the Holder and its affiliates beneficially
+owning an aggregate of in excess of 4.99% of the then-outstanding shares of Common Stock, provided that upon 61 days’ notice, such
+ownership limitation may be adjusted by the Holder, but in any case, to no greater than 9.99% (the “Beneficial Ownership Limitation”). The
+Convertible Notes provide for certain events of default, such as the Company failing to make timely payments under the Convertible Notes
+and failing to timely comply with the reporting requirements of the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”). The Purchase Agreement and Convertible Notes also contain customary affirmative and negative covenants, including limitations
+on incurring additional indebtedness, the creation of additional liens on the Company’s assets, and entering into investments,
+as well as a minimum liquidity requirement of the greater of $21.5 million and one hundred ten percent (110%) of the then-outstanding
+aggregate Principal Amount of all Convertible Notes then-outstanding, and a cash burn requirement (on the last calendar date of each
+calendar month beginning with the calendar month ending February 28, 2026 (each, a “Cash Burn Measurement Date”), the Company’s
+Available Cash (as defined in the Convertible Notes) on the Cash Burn Measurement Date shall be greater than or equal to (i) the Company’s
+cash and cash equivalents on the Cash Burn Reference Date (as defined in the Convertible Notes), less (ii) $25 million). Pursuant
+to the Purchase Agreement, the Company has agreed to prepare and file with the U.S. Securities and Exchange Commission (the “SEC”)
+within the earlier of (i) 15 days after the Company files pro forma and audited historical financial statements in connection with its
+acquisition of certain assets from Luminar Technologies, Inc. (“Luminar”) pursuant to that certain Asset Purchase Agreement,
+dated January 26, 2026 by and between the Company and Luminar and (ii) 75 days following the Closing Date with respect to the Convertible
+Notes (as defined in the Purchase Agreement), a registration statement covering the resale of the shares of Common Stock issuable upon
+exercise of the Convertible Notes, and to use commercially reasonable efforts to cause such registration statement to be declared effective
+under the Securities Act of 1933, as amended (the “Securities Act”), as soon as practicable, and in any event within 30 days
+of filing the registration statement (or 60 days if reviewed and commented on by the SEC). Additionally, the Company has agreed to prepare
+and file a proxy statement with the SEC to seek stockholder approval at its next annual meeting of stockholders following the Closing
+Date (but in any event prior to June 30, 2026) to obtain the Requisite Stockholder Approval (as defined in the Convertible Notes) contemplated
+by Nasdaq Listing Rule 5635(d). The
+description of the Purchase Agreement and Convertible Notes above is not complete and is qualified in its entirety by the full text of
+the Purchase Agreement and the form of Convertible Notes, filed herewith as Exhibits 10.1 and 10.2 ,
+respectively, which are incorporated by reference herein. Item
+    1.02. Termination
+    of a Material Definitive Agreement. The
+information disclosed in Item 1.01 of this Current Report on Form 8-K is incorporated herein by reference. Item
+    2.03. Creation
+    of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet. The
+information disclosed in Item 1.01 of this Current Report on Form 8-K is incorporated herein by reference. Item
+    3.02. Unregistered
+    Sales of Equity Securities. The
+information disclosed in Item 1.01 of this Current Report on Form 8-K regarding the Purchase Agreement, the issuance of the Convertible
+Notes, and the underlying shares of Common Stock is incorporated herein by reference. The Convertible Notes and underlying shares of
+Common Stock have not been registered under the Securities Act, and may not be offered or sold in the United States absent registration
+or an applicable exemption from registration requirements. The Company is relying on the private placement exemption from registration
+provided by Section 4(a)(2) of the Securities Act and by Rule 506 of Regulation D, and similar exemptions under applicable state laws.
+Pursuant to that certain Engagement Letter between the Company and WestPark Capital, Inc. as placement agent, the placement agent shall
+receive cash fee of $426,500 in the transactions pursuant to the Purchase Agreement. Item
+    7.01. Regulation
+    FD Disclosure. On
+February 24, 2026, the Company issued a press release announcing the Purchase Agreement and Convertible Notes described in Item 1.01.
+A copy of the press release is filed as Exhibits 99.1 and is incorporated herein by reference. The information in Exhibit 99.1 is being
+furnished and shall not be deemed “filed” for the purposes of Section 18 of the Exchange Act, or otherwise subject to the
+liabilities of that Section. Item
+    9.01. Financial
+    Statements and Exhibits. (d) Exhibits Exhibit
+    No. Description Exhibit
+    10.1* Securities Purchase and Exchange Agreement. Exhibit
+    10.2 Form of Senior Secured Convertible Note. Exhibit
+    99.1 Press Release, dated February 24, 2026. Exhibit
+    104 Cover
+    Page Interactive Data File (embedded within the Inline XBRL document). *Certain
+schedules to this agreement have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The Company agrees to furnish a copy of all
+omitted schedules to the SEC upon its request. Portions of this exhibit have been omitted pursuant to Item 601(a)(5) of Regulation S-K.
+The Company agrees to furnish supplementally an unredacted copy of the Exhibits to the SEC upon its request. SIGNATURES Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. MicroVision, Inc. Date:
+    February 24, 2026 By: /s/
+    Drew G. Markham Drew
+    G. Markham Senior
+    Vice President, General Counsel and Secretary

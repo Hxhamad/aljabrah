@@ -1,0 +1,13 @@
+{
+  "cache_used": false,
+  "company_name": "BigBear.ai Holdings, Inc.",
+  "currency": "USD",
+  "downloaded_at_utc": "2026-06-06T11:26:38Z",
+  "exchange": "NYQ",
+  "market_cap": 2011587584,
+  "metadata_status": "checked",
+  "rows": 1300,
+  "sector": "Technology",
+  "source": "yfinance",
+  "ticker": "BBAI"
+}

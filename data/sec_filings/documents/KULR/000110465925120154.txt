@@ -1,0 +1,36 @@
+false 0001662684 0001662684 2025-12-11 2025-12-11 iso4217:USD xbrli:shares iso4217:USD xbrli:shares SECURITIES AND EXCHANGE COMMISSION Washington, DC 20549 Form 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934 Date of Report (Date of earliest event reported): December 11, 2025 KULR
+TECHNOLOGY GROUP, INC. (Exact
+name of the registrant as specified in its charter) Delaware 001-40454 81-1004273 (State or other jurisdiction of incorporation) (Commission File Number) (IRS Employer Identification No.) 555
+Forge River Road, Suite 100 , Webster , Texas 77598 (Address of principle executive offices) (Zip
+code) Registrant’s telephone number, including
+area code: ( 408 ) 663-5247 N/A (Former name or address if changed since last
+report) Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General
+Instruction A.2. below): ¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ¨ Soliciting material pursuant to Rule 14A-12 under the Exchange Act (17 CFR 240.14a-12) ¨ Pre-commencement communications pursuant to Rule 14D-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of the Act: Title of each class: Trading Symbol(s) Name of each exchange
+    on which registered: Common
+    Stock KULR NYSE
+    American LLC Indicate by check mark whether the registrant is an emerging growth company as defined in as defined in Rule 405 of the Securities Act
+of 1933 (§230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2). Emerging growth company ¨ If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ¨ Item 7.01 Regulation FD Disclosure On December 11, 2025, KULR Technology Group, Inc. (the "Company"
+or "KULR") issued a press release announcing that it has joined the Open Compute Project (OCP) as a Platinum Member. By entering
+the AI data center market through rack - level Battery Backup Units (BBUs), KULR is transitioning from battery safety products into mission
+- critical AI energy infrastructure - creating a high - margin, recurring, safety - driven platform aligned with NVIDIA's next - generation
+architectures. A copy of the press release
+is attached herewith as Exhibit 99.1. By filing this Current Report
+on Form 8-K and furnishing the information contained herein, the Company makes no admission as to the materiality of any information
+in this report that is required to be disclosed solely by reason of Regulation FD. The Company uses, and will continue to use, its website,
+press releases, and various social media channels, including its Twitter account (twitter.com/kulrtech), its LinkedIn account (linkedin.com/company/kulr-technology-corporation),
+its Facebook account (facebook.com/KULRTechnology), its TikTok account (tiktok.com/Kulr_tech), its Instagram account (instagram.com/Kulr_tech),
+and its YouTube account (youtube.com/channel/UC3wZBPINQd51N6p35Mo5uQg), as additional means of disclosing public information to investors,
+the media and others interested in the Company. It is possible that certain information that the Company posts on its website, disseminated
+in press releases and on social media could be deemed to be material information, and the Company encourages investors, the media and
+others interested in the Company to review the business and financial information that the Company posts on its website, disseminates
+in press releases and on the social media channels identified above, as such information could be deemed to be material information. The information in this Item
+7.01 disclosure, including Exhibit 99.1, is being furnished and shall not be deemed “filed” for purposes of Section 18
+of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities under that
+Section. In addition, the information in this Item 7.01 disclosure, including Exhibits 99.1, shall not be incorporated by reference into
+the filings of the Company under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by
+specific reference in such filing. Item 9.01 Exhibits Exhibit No. Description 99.1 Press Release dated December 11, 2025 104 Cover Page Interactive Data File - The cover page interactive data file does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on behalf of the undersigned hereunto duly authorized. KULR TECHNOLOGY GROUP, INC. Date: December 11, 2025 By: /s/ Michael Mo Michael Mo Chief Executive Officer

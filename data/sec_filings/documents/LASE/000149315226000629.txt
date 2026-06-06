@@ -1,0 +1,61 @@
+false 0001807887 0001807887 2025-12-31 2025-12-31 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 8-K CURRENT
+REPORT Pursuant
+to Section 13 OR 15(d) of The Securities Exchange Act of 1934 Date
+of Report (Date of earliest event reported): December 31, 2025 Laser
+Photonics Corporation (Exact
+name of registrant as specified in its charter) Delaware 001-41515 84-3628771 (State
+    of other jurisdiction (Commission (IRS
+    Employer of
+    incorporation) File
+    Number) Identification
+    No.) 1101
+    N. Keller Rd. Suite
+    G Orlando , FL 32810 (Address
+    of principal executive offices) (Zip
+    Code) Registrant’s
+telephone number, including area code: (407) 804-1000 (Former
+name or former address, if changed since last report.) Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (see General Instruction A.2. below): ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Title
+    of each class Trading
+    Symbol(s) Name
+    of each exchange on which registered Common
+    Stock LASE The
+    Nasdaq Stock Market LLC Emerging
+growth company ☒ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☒ Item
+4.01 Changes in Registrant’s Certifying Accountant. On
+December 31, 2025, after review and recommendation of the Audit Committee of the Board of Directors of the registrant (the “Company”),
+the Company appointed Weinberg & Company, P.A. (“Weinberg & Company”) to replace M&K CPAS, PLLC (“M&K”)
+as the Company’s new independent registered public accounting firm for and with respect to the year ending December 31, 2025. During
+the Company’s quarter ended September 30, 2025, there were no (i) disagreements with M&K on any matter of accounting principles
+or practices, financial statement disclosures or procedures, which disagreements if not resolved to M&K’s satisfaction would
+have caused M&K to make reference to the subject matter of the disagreement in connection with its review of the Company’s
+financial statements for the nine months ended September 30, 2025, or (ii) reportable events as defined in Item 304(a)(1)(v) of Regulation
+S-K. During
+the Company’s two most recently completed fiscal years and through the date of the Company’s appointment of Weinberg &
+Company, the Company did not consult with Weinberg & Company regarding: (i) the application of accounting principles to a specific
+completed or contemplated transaction, or the type of audit opinion that might be rendered on the Company’s consolidated financial
+statements, and no written or oral advice was provided by Weinberg & Company that was an important factor considered by the Company
+in reaching a decision as to accounting, auditing or financial reporting issues, or (ii) any matter that was either the subject of a
+disagreement or event, as set forth in Item 304(a)(1)(iv) or Item 304(a)(1)(v) of Regulation S-K. The
+Company, on January 5, 2026, has provided M&K with a copy of the disclosures made by the Company in response to this Item 4.01 and
+has requested that M&K furnish the Company with a letter addressed to the SEC stating whether it agrees with the statements made
+by the registrant in response to this Item 304(a) and, if not, stating the respects in which it does not agree. The letter from M&K
+agreeing with the statements made in response to Item 304(a) is set forth in Exhibit 16.1 to this Current Report on Form 8-K. Item
+9.01 Financial Statements and Exhibits. (d) Exhibits 16.1 Letter from M&K to the SEC dated January 6, 2026 104
+Cover Page Interactive Data File (embedded within the Inline XBRL document) - 2 - SIGNATURES Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized. Date:
+    January 6, 2026 LASER
+    PHOTONICS CORPORATION By: /s/
+    Wayne Tupuola Wayne
+    Tupuola President
+and Chief Executive Officer - 3 -

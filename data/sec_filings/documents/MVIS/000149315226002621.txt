@@ -1,0 +1,53 @@
+false 0000065770 0000065770 2026-01-12 2026-01-12 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 8-K CURRENT
+REPORT PURSUANT
+TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934 DATE
+OF REPORT (DATE OF EARLIEST EVENT REPORTED) January 12, 2026 MicroVision,
+Inc. (Exact
+name of registrant as specified in its charter) Delaware 001-34170 91-1600822 (State
+                                            or other jurisdiction of
+    incorporation) (Commission File
+    Number) (I.R.S.
+                                            Employer Identification
+    No.) 18390
+NE 68 th Street Redmond , Washington 98052 (Address
+of principal executive offices) (Zip code) (425) 936-6847 (Registrant’s
+telephone number, including area code) Not
+Applicable (Former
+name or former address if changed since last report) Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions: ☐ Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities
+registered pursuant to Section 12(b) of the Act: Title
+    of each class Trading
+    symbol(s) Name
+    of each exchange on which registered Common
+    stock, par value $0.001 per share MVIS The
+    NASDAQ Stock Market Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging
+growth company ☐ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Item
+3.01. Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing. On
+January 12, 2026, MicroVision, Inc. (the “Company”) received a notification letter from The Nasdaq Stock Market (“Nasdaq”)
+advising that, based upon the closing bid price for the last 30 consecutive business days, the Company no longer meets the continued
+listing requirement to maintain a minimum bid price of $1 per share, as set forth in Nasdaq Listing Rule 5450(a)(1). The
+notification from Nasdaq is only a notification of deficiency, not of imminent delisting, and does not have a current effect on the listing
+or trading of the Company’s securities on Nasdaq. The Company is currently in compliance with all other Nasdaq continued listing
+standards. The notification letter does not affect the Company’s business operations, its U.S. Securities and Exchange Commission
+reporting requirements, or contractual obligations. The Company has 180 days from the date of the notification letter to regain compliance
+and is considering all available options to do so. SIGNATURE Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. MICROVISION,
+    INC. By: /s/
+    Drew G. Markham Drew
+    G. Markham Senior
+    Vice President, General Counsel and Secretary Dated:
+January 16, 2026

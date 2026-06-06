@@ -1,0 +1,35 @@
+false 0001817760 0001817760 2026-04-21 2026-04-21 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, DC 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934 Date of Report (Date of earliest event reported): April 21, 2026 SmartKem, Inc. (Exact name of registrant as specified in its
+charter) Delaware 001-42115 85-1083654 (State or other jurisdiction of incorporation) (Commission File Number) (IRS Employer Identification No.) Manchester
+Technology Center, Hexagon Tower Delaunays
+Road , Blackley Manchester , M9 8GQ U.K. (Address of principal executive offices, including
+zip code) 011-44-161 - 721-1514 (Registrant’s telephone number, including
+area code) N/A (Former name or former address, if changed since
+last report) Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: ¨ Written communications pursuant
+    to Rule 425 under the Securities Act (17 CFR 230.425) ¨ Soliciting material pursuant
+    to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ¨ Pre-commencement communications
+    pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement communications
+    pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to
+Section 12(b) of the Act: Title
+    of each class Trading
+    Symbol(s) Name
+    of exchange on which registered Common
+    Stock, par value $0.0001 per share SMTK The Nasdaq Stock
+    Market LLC Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b - 2 of
+the Securities Exchange Act of 1934 (§240.12b - 2 of this chapter). Emerging
+growth company x If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ Item 3.01. Other Events. On April 21, 2026, SmartKem Inc.
+(the “Company”) was formally notified that the Nasdaq Hearings Panel (the “Panel”) determined that the Company
+has regained compliance with the stockholders’ equity requirement set forth in Nasdaq Listing Rule 5550(b)(2) and has otherwise
+evidenced compliance with all other applicable criteria for continued listing on The Nasdaq Capital Market. The Company remains subject
+to a grace period, through September 1, 2026, to regain compliance with the bid price requirement set forth in Nasdaq Listing Rule 5550(a)(2). The Company was also notified
+that it will remain subject to a one-year Disretionary Panel Monitor pursuant to Nasdaq Listing Rule 5815(d)(4)(A). If the Company fails
+to comply with any of the applicable continued listing criteria during the one-year period the Company would not be permitted to submit
+a compliance plan nor would it be afforded an otherwise applicable grace period to regain compliance. Rather, the Nasdaq Listing Qualifications
+Staff would issue a delist determination which the Company could then appeal by requesting a hearing before a Panel. Such request would
+generally serve to stay any further suspension or delisting action pending the conclusion of the hearing process. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibits Description 104 Cover Page Interactive Data File (Embedded within the Inline XBRL document) Signature Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. SMARTKEM, INC. Dated: April 23, 2026 By: /s/ Barbra
+    C. Keck Barbra C. Keck Chief Financial Officer

@@ -1,0 +1,9 @@
+ticker,company_name,source,rejection_reason,details,days_tested,current_price,market_cap,avg_volume_60d,avg_dollar_volume_60d,missing_open_close_ratio,top_10_overnight_gap_contribution
+BBAI,"BigBear.ai Holdings, Inc.",yfinance,market_cap_filter,Hard eligibility gate failed; statistics remain in ticker_detail_stats.csv,1299,4.199999809265137,2011587584.0,38826538.333333336,159581418.14975938,0.0,0.2862088087259313
+BITF,,,download_failed,yfinance failed or was insufficient: BITF: yfinance returned no price rows; Stooq fallback failed: BITF: Stooq response is not a valid daily OHLCV CSV,0,,,,,,
+HIVE,HIVE Digital Technologies Ltd.,yfinance,market_cap_filter,Hard eligibility gate failed; statistics remain in ticker_detail_stats.csv,3857,3.7699999809265137,1008214144.0,22155800.0,71141097.45007515,0.0,0.2818329262378234
+OPEN,Opendoor Technologies Inc.,yfinance,market_cap_filter,Hard eligibility gate failed; statistics remain in ticker_detail_stats.csv,1498,4.420000076293945,4264135936.0,36484055.0,181820517.50529447,0.0,0.11377293139541463
+PLUG,Plug Power Inc.,yfinance,market_cap_filter,Hard eligibility gate failed; statistics remain in ticker_detail_stats.csv,6689,3.220000028610229,4485147136.0,78339443.33333333,245349333.59265327,0.0,0.050756136934313134
+RIOT,"Riot Platforms, Inc.",yfinance,price_filter;market_cap_filter,Hard eligibility gate failed; statistics remain in ticker_detail_stats.csv,2560,24.65999984741211,9325209600.0,18014248.333333332,349027403.22275,0.0,0.056723306981502734
+SOUN,"SoundHound AI, Inc.",yfinance,price_filter;market_cap_filter,Hard eligibility gate failed; statistics remain in ticker_detail_stats.csv,1029,7.389999866485596,3198167552.0,27997995.0,223638139.33342615,0.0,0.22921321520147497
+WULF,TeraWulf Inc.,yfinance,price_filter;market_cap_filter,Hard eligibility gate failed; statistics remain in ticker_detail_stats.csv,8096,24.0,11892783104.0,30379140.0,616003987.1589104,0.0,0.04460252939382689

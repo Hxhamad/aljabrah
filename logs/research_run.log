@@ -1,0 +1,137 @@
+2026-06-06 14:23:30,584 INFO __main__: Starting research run for 1 ticker(s)
+2026-06-06 14:23:30,939 INFO src.data_yfinance: Downloading PLUG from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:23:35,798 INFO __main__: Run completed: 0 ranked, 1 rejected, 0 SEC evidence rows
+2026-06-06 14:24:10,821 INFO __main__: Starting research run for 20 ticker(s)
+2026-06-06 14:24:11,188 INFO src.data_yfinance: Downloading CXAI from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:24:27,087 ERROR __main__: Fatal pipeline error
+Traceback (most recent call last):
+  File "C:\Users\Hamad\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 1191, in __iter__
+    self.update(n - last_print_n)
+  File "C:\Users\Hamad\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 1242, in update
+    self.refresh(lock_args=self.lock_args)
+  File "C:\Users\Hamad\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 1347, in refresh
+    self.display()
+  File "C:\Users\Hamad\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 1495, in display
+    self.sp(self.__str__() if msg is None else msg)
+  File "C:\Users\Hamad\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 459, in print_status
+    fp_write('\r' + s + (' ' * max(last_len[0] - len_s, 0)))
+  File "C:\Users\Hamad\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 452, in fp_write
+    fp.write(str(s))
+  File "C:\Users\Hamad\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\utils.py", line 196, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Hamad\Documents\Codex\2026-06-06\files-mentioned-by-the-user-pasted\outputs\overnight_penny_stock_research_lab\src\main.py", line 470, in main
+    outputs = run_pipeline(
+              ^^^^^^^^^^^^^
+  File "C:\Users\Hamad\Documents\Codex\2026-06-06\files-mentioned-by-the-user-pasted\outputs\overnight_penny_stock_research_lab\src\main.py", line 246, in run_pipeline
+    for candidate in tqdm(universe.to_dict("records"), desc="Researching tickers"):
+  File "C:\Users\Hamad\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 1196, in __iter__
+    self.close()
+  File "C:\Users\Hamad\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 1302, in close
+    self.display(pos=0)
+  File "C:\Users\Hamad\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 1495, in display
+    self.sp(self.__str__() if msg is None else msg)
+  File "C:\Users\Hamad\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 459, in print_status
+    fp_write('\r' + s + (' ' * max(last_len[0] - len_s, 0)))
+  File "C:\Users\Hamad\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\std.py", line 452, in fp_write
+    fp.write(str(s))
+  File "C:\Users\Hamad\AppData\Local\Programs\Python\Python311\Lib\site-packages\tqdm\utils.py", line 196, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument
+2026-06-06 14:26:35,658 INFO __main__: Starting research run for 20 ticker(s)
+2026-06-06 14:26:36,327 INFO src.data_yfinance: Downloading BBAI from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:27:12,187 INFO src.data_yfinance: Downloading BYND from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:27:29,928 INFO src.data_yfinance: Downloading NOTV from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:27:49,286 INFO src.data_yfinance: Downloading BCDA from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:28:04,666 INFO src.data_yfinance: Downloading VVOS from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:28:19,539 INFO src.data_yfinance: Downloading DEVS from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:28:37,023 INFO src.data_yfinance: Downloading SMTK from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:28:53,252 INFO src.data_yfinance: Downloading LASE from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:29:07,214 INFO src.data_yfinance: Downloading SOUN from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:29:21,290 INFO src.data_yfinance: Downloading OPEN from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:29:43,397 INFO src.data_yfinance: Downloading MVIS from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:29:59,714 INFO src.data_yfinance: Downloading KULR from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:30:17,214 INFO src.data_yfinance: Downloading LAES from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:30:28,879 INFO src.data_yfinance: Downloading WULF from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:30:51,614 INFO src.data_yfinance: Downloading BITF from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:30:53,834 ERROR yfinance: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: BITF"}}}
+2026-06-06 14:30:54,238 ERROR yfinance:
+1 Failed download:
+2026-06-06 14:30:54,239 ERROR yfinance: ['BITF']: YFTzMissingError('possibly delisted; no timezone found')
+2026-06-06 14:30:54,245 WARNING __main__: BITF: yfinance failed (BITF: yfinance returned no price rows); trying Stooq
+2026-06-06 14:30:54,245 INFO src.data_stooq: Trying Stooq fallback for BITF
+2026-06-06 14:30:54,741 ERROR __main__: BITF: ticker pipeline failed
+Traceback (most recent call last):
+  File "C:\Users\Hamad\Documents\Codex\2026-06-06\files-mentioned-by-the-user-pasted\outputs\overnight_penny_stock_research_lab\src\main.py", line 168, in _load_price_source
+    raw, metadata = load_stooq(ticker, config)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamad\Documents\Codex\2026-06-06\files-mentioned-by-the-user-pasted\outputs\overnight_penny_stock_research_lab\src\data_stooq.py", line 50, in load_stooq
+    raise ValueError(f"{ticker}: Stooq response is not a valid daily OHLCV CSV")
+ValueError: BITF: Stooq response is not a valid daily OHLCV CSV
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hamad\Documents\Codex\2026-06-06\files-mentioned-by-the-user-pasted\outputs\overnight_penny_stock_research_lab\src\main.py", line 255, in run_pipeline
+    raw, source_metadata, _ = _load_price_source(ticker, config, refresh)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamad\Documents\Codex\2026-06-06\files-mentioned-by-the-user-pasted\outputs\overnight_penny_stock_research_lab\src\main.py", line 173, in _load_price_source
+    raise RuntimeError(
+RuntimeError: yfinance failed or was insufficient: BITF: yfinance returned no price rows; Stooq fallback failed: BITF: Stooq response is not a valid daily OHLCV CSV
+2026-06-06 14:30:54,741 INFO src.data_yfinance: Downloading HIVE from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:31:05,638 INFO src.data_yfinance: Downloading CAN from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:31:14,525 INFO src.data_yfinance: Downloading RIOT from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:31:36,690 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:36,695 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:39,440 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:39,444 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:42,069 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:42,073 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:44,775 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:44,781 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:47,422 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:47,428 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:49,995 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:49,999 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:51,878 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:51,883 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:53,321 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:53,324 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:55,361 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:55,368 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:57,176 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:57,178 INFO matplotlib.category: Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-06 14:31:57,793 INFO __main__: Run completed: 12 ranked, 8 rejected, 921 SEC evidence rows
+2026-06-06 14:33:26,513 INFO __main__: Starting research run for 20 ticker(s)
+2026-06-06 14:33:35,671 INFO src.data_yfinance: Downloading BITF from yfinance (1990-01-01 to 2026-06-06 inclusive)
+2026-06-06 14:33:38,925 ERROR yfinance: HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: BITF"}}}
+2026-06-06 14:33:39,319 ERROR yfinance:
+1 Failed download:
+2026-06-06 14:33:39,319 ERROR yfinance: ['BITF']: YFTzMissingError('possibly delisted; no timezone found')
+2026-06-06 14:33:39,325 WARNING __main__: BITF: yfinance failed (BITF: yfinance returned no price rows); trying Stooq
+2026-06-06 14:33:39,326 INFO src.data_stooq: Trying Stooq fallback for BITF
+2026-06-06 14:33:39,960 ERROR __main__: BITF: ticker pipeline failed
+Traceback (most recent call last):
+  File "C:\Users\Hamad\Documents\Codex\2026-06-06\files-mentioned-by-the-user-pasted\outputs\overnight_penny_stock_research_lab\src\main.py", line 168, in _load_price_source
+    raw, metadata = load_stooq(ticker, config)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamad\Documents\Codex\2026-06-06\files-mentioned-by-the-user-pasted\outputs\overnight_penny_stock_research_lab\src\data_stooq.py", line 50, in load_stooq
+    raise ValueError(f"{ticker}: Stooq response is not a valid daily OHLCV CSV")
+ValueError: BITF: Stooq response is not a valid daily OHLCV CSV
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hamad\Documents\Codex\2026-06-06\files-mentioned-by-the-user-pasted\outputs\overnight_penny_stock_research_lab\src\main.py", line 255, in run_pipeline
+    raw, source_metadata, _ = _load_price_source(ticker, config, refresh)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hamad\Documents\Codex\2026-06-06\files-mentioned-by-the-user-pasted\outputs\overnight_penny_stock_research_lab\src\main.py", line 173, in _load_price_source
+    raise RuntimeError(
+RuntimeError: yfinance failed or was insufficient: BITF: yfinance returned no price rows; Stooq fallback failed: BITF: Stooq response is not a valid daily OHLCV CSV
+2026-06-06 14:33:57,225 INFO __main__: Run completed: 12 ranked, 8 rejected, 921 SEC evidence rows

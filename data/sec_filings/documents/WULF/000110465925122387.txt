@@ -1,0 +1,51 @@
+false 0001083301 0001083301 2025-12-18 2025-12-18 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date
+of Report (Date of earliest event reported) : December 18, 2025 TERAWULF INC. (Exact name of registrant as specified in its charter) Delaware 001-41163 87-1909475 (State or other jurisdiction of incorporation) (Commission File Number) (IRS Employer Identification No.) 9 Federal Street Easton , Maryland 21601 (Address of principal executive offices) (Zip Code) ( 410 ) 770-9500 (Registrant’s telephone number, including
+area code) Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General Instruction
+A.2. below): ¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to
+Section 12(b) of the Act: Title of each class Trading
+    Symbol(s) Name of each exchange on which registered Common stock, $0.001 par value per share WULF The Nasdaq Capital Market Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company ¨ If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ¨ Item 7.01. Regulation FD Disclosure. On December 18, 2025, TeraWulf
+Inc. (“TeraWulf” or the “Company”) released certain updated slides from an investor presentation that will be
+used by Flash Compute LLC (“Flash Compute”) for investor meetings in connection with the Offering (defined below). Flash Compute
+is a wholly-owned subsidiary of FS CS I LLC, whose equity interests are owned 50.1% by Big Country Wulf LLC, a subsidiary of the Company,
+and 49.9% by Fluidstack CS I Inc., a wholly-owned indirect subsidiary of Fluidstack Ltd. (“Fluidstack”). A copy of the selected
+slides from the investor presentation is attached hereto as Exhibit 99.1. The information contained
+in Item 7.01 of this Report (as well as in Exhibit 99.1 attached hereto) is furnished and shall not be deemed to be “filed”
+for purposes of Section 18 of the Securities and Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject
+to the liabilities of that section, and such information shall not be deemed to be incorporated by reference into any of the Company’s
+filings under the Securities Act of 1933, as amended or the Exchange Act. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 99.1 Selected Slides from Investor Presentation, dated December 18, 2025. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). Forward Looking Statements This Current Report on Form
+8-K contains forward-looking statements within the meaning of the “safe harbor” provisions of the Private Securities Litigation
+Reform Act of 1995, as amended. Such forward-looking statements include statements concerning anticipated future events and expectations
+that are not historical facts. All statements, other than statements of historical fact, are statements that could be deemed forward-looking
+statements. In addition, forward-looking statements are typically identified by words such as “plan,” “believe,”
+“goal,” “target,” “aim,” “expect,” “anticipate,” “intend,” “outlook,”
+“estimate,” “forecast,” “project,” “seek,” “continue,” “could,”
+“may,” “might,” “possible,” “potential,” “strategy,” “opportunity,”
+“predict,” “should,” “would” and other similar words and expressions, although the absence of these
+words or expressions does not mean that a statement is not forward-looking. Forward-looking statements are based on the current expectations
+and beliefs of TeraWulf’s and Fluidstack’s management and are inherently subject to a number of factors, risks, uncertainties
+and assumptions and their potential effects. There can be no assurance that future developments will be those that have been anticipated.
+Actual results may vary materially from those expressed or implied by forward-looking statements based on a number of factors, risks,
+uncertainties and assumptions, including, among others: (1) TeraWulf’s ability to attract additional customers to lease its HPC
+data centers; (2) TeraWulf’s ability to perform under its existing data center lease agreements; (3) changes in applicable laws,
+regulations and/or permits affecting TeraWulf’s, Fluidstack’s and/or Flash Compute’s operations or the industries in
+which they operate; (4) the ability to implement certain business objectives, including the development of a new data center campus in
+Abernathy, Texas, and to timely and cost-effectively execute related projects; (5) failure to obtain adequate financing on a timely basis
+and/or on acceptable terms with regard to expansion or existing operations; (6) adverse geopolitical or economic conditions, including
+a high inflationary environment, the implementation of new tariffs and more restrictive trade regulations; (7) the potential of cybercrime,
+money-laundering, malware infections and phishing and/or loss and interference as a result of equipment malfunction or break-down, physical
+disaster, data security breach, computer malfunction or sabotage (and the costs associated with any of the foregoing); (8) the availability
+and cost of power as well as electrical infrastructure equipment necessary to maintain and grow the business and operations of TeraWulf,
+Fluidstack and/or Flash Compute; and (9) other risks and uncertainties detailed from time to time in TeraWulf’s filings with the
+Securities and Exchange Commission (“SEC”). Potential investors, stockholders and other readers are cautioned not to place
+undue reliance on these forward-looking statements, which speak only as of the date on which they were made. TeraWulf, Fluidstack and
+Flash Compute do not assume any obligation to publicly update any forward-looking statement after it was made, whether as a result of
+new information, future events or otherwise, except as required by law or regulation. Investors are referred to the full discussion of
+risks and uncertainties associated with forward-looking statements and the discussion of risk factors contained in TeraWulf’s filings
+with the SEC, which are available at www.sec.gov. SIGNATURES Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized. Date: December 18, 2025 TERAWULF, INC. By: /s/ Patrick A. Fleury Name: Patrick A. Fleury Title: Chief Financial Officer

@@ -1,0 +1,45 @@
+false 0001820875 0001820875 2026-03-11 2026-03-11 0001820875 cxai:CommonStockParValue0.0001PerShareMember 2026-03-11 2026-03-11 0001820875 cxai:WarrantsToPurchaseCommonStockMember 2026-03-11 2026-03-11 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION W ashington , D.C. 20549 FORM 8-K CURRENT REPORT P URSUANT to S ECTION 13 OR 15(d) of The S ECURITIES E XCHANGE Act of 1934 Date of Report (Date of earliest event reported): March 12, 2026 ( March 11, 2026 ) CXApp Inc. (Exact name of registrant as specified in its
+charter) Delaware 001-39642 85-2104918 (State
+                                            or other jurisdiction of
+    incorporation) (Commission File
+    Number) (IRS
+Employer Identification No.) Four Palo Alto Square , Suite 200 3000 El Camino Real Palo Alto , CA 94306 (Address
+    of principal executive offices) (Zip
+    Code) Registrant’s telephone number,
+including area code: (650) 785-7171 N/A (Former name or former address, if changed since last report) Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b)
+of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered Common Stock, par value $0.0001 per share CXAI The Nasdaq Stock Market LLC Warrants to purchase common stock CXAIW The Nasdaq Stock Market LLC Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the
+Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company ☒ If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Item 3.01 Notice of Delisting or Failure to
+Satisfy a Continued Listing Rule or Standard; Transfer of Listing. On September 11, 2025, CXApp
+Inc. (the “Company”) received a letter (the “Minimum Bid Price Notice”) from the Nasdaq Listing Qualifications
+Department of The Nasdaq Stock Market LLC (“Nasdaq”) notifying the Company that for the last 30 consecutive business days,
+the closing bid price for the Company’s common stock (the “Common Stock”) has been below the minimum $1.00 per share
+required for continued listing on The Nasdaq Capital Market pursuant to Nasdaq Listing Rule 5550(a)(2) (the “Nasdaq Minimum Bid
+Price Requirement”). The Company initially had 180 calendar days, or until March 10, 2026, to regain compliance with the Nasdaq
+Minimum Bid Price Requirement. The Company was unable to regain compliance with the Nasdaq Minimum Bid Price Requirement by March 10,
+2026. On March 11, 2026, the Company
+received a letter (the “Extension Notice”) from Nasdaq notifying the Company that it has been provided an additional compliance
+period of 180 calendar days, or until September 7, 2026, to regain compliance with the Nasdaq Minimum Bid Price Requirement, which requires
+that the closing bid price of the Common Stock meet or exceed $1.00 per share for a minimum of ten consecutive trading days. Nasdaq’s
+determination was based on the Company meeting the continued listing requirement for market value of publicly held shares and all other
+applicable requirements for initial listing on The Nasdaq Capital Market with the exception of the Nasdaq Minimum Bid Price Requirement,
+and the Company’s written notice of its intention to cure the deficiency during the second compliance period by effecting a reverse
+stock split, if necessary. The Extension Notice has no immediate effect on the listing of the Common Stock, and the Common Stock will
+continue to trade on The Nasdaq Capital Market. If at any time before September
+7, 2026, the bid price of the Company’s Common Stock closes at or above $1.00 per share for a minimum of 10 consecutive business
+days, Nasdaq will notify the Company that it is in compliance with the Nasdaq Minimum Bid Price Requirement. However, if compliance with
+the Nasdaq Minimum Bid Price Requirement cannot be demonstrated by September 7, 2026, Nasdaq will notify the Company that its Common Stock
+will be delisted from The Nasdaq Capital Market, at which time, the Company may appeal Nasdaq’s determination to a Hearings Panel. The Company will continue
+to monitor the bid price of the Common Stock and consider its available options to regain compliance with the Nasdaq Minimum Bid Price
+Requirement. However, there can be no assurance that the Company will be able to regain compliance with the Nasdaq Minimum Bid Price
+Requirement. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Exhibit Number Description 104 Cover Page Interactive Data File (embedded with the Inline XBRL document). 1 SIGNATURES Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. CXApp
+    Inc. Date:
+March 12, 2026 By: /s/
+        Khurram P. Sheikh Name: Khurram
+        P. Sheikh Title: Chairman
+        and Chief Executive Officer 2

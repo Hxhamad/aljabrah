@@ -1,0 +1,684 @@
+false Q3 --12-31 0001807887 http://fasb.org/us-gaap/2025#BlackScholesMertonModelMember http://fasb.org/us-gaap/2025#BlackScholesMertonModelMember http://fasb.org/us-gaap/2025#BlackScholesMertonModelMember http://fasb.org/us-gaap/2025#BlackScholesMertonModelMember http://fasb.org/us-gaap/2025#BlackScholesMertonModelMember http://fasb.org/us-gaap/2025#BlackScholesMertonModelMember http://fasb.org/us-gaap/2025#BlackScholesMertonModelMember http://fasb.org/us-gaap/2025#BlackScholesMertonModelMember http://fasb.org/us-gaap/2025#BlackScholesMertonModelMember http://fasb.org/us-gaap/2025#BlackScholesMertonModelMember http://fasb.org/us-gaap/2025#BlackScholesMertonModelMember http://fasb.org/us-gaap/2025#BlackScholesMertonModelMember http://fasb.org/us-gaap/2025#BlackScholesMertonModelMember http://fasb.org/us-gaap/2025#BlackScholesMertonModelMember 0001807887 2025-01-01 2025-09-30 0001807887 2025-12-17 0001807887 2025-09-30 0001807887 2024-12-31 0001807887 us-gaap:NonrelatedPartyMember 2025-09-30 0001807887 us-gaap:NonrelatedPartyMember 2024-12-31 0001807887 us-gaap:RelatedPartyMember 2025-09-30 0001807887 us-gaap:RelatedPartyMember 2024-12-31 0001807887 us-gaap:NonrelatedPartyMember 2025-07-01 2025-09-30 0001807887 us-gaap:NonrelatedPartyMember 2024-07-01 2024-09-30 0001807887 us-gaap:NonrelatedPartyMember 2025-01-01 2025-09-30 0001807887 us-gaap:NonrelatedPartyMember 2024-01-01 2024-09-30 0001807887 us-gaap:RelatedPartyMember 2025-07-01 2025-09-30 0001807887 us-gaap:RelatedPartyMember 2024-07-01 2024-09-30 0001807887 us-gaap:RelatedPartyMember 2025-01-01 2025-09-30 0001807887 us-gaap:RelatedPartyMember 2024-01-01 2024-09-30 0001807887 2025-07-01 2025-09-30 0001807887 2024-07-01 2024-09-30 0001807887 2024-01-01 2024-09-30 0001807887 2023-12-31 0001807887 2024-09-30 0001807887 us-gaap:PreferredStockMember 2025-06-30 0001807887 us-gaap:CommonStockMember 2025-06-30 0001807887 LASE:SharesToBeIssuedMember 2025-06-30 0001807887 us-gaap:TreasuryStockCommonMember 2025-06-30 0001807887 us-gaap:AdditionalPaidInCapitalMember 2025-06-30 0001807887 us-gaap:RetainedEarningsMember 2025-06-30 0001807887 2025-06-30 0001807887 us-gaap:PreferredStockMember 2024-06-30 0001807887 us-gaap:CommonStockMember 2024-06-30 0001807887 LASE:SharesToBeIssuedMember 2024-06-30 0001807887 us-gaap:TreasuryStockCommonMember 2024-06-30 0001807887 us-gaap:AdditionalPaidInCapitalMember 2024-06-30 0001807887 us-gaap:RetainedEarningsMember 2024-06-30 0001807887 2024-06-30 0001807887 us-gaap:PreferredStockMember 2024-12-31 0001807887 us-gaap:CommonStockMember 2024-12-31 0001807887 LASE:SharesToBeIssuedMember 2024-12-31 0001807887 us-gaap:TreasuryStockCommonMember 2024-12-31 0001807887 us-gaap:AdditionalPaidInCapitalMember 2024-12-31 0001807887 us-gaap:RetainedEarningsMember 2024-12-31 0001807887 us-gaap:PreferredStockMember 2023-12-31 0001807887 us-gaap:CommonStockMember 2023-12-31 0001807887 LASE:SharesToBeIssuedMember 2023-12-31 0001807887 us-gaap:TreasuryStockCommonMember 2023-12-31 0001807887 us-gaap:AdditionalPaidInCapitalMember 2023-12-31 0001807887 us-gaap:RetainedEarningsMember 2023-12-31 0001807887 us-gaap:PreferredStockMember 2025-07-01 2025-09-30 0001807887 us-gaap:CommonStockMember 2025-07-01 2025-09-30 0001807887 LASE:SharesToBeIssuedMember 2025-07-01 2025-09-30 0001807887 us-gaap:TreasuryStockCommonMember 2025-07-01 2025-09-30 0001807887 us-gaap:AdditionalPaidInCapitalMember 2025-07-01 2025-09-30 0001807887 us-gaap:RetainedEarningsMember 2025-07-01 2025-09-30 0001807887 us-gaap:PreferredStockMember 2024-07-01 2024-09-30 0001807887 us-gaap:CommonStockMember 2024-07-01 2024-09-30 0001807887 LASE:SharesToBeIssuedMember 2024-07-01 2024-09-30 0001807887 us-gaap:TreasuryStockCommonMember 2024-07-01 2024-09-30 0001807887 us-gaap:AdditionalPaidInCapitalMember 2024-07-01 2024-09-30 0001807887 us-gaap:RetainedEarningsMember 2024-07-01 2024-09-30 0001807887 us-gaap:PreferredStockMember 2025-01-01 2025-09-30 0001807887 us-gaap:CommonStockMember 2025-01-01 2025-09-30 0001807887 LASE:SharesToBeIssuedMember 2025-01-01 2025-09-30 0001807887 us-gaap:TreasuryStockCommonMember 2025-01-01 2025-09-30 0001807887 us-gaap:AdditionalPaidInCapitalMember 2025-01-01 2025-09-30 0001807887 us-gaap:RetainedEarningsMember 2025-01-01 2025-09-30 0001807887 us-gaap:PreferredStockMember 2024-01-01 2024-09-30 0001807887 us-gaap:CommonStockMember 2024-01-01 2024-09-30 0001807887 LASE:SharesToBeIssuedMember 2024-01-01 2024-09-30 0001807887 us-gaap:TreasuryStockCommonMember 2024-01-01 2024-09-30 0001807887 us-gaap:AdditionalPaidInCapitalMember 2024-01-01 2024-09-30 0001807887 us-gaap:RetainedEarningsMember 2024-01-01 2024-09-30 0001807887 us-gaap:PreferredStockMember 2025-09-30 0001807887 us-gaap:CommonStockMember 2025-09-30 0001807887 LASE:SharesToBeIssuedMember 2025-09-30 0001807887 us-gaap:TreasuryStockCommonMember 2025-09-30 0001807887 us-gaap:AdditionalPaidInCapitalMember 2025-09-30 0001807887 us-gaap:RetainedEarningsMember 2025-09-30 0001807887 us-gaap:PreferredStockMember 2024-09-30 0001807887 us-gaap:CommonStockMember 2024-09-30 0001807887 LASE:SharesToBeIssuedMember 2024-09-30 0001807887 us-gaap:TreasuryStockCommonMember 2024-09-30 0001807887 us-gaap:AdditionalPaidInCapitalMember 2024-09-30 0001807887 us-gaap:RetainedEarningsMember 2024-09-30 0001807887 LASE:NonAffiliateMember 2025-09-30 0001807887 LASE:NonAffiliateMember 2024-12-31 0001807887 2024-01-01 2024-12-31 0001807887 LASE:NewEnglandSmallTubeCorporationMember 2025-09-30 0001807887 LASE:HydroFlaskMember 2025-09-30 0001807887 LASE:ElectricalAutomationProfessionalsMember 2025-09-30 0001807887 LASE:NebraskaPublicPowerDistrictMember 2024-12-31 0001807887 LASE:Phillips66Member 2024-12-31 0001807887 LASE:FisherAndPaykelHealthcareLtdMember 2024-12-31 0001807887 LASE:NewEnglandSmallTubeCorporationMember 2024-12-31 0001807887 LASE:ICTInvestmentMember 2025-04-03 0001807887 LASE:ICTInvestmentMember 2025-04-16 0001807887 LASE:ICTInvestmentMember 2025-06-20 0001807887 LASE:ICTInvestmentMember 2025-07-08 0001807887 LASE:ICTInvestmentMember 2025-07-12 0001807887 LASE:ICTInvestmentMember 2025-04-03 2025-04-03 0001807887 LASE:ICTInvestmentMember 2025-04-16 2025-04-16 0001807887 LASE:ICTInvestmentMember 2025-06-20 2025-06-20 0001807887 LASE:ICTInvestmentMember 2025-07-08 2025-07-08 0001807887 LASE:ICTInvestmentMember 2025-07-12 2025-07-12 0001807887 LASE:ICTInvestmentMember 2025-09-30 0001807887 2025-05-06 0001807887 us-gaap:WarrantMember 2024-08-19 0001807887 LASE:BusinessLoanAndSecurityAgreementMember 2025-04-25 0001807887 LASE:BusinessLoanAndSecurityAgreementMember 2025-04-25 2025-04-25 0001807887 LASE:BusinessLoanAndSecurityAgreementMember 2025-07-08 0001807887 LASE:BusinessLoanAndSecurityAgreementMember 2025-07-08 2025-07-08 0001807887 LASE:BusinessLoanAndSecurityAgreementMember 2025-07-16 2025-07-16 0001807887 LASE:BusinessLoanAndSecurityAgreementMember 2025-09-30 0001807887 LASE:HudsonGlobalVenturesLLCMember 2025-08-28 2025-08-28 0001807887 LASE:HudsonGlobalVenturesLLCMember 2025-08-28 0001807887 LASE:HudsonGlobalVenturesLLCMember LASE:ConvertiblePromissoryNoteMember 2025-08-28 0001807887 LASE:HudsonGlobalVenturesLLCMember LASE:ConvertiblePromissoryNoteMember 2025-08-28 2025-08-28 0001807887 LASE:NotePurchaseAgreementMember 2025-09-12 0001807887 LASE:NotePurchaseAgreementMember 2025-09-12 2025-09-12 0001807887 LASE:HudsonGlobalVenturesLLCMember 2025-09-12 2025-09-12 0001807887 LASE:HudsonGlobalVenturesLLCMember 2025-09-12 0001807887 LASE:HudsonGlobalVenturesLLCMember 2025-09-30 0001807887 srt:MinimumMember 2025-09-30 0001807887 srt:MaximumMember 2025-09-30 0001807887 LASE:OfficeFurnitureAndFixturesMember srt:MinimumMember 2025-09-30 0001807887 LASE:OfficeFurnitureAndFixturesMember srt:MaximumMember 2025-09-30 0001807887 us-gaap:MachineryAndEquipmentMember srt:MinimumMember 2025-09-30 0001807887 us-gaap:MachineryAndEquipmentMember srt:MaximumMember 2025-09-30 0001807887 us-gaap:LeaseholdImprovementsMember srt:MinimumMember 2025-09-30 0001807887 us-gaap:LeaseholdImprovementsMember srt:MaximumMember 2025-09-30 0001807887 us-gaap:FiniteLivedIntangibleAssetsMember srt:MinimumMember 2025-09-30 0001807887 us-gaap:FiniteLivedIntangibleAssetsMember srt:MaximumMember 2025-09-30 0001807887 us-gaap:MachineryAndEquipmentMember 2025-09-30 0001807887 us-gaap:MachineryAndEquipmentMember 2024-12-31 0001807887 LASE:OfficeFurnitureAndComputerEquipmentMember 2025-09-30 0001807887 LASE:OfficeFurnitureAndComputerEquipmentMember 2024-12-31 0001807887 us-gaap:VehiclesMember 2025-09-30 0001807887 us-gaap:VehiclesMember 2024-12-31 0001807887 us-gaap:InProcessResearchAndDevelopmentMember 2025-09-30 0001807887 us-gaap:InProcessResearchAndDevelopmentMember 2024-12-31 0001807887 us-gaap:SoftwareDevelopmentMember 2025-09-30 0001807887 us-gaap:SoftwareDevelopmentMember 2024-12-31 0001807887 us-gaap:LeaseholdImprovementsMember 2025-09-30 0001807887 us-gaap:LeaseholdImprovementsMember 2024-12-31 0001807887 LASE:ConsignmentMachineAndEquipmentMember 2025-09-30 0001807887 LASE:ConsignmentMachineAndEquipmentMember 2024-12-31 0001807887 LASE:DemostrationEquipmentMember 2025-09-30 0001807887 LASE:DemostrationEquipmentMember 2024-12-31 0001807887 us-gaap:CustomerRelationshipsMember 2025-09-30 0001807887 us-gaap:CustomerRelationshipsMember 2024-12-31 0001807887 LASE:EquipmentDesignDocumentationMember 2025-09-30 0001807887 LASE:EquipmentDesignDocumentationMember 2024-12-31 0001807887 LASE:OperationalSoftwareAndWebsiteMember 2025-09-30 0001807887 LASE:OperationalSoftwareAndWebsiteMember 2024-12-31 0001807887 us-gaap:TrademarksMember 2025-09-30 0001807887 us-gaap:TrademarksMember 2024-12-31 0001807887 LASE:LicenseAndPatentsMember 2025-09-30 0001807887 LASE:LicenseAndPatentsMember 2024-12-31 0001807887 LASE:FononCorporationMember 2025-01-01 2025-09-30 0001807887 LASE:ControlMicroSystemMember 2025-01-01 2025-01-31 0001807887 LASE:AltiumGrowthFundLPMember 2024-08-19 0001807887 LASE:AltiumGrowthFundLPMember us-gaap:CommonStockMember 2024-08-19 0001807887 LASE:BeamerLaserMarkingSystemsMember LASE:FononQuantumTechnologiesIncMember 2025-08-01 2025-08-31 0001807887 LASE:BeamerLaserMarkingSystemsMember LASE:FononQuantumTechnologiesIncMember 2025-08-31 0001807887 LASE:HudsonGlobalVentureLLCMember us-gaap:CommonStockMember 2025-07-08 2025-07-08 0001807887 LASE:HudsonGlobalVentureLLCMember us-gaap:CommonStockMember 2025-07-08 0001807887 LASE:FMWMediaWorksLLCMember us-gaap:CommonStockMember 2025-08-11 2025-08-11 0001807887 LASE:FMWMediaWorksLLCMember us-gaap:CommonStockMember 2025-08-11 0001807887 LASE:HudsonGlobalVentureLLCMember us-gaap:CommonStockMember 2025-08-27 2025-08-27 0001807887 LASE:HudsonGlobalVentureLLCMember us-gaap:WarrantMember 2025-08-27 2025-08-27 0001807887 LASE:HudsonGlobalVentureLLCMember 2025-08-27 0001807887 LASE:HudsonGlobalVentureLLCMember us-gaap:CommonStockMember 2025-08-27 0001807887 LASE:HudsonGlobalVentureLLCMember us-gaap:WarrantMember 2025-08-27 0001807887 LASE:HudsonGlobalVentureLLCMember 2025-08-27 2025-08-27 0001807887 LASE:ExchangeAgreementMember us-gaap:WarrantMember 2025-09-02 0001807887 LASE:ExchangeAgreementMember 2025-09-02 2025-09-02 0001807887 LASE:SecuritiesPurchaseAgreementMember us-gaap:CommonStockMember 2025-09-22 2025-09-22 0001807887 LASE:SecuritiesPurchaseAgreementMember us-gaap:CommonStockMember 2025-09-22 0001807887 LASE:SecuritiesPurchaseAgreementMember LASE:SeriesAWarrantsMember 2025-09-22 0001807887 LASE:SecuritiesPurchaseAgreementMember LASE:SeriesBWarrantsMember 2025-09-22 0001807887 LASE:SecuritiesPurchaseAgreementMember LASE:SeriesBWarrantsMember 2025-09-22 2025-09-22 0001807887 LASE:SecuritiesPurchaseAgreementMember us-gaap:WarrantMember LASE:PlacementAgentMember 2025-09-22 0001807887 us-gaap:EmployeeStockOptionMember 2025-09-30 0001807887 LASE:HudsonGlobalVenturesLLCMember 2025-09-30 0001807887 LASE:HudsonGlobalVenturesLLCMember 2025-01-01 2025-09-30 0001807887 LASE:HCWainwrightAndCoMember 2025-09-30 0001807887 LASE:HCWainwrightAndCoMember 2025-01-01 2025-09-30 0001807887 LASE:AnsonEastMasterFundSeriesAMember 2025-09-30 0001807887 LASE:AnsonEastMasterFundSeriesAMember 2025-01-01 2025-09-30 0001807887 LASE:AnsonEastMasterFundSeriesBMember 2025-09-30 0001807887 LASE:AnsonEastMasterFundSeriesBMember 2025-01-01 2025-09-30 0001807887 LASE:AnsonInvestmentsMasterFundSeriesAMember 2025-09-30 0001807887 LASE:AnsonInvestmentsMasterFundSeriesAMember 2025-01-01 2025-09-30 0001807887 LASE:AnsonInvestmentsMasterFundSeriesBMember 2025-09-30 0001807887 LASE:AnsonInvestmentsMasterFundSeriesBMember 2025-01-01 2025-09-30 0001807887 LASE:CapitalGlobalSeriesAMember 2025-09-30 0001807887 LASE:CapitalGlobalSeriesAMember 2025-01-01 2025-09-30 0001807887 LASE:CapitalGlobalSeriesBMember 2025-09-30 0001807887 LASE:CapitalGlobalSeriesBMember 2025-01-01 2025-09-30 0001807887 LASE:IntracoastalCapitalSeriesAMember 2025-09-30 0001807887 LASE:IntracoastalCapitalSeriesAMember 2025-01-01 2025-09-30 0001807887 LASE:IntracoastalCapitalSeriesBMember 2025-09-30 0001807887 LASE:IntracoastalCapitalSeriesBMember 2025-01-01 2025-09-30 0001807887 LASE:IroquoisCapitalMgmtSeriesAMember 2025-09-30 0001807887 LASE:IroquoisCapitalMgmtSeriesAMember 2025-01-01 2025-09-30 0001807887 LASE:IroquoisCapitalMgmtSeriesBMember 2025-09-30 0001807887 LASE:IroquoisCapitalMgmtSeriesBMember 2025-01-01 2025-09-30 0001807887 LASE:IroquoisMasterFundSeriesAMember 2025-09-30 0001807887 LASE:IroquoisMasterFundSeriesAMember 2025-01-01 2025-09-30 0001807887 LASE:IroquoisMasterFundSeriesBMember 2025-09-30 0001807887 LASE:IroquoisMasterFundSeriesBMember 2025-01-01 2025-09-30 0001807887 LASE:AccountingServicesMember 2025-09-30 0001807887 LASE:OtherServicesMember 2025-09-30 0001807887 LASE:FONONTechnologiesIncMember 2025-09-30 0001807887 LASE:ICTInvestmentsMember 2025-09-30 0001807887 LASE:FONONTechnologiesIncMember 2025-09-30 0001807887 LASE:FononCorporationMember 2025-09-30 0001807887 LASE:FononQuantumTechnologiesIncMember 2025-09-30 0001807887 LASE:ICTInvestmentsMember 2025-04-03 0001807887 LASE:ICTInvestmentsMember 2025-04-16 0001807887 LASE:ICTInvestmentsMember 2025-06-20 0001807887 LASE:ICTInvestmentsMember 2025-07-08 0001807887 LASE:ICTInvestmentsMember 2025-07-12 0001807887 LASE:ICTInvestmentsMember 2025-04-03 2025-04-03 0001807887 LASE:ICTInvestmentsMember 2025-04-16 2025-04-16 0001807887 LASE:ICTInvestmentsMember 2025-06-20 2025-06-20 0001807887 LASE:ICTInvestmentsMember 2025-07-08 2025-07-08 0001807887 LASE:ICTInvestmentsMember 2025-07-12 2025-07-12 0001807887 LASE:ICTInvestmentsMember 2025-09-30 0001807887 LASE:AssetPurchaseAgreementMember LASE:BeamerLaserMarkingSystemsMember LASE:FononQuantumTechnologiesIncMember 2025-08-05 2025-08-05 0001807887 2019-11-08 2019-11-08 0001807887 LASE:LaserPhotonicsAcquisitionMember 2025-08-05 0001807887 2021-10-31 0001807887 2023-10-31 0001807887 2021-10-01 2021-10-31 0001807887 2022-12-31 0001807887 2025-02-01 2025-02-28 0001807887 2024-10-31 0001807887 2024-10-01 2024-10-31 0001807887 us-gaap:SubsequentEventMember 2025-10-02 2025-10-02 iso4217:USD xbrli:shares iso4217:USD xbrli:shares xbrli:pure utr:sqft LASE:Segment UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION WASHINGTON,
+D.C. 20549 FORM 10-Q (Mark
+One) ☒ QUARTERLY
+    REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For
+the quarterly period ended: September 30, 2025 or ☐ TRANSITION
+    REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For
+the transition period from __________________ to __________________ Commission
+File Number: 001-41515 Laser
+    Photonics Corporation (Exact
+    name of registrant as specified in its charter) Delaware 84-3628771 (State or other jurisdiction
+    of incorporation or organization) (I.R.S. Employer Identification No.) 1101
+    N. Keller Road , Suite G Orlando , FL 32810 (Address of Principal Executive
+    Offices) Zip Code (407) 804 1000 Registrant’s Telephone Number, Including Area Code Not Applicable Former Name, Former Address and Former Fiscal Year, if Changed Since Last Report SECURITIES
+REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT: NONE COMMON
+STOCK, $0.001 PAR VALUE Title
+    of each class Trading
+    Symbol(s) Name
+    of each exchange on which registered Common Stock LASE The Nasdaq Stock Market
+    LLC Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐ Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). Yes ☒ No ☐ Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+Company, or an emerging growth Company. See the definitions of “large accelerated filer,” “accelerated filer,”
+“smaller reporting Company,” and “emerging growth Company” in Rule 12b-2 of the Exchange Act. Large accelerated filer ☐ Accelerated filer ☐ Non-accelerated Filer ☒ Smaller reporting Company ☒ Emerging growth company ☒ If
+an emerging growth Company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☒ Indicate
+by check mark whether the registrant is a shell Company (as defined in Rule 12b-2 of the Exchange Act) Yes ☐ No ☒ As
+of December 17, 2025, the registrant had 22,332,826 shares of common stock, par value $ 0.001 per share, outstanding. TABLE
+OF CONTENTS Page
+    No. PART I – FINANCIAL INFORMATION Item 1. Financial Statements 3 Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations 16 Item 3. Quantitative and Qualitative Disclosures About Market Risk 18 Item 4. Controls and Procedures 19 PART II – OTHER INFORMATION Item 1. Legal Proceedings 20 Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 20 Item 3. Defaults Upon Senior Securities 20 Item 4. Mine Safety Disclosures 20 Item 5. Other Information 20 Item 6. Exhibits 20 Signatures 21 Certifications 2 Table of Contents PART
+I – FINANCIAL INFORMATION ITEM
+1. FINANCIAL STATEMENTS LASER
+PHOTONICS CORPORATION CONSOLIDATED
+CONDENSED BALANCE SHEETS As of September 30, 2025 (Unaudited) As of December 31, 2024 (Audited) Assets Current Assets: Cash and Cash Equivalents $ 3,624,529 $ 533,871 Accounts Receivable, Net 385,425 973,605 Contract Assets 462,160 759,658 Inventory 2,145,391 2,338,759 Other Current Assets 189,954 58,567 Total Current Assets 6,807,459 4,664,460 Property, Plant, & Equipment, Net 1,102,417 1,872,034 Intangible Assets, Net 4,979,030 5,458,522 Other Long Term Assets 316,730 316,378 Operating Lease Right-of-Use Asset 4,255,722 4,840,753 Total Assets $ 17,461,358 $ 17,152,147 Liabilities & Stockholders’ Equity Current Liabilities: Accounts Payable $ 1,592,530 $ 531,268 Accounts Payable affiliate 182,559 27,988 Account payable 182,559 27,988 Short term loan 3,577,508 - Short term loan - affiliates/ RP 751,000 - Short term loan 751,000 - Deferred Revenue 370,229 55,383 Contract Liabilities 1,552,846 1,042,090 Current Portion of Operating Lease 283,650 649,989 Accrued Expenses 843,962 266,717 Total Current Liabilities 9,154,284 2,573,435 Long Term Liabilities: Lease liability - less current 4,207,901 4,366,419 Total Long Term Liabilities 4,207,901 4,366,419 Total Liabilities 13,362,185 6,939,854 Stockholders’ Equity: Preferred stock Par value $ 0.001 : 10,000,000 shares authorized. 0 Issued: 0 shares were outstanding as of September 30, 2025 and December 31, 2024 - - Common Stock Par Value $ 0.001 : 100,000,000 shares authorized; 22,210,204 issued and 22,202,826 outstanding as of September 30, 2025 and 14,282,395 issued and 14,257,458 outstanding as of December 31, 2024 22,210 14,257 Additional Paid in Capital 19,642,112 17,886,159 Retained Earnings (Deficit) ( 15,864,546 ) ( 7,754,313 ) Shares to be issued 309,400 100,000 Treasury Stock ( 10,003 ) ( 33,810 ) Total Stockholders’ Equity 4,099,173 10,212,293 Total Liabilities & Stockholders’ Equity $ 17,461,358 $ 17,152,147 See
+accompanying notes to financial statements. 3 Table of Contents LASER
+PHOTONICS CORPORATION CONSOLIDATED
+STATEMENTS OF PROFIT AND LOSS September 30,2025 (Unaudited) September 30,2024 (Unaudited) September 30,2025 (Unaudited) September 30,2024 (Unaudited) Three Months Ended Nine Months Ended September 30, 2025 (Unaudited) September 30, 2024 (Unaudited) September 30, 2025 (Unaudited) September 30, 2024 (Unaudited) Net Sales $ 919,284 $ 669,182 $ 5,016,549 $ 2,035,608 Net Sales Affiliate - 47,515 791,992 47,515 Net Sales - 47,515 791,992 47,515 Total Net Sales 919,284 716,697 5,808,541 2,083,123 Cost of Sales 1,104,278 107,277 3,463,665 772,481 Gross Profit ( 184,994 ) 609,420 2,344,876 1,310,642 Operating Expenses: Sales & Marketing 272,123 554,667 1,146,457 957,558 General & Administrative 1,531,117 1,053,124 3,128,416 1,845,167 Depreciation & Amortization 291,955 238,617 868,089 669,827 Payroll Expenses 805,075 406,107 2,574,418 853,264 Research and Development Cost 132,051 62,802 380,024 170,725 Total Operating Expenses 3,032,321 2,315,317 8,097,404 4,496,541 Operating Income (Loss) ( 3,217,315 ) ( 1,705,897 ) ( 5,752,528 ) ( 3,185,899 ) Other Income (Expenses): Total Other Income (Loss) ( 1,438,293 ) 80,629 ( 2,357,705 ) 80,666 Income (Loss) Before Tax ( 4,655,608 ) ( 1,625,268 ) ( 8,110,233 ) ( 3,105,233 ) Tax Provision - - - - Net Income (Loss) $ ( 4,655,608 ) $ ( 1,625,268 ) $ ( 8,110,233 ) $ ( 3,105,233 ) Deemed Dividend from Software Acquisition - - ( 6,615,000 ) Deemed Dividend for Common Control Acquistion ( 7,766,850 ) - ( 7,766,850 ) Deemed Dividend for Cashless Exercise of Warrant ( 6,312,971 ) - ( 6,312,971 ) Net Comprehensive loss attributed to Common Shareholders ( 18,735,429 ) ( 1,625,268 ) ( 22,190,054 ) ( 9,720,233 ) Earning (Loss) per Share: Basic and diluted $ ( 0.27 ) $ ( 0.13 ) $ ( 0.53 ) $ ( 0.29 ) Loss per share (attributable to common shareholders) ( 1.09 ) ( 0.13 ) ( 1.46 ) ( 0.90 ) Weighted Average of Shares Outstanding 17,126,748 12,671,166 15,236,718 10,847,009 See
+accompanying notes to financial statements. 4 Table of Contents LASER
+PHOTONICS CORPORATION CONSOLIDATED
+STATEMENTS OF CASH FLOWS 2025 (Unaudited) 2024 (Unaudited) Nine Months Ended September 30 2025 (Unaudited) 2024 (Unaudited) OPERATING ACTIVITIES Net Loss $ ( 8,110,233 ) ( 3,105,233 ) Adjustments to Reconcile Net Loss to Net Cash Flow from Operating Activities: Bad Debt ( 31,301 ) 208,351 Debt discount amortization 593,701 - Shares issued for compensation 555,900 33,336 Impairment 487,050 - Depreciation & Amortization 868,089 669,827 Change in Operating Assets & Liabilities: Accounts Receivable 621,004 ( 165,282 ) Contract Assets 297,498 - Inventory 752,072 ( 26,979 ) Prepaids & Other Current Assets ( 131,739 ) ( 15,976 ) Net Change, Right-of-Use Asset & Liabilities 60,174 - Accounts Payable 1,050,713 311,874 Affliate Accounts Payable 154,571 - Contract Liabilities 510,756 - Accrued Expenses 577,247 ( 132,431 ) Deposits - ( 302,000 ) Deferred Revenue 314,846 ( 96,549 ) Net Cash Used in Operating Activities ( 1,429,652 ) ( 2,621,062 ) INVESTING ACTIVITIES Purchase of Property, Plant an Equipment - ( 57,550 ) Purchase of Research & Development Equipment - ( 5,295 ) Office & Computer Equipment ( 15,660 ) - Invest in Leasehold Improvements ( 6,900 ) ( 225,783 ) Net Cash Used in Investing Activities ( 22,560 ) ( 288,628 ) FINANCING ACTIVITIES IPFS Loan 42,763 - Borrowings on debt 6,469,627 - Principal payments on debt ( 3,545,561 ) - Short term Loan From Affliate 751,000 - Shares Issued under PIPE 3,487,353 2,652,350 Distribution to affiliate ( 2,706,547 ) ( 3,822,037 ) Treasury Stock 44,235 - Net Cash provided by (used in) Financing Activities 4,542,870 ( 1,169,687 ) Net Cash Flow for Period 3,090,658 ( 4,079,377 ) Cash and Cash Equivalents - Beginning of Period 533,871 6,201,137 Cash and Cash Equivalents- End of Period $ 3,624,529 2,121,760 NON-CASH INVESTING AND FINANCING ACTIVITIES Shares issued for Investment 100,000 Transfer demo inventory to PPE 14,833 Promissory Note to extinguish Warrants 362,500 Stock issued for Beamer Aquisiotion 643,698 Share issued for purchase of license 6,615,000 Common Stock to be issued for cashless exercise of warrants 62 Stock and Warrants for loan issuance 345,522 Exchange of warrant 6,312,972 SUPPLEMENTARY CASH FLOW INFORMATION Cash Received / Paid During the Period for: Income Taxes - Interest - See
+accompanying notes to financial statements 5 Table of Contents LASER
+PHOTONICS CORPORATION STATEMENTS
+OF SHAREHOLDERS’ EQUITY (DEFICIT) (UNAUDITED) Shares Amount Shares Amount Shares Amount Stock APIC Deficit Equity Three months ended September 30, 2025 Preferred Stock Common Stock Shares to be issued Treasury Accumulated Stockholders Shares Amount Shares Amount Shares Amount Stock APIC Deficit Equity Balance, June 30, 2025 (Unaudited) - - 14,276,150 $ 14,276 - - $ ( 33,810 ) $ 15,565,439 $ ( 11,208,938 ) $ 4,336,967 Net Loss from the three months ended September 30, 2025 - - - $ ( 4,655,608 ) $ ( 4,655,608 ) Distribution to affiliate $ ( 285,846 ) $ ( 285,846 ) Stock Issue PIPE 1,098,902 $ 1,099 $ 3,486,254 $ 3,487,353 Stock issue for Consulting Services 85,000 $ 85 $ 246,415 $ 246,500 Stock issued for common control acquisition 3,000,000 $ 3,000 $ 8,397,000 $ 8,400,000 Stock issue for consideration of Promissory Note 418,000 $ 418 $ 345,104 $ 345,522 Adjustment Common Stock $ 25 $ ( 25 ) - Warrant redemption $ ( 362,500 ) $ ( 362,500 ) Sale of Treasury Stock 17,559 $ 23,807 $ 20,428 $ 44,235 Compensation for Service Agreement 130000 $ 309,400 $ 309,400 Deemed Dividend $ ( 14,079,821 ) $ ( 14,079,821 ) ` Exchange of Warrants 3,307,215 $ 3,307 $ 6,309,664 $ 6,312,971 Balance, September 30, 2025 (Unaudited) - - 22,202,826 $ 22,210 130000 $ 309,400 $ ( 10,003 ) $ 19,642,112 $ ( 15,864,546 ) $ 4,099,173 Three months ended September 30, 2024 Preferred Stock Common Stock Shares to be issued Treasury Accumulated Stockholders Shares Amount Shares Amount Shares Amount Stock APIC Deficit Equity Balance, June 30, 2024 (Unaudited) - - 12,270,427 $ 12,270 - - $ ( 25,240 ) $ 17,012,050 $ ( 6,715,451 ) $ 10,283,629 Net Loss from the three months ended September 30, 2024 - - - $ ( 1,625,268 ) $ ( 1,625,268 ) Distribution to affiliate $ ( 1,623,043 ) $ ( 1,623,043 ) Stock Issue PIPE 1,500,000 $ 1,500 $ 2,650,850 $ 2,652,350 Cashless Exercise of Warrants 61,970 $ 62 $ ( 62 ) - Balance, September 30, 2024 (Unaudited) - - 13,832,397 $ 13,832 - - $ ( 25,240 ) $ 18,039,795 $ ( 8,340,719 ) $ 9,687,668 6 Table of Contents Nine months ended September 30, 2025 Preferred Stock Common Stock Shares to be issued Treasury Accumulated Stockholders Shares Amount Shares Amount Shares Amount Stock APIC Deficit Equity Balance, December 31, 2024 (Audited) - - 14,257,458 $ 14,257 - $ 100,000 $ ( 33,810 ) $ 17,886,159 $ ( 7,754,313 ) $ 10,212,293 Net Loss from the nine months ended September 30, 2025 - - - $ 8,110,233 $ ( 8,110,233 ) Distribution to affiliate $ ( 2,706,547 ) $ ( 2,706,547 ) Stock Issue PIPE 1,098,902 $ 1,099 $ 3,486,254 $ 3,487,353 Stock issue for Consulting Services 85,000 $ 85 $ 246,415 $ 246,500 Stock issued for common control acquisition 3,018,692 $ 3,019 $ ( 100,000 ) $ 8,496,981 $ 8,400,000 Stock issue for consideration of Promissory Note 418,000 $ 418 $ 345,104 $ 345,522 Adjustment Common Stock $ 25 $ ( 25 ) - Warrant redemption $ ( 362,500 ) $ 362,500 ) Sale of Treasury Stock 17,559 $ 23,807 $ 20,428 $ 44,235 Compensation for Service Agreement 130000 $ 309,400 $ 309,400 Deemed dividend $ ( 14,079,821 ) $ ( 14,079,821 ) ` Exchange of Warrants 3,307,215 $ 3,307 $ 6,309,664 $ 6,312,971 Balance, September 30, 2025 (Unaudited) - - 22,202,826 $ 22,210 130000 $ 309,400 $ ( 10,003 ) $ 19,642,112 $ ( 15,864,546 ) $ 4,099,173 Nine months ended September 30, 2024 Preferred Stock Common Stock Shares to be issued Treasury Accumulated Stockholders Shares Amount Shares Amount Shares Amount Stock APIC Deficit Equity Balance, December 31, 2023 (Audited) - - 9,253,419 $ 9,253 - - $ ( 25,240 ) $ 19,180,725 $ ( 5,235,486 ) $ 13,929,252 Balance - - 9,253,419 $ 9,253 - - $ ( 25,240 ) $ 19,180,725 $ ( 5,235,486 ) $ 13,929,252 Net Loss from the nine months ended September 30, 2024 - - - $ ( 3,105,233 ) $ ( 3,105,233 ) Net Loss - - - $ ( 3,105,233 ) $ ( 3,105,233 ) Distribution to affiliate $ ( 3,822,037 ) $ ( 3,822,037 ) Stock Issued for compensation 17,008 $ 17 $ 33,319 $ 33,336 Stock issued for Software purchases 3,000,000 $ 3,000 $ 6,612,000 $ 6,615,000 Deemed Dividend to APIC $ ( 6,615,000 ) $ ( 6,615,000 ) Stock Issue PIPE 1,500,000 $ 1,500 $ 2,650,850 $ 2,652,350 Cashless Exercise of Warrants 61,970 $ 62 $ ( 62 ) - Balance, September 30, 2024 (Unaudited) - - 13,832,397 $ 13,832 - - $ ( 25,240 ) $ 18,039,795 $ ( 8,340,719 ) $ 9,687,668 Balance - - 13,832,397 $ 13,832 - - $ ( 25,240 ) $ 18,039,795 $ ( 8,340,719 ) $ 9,687,668 See
+accompanying notes to financial statements 7 Table of Contents LASER
+PHOTONICS CORPORATION NOTES
+TO FINANCIAL STATEMENTS (UNAUDITED) NOTE
+1 – BUSINESS We
+were formed under the law of Wyoming on November 8, 2019. We changed our domicile to Delaware on March 5, 2021. We are a vertically integrated
+manufacturing company for photonics-based industrial products and solutions and, since recently acquiring Beamer Laser Marking Systems
+during Q3 2025, a developer of full-service laser marking machines for the medical, aerospace, defence, firearms, automotive, and general
+industrial markets and in Q4 2024 the assets of Control Micro Systems, Inc - expanding the market for our laser products into a large,
+growing pharmaceutical manufacturing vertical, in what we believe is a recession-resistant sector with significant barriers to entry. Our
+vertically integrated operations allow us to reduce development and advanced laser equipment manufacturing time, offer better prices,
+control quality and protect our proprietary knowhow and technology compared to other laser cleaning companies and companies with competing
+technologies. On
+November 27, 2023, FASB issues ASU 2023-07. ASU 2023-07 is effective for public entities fiscal years beginning after December 15, 2023,
+and interim periods within fiscal years beginning after December 15, 2024. ASU 2023-07 enhances segment reporting under Topic 280 by
+expanding the breadth and frequency of segment disclosures. Its amendments fall into the following categories. Topic 280 requires a public
+entity to disclose entity-wide and segment information in the notes to financial statements. This includes the measure of profit or loss
+that the CODM uses to assess segment performance and decide how to allocate resources, as well as certain specified amounts included
+in that measure – e.g. revenue, depreciation and amortization, interest and income tax expense. However, investors have observed
+that there has been limited information reported about a segment’s expenses. The analysis of the company after acquisition of CMS
+concluded that we have only one segment and according to this, the results will be disclosed consolidated. Going
+Concern The
+Company has not earned sufficient revenue since its inception and has sustained operating losses during the quarter ending September
+30, 2025, mainly due to investments in its sales and marketing departments. The Company had sufficient working capital as of December
+31, 2024. However, the Company’s continuation as a going concern is dependent on its ability to generate additional cash flow from
+operations to meet its obligations and/or obtain additional financing, as may be required. There is substantial doubt about the ability
+of the Company to continue as a going concern. Our
+principal executive offices are located at 1101 N. Keller Rd., Suite G, Orlando, Florida 32810, and our telephone number is (407) 804-1000.
+Our corporate website is https://laserphotonics.com . NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES & USE OF ESTIMATES. The
+accompanying unaudited condensed financial statements and notes of Laser Photonics Corporation (the “Company”) are presented
+in United States dollars and have been prepared in accordance with generally accepted accounting principles in the United States (“U.S.
+GAAP”) and pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”) for interim financial
+information. Accordingly, those do not include all of the information and footnotes required by U.S. GAAP for complete financial statements.
+These financial statements should be read in conjunction with the financial statements, notes and significant accounting policies included
+in our Annual Report on Form 10-K for the year ended December 31, 2024. Given
+the nature of the revenue recognition process, the Company generates contract liabilities to the extent that a customer pays on project
+progress before the company fulfills its performance obligations under a contract or contract assets to the extent that the Company has
+earned by satisfying performance obligations but has not yet billed the customer. Contract assets represent a right to receive payment
+in the future once certain conditions are met per the terms of the contract. The balance of contract asset and liabilities as of 9/30/25
+were $ 462,160 and $ 1,552,846 , respectively, and as of 12/31/24 were $ 759,658 and $ 1,042,090 , respectively. ASC-280
+Segment Reporting Financial
+Accounting Standard Board (“FASB”) ASC Topic 280, “Segment Reporting,” requires annual and interim reporting
+for an enterprise’s operating segments and related disclosures about its products, services, geographic areas and major customers.
+An operating segment is defined as a component of an enterprise that engages in business activities from which it may earn revenues and
+expenses, and about which separate financial information is regularly evaluated by the chief operating decision maker in deciding how
+to allocate resources. Laser
+Photonics operates as one segment located in Orlando, FL. Our Company develops industrial laser cleaning, cutting, welding, marking,
+and wire stripping across multiple industries and customer bases. The chief operating decision maker (CODM) being the Chief Executive
+Officer. The CODM uses net income from operations to evaluate and make key operating decisions. Our
+significant accounting policies are provided in “Note 2 – Summary of Significant Accounting Policies” in our Financial
+Statements 2024 Form 10-K. There have been no material changes to our significant accounting policies from those disclosed in our 2024
+Form 10-K for the fiscal year ended December 31, 2024. Use
+of Estimates The
+preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires
+management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent
+liabilities at dates of the financial statements and the reported amounts of revenue and expenses during the periods. Actual results
+could differ from these estimates. Our significant estimates and assumptions include depreciation and the fair value of our stock, stock-based
+compensation, debt discount and the valuation allowance relating to the Company’s deferred tax assets. Assets Cash
+and Cash Equivalents Cash
+and cash equivalents consist of highly liquid investments with an original maturity of three months or less at the date of purchase.
+Cash and cash equivalents are carried at cost, which approximates fair value. As
+of September 30, 2025, and December 31, 2024, the Company had $ 3,624,529 and $ 533,871 of cash, respectively. 8 Table of Contents Accounts
+Receivable Trade
+accounts receivables are recorded net of allowance for expected uncollectible accounts. The Company extends credit to its customers in
+the normal course of business and performs on-going credit evaluations of its customers. All accounts, or portions thereof, that are
+deemed uncollectible are written off to bad debt expense, as incurred. As of September 30, 2025, and December 31, 2024, the Company’s
+ledger had $ 385,425 , and $ 973,605 , respectively as a balance for collectible accounts. Allowance and amount recognized as bad debt as
+of September 30, 2025, are $ 158,584 and ($ 31,301 ) respectively, and as of December 31, 2024, were $ 193,333 and $ 248,413 respectively. As
+of September 30, 2025, the debts of New England Small Tube Corporation ( 22 %), Hydro Flask ( 16 %) and Electrical Automation Professionals
+( 11 %) were over 10% of the total of the A/R. As of December 31, 2024, debts of Nebraska Public Power District ( 10.2 %), Phillips66 ( 17 %),
+Fisher & Paykel Healthcare Ltd ( 13.9 %) and New England Small Tube Corporation ( 19 %), were over 10% of the total. Advertising
+Expenses Marketing,
+advertising and promotion expenditures are expensed in the annual period in which the expenditure is incurred. Research
+& Development Expenses Research
+& Development expenditures are expensed in the annual period in which the expenditure is incurred. Stock
+Based Compensation The
+Company accounts for stock-based payments in accordance with the provision of ASC 718, which requires that all share-based payments issued
+to acquire goods or services, including grants of employee stock options, be recognized in the statement of operations based on their
+fair values, net of estimated forfeitures. ASC 718 requires forfeitures to be estimated at the time of grant and revised, if necessary,
+in subsequent periods if actual forfeitures differ from those estimates. Compensation related to share-based awards is recognized over
+the requisite service period, which is generally the vesting period. The
+Company accounts for stock-based compensation awards issued to non-employees for services, as prescribed by ASC 718-10, at either the
+fair value of the services rendered or the instruments issued in exchange for such services, whichever is more readily determinable.
+The Company issues compensatory shares for services including, but not limited to, executives, management, accounting, operations, corporate
+communication, financial and administrative consulting services. Lease
+Accounting The
+Company leases office space and the production facility under operating lease agreements. The lease term begins on the date of initial
+possession of the leased property for purposes of recognizing lease expense on a straight-line basis over the term of the lease. Lease
+renewal periods are considered on a lease-by-lease basis and are generally not included in the initial lease term. Revenue
+Recognition Under
+Topic 606, an entity recognizes revenue when its customer obtains control of promised goods or services, in an amount that reflects the
+consideration which the entity expects to receive in exchange for those goods or services. To determine revenue recognition for arrangements
+that an entity determines are within the scope of Topic 606, the entity performs the following five steps: (i) identify the contract(s)
+with a customer; (ii) identify the performance obligations in the contract; (iii) determine the transaction price; (iv) allocate the
+transaction price to the performance obligations in the contract; and (v) recognize revenue when (or as) the entity satisfies a performance
+obligation. The Company only applies the five-step model to contracts when it is probable that the entity will collect the consideration
+it is entitled to in exchange for the goods or services it transfers to the customer. At contract inception, once the contract is determined
+to be within the scope of Topic 606, we assess the goods or services promised within each contract and determine those that are performance
+obligations and assess whether each promised good or service is distinct. The Company then recognizes as revenue the amount of the transaction
+price that is allocated to the respective performance obligation when (or as) the performance obligation is satisfied. The Company
+also earns revenue through affiliate arrangements. These contracts are evaluated under ASC 606 using the same five-step model. Affiliate
+revenue is recognized when the Company satisfies its performance obligations under the affiliate agreement, which typically occurs when
+the affiliate completes a qualifying transaction or when the Company provides agreed-upon services. The transaction price is determined
+based on the contractual terms with the affiliate, and revenue is recorded in the amount the Company expects to receive. Revenue
+is then recognized for the transaction price allocated to each respective performance obligation when (or as) the performance obligation
+is satisfied. For our products, revenue is generally recognized upon shipment or pickup by the customer. At this stage, the title on
+the manufactured equipment is transferred to the customer, and the customer is responsible for transportation expenses, insurance, and
+any transport-related damage to the equipment in transit. We do not have any obligation to deliver beyond the collection warehouse, and
+it is the customers’ contractual responsibility to ensure their goods reach their destination. In
+CMS for projects that are considered custom in nature and determined the obligation will be six months to a year or more, the company
+will recognize revenue as a percentage of completion basis. The percentage of completion method recognizes income as work on a project
+progresses. The recognition of revenues and profits is generally related to costs incurred in providing the services required under the
+project. 9 Table of Contents Refunds
+and returns, which are minimal, are recorded as a reduction of revenue. Payments received from customers before satisfying the above
+criteria are recorded as unearned income on the combined balance sheets. Payments
+received as deposits for specific purchase orders or future laser equipment sales to customers are recognized as customer deposits and
+included in liabilities on the balance sheet. Customer deposits are recognized as revenue when control over the ordered equipment is
+transferred to the customer. All
+revenues are reported net of any sales discounts or taxes. Other
+Revenue Recognition Matters related to Distributors. Distributors
+generally have no right to return unsold equipment. However, in limited circumstances, if the Company determines that distributor stock
+is morally aging beyond the Company’s new model releases, it may accept returns and provide the distributor with credit against
+their trading account at the Company’s discretion under its warranty policy. This revenue is recognized on a consignment basis
+and transfer of control is when an item is sold to end customer at which time the Company recognizes revenue. Cash
+and Cash Equivalents Cash
+and cash equivalents consist of highly liquid investments with an original maturity of three months or less at the date of purchase.
+Cash and cash equivalents are carried at a cost, which approximates fair value. Accounts
+Receivable Trade
+accounts receivable is recorded net of allowance for expected uncollectible accounts. The Company extends credit to its customers in
+the normal course of business and performs on-going credit evaluations of its customers. All accounts, or portions thereof, that are
+deemed uncollectible are written off to bad debt expense, as incurred. In addition, most sales orders are not accepted without a substantial
+deposit. As of September 30, 2025, the balance of collectible accounts was $$ 385,425 and the amount recognized as bad debt as of September
+30, 2025, was ($ 31,301 ) . Current
+Liabilities Accounts
+Payable Accounts
+payable consist of short-term liability to our vendors and sub-contractors, who extend credit terms to the Company or deliver goods or
+services with delayed payment terms. Our accounts payable and accounts payable affiliates were recorded as of September 30, 2025, at
+$ 1,592,530 and $ 182,559 , and as of December 31, 2024, at $ 531,268 and $ 27,988 , respectively. Deferred
+Revenue As
+of September 30, 2025, the Company had $ 370,229 in Deferred Revenue, and as of December 31, 2024, the Company’s deferred revenue
+liabilities were recorded at $ 55,383 . Loans
+and Notes Payable On
+April 3, 2025, April 16, 2025, June 20, 2025, July 8, 2025, and July 12, 2025, the “Company received from ICT Investments, the
+owner of the majority of outstanding shares of the Company’s common stock, unsecured loans in the principal amount of $ 200,000 ,
+$ 400,000 , $ 20,000 , $ 101,000 , and $ 30,000 respectively, to assist Laser Photonics in meeting certain expenses, including payroll. Laser
+Photonics issued promissory notes, with interest at $ 20,000 , $ 40,000 , $ 2,000 , $ 10,000 and $ 3,000 respectively, and a maturity date of May 31, 2025 , June 30, 2025 , August 30, 2025 , September 8, 2025 , and September 12, 2025 respectively. The unpaid principal balance of
+ICT loans as of September 30, 2025, was $ 751,000 . The unpaid interest balance of ICT loans as of September 30, 2025, was $ 75,000 . On
+May 6, 2025, the Company issued a Promissory Note in favor of District 2 Capital Fundor. The Company promises to pay to the order of
+District 2 Capital Fundor not later than ( six months from date of the Note), the principal amount of Three hundred sixty two thousand
+and five hundred Dollars ($ 362,500 ), calculated on the basis of “Black Scholes Value” meaning the value of Holder’s
+Warrant dated August 19, 2024, issued in connection with a PIPE transaction through Aegis Capital Corp. as Placement Agent and based on the Black-Scholes Option Pricing Model obtained from the “OV” function
+on Bloomberg, L.P. (“Bloomberg”) determined as of the date of this Promissory Note (this “Note”) for pricing purposes
+and reflecting (A) a risk-free interest rate corresponding to the U.S. Treasury rate for a period equal to the time between the date of
+this Note and the Maturity Date, (B) an expected volatility equal to the greater of (1) 100% and (2) the 100 day volatility as obtained
+from the HVT function on Bloomberg (determined utilizing a 365 day annualization factor) as of the date of this Note. This Note was issued in connection with redemption of Holder’s outstanding warrant dated
+August 19, 2024 ( 125,000 warrants). On
+April 25, 2025, the Company entered into a Business Loan and Security Agreement dated April 25, 2025 (the “Loan Agreement”)
+among Agile Capital Funding, LLC (“Agile Capital”), Agile Lending, LLC (“Agile Lending”) the Company and its
+subsidiary, Control Micro Systems Florida, LLC, under which the Company issued a Confessed Judgment Promissory Note for a term loan in
+the principal amount of $ 1,500,000 to be repaid through weekly principal and interest payments of $ 72,000 commencing May 6, 2025, and
+ending November 25, 2025, subject to payment of a $ 75,000 administrative agent fee paid to Agile Capital. The Loan is secured by a blanket
+lien on the Company’s assets. The Loan may be prepaid subject to payment of prepayment fee equal to the aggregate and actual amount
+of interest (at the contract rate of interest) that would be paid through the maturity date. This loan has been settled in full refinancing
+with the Agile Loan dated July 7, 2025. On
+July 8, 2025, the Company entered into a Business Loan and Security Agreement dated July 7, 2025 (the “Loan Agreement”) among
+Agile Capital Funding, LLC (“Agile Capital”), Agile Lending, LLC (“Agile Lending”) the Company and its subsidiary,
+Control Micro Systems Florida, LLC, under which the Company issued a Confessed Judgment Promissory Note for a term loan in the principal
+amount of $ 2,100,000 and total interest payments of $ 924,000 to be repaid through weekly principal and interest payments of $ 94,500 commencing
+July 16, 2025, and ending February 18, 2026, subject to payment of a $ 100,000 administrative agent fee paid to Agile Capital. The Loan
+is secured by a blanket lien on the Company’s assets. The Loan may be prepaid subject to payment of prepayment fee equal to the
+aggregate and actual amount of interest (at the contract rate of interest) that would be paid through the maturity date. As of September
+30, 2025, the loan reflects an outstanding principal balance of $ 1,559,439 and interest of $ 425,061 . 10 Table of Contents On
+August 28, 2025, the Company closed a convertible note financing with Hudson Global Ventures, LLC (“Hudson Global”). In connection
+with this financing, the Company entered into a Securities Purchase Agreement (the “SPA”) with Hudson Global requiring that
+the Company (i) issue 418,000 shares of its common stock as commitment shares (the “Commitment Shares”), (ii) issue a warrant
+(the “Warrant”) for 157,258 shares of the Company’s common stock at a conversion price of $ 4.34 per share subject to
+customary adjustments for fundamental corporate actions such as mergers, reverse splits and stock dividends, that is exercisable for
+five years or that the Company must earlier pay the Event of Default Black Scholes Value as that term is defined in the Warrant if the
+Company’s common stock is deemed “penny Stock” under SEC Rule 240.3a51-1, and (iii) issue a 12 month secured convertible
+promissory note in the principal amount of $ 455,0000 (the “Convertible Note”) bearing annual interest of 12 % to be repaid
+through monthly amortization payments of $ 45,818 and that is convertible into shares of the Company’s common stock at a fixed price
+of $ 4.34 per share, subject to customary adjustments for fundamental corporate actions such as mergers, reverse splits and stock dividends,
+that can be prepaid within the first 60 days from August 27, 2025, without any penalty and after 60 days from August 27, 2025,at a payment
+of 118 % of the accrued and unpaid interest and unpaid principal of the Convertible Note. Under the terms of the SPA, Hudson Global has
+piggyback rights for the conversion shares underlying the Warrant and the Convertible Note as well as for the Commitment Shares. This
+loan has been settled in full refinancing with the Note Purchase Agreement dated September 12, 2025. On
+September 12, 2025, the Company entered into a Note Purchase Agreement (the “NPA”) with four holders pursuant to which it
+issued to such holders certain unsecured promissory notes (the “Notes”). The Notes are (i) in the total principal amount
+of $ 2,111,111.12 with an Original Issuance Discount (“OID”) equal to 10% that resulted in the Company receiving net proceeds
+of $ 1,129,400 following deductions for expenses, including an 8% placement agency fee and 1% non-accountable allowance paid to RBW Capital
+Partners LLC (“RBW”), a division of Dawson James Securities, Inc ., under the terms of a Placement Agency Agreement dated
+September 5, 2025, between the Company and RBW, and repayment of principal and accrued and unpaid interest of $ 509,600 owed to Hudson
+Global Ventures, LLC (“Hudson Global”) under a convertible note in the principal amount of $ 455,000 issued under the term
+of a Securities Purchase Agreement dated August 27, 2025, (ii) due the earlier of three (3) months from the dates of the Notes which
+are all September 12, 2025, or in the event of a prior subsequent financing by the Company, the Notes at the option of the holder must
+be repaid in full or, if applicable, are exchangeable into the consideration in the subsequent offering, (iii) subject to a payment in
+the event of a default of 120% of the unpaid principal amount, accrued interest and all other amounts owing under the Notes, which amount
+increases by 5% every 30 days following the date of the event of default until the Notes are paid in full (the “Mandatory Default
+Amount”) and (iv) limited to prepayment only upon a change of control of the Company subject to payment of the Mandatory Default
+Amount. As of September 30, 2025, the loan reflects an outstanding principal balance of $ 2,111,111 . Inventory Inventories
+are stated at a lower cost or net realizable value using the first-in-first-out (FIFO) method. The Company has five principal categories
+of inventory: Equipment
+parts inventory - This inventory represents components and raw materials that are currently in the process of being converted to
+a certifiable lot of saleable products through the manufacturing and/or equipment assembly process. Inventories include parts and components
+that may be specialized in nature and subject to rapid obsolescence. The Company periodically reviews the quantities and carrying values
+of inventories to assess whether the inventories are recoverable. Because of the Company’s vertical integration, a significant
+or sudden decrease in sales activity could result in a significant change in the estimates of excess or obsolete inventory valuation.
+The costs associated with provisions for excess quantities, technological obsolescence, or component rejections are charged to the cost
+of sales as incurred. Work
+in process inventory - Work in process inventory consists of inventory that is partially manufactured or not fully assembled
+as of the date of these financial statements. This equipment, machines, parts, frames, lasers and assemblies are items not ready for
+use or resale. Costs are accumulated as work in process until sales ready items are compete when it is moved to finished goods inventory.
+Amounts in this account represent items at various stages of completion at the date of these financial statements. Finished
+goods inventory - Finished goods inventory consists of purchased inventory that were fully manufactured, assembled or in saleable
+condition. Finished goods inventory is comprised of items that are complete and ready for commercial application without further cost
+other that delivery and setup. Finished goods inventory includes demo and other equipment, lasers, software, machines, parts or assemblies. Consignment
+inventory – Consignment inventory includes amounts held on consignment at third party locations of Method Tools, is properly
+recorded, valued, and disclosed. Management has evaluated the existence, ownership, and valuation of consignment inventory and confirms
+that such inventory remains the property of the Company until sold and is included in “Inventories” on the accompanying balance
+sheets. 11 Table of Contents On
+September 30, 2025, and December 31, 2024, respectively, our inventory consisted of the following: SCHEDULE OF INVENTORY As of September 30, As of December 31, Inventory 2025 2024 (Unaudited) (Audited) Equipment Parts Inventory $ 1,844,223 $ 1,820,347 Finished Goods Inventory 763,160 999,100 Work in process Inventory 94,175 295,950 Consignment Inventory 171,823.00 - Inventory Reserve ( 727,990 ) ( 776,638 ) Total Inventory $ 2,145,391 $ 2,338,759 Fixed
+Assets - Plant Machinery and Equipment Property
+and equipment are recorded at cost. Expenditures for major additions and improvements are capitalized, and minor replacements, maintenance,
+and repairs are charged to expense as incurred. When property and equipment are retired or otherwise disposed of, the cost and accumulated
+depreciation are removed from the accounts, and any resulting gain or loss is included in the results of operations for the respective
+period. Machinery
+and Equipment Depreciation
+is provided over the estimated useful lives of the related assets using the straight-line method for financial statement purposes. The
+Company uses other depreciation methods (generally accelerated) for tax purposes where appropriate. The estimated useful lives for significant
+property and equipment categories are as follows: SCHEDULE OF ESTIMATED USEFUL LIVES FOR SIGNIFICANT PROPERTY AND EQUIPMENT Category Economic
+Useful Life Office furniture and fixtures 3 - 5 years Machinery and equipment 5 - 7 years Leasehold Improvements 1 - 10 years * Intangible Assets 6 - 15 years * or the Lease term
+-whichever is less. SCHEDULE OF FIXED ASSETS Fixed Assets As of September 30, 2025 (Unaudited) As of December 31, 2024 (Audited) Accumulated Depreciation $ ( 3,389,198 ) $ ( 2,513,551 ) Machinery & Equipment 2,459,093 2,458,986 Office Furniture & Computer Equipment 317,147 301,487 Vehicles 117,894 117,894 R&D Equipment 43,268 43,268 Software 50,671 50,671 Leasehold improvements 264,458 257,558 Consignment Machine & Equipment 45,634 - Demonstration equipment 1,193,450 1,155,721 Property, plant and equipment, gross 1,193,450 1,155,721 Total Fixed Assets $ 1,102,417 $ 1,872,034 Intangible
+Assets Intangible
+assets consist primarily of capitalized equipment design documentation, software costs for equipment manufactured for sale, research,
+and development, as well as certain patent, trademark and license costs. Capitalized software and equipment design documentation development
+costs are recorded in accordance with Accounting Standard Codification (“ASC”) 985 “Software” with costs amortized
+using the straight-line method over a ten-year period. Patent, trademark and license costs are amortized using the straight-line method
+over their estimated useful lives of 6 - 15 years. On an ongoing basis, management reviews the valuation of intangible assets to determine
+if there has been impairment by comparing the related assets’ carrying value to the undiscounted estimated future cash flows and/or
+operating income from related operations. 12 Table of Contents The
+Company employs various core technologies across many different product families and applications in an effort to maximize the impact
+of our research and development costs and increase economies of scale and to leverage its technology-specific expertise across multiple
+product platforms. The technologies inherent in its laser equipment products include application documentation, proprietary and custom
+software developed for operation of its equipment, specific knowledge of supply chain and equipment design documentation, consisting
+of 3D engineering drawings, bills of materials, wiring diagrams, parts AutoCad drawings, software architecture documentation, etc. Intangible
+assets were received from related parties, ICT Investments, Fonon Technologies Inc. and therefore transferred and booked by Laser Photonics
+Corp. at their historical cost. During the purchase of CMS assets there were obtained Intangible Assets, which have been developed internally
+in CMS. SCHEDULE OF INTANGIBLE ASSETS ASSETS Intangible Assets As of September 30, 2025 (Unaudited) As of December 31, 2024 (Audited) Accumulated Amortization $ ( 1,604,516 ) $ ( 1,125,025 ) Customer Relationships 211,000 211,000 Equipment Design Documentation 2,675,000 2,675,000 Operational Software & Website 381,539 381,539 Trademarks 787,800 787,800 License & Patents 3,460,876 3,460,877 Intangible assets gross 3,460,876 3,460,877 Accumulated Impairment Loss ( 932,669 ) ( 932,669 ) Total Intangible Assets $ 4,979,030 $ 5,458,522 Long-Lived
+Assets Long-lived
+assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying value may not be recoverable.
+Impairment is measured by comparing the carrying value of the long-lived assets to the estimated undiscounted future cash flows expected
+to result from use of the assets and their ultimate disposition. In instances where impairment is determined to exist, the Company will
+write down the asset to its fair value based on the present value of estimated future cash flows. Net
+Earnings/Loss per Share Basic Earnings/Loss per share is calculated by dividing the Earnings/Loss attributable to stockholders by the weighted-average
+number of shares outstanding for the period. Diluted Earnings/Loss per share reflects the potential dilution that could occur
+if securities or other contracts to issue common stock were exercised or converted into common stock or resulted in the issuance of common
+stock that shared in the earnings (loss) of the Company. Diluted Earnings/Loss per share is computed by dividing the Earnings/Loss available to stockholders by the weighted average number of shares outstanding for the period and dilutive potential shares outstanding
+unless such dilutive potential shares would result in anti-dilution. NOTE
+3 – STOCKHOLDERS’ EQUITY/DEFICIT General The
+following description of our securities and certain provisions of our amended and restated certificate of incorporation and amended and
+restated bylaws are summaries and are qualified by reference to the amended and restated certificate of incorporation and our bylaws
+that will be in effect on the closing of this offering. Copies of these documents have been filed with the SEC as exhibits to our registration
+statement, of which this prospectus forms a part. The descriptions of the Shares, and preferred stock, reflect changes to our capital
+structure that will be in effect on the closing of this offering. In the third quarter of 2025 distributions to affiliate company Fonon
+Corporation totalled $ 285,845 . They include sales, marketing, payroll, and other shared costs associated with Fonon Corporation. Preferred
+Stock ● Par value: 0.001 ● Authorized: 10,000,000 ● Issued: There were no preferred
+    shares issued and outstanding as of September 30, 2025 Common
+Stock ● Par value: 0.001 ● Authorized: 100,000,000 ● Issued: 21,111,302 as of September 30, 2025 In
+January 2025 18,692 shares of common stock were issued as part of the payment for the purchase of the assets and certain liabilities
+of Control Micro System (CMS Laser). On
+May 5, 2025, the Company entered into exchange agreement with Empery Asset Master LTD, Empery Tax Efficient, LP and Empery Tax Efficient
+III, LP, (Holders). Holders hold the number of Warrants to Purchase Common Stock originally issued on August 19, 2024, to Altium Growth
+Fund, LP ( 125,000 warrants), exercisable into the number of shares of Common Stok of the Company. In a modified agreement dated July 8,
+2025, the Holders received in exchange to the 125,000 warrants, 107,215 shares of common stock at agreed price of $ 2.90 . The updated calculation
+can be found on the last page of the agreement, but in summary we are updating the amount of shares being issued to reflect the difference
+in value of the shares previously agreed at $2.90, now down to $2.53 (the current stock price). In
+August 2025, the Company issued 3,000,000 restricted shares of common stock to Fonon Quantum Technologies,
+Inc. as consideration for the acquisition of the net assets of Beamer Laser Marking Systems. The shares were valued at the market rate
+of the Company’s stock on the date of the Agreements which is $ 2.8 ,
+for a total amount of $ 8,400,000 . Both companies are under common control of ICT Investments and the excess paid over the net assets
+of Beamer Laser Marking Systems was accounted as deemed dividend for a total of $ 7,766,850 .
+As result the value back to the Equity was $ 633,150 . On
+July 8, 2025, the Company issued 85,000 restricted shares of common stock to Hudson Global Venture LLC, in exchange for consulting services
+to be provided by Hudson Global Venture LLC until August 15, 2025. The share of common stock’s market value was $ 2.90 and the total
+equity value was $ 246,500 . On
+August 11, 2025, the Company entered in Consulting Services Agreement with FMW Media Works LLC. According to the agreement the Company
+agreed to issue 130,000 shares of restricted common stock to FMW Media Works LLC as compensation for the services. As of September 30,
+2025, the obligation is reflected as Shares to be Issued in the Balance Sheet. The FV of the shares was considered the market value at
+the date of the Agreement 2.38 , for a total value of $ 309,400 . On
+August 27, 2025, the Company issued 418,000 restricted shares of common stock and 157,258 warrant shares to Hudson Global Ventures, LLC
+as additional consideration for the purchase of the secured promissory note in principal amount of $ 455,000 . The share of common stock
+FMV was $ 4.34 and FV for the warrants was $ 3.4636 . This promissory note was fully paid with the RBW Bridge Financial Loan. APIC was increased
+by $ 345,522 . 13 Table of Contents On
+September 2, 2025, the Company entered into an agreement to exchange certain outstanding warrants issued in the August 2024 PIPE financing
+(the “Exchange Agreement”). These warrants, which had an exercise price of $ 4.34 per share and included a full ratchet anti-dilution
+provision, entitled holders to purchase up to an aggregate of 0.8 million shares of the Company’s common stock. In exchange for
+relinquishing these warrants, the warrant holders will receive unrestricted shares of the Company’s common stock equal to 400%
+of the number of shares of the Company’s common stock issuable upon exercise of the warrants that for all warrant holders results
+in an aggregate of 3.2 million unrestricted shares of the Company’s common stock . The Company also has agreed, subject to customary
+exceptions, for a period of 30 days starting on September 3, 2025, not to issue any shares of its common stock nor to file any registration
+statant or any amendment or supplement to any existing registration statement. The excess of the FV of the shares of common stock over
+the FV recalculated using Black-Scholes method at the date of the operation was considered and accounted as deemed dividend. On
+September 22, 2025, the Company entered into a securities purchase agreement (the “Purchase Agreement”) with certain accredited
+investors (the “Investors”), pursuant to which the Company agreed to issue and sell to the Investors in a private placement
+(the “Offering”) (i) 1,098,902 shares (the “Shares”) of common stock of the Company,
+$ 0.001 par value (the “Common Stock”), (ii) series A warrants
+to purchase up to 1,098,902 shares of Common Stock (the “Series A Warrants”)
+and (iii) series B warrants to purchase up to 1,098,902 shares of Common Stock (the “Series B Warrants”
+and, with the Series A Warrants, the “Common Warrants” and, collectively with the Shares, and the Series B Warrants, the
+“Securities”) for a purchase price of $ 3.64 per share of Common Stock and related Common Warrants, for
+a net total of $ 3,487,353 , the fees were net against the proceeds. The Offering was closed on September 29, 2025, subjected to
+customary closing conditions. The Company also issued to the placement agent facilitating the Exchange Agreement or its designees warrants
+to purchase an aggregate of 76,923 shares of its restricted common stock that are exercisable
+for five
+years at $ 4.55 per share subject to customary adjustments, including for stock
+splits, stock dividends, rights offerings and fundamental transactions such as a merger resulting in a change of control. The
+Series A Warrants have an exercise price of $ 3.40 per share, are exercisable upon issuance (the “Initial Exercise Date”),
+and expire five years following the effective date of the registration statement to be filed in connection with the Offering. The Series
+B Warrants have an exercise price of 3.40 per share, are exercisable commencing on the Initial Exercise Date and expire eighteen months following the effective date of the registration statement to be filed in connection with the Offering. Under the terms of the Common
+Warrants, the Investors may not exercise the warrants to the extent such exercise would cause the Investor, together with its affiliates
+and attribution parties, to beneficially own a number of shares of common stock which would exceed 4.99% (or, at such Investor’s
+option upon issuance, 9.99%), of the Company’s then outstanding Common Stock following such exercise, excluding for purposes of
+such determination shares of Common Stock issuable upon exercise of such warrants which have not been exercised. The
+Purchase Agreement contains representations, warranties, indemnification and other provisions customary for transactions of this nature.
+The Purchase Agreement also provides that, subject to certain exceptions, until 15 days after the effective date of the registration
+statement to be filed in connection with Offering, neither the Company nor any of its subsidiaries will issue, enter into any agreement
+to issue or announce the issuance or proposed issuance of any shares of Common Stock or Common Stock equivalents or file a registration
+statement other than one in connection with the Offering. The Purchase Agreement also provides that, subject to certain exceptions, for
+a period of one year following the effective date of the registration statement to be filed in connection with Offering, the Company
+will be prohibited from effecting or entering into an agreement to effect any issuance by the Company or any of its subsidiaries of Common
+Stock or Common Stock equivalents (or a combination of units thereof) involving a variable rate transaction, which generally includes
+any transaction in which the Company (i) issues or sells any debt or equity securities that are convertible into, exchangeable or exercisable
+for, or include the right to receive additional shares of common stock either (A) at a conversion price or exchange rate that is based
+upon and/or varies with the trading prices of or quotations for the shares of common stock at any time after the initial issuance of
+such securities, or (B) with a conversion, exercise or exchange price that is subject to being reset at some future date after the initial
+issuance of such debt or equity security or upon the occurrence of specified or contingent events directly or indirectly related to the
+business of the Company or the market for the common stock or (ii) enters into any agreement, whereby the Company may issue securities
+at a future determined price (including but not limited to, certain “at-the-market offerings” as described more fully in
+the Purchase Agreement). As
+part of the Offering, the Company entered into a Registration Rights Agreement, dated September 22, 2025, with the Investors, pursuant
+to which the Company agreed to register the resale of the shares of Common Stock sold in the Offering and the shares of Common Stock
+issuable upon exercise of the Common Warrants. The Company will use its commercially reasonable best efforts to file the registration
+statement by the 15 th calendar day after the date of the Registration Rights Agreement and cause the registration statement
+to be declared effective within 45 days of September 22, 2025 (or 75 days in the event the registration statement is reviewed in “full”).
+If the Company fails to meet the specified filing deadlines or keeps the registration statement effective, subject to certain permitted
+exceptions, the terms of the Registration Rights Agreement provide that the Company will be required to pay certain liquidated damages
+to the Investor. The Company also agreed, among other things, to indemnify the Investors under the registration statement from certain
+liabilities and to pay all fees and expenses incident to the Company’s performance of or compliance with the Registration Rights
+Agreement. Warrants As
+of September 30, 2025, there were 2,431,985 warrants outstanding. All the warrants outstanding on December 32, 2024, were redeemed. SCHEDULE OF WARRANTS No Entity Date Amount Issued Exercise Price Black-Scholes value Total value 1 Hudson Global Ventures, LLC 8/27/2025 157,258 $ 4.34 $ 3.46 $ 544,678.81 2 HC Wainwright & Co 9/29/2025 76,923 4.55 1.6825 129,422.95 3 Anson East Master Fund-Series A 9/29/2025 90,658 3.40 3.40 308,237.20 4 Anson East Master Fund-Series B 9/29/2025 90,658 3.40 2.32 210,326.56 5 Anson Investments Master Fund-Series A 9/29/2025 321,429 3.40 3.40 1,092,858.60 6 Anson Investments Master Fund-Series B 9/29/2025 321,429 3.40 2.32 745,715.28 7 Capital Global-Series A 9/29/2025 137,363 3.40 3.40 467,034.20 8 Capital Global-Series B 9/29/2025 137,363 3.40 2.32 318,682.16 9 Intracoastal Capital-Series A 9/29/2025 274,726 3.40 3.40 934,068.40 10 Intracoastal Capital-Series B 9/29/2025 274,726 3.40 2.32 637,364.32 11 Iroquois Capital Mgmt-Series A 9/29/2025 82,418 3.40 3.40 280,221.20 12 Iroquois Capital Mgmt-Series B 9/29/2025 82,418 3.40 2.32 191,209.76 13 Iroquois Master Fund-Series A 9/29/2025 192,308 3.40 3.40 653,847.20 14 Iroquois Master Fund-Series B 9/29/2025 192,308 $ 3.40 $ 2.32 $ 446,154.56 Total 2,431,985 $ 6,959,821.20 Options As
+of September 30, 2025, there were no stock options issued or outstanding 14 Table of Contents NOTE
+4 – RELATED PARTY TRANSACTIONS ICT
+Investments provides the Company accounting services and various management services on an as needed basis. For the three months
+ended September 30, pursuant to an arrangement with ICT Investments, the Company had not paid these services but had recorded
+payables for $ 39,903 for
+accounting services, and $ 70,460 for
+other services. Any distribution between Laser Photonics and ICT must be distributed to an affiliate company. The Company owes
+$ 72,196 for
+services to FONON Technology Inc. ICT
+Investments owns directly 4,438,695 shares of the Company’s common stock. As of September 30, 2025, ICT Investments owns approximately 52 % of the total shares outstanding through the shares of the Company’s common stock owned by Fonon Technologies Inc. ( 935,000 shares) and Fonon Corporation ( 3,000,000 shares), and Fonon Quantum Technologies Inc. ( 3,000,000 shares) that are all controlled by ICT
+Investments. Dmitriy Nikitin is the Managing Partner of ICT Investments and has controlled the Company since its inception. On
+April 3, 2025, April 16, 2025, June 20, 2025, July 8, 2025, and July 12, 2025, the “Company received from ICT Investments, the
+owner of the majority of outstanding shares of the Company’s common stock, unsecured loans in the principal amount of $ 200,000 ,
+$ 400,000 , $ 20,000 , $ 101,000 , and $ 30,000 respectively, to assist Laser Photonics in meeting certain expenses, including payroll. Laser
+Photonics issued promissory notes, with interest at $ 20,000 , $ 40,000 , $ 2,000 , $ 10,000 and $ 3,000 respectively, and a maturity date of May 31, 2025 , June 30, 2025 , August 30, 2025 , September 8, 2025 , and September 12, 2025 , respectively. The unpaid principal balance of
+ICT loans as of September 30, 2025, was $ 751,000 . The unpaid interest balance of ICT loans as of September 30, 2025, was $ 75,000 . On
+August 5, 2025, Laser Photonics Corporation (the “Company” or “Laser Photonics”) entered into an Asset Purchase
+Agreement (the “APA”) with Fonon Quantum Technologies, Inc. (“FQTI”), an affiliate of ICT Investments, LLC, the
+Company that together with its affiliates has voting control of Laser Photonics, to acquire the assets of Beamer Laser Marking Systems
+(“Beamer”), the laser capital equipment manufacturing division of ARCH Cutting Tools, Inc, a Michigan corporation. Beamer
+manufactures IR fibre laser marking systems that provide standard, engineered and inline 1064nm IR laser marking solutions for a variety
+of industries used in tracking and traceability to serialization, 2D codes and decorative marking. Under the terms of the APA, Laser
+Photonics agreed to issue 3,000,000 restricted shares of its common stock as payment for the Beamer net assets. including its intellectual
+property, and all contracts. The foregoing description of the APA is qualified in its entirety by reference to the full text of that
+agreement, a copy of each of which is filed as Exhibit 10.1 to this Current Report on Form 8-K and incorporated herein by reference. Because
+the transaction was between entities under common control (ICT Investments controls both the Company and FQTI), the acquisition will
+be accounted for in accordance with ASC 805-50 (“Transactions Between Entities Under Common Control”). Accordingly, the
+Beamer assets will be recognized at their historical carrying amounts rather than at fair value, and no goodwill will be recorded.
+Comparative prior-period financial statements will not be restated. See Table below that shows Total Assets, Liabilities and Common
+Stock acquired for Common Control. SCHEDULE
+OF TOTAL ASSETS, LIABILITIES AND COMMON STOCK ACQUIRED Laser Photonics Acquisition Date 8/5/2025 Description Amount Assets $ Accounts Receivable/Other Receivable 1,524 Inventory 573,537 PP&E 68,638 Liabilities and Stockholder Equity Accounts Payable/Other Liability ( 10,549 ) Common Stock ( 3,000 ) APIC ( 8,397,000 ) Deemed Dividend for Common Control Acquisition $ ( 7,766,850 ) During
+the first nine months of 2025, the Company recorded total revenue of $ 791,992 from its affiliate, Fonon Technology Inc. The revenue recognition
+has been realized according to ASC 606. The Company has entered into a service agreement with Fonon under which it is obligated to pay a fee equal to 6.5% for the use Fonon’s
+system for award management and registration with the Federal Government As of the reporting date, the Company has accrued $ 40,412.06 related to the agreement. Since
+the date of incorporation on November 8, 2019, the Company has engaged in the following transactions with our directors, executive officers,
+holders of more than 5% of its voting securities, and affiliates or immediately family members of its directors, executive officers,
+and holders of more than 5% of our voting securities, and its co-founders . The Company believes that all these transactions were on terms
+as favorable as could have been obtained from unrelated third parties. NOTE
+5 – COMMITMENTS AND CONTINGENCIES In
+October 2021, the Company entered a lease with Davis & Harrell, LLC on 18,000 SF In October 2023, the Company entered into a lease
+for an additional 8000 SF of office space adjacent to the original facility. In November 2024 was signed an Amendment to Lease Agreement
+for extending the lease for both areas from December 2024 till December 2025. The combined monthly expense is $ 25,832 . In
+December 2022, the Company entered into an agreement with 2701 Maitland Building Associates to rent 8,000 SF of additional office space
+near the main facility, for our growing sales and marketing program. In February 2025, a Lease Termination Agreement was signed for ending
+the lease in July 2025. The termination fee for March, April, May, June and July were $ 14,912 . In
+October 2024, the Company entered into an agreement with SPI TCM TECHNOLOGY PARK OWNER LLC to rent 46,481 SF. The commencement date for
+the base rent was January 1, 2025. The base rent for the year 2025 is $ 50,354 . As
+of January 1, 2020, we adopted ASU 2016-02 employing the cumulative-effect adjustment transition method. As of September 30, 2025, our
+balance sheet shows $ 4,255,722 ,
+as a Right-of-use asset for operating leases, $ 283,650 as a current operating lease liability, and $ 4,207,901 as a lease liability less the current portion. SCHEDULE OF OPERATING LEASE EXPENSE Operating
+    Lease Remaining
+    Term in Years 2025 236,363 2026 641,052 2027 660,284 2028 680,092 2029 700,495 2030 721,510 2031 743,155 2032 765,450 2033 788,413 2034 812,065 2035 418,214 Total
+    lease payments 7,167,093 Less
+    : Imputed interest ( 2,675,542 ) Present
+    Value of Lease Liabiltiy 4,491,551 10.5 NOTE
+6 – SUBSEQUENT EVENTS The Company’s management has evaluated subsequent
+events from the balance sheet date through the date these financial statements were issued. On October 2, 2025, the Company issued 130,000 shares of restricted Common Stock to FMW Media Works LLC as compensation considered in the Consulting Services Agreement signed between
+the Company and FMW Media Works LLC, on August 11, 2025. 15 Table of Contents ITEM
+2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS The
+following discussion of our financial condition and results of operations should be read in conjunction with our unaudited financial
+statements and the notes to those financial statements appearing elsewhere in this Report. Certain
+statements in this Report constitute forward-looking statements. These forward-looking statements include statements which involve risks
+and uncertainties, regarding, among other things, (a) our projected sales, profitability, and cash flows, (b) our growth strategy, (c)
+anticipated trends in our industry, (d) our future financing plans, and (e) our anticipated needs for, and use of, working capital. They
+are generally identifiable by use of the words “may,” “will,” “should,” “anticipate,”
+“estimate,” “plan,” “potential,” “project,” “continuing,” “ongoing,”
+“expects,” “management believes,” “we believe,” “we intend,” or the negative of these
+words or other variations on these words or comparable terminology. Considering these risks and uncertainties, there can be no assurance
+that the forward-looking statements contained in this filing will in fact occur. You should not place undue reliance on these forward-looking
+statements. The
+forward-looking statements speak only as of the date on which they are made, and, except to the extent required by federal securities
+laws, we undertake no obligation to update any forward-looking statements to reflect events or circumstances after the date on which
+the statements are made or to reflect the occurrence of unanticipated events. The
+“Company,” “we,” “us,” or “our,” are references to the business of Laser Photonics Corporation,
+a Wyoming corporation. Overview We
+are a vertically integrated manufacturing Company for photonics based industrial products and solutions, primarily disruptive laser cleaning
+technologies and applications for the pharmaceutical industry. Our vertically integrated operations allow us to reduce development and
+advanced laser equipment manufacturing time, offer better prices, control quality and protect our proprietary knowhow and technology
+compared to other laser cleaning companies and companies with competing technologies. In
+Q3 2025, we expanded our product portfolio through the acquisition of Beamer Laser Marking Systems, formerly the laser capital equipment
+division of ARCH Cutting Tools. Beamer’s IR fiber and CO₂ laser marking systems significantly expand our product offering
+into high-value industrial marking applications such as serialization, UID marking, medical devices, aerospace traceability, automotive
+components, and firearms compliance. The Beamer acquisition also provides an established customer base and IP portfolio and is expected
+to enhance our revenue mix beginning in Q4 2025 and into 2026. Our
+principal executive offices are located at 1101 N Keller Rd, Orlando FL, 32810, and our telephone number is (407) 804 1000. Our website
+address is www.laserphotonics.com. The Company’s annual reports, quarterly reports, current reports on Form 8-K and amendments
+to such reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (the “Exchange Act”),
+and other information related to the Company, are available, free of charge, on that website as soon as we electronically file those
+documents with, or otherwise furnish them to, the SEC. The Company’s website and the information contained therein, or connected
+thereto, are not and are no intended to be incorporated into this Quarterly Report on Form 10-Q. We
+intend to continue to stay ahead of the technology curve by researching and developing cutting edge products and technologies for both
+large and small businesses. We view the small companies as an attractive market opportunity since they were previously unable to take
+advantage of laser processing equipment due to high prices, significant operating costs and the technical complexities of laser equipment.
+As a result, we are developing an array of laser cleaning equipment that we have named the CleanTech™ product line, which we believe
+represents a new generation of high-power laser cleaning systems applicable to numerous material processing operations. Factors
+and Trends That Affect Our Operations and Financial Results In
+reading our financial statements, you should be aware of the following factors and trends that our management believes are important
+in understanding our financial performance. Beamer
+integration and expected synergies . With the Beamer acquisition, the Company expects near-term integration costs related to engineering
+alignment, supply chain consolidation, and facility relocation. Management anticipates long-term synergies through shared manufacturing
+resources, cross-selling opportunities, and expanded participation in regulated industries requiring permanent laser marking solutions. Supply
+Chain . We are experiencing increased lead times for certain parts and components purchased from third party suppliers; particularly
+electronic components. We, our customers and our suppliers, continue to face constraints related to supply chain and logistics, including
+availability of capacity, materials, air cargo space, sea containers and higher freight rates and import duties. Supply chain and logistics
+constraints are expected to continue for the foreseeable future and could impact on our ability to supply products and our customers’
+demand for our product or readiness to accept deliveries. Notwithstanding these effects, we believe we can meet the near-term demand
+for our products, but the situation is fluid and subject to change. Net
+sales. Our net sales have historically fluctuated from quarter to quarter. The increase or decrease in sales from a prior quarter
+can be affected by the timing of orders received from customers, the shipment, installation and acceptance of products at our customers’
+facilities. Net sales can be affected by the time taken to qualify our products for use in new applications in the end markets that we
+serve. Our sales cycle varies substantially, ranging from a period of a few weeks to as long as one year or more, but is typically several
+months. The adoption of our products by a new customer or qualification in a new application can lead to an increase in net sales for
+a period which may then slow until we penetrate new markets or obtain new customers. 16 Table of Contents Our
+business depends substantially upon capital expenditures by end users, particularly by manufacturers using our products for materials
+processing, which includes general manufacturing, automotive including electric vehicles (EV), other transportation, aerospace, heavy
+industry, consumer, semiconductor, pharmaceutical, and electronics. Although applications within materials processing are broad, the
+capital equipment market in general is cyclical and historically has experienced sudden and severe downturns. For the foreseeable future,
+our operations will continue to depend upon capital expenditures by end users of materials processing equipment and will be subject to
+the broader fluctuations of capital equipment spending. Gross
+margin. Our total gross margin in any period can be significantly affected by several factors, including net sales, production volumes,
+competitive factors, product mix, and by other factors such as changes in foreign exchange rates relative to the U.S. Dollar. Many of
+these factors are not under our control. The following are examples of factors affecting gross margin: ●
+As our products mature, we can experience additional competition which tends to decrease average selling prices and affects gross margin. ●
+Our gross margin can be significantly affected by product mix. Within each of our product categories, the gross margin is generally higher
+for devices with greater average power. These higher power products often have better performance, more difficult specifications to attain
+and fewer competing products in the marketplace. Selling
+and Marketing expenses. In the first quarter of 2025, we invested in Selling and Marketing costs to support continued growth in the
+Company. As the secular shift to laser blasting technology matures, our sales growth becomes more susceptible to the cyclical trends
+typical of capital equipment manufacturers. Accordingly, our future management of and investments in selling and marketing expenses will
+also be influenced by these trends, although we may still invest in selling and marketing functions to support sales sustainability even
+in economic down cycles. Research
+and development expenses. We plan to continue to invest in research and development to improve our existing laser blasting technology
+and equipment and develop new products, systems and applications. We believe that these investments will sustain our position as a leader
+in the laser industry and will support the development of new products that can address new markets and growth opportunities. The amount
+of research and development expenses we incur may vary from period to period. Results
+of Operations The
+Company had revenue of $5,808,541 in the nine months ended September 30, 2025, as compared to revenue of $2,083,123 in the nine months
+ended September 30, 2024, which represents an increase of 179% in the revenue. Gross
+profit for the nine months ended on September 30, 2025, was $2,344,876 for a Gross margin of 40%, compared to $1,310,642 for a Gross
+Margin of 62.92% in the nine months ending September 30, 2024. The
+Company had revenue of $919,284 in the three months ended September 30, 2025, as compared to revenue of $716,697 in the three months
+ended September 30, 2024, which represents an increase of 28% in the revenue. Gross
+deficit for the three months ended on September 30, 2025, was ($184,994) for a Gross deficit of (20%), compared to $609,420 for a Gross
+Margin of 85%  in the three months ending September 30, 2024. Selling,
+general, and administrative (“SG&A”) expenses consist primarily of salaries and other personnel-related costs; professional
+fees; insurance costs; SEC filing, compliance, and other public Company costs; travel expenses; and other sales and marketing expenses;
+and excludes depreciation & amortization expenses. In the near term, we expect SG&A expenses to increase as we expand our sales
+and marketing efforts to support the planned growth of our business. In the long run, we expect SG&A expenses as a percent of sales
+to decline as our business grows. For
+the three months ending September 30, 2025, we recorded total expenses of $3,032,321 as compared to the three months ending in September
+30,2024 of $2,315,317. SG&A expenses for the three months ending September 30, 2025, are $1,803,240 as compared to the three months
+ending in September 30,2024 of $1,607,791. The significant increase in SG&A is primarily driven by comparative ramp up of costs in
+2025 to establish our strategic plan to increase market reach and sales force as part of our Sales & Marketing Development and Investment
+plan as noted in our previous 10-Q’s in accordance with “Use of Proceeds” as stated in our most recent Form S-1 Registration
+Statement, coupled with higher personnel costs resulting from additional headcount, professional service fees, SEC compliance costs,
+bad debt expenses, etc. For
+the nine months ending September 30, 2025, we recorded total expenses of $8,097,404  as compared to the nine months ending in September
+30,2024 of $4,496,541. SG&A expenses for the nine months ending September 30, 2025, are $4,274,873 as compared to the nine months
+ending in September 30,2024 of $2,802,725. The significant increase in SG&A is primarily driven by comparative ramp up of costs in
+2025 to establish our strategic plan to increase market reach and sales force as part of our Sales & Marketing Development and Investment
+plan as noted in our previous 10-Q’s in accordance with “Use of Proceeds” as stated in our most recent Form S-1 Registration
+Statement, coupled with higher personnel costs resulting from additional headcount, professional service fees, SEC compliance costs,
+bad debt expenses, etc. Our
+net loss, for the three months ending September 30, 2025, was $ 4,655,608, as compared to net loss of $1,625,268 in the same period of
+2024. Our
+net loss, for the nine months ending September 30, 2025, was $ 8,110,233, as compared to net loss of $3,105,233 in the same period of
+2024. 17 Table of Contents Liquidity
+and Capital Resources The
+following is a summary of the Company’s cash flows provided and (and used in) operating, investing, and financing activities for
+the quarter’s ended on September 30, 2025, and September 30, 2024. Nine Months Ended September 30 2025 2024 Net cash provided by Operating Activities $ (1,429,652 ) $ (2,621,062 ) Net cash provided by Investing Activities (22,560 ) (288,628 ) Net cash provided by Financing Activities 4,542,870 (1,169,687 ) Net cash increase for period 3,090,658 (4,079,377 ) Cash at the beginning of period 533,871 6,201,137 Cash at end of period $ 3,624,529 $ 2,121,760 As of September 30, 2025, the Company had 3,624,529
+in cash, $3,182,930 in current assets (without cash and cash equivalents) and $9,113,872 in current liabilities. As a result, on September
+30, 2025, the Company had a deficit of $2,346,825 in total working capital, compared to $3,879,770 of total working capital on September
+30, 2024. The
+acquisition of Beamer did not require cash consideration, as the Company issued 3,000,000 restricted shares as payment for the assets.
+While no immediate cash impact occurred, management expects incremental working-capital demands associated with onboarding Beamer’s
+production and service workflows. Integration-related operating cash outflows may occur during Q4 2025 and into 2026. We
+will have to meet all the financial disclosure and reporting requirements associated with being a public reporting, Company. Our management
+will have to spend additional time on policies and procedures to make sure it is compliant with various regulatory requirements, especially
+that of Section 404 of the Sarbanes-Oxley Act of 2002. This additional corporate governance required by management could limit the amount
+of time our management has to implement our business plan and may delay our anticipated growth plans. We
+are a small reporting company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information required under
+this item. Revenues For the
+three months ending September 30, 2025, we recognized revenue of $919,284, as compared to $669,182 in revenue for the same period in
+2024, an increase of 6.63%. Three Months Ended September 30, Nine Months Ended September 30, 2025 (Unaudited) 2024 (Unaudited) 2025 (Unaudited) 2024 (Unaudited) Revenue $ 919,284 $ 669,182 $ 5,808,541 $ 2,083,123 For
+the three months ending September 30, 2025, our net loss was $4,655,608 as compared to a loss of $1,625,268 in the same period of
+2024. We
+are entering into laser equipment sales agreements with customers for specific equipment based upon purchase orders and our standard
+terms and conditions of sale. Under
+our customer contracts or/and purchase orders, we transfer title and risk of loss to the customer and recognize revenue upon shipment.
+Our customers do not have extended payment terms or rights of return under these contracts. ITEM
+3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. Summary
+Financial Information – Non-GAAP EBITDA Three Months Ended September 30, Nine Months Ended September 30, 2025 (Unaudited) 2024 (Unaudited) 2025 (Unaudited) 2024 (Unaudited) Other financial data (unaudited): EBITDA(1) $ (2,918,263 ) $ (1,235,616 ) (4,885,948 ) $ (2,271,742 ) Adjusted EBITDA(2) $ (2,918,263 ) $ (1,235,616 ) (4,885,948 ) $ (2,271,742 ) In
+addition to providing financial measurements based on generally accepted accounting principles in the United States (“GAAP”),
+we provide the following additional financial metrics that are not prepared in accordance with GAAP (non-GAAP): EBITDA and adjusted EBITDA.
+Management uses these non-GAAP financial measures, in addition to GAAP financial measures, to understand and compare operating results
+across accounting periods, for financial and operational decision making, for planning and forecasting purposes and to evaluate our financial
+performance. We believe that these non-GAAP financial measures help us to identify underlying trends in our business that could otherwise
+be masked by the effect of certain expenses that we exclude in the calculations of the non-GAAP financial measures. 18 Table of Contents Accordingly,
+we believe that these non-GAAP financial measures reflect our ongoing business in a manner that allows for meaningful comparisons and
+analysis of trends in the business and provides useful information to investors and others in understanding and evaluating our operating
+results, enhancing the overall understanding of our past performance and future prospects. These
+non-GAAP financial measures do not replace the presentation of our GAAP financial results and should only be used as a supplement to,
+not as a substitute for, our financial results presented in accordance with GAAP. There are limitations in the use of non-GAAP measures,
+because they do not include all the expenses that must be included under GAAP and because they involve the exercise of judgment concerning
+exclusions of items from the comparable non-GAAP financial measure. In addition, other companies may use other non-GAAP measures to evaluate
+their performance, or may calculate non-GAAP measures differently, all of which could reduce the usefulness of our non-GAAP financial
+measures as tools for comparison. (1) EBITDA is a non-GAAP financial
+    measure used by management, lenders, and certain investors as a supplemental measure in the evaluation of some aspects of a corporation’s
+    financial position and core operating performance. Investors sometimes use EBITDA, as it allows for some level of comparability of
+    profitability trends between those businesses differing as to capital structure and capital intensity by removing the impacts of
+    depreciation and amortization. EBITDA also does not include changes in major working capital items, such as receivables, inventory
+    and payables, which can also indicate a significant need for, or source of, cash. Since decisions regarding capital investment and
+    financing and changes in working capital components can have a significant impact on cash flow, EBITDA is not necessarily a good
+    indicator of a business’s cash flows. We use EBITDA for evaluating the relative underlying performance of our core operations
+    and for planning purposes. We calculate EBITDA by adjusting net income to exclude net interest expense, income tax expense or benefit,
+    depreciation and amortization, thus the term “Earnings Before Interest, Taxes, Depreciation and Amortization” and the
+    acronym “EBITDA.” (2) Adjusted EBITDA is defined
+    as net income (loss) as reported in our consolidated statements of income excluding the impact of (i) interest expense; (ii) income
+    tax provision; (iii) depreciation and amortization; (iv) stock-based compensation expense; (v) accretion of debt discounts; (vi)
+    other income - forgiveness of Paycheck Protection Program loan; (vii) other financing costs; (viii) loss on extinguishment of debt;
+    (ix) warrant inducement expense; (x) amortization of right-of-use assets; and (xi) change in fair value of derivative liabilities.
+    Our Adjusted EBITDA measure eliminates potential differences in performance caused by variations in capital structures (affecting
+    finance costs), tax positions, the cost and age of tangible assets (affecting relative depreciation expense) and the extent to which
+    intangible assets are identifiable (affecting relative amortization expense). We also exclude certain one-time and non-cash costs.
+    Our definition of Adjusted EBITDA may differ from similarly titled measures used by other companies, and any such differences could
+    be material. We
+believe EBITDA and Adjusted EBITDA are helpful for investors to better understand our underlying business operations. The following table
+adjusts Net Income to EBITDA and Adjusted EBITDA for the three months ending September 30, 2025, and 2024. Three
+    Months Ended September 30, Nine
+    Months Ended September 30, 2025
+    (Unaudited) 2024
+    (Unaudited) 2025
+    (Unaudited) 2024
+    (Unaudited) Reconciliation
+    of EBITDA: Net
+    Loss $ (4,655,608 ) (1,625,268 ) $ (8,110,233 ) $ (3,105,233 ) Add
+    (deduct): Interest
+    expense 1,445,390 2,357,790 - Taxes - 151,035 - 163,664 Other - (1,594 ) - Depreciation
+    & Amortization 291,955 238,617 868,089 669,827 EBITDA (2,918,263 ) (1,235,616 ) (4,885,948 ) (2,271,742 ) Other
+    adjustments - - - - Adjusted
+    EBITDA $ (2,918,263 ) (1,235,616 ) $ (4,885,948 ) $ (2,271,742 ) Off-Balance
+Sheet Arrangements As
+of September 30, 2025, we did not have any off-balance sheet arrangements. Pursuant
+to Item 305(e) of Regulation S-K (§ 229.305(e)), the Company is not required to provide the information required by this Item as
+it is a “smaller reporting Company,” as defined by Rule 229.10(f)(1). We
+have not utilized any derivative financial instruments such as futures contracts, options and swaps, forward foreign exchange contracts
+or interest rate swaps and futures. We believe that adequate controls are in place to monitor any hedging activities. We do not have
+any borrowings and, consequently, we are not affected by changes in market interest rates. We do not currently have any sales or own
+assets and operate facilities in countries outside the United States and, consequently, we are not affected by foreign currency fluctuations
+or exchange rate changes. Overall, we believe that our exposure to interest rate risk and foreign currency exchange rate changes is not
+material to our financial condition or results of operations. ITEM
+4. CONTROLS AND PROCEDURES Disclosures
+Control and Procedures Under
+the supervision of our Chief Executive Officer (“CEO”) and Chief Financial Officer (“CFO”), our management has
+evaluated the effectiveness of the design and operation of our “disclosure controls and procedures” (as defined in Rules
+13a-15(e) and 15d-15(e) promulgated under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), as of the
+end of the period covered by this Quarterly Report on Form 10-Q (the “Evaluation Date”). Based upon that evaluation, our
+CEO and CFO have concluded that, as of the Evaluation Date, our disclosure controls and procedures are not effective. Management is implementing
+controls and procedures during 2024 to bring to effective. Changes
+in Internal Controls over Financial Reporting There
+was no material change in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) promulgated under
+the Exchange Act) that occurred during the last fiscal quarter that has materially affected, or is reasonably likely to materially affect,
+our internal control over financial reporting. 19 Table of Contents PART
+II – OTHER INFORMATION ITEM
+1. LEGAL PROCEEDINGS. We
+are not involved in any legal proceedings, including routine litigation arising in the normal course of business that we believe will
+have a material adverse effect on our business, financial condition or results of operations. ITEM
+1A. RISK FACTORS Not
+applicable to a smaller reporting Company. ITEM
+2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS There
+were no sales of unregistered securities during the reported period. ITEM
+3. DEFAULTS UPON SENIOR SECURITIES. None. ITEM
+4. MINE SAFETY DISCLOSURES . Not
+applicable. ITEM
+5. OTHER INFORMATION . None. ITEM
+6. EXHIBITS. 31.1 Rule 13(a)-14(a)/15(d)-14(a) Certification of principal executive officer 31.2 Rule 13(a)-14(a)/15(d)-14(a) Certification of principal financial and accounting officer 32.1 Section 1350 Certification of principal executive officer 32.2 Section 1350 Certification of principal financial and accounting officer 101* Inline XBRL data files
+    of Financial Statements and Notes contained in this Quarterly Report on Form 10-Q. *
+In accordance with Regulation S-T, the Interactive Data Files in Exhibit 101 to the Quarterly Report on Form 10-Q shall be deemed “furnished”
+and not “filed.” 20 Table of Contents SIGNATURES Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized. Laser Photonics Corporation Date: December 22, 2025 By: /s/
+    Wayne Tupuola President
+        and Chief Executive Officer (Principal
+    Executive Officer) Date: December 22, 2025 By /s/
+    Carlos Sardinas Chief Financial Officer (Principal Financial and Accounting Officer) 21

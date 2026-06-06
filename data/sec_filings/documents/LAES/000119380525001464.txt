@@ -1,0 +1,1081 @@
+424B5 1 e664909_424b5-sealsq.htm Filed Pursuant
+to Rule 424(b)(5) Registration Number 333-286098 PROSPECTUS SUPPLEMENT (To Prospectus dated April 2, 2025) 12,640,000 Ordinary Shares
+of SEALSQ Corp We
+are offering in a registered direct offering to certain investors (the “Investors”) 12,640,000 Ordinary Shares, par value
+US$0.01 per share (our “Ordinary Shares”), at an offering price of $7.50 per share. The Ordinary Shares offered to the Investors
+will be issued pursuant to this prospectus supplement, the accompanying base prospectus, and a securities purchase agreement, dated October
+15, 2025, by and among us and the Investors (the “Securities Purchase Agreement”). See “ Description of Ordinary
+Shares ” on page 9 of the accompanying base prospectus and page S-16 of this prospectus supplement for a more complete description
+of the securities offered hereby. In a concurrent
+private placement pursuant to the Securities Purchase Agreement (the “Concurrent Private Placement”), we are selling to the
+Investors (i) unregistered Pre-funded Warrants to purchase up to 14,026,666 Ordinary Shares (the “Pre-funded Warrants”) and
+(ii) unregistered Class D Warrants to purchase up to 53,333,332 Ordinary Shares (the “Class D Warrants,” and together with
+the Pre-funded Warrants, the “Private Warrants”). The
+Class D Warrants will be exercisable immediately upon issuance, and have a term of exercise of seven (7) years from the date of issuance,
+and an exercise price per share equal to $9.25. Each Pre-funded Warrant is exercisable for one Ordinary Share at $0.0001 per Ordinary
+Share. The Pre-funded Warrants are immediately exercisable and may be exercised at any time until all of the Pre-funded Warrants are
+exercised in full. The Private Warrants are being offered at a combined offering price of $7.50 per Pre-funded Warrant and accompanying
+Class D Warrants. The Private Warrants and the Ordinary Shares issuable upon the exercise of the Private Warrants are being offered pursuant
+to the exemption provided in Section 4(a)(2) or another exemption under the Securities Act of 1933, as amended, or the Securities Act,
+and they are not being offered pursuant to this prospectus supplement or the accompanying prospectus. We engaged
+Maxim Group LLC to act as our sole placement agent (the “Placement Agent”) in connection with this offering. The Placement
+Agent is not purchasing or selling any of the securities offered by us in this offering and is not required to arrange the purchase or
+sale of any specific number or dollar amount of securities. Our Ordinary Shares are
+listed on the Nasdaq Capital Market under the symbol “LAES.” The last reported sale price of our Ordinary Shares on the
+Nasdaq Capital Market on October 14, 2025 was $7.65 per Ordinary Share. We are
+an emerging growth company as that term is used in the Jumpstart Our Business Startups Act of 2012 and, as such, are subject to certain
+reduced public company reporting requirements. Investing
+in our securities involves a high degree of risk and uncertainty. See “ Risk Factors ” beginning on page S-11 of this prospectus supplement, on page 4 of the accompanying base prospectus and in the documents incorporated by reference into this
+prospectus supplement and accompanying base prospectus concerning factors you should consider before investing in our securities. Neither
+the Securities and Exchange Commission nor any state securities commission has approved or disapproved of these securities or determined
+if this prospectus supplement or accompanying prospectus is truthful or complete. Any representation to the contrary is a criminal offense. Per Ordinary Share Total Public offering price $ 7.50 $ 94,800,000 Placement Agent fees(1) $ 0.45 $ 5,688,000 Proceeds to us, before expenses $ 7.05 $ 89,112,000 (1) We have also agreed to reimburse the Placement Agent for certain of their offering-related expenses. See
+“ Plan of Distribution ” for additional information regarding Placement Agent fees and estimated expenses. The delivery
+to purchasers of the securities offered and sold in this offering is expected to be made on or about October 16, 2025, subject to satisfaction
+of certain customary closing conditions. MAXIM GROUP LLC Prospectus Supplement dated
+October 15, 2025 TABLE OF CONTENTS PROSPECTUS SUPPLEMENT Page ABOUT THIS PROSPECTUS SUPPLEMENT S-ii CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS S-1 PROSPECTUS SUPPLEMENT SUMMARY S-6 THE OFFERING S-10 RISK FACTORS S-11 USE OF PROCEEDS S-14 CAPITALIZATION S-15 DESCRIPTION OF ORDINARY SHARES S-16 CERTAIN TAX CONSIDERATIONS S-17 DILUTION S-18 PLAN OF DISTRIBUTION S-20 EXPENSES S-24 LEGAL MATTERS S-25 EXPERTS S-25 ENFORCEABILITY OF CIVIL LIABILITIES S-25 WHERE YOU CAN FIND MORE INFORMATION S-25 INCORPORATION OF CERTAIN DOCUMENTS BY REFERENCE S-26 PROSPECTUS Page ABOUT THIS PROSPECTUS 1 ABOUT OUR COMPANY 2 RISK FACTORS 4 FORWARD-LOOKING STATEMENTS 4 CAPITALIZATION 7 USE OF PROCEEDS 8 DESCRIPTION OF ORDINARY SHARES 9 DESCRIPTION OF WARRANTS 16 DESCRIPTION OF SUBSCRIPTION RIGHTS 18 DESCRIPTION OF UNITS 19 TAXATION 20 PLAN OF DISTRIBUTION 21 LEGAL MATTERS 23 EXPERTS 23 INCORPORATION OF CERTAIN DOCUMENTS BY REFERENCE 23 WHERE YOU CAN FIND MORE INFORMATION 24 ENFORCEABILITY OF CIVIL LIABILITIES 24 EXPENSES 24 S-i ABOUT THIS PROSPECTUS SUPPLEMENT This prospectus
+supplement and the accompanying base prospectus are part of a registration statement on Form F-3 (Registration No. 333-286098), as supplemented
+by registration statement on Form F-3 (Reg No. 333-290874), that we filed with the United States Securities and Exchange Commission (“SEC”)
+using a “shelf” registration process. Under this “shelf” registration process, we may, from time to time, sell
+or issue any of the combination of securities described in the accompanying base prospectus in one or more offerings with a maximum aggregate
+offering price of up to US$515,838,136. The accompanying base prospectus provides you with a general description of us and the securities
+we may offer, some of which do not apply to this offering. Each time we sell securities, we provide a prospectus supplement that contains
+specific information about the terms of that offering. A prospectus supplement may also add, update, or change information contained in
+the accompanying base prospectus. This prospectus
+supplement relates to the offering of our securities. To the extent there is a conflict between the information contained in this prospectus
+supplement and the accompanying base prospectus, you should rely on the information in this prospectus supplement. This prospectus supplement,
+the accompanying base prospectus, and the documents we incorporate by reference herein and therein include important information about
+us and our securities and other information you should know before investing. You should read both this prospectus supplement and the
+accompanying base prospectus, together with the additional information described below under the heading “ Where You Can Find
+More Information .” This prospectus supplement contains summaries of certain provisions contained in some of the documents described
+in this prospectus supplement, but reference is made to the actual documents for complete information. All of the summaries are qualified
+in their entirety by the actual documents. Copies of some of the documents referred to in this prospectus supplement have been filed,
+will be filed or will be incorporated by reference as exhibits to the registration statement of which this prospectus supplement is a
+part, and you may obtain copies of those documents as described under “ Where You Can Find More Information.” You should rely only on
+the information contained in or incorporated by reference in this prospectus supplement, the accompanying base prospectus, and any
+free writing prospectus prepared by or on behalf of us or to which we have referred you. Neither we, nor the Placement Agent, have
+authorized anyone to provide you with different information. If anyone provides you with different or inconsistent information, you
+should not rely on it. We are not making an offer to sell these securities in any jurisdiction where the offer or sale is not
+permitted or in which the person making that offer or solicitation is not qualified to do so or to anyone to whom it is unlawful to
+make an offer or solicitation. You should assume that the information appearing in this prospectus supplement, the accompanying base
+prospectus, and the documents incorporated by reference herein and therein is accurate only as of the date of those respective
+documents. Our business, financial condition, results of operations and prospects may have changed since those dates. You should
+carefully read this entire prospectus supplement and the accompanying base prospectus, including the information included and
+referred to under “ Risk Factors ” below, the information incorporated by reference in this prospectus supplement
+and in the accompanying base prospectus, and the financial statements and the other information incorporated by reference in the
+accompanying base prospectus, before making an investment decision. We prepare
+our financial statements in United States dollars and in accordance with United States generally accepted accounting principles. All references in this prospectus to “$,” “US$,”
+“U.S. Dollars” and “dollars” are to United States dollars. Unless
+otherwise indicated, references to “SEALSQ,” the “Company,” “we,” “our,” “us”
+or similar terms refer to the registrant, SEALSQ Corp, and its subsidiaries, except where the context otherwise requires. This prospectus
+supplement, the base prospectus and the information incorporated by reference herein and therein include trademarks, service marks and
+trade names owned by us or other companies. Solely for convenience, trademarks referred to in this prospectus supplement and the base
+prospectus, including logos, artwork and other visual displays, may appear without the ® or ™ symbols. We do not intend our
+use or display of other companies’ trade names or trademarks to imply a relationship with, or endorsement or sponsorship of us by,
+any other companies. All trademarks, service marks and trade names included or incorporated by reference into this prospectus supplement
+and the base prospectus are the property of their respective owners. S-ii CAUTIONARY NOTE REGARDING
+FORWARD-LOOKING STATEMENTS This prospectus
+supplement, the accompanying prospectus and the information incorporated by reference herein and therein contain forward-looking statements.
+These forward-looking statements include information about possible or assumed future results of our operations or our performance. Words
+such as “expects,” “intends,” “plans,” “believes,” “anticipates,” “estimates,”
+“projects,” “forecasts” and variations of such words and similar expressions, as they relate to us, WISeKey International
+Holding S.A., our parent company (“WISeKey”), our management or third parties, are intended to identify the forward-looking
+statements. Forward-looking statements include statements regarding our business strategy, financial performance, results of operations,
+market data, events or developments that SEALSQ expects or anticipates will occur in the future, as well as any other statements which
+are not historical facts. Although we believe that the expectations reflected in such forward-looking statements are reasonable, no assurance
+can be given that such expectations will prove to have been correct. These statements are based on information available as of the date
+of this prospectus supplement, involve known and unknown risks and are based upon a number of assumptions and estimates that are inherently
+subject to significant uncertainties and contingencies, many of which are beyond our control. Actual results may differ materially from
+those expressed or implied by such forward-looking statements. Forward- looking statements include, but are not limited to, statements
+we make regarding: These forward-looking statements include, but are not limited
+to, statements relating to: • Our anticipated goals, growth strategies and profitability; • Future operating or financial results; • Our planned capital expenditure program for additional production lines to be added to our supply chain; • The development of our post-quantum cryptography products and our expectation to generate revenue from such products; • The potential for post-quantum cryptography products and estimated market size
+and market growth including with respect to our long-term business strategy for post-quantum cryptography; • Our intention to make investments in sales and marketing operations including research
+and development (“R&D”) of new products such as post- quantum cryptography; • Our plans for global customer base expansion; • The establishment of a Design Center, Outsource Semiconductors Assembly and Testing
+(“OSAT”) and Personalization project and the projected additional revenue that it will generate; • Our anticipated pipe growth in 2026; • Our belief that the products resulting from our R&D will create additional opportunities for growth; • Our expectation about the development of the markets for SEALSQ, including post-quantum
+cryptography products, customized security offerings through Application-Specific Integrated Circuit (“ASICs”), expanding
+the role of Metaverse, increase in cyber threats and growth of secure hardware market, growing demand for Internet of Things (“IoT”)
+solutions, and increase in cybersecurity spending based on recent regulations and legislation; S- 1 • Our intent to invest heavily in the ongoing development of our products and technology, including anticipated
+fab capacity expansion and utilization and expected ramp and production timelines for the Company’s post-quantum semiconductors; • Our expectation that we will continue to gain several benefits from our parent company, WISeKey, including
+the financial reporting and legal support via certain service agreements; • Our forecasted decrease in the sales of our traditional semiconductor chips, as our customers transition
+towards post- quantum semiconductor technologies; • Our investment in quantum-as-a-service and quantum computing in the cloud; • Changes in global trade policies, including the adoption and expansion of tariffs and trade barriers,
+that could affect the macro- economic environment and adversely impact the demand for our products; • The availability and costs of equipment, raw materials, utilities, third-party manufacturing services
+and technology, or other supplies required by our operations; • The timing, size, composition, and performance of our treasury fund, including our plans to acquire,
+hold, rebalance, or dispose of Bitcoin, Ethereum, HBAR and WECAN, expected benefits to liquidity, diversification, capital allocation,
+and shareholder value, and our risk management, custody, accounting, and compliance practices; • The anticipated future growth of the Company as a result of the acquisition of IC’ALPS; • The future revenue that will be generated by IC’ALPs; and • Assumptions underlying or related to any of the foregoing. S- 2 The preceding
+list is not intended to be an exhaustive list of all of our forward-looking statements. The forward-looking statements are based on our
+beliefs, assumptions and expectations of future performance, taking into account the information currently available to us and are only
+predictions based upon our current expectations and projections about future events. There are important factors that could cause our
+actual results, levels of activity, performance or achievements to differ materially from the results, levels of activity, performance
+or achievements expressed or implied by these forward-looking statements. Those factors include, in addition to those set forth in Item
+3.D. “ Risk Factors ” of our 2024 Annual Report on Form 20-F and those included elsewhere in this report, among others,
+the following: • The adoption by developers and customers of quantum computing; • Our ability to sell post-quantum cryptography products to customers; • The inability to realize estimated financial position, results of operations or cash flows; • Our ability to anticipate market needs and opportunities; • Our ability to attract new customers and retain existing customer base; • Our ability to foster innovation, to develop new products and enhancements to our existing products; • The demand for our products or for the goods into which our products are incorporated; • Our expectation that order commitments and non-cancellable orders we received are properly executed; S- 3 • The sufficiency of our cash and cash equivalents to meet our liquidity needs; • The impact of any supply chain disruption that we may experience; • Our dependency on the timely supply of equipment and materials from our third-party suppliers; • Our ability to protect our intellectual property rights; • Our ability to keep pace with technical advances in cryptography and semiconductor design; • Our ability to raise funds for investment by cash flow from operating activities, advance payments from
+a key customer, and grants and other available subsidies from funding agencies; • Our ability to reduce our cost structure and general and administrative costs; • Our ability to attract and retain qualified employees and key personnel; • Our ability to attract new customers and retain and expand within our existing customer base; • Our ability to foster innovation, to develop new products and enhancements to our existing products; • Our ability to integrate IC’ALPS into our existing operations and realize anticipated benefits,
+synergies, efficiencies, cost savings, and growth opportunities, and the timing thereof; • The future growth of the information technology and cybersecurity industry; • Risks relating to SEALSQ’s ability to implement its growth strategies; • Our ability to successfully form new strategic partnerships with our alliance partners; • Our ability to continue beneficial transactions with material parties, including WISeKey and a limited
+number of significant customers; • Our ability to prevent security breaches and unauthorized access to confidential customer information; S- 4 • Our ability to comply with modified or new laws and regulations relating to our industries; • The activities of our competitors and the introduction of competing products by our competitors; • Market demand and semiconductor industry conditions; • Our ability to successfully introduce new technologies and products; • Uncertain negative effects from the imposition by the United States of tariffs, sanction or other restrictions; • The cyclical nature of the semiconductor industry; • An economic downturn in the semiconductor industry; • Our ability to comply with U.S. and other applicable international laws and regulations; • Changes in our overall tax position as a result of changes in tax laws or tax rates, new or revised
+legislation, the outcome of tax audits or changes in international tax treaties which may impact our results of operations as well as
+our ability to accurately estimate tax credits, benefits, deductions and provisions and to realize deferred tax assets; • Fluctuations in the exchange rates between the U.S. dollar and the other major currencies we use for our operations; • Our ability to collect accounts receivable; • Changes in certain commodities used as raw material, which may affect our gross margin; and • How long we will qualify as an emerging growth company or a foreign private issuer. Given these risks and uncertainties,
+you should not place undue reliance on forward-looking statements as a prediction of actual results. WE UNDERTAKE NO OBLIGATION
+TO PUBLICLY UPDATE OR REVISE ANY FORWARD-LOOKING STATEMENTS CONTAINED IN THIS PROSPECTUS SUPPLEMENT OR THE BASE PROSPECTUS OR THE DOCUMENTS
+TO WHICH WE REFER YOU TO IN THIS PROSPECTUS SUPPLEMENT OR THE BASE PROSPECTUS, TO REFLECT ANY CHANGE IN OUR EXPECTATIONS WITH RESPECT
+TO SUCH STATEMENTS OR ANY CHANGE IN EVENTS, CONDITIONS OR CIRCUMSTANCES ON WHICH ANY STATEMENT IS BASED, EXCEPT AS REQUIRED BY LAW. S- 5 PROSPECTUS SUPPLEMENT SUMMARY This
+summary contains basic information about us and our business but does not contain all of the information that is important to your investment
+decision. Before making an investment decision, you should carefully read this summary together with the more detailed information contained
+elsewhere in this prospectus supplement and the accompanying base prospectus and the documents incorporated herein and therein by reference,
+including our Annual Report on Form 20-F for the fiscal year ended December 31, 2024 (the “Annual Report”). Investors should
+carefully consider the information set forth under the caption “Risk Factors” appearing elsewhere in this prospectus supplement,
+including those described in documents incorporated by reference herein. About Our Company This summary
+highlights selected information contained elsewhere in this prospectus supplement that we consider important. This summary does not contain
+all of the information you should consider before investing in our securities. You should read this summary together with the entire prospectus
+supplement and accompanying base prospectus, including the risks related to our business, our industry and investing in our securities
+that we describe under “ Risk Factors ,” and our consolidated financial statements and the related notes incorporated
+by reference in this prospectus supplement before making an investment in our securities. Business Strategy Our strategy
+involves (i) developing post-quantum technology hardware and software solutions and (ii) using our cash and other sources of liquidity
+to maximize shareholder value, including through potential investment and/or acquisition opportunities. Investment Policy On September
+3, 2025, the Board of Directors of SEALSQ Corp (the “Board”) authorized the establishment of an investment committee (the “Investment
+Committee”) comprised of a minimum of three members of the Board with a mandate to oversee the implementation of the Company’s
+investment policy (the “Investment Policy”). In accordance with the Board resolution, the Board has delegated authority to
+manage the Company’s portfolio of securities or other investments to the Investment Committee, together with such personnel and
+advisors as the Investment Committee may choose. The Investment Committee is expected to regularly review risks related to the Company's
+investment portfolio, including concentration risk. When allocating cash to various investment opportunities and considering related investment
+risks, the Investment Committee is expected to consider market-based factors, including risk adjusted after-tax yields. When reviewing
+concentration risk, the Investment Committee should consider the liquidity needs of the Company, among other things. Investments are to
+be made in accordance with the guidelines in the Investment Policy that will be reviewed at least annually, with oversight conducted by
+senior officers and the Investment Committee. The overall
+goals of the Investment Policy are to provide sufficient liquidity to meet the day-to-day financial obligations of the Company, and to
+optimize investment returns within the guidelines of the Investment Policy. Permissible investment instruments include cash and cash equivalents
+(e.g. bank obligations, money market funds, and commercial paper), fixed income securities (e.g. obligations of the U.S. Treasury and
+U.S. Government, tax exempt obligations of states and municipalities, and corporate bonds/notes), equity securities (limited to those
+listed on the New York Stock Exchange (“NYSE”), NYSE American, NYSE Arca or the Nasdaq Stock Market and in compliance with
+the listing standards of the applicable exchange) and certain crypto-currencies, including Bitcoin, Ethereum, HBAR (which are digital
+assets based on an open source cryptographic protocol existing on the Hedera Network), WECAN tokens (which are Ethereum-based native utility
+token compliant with the ERC-20 standard tokens issued by WeCan Group SA, a Swiss blockchain and data compliance company in which SEALSQ
+Corp has a 28.30% equity stake), and other tokens subject to approval by the Investment Committee. Individual exceptions to the Investment
+Policy may only be made by the unanimous agreement of the Investment Committee or, if the Investment Committee is unable to reach unanimous
+agreement on such exception, by the Board. On September
+3, 2025, as part of our establishment of the Investment Committee, the Board approved the addition of Bitcoin, Ethereum, HBAR, and WeCan
+Tokens (collectively, the “Approved Crypto-Currencies”) as treasury reserve assets, so that up to $30 million of our cash,
+or proceeds from future debt and equity issuances, may be invested in the Approved Crypto-Currencies. The Investment Committee will
+direct the investment activity of the Company in public and private markets pursuant to authority granted by the Board. Depending on
+certain market conditions and various risk factors, members of the Investment Committee, each in their personal capacity or through affiliated
+investment vehicles, may at times invest in the same securities, instruments or other assets (including crypto-currencies) in which the
+Company invests. The Board anticipates that such investments will align the interests of the Company with the interests of related parties
+because it places the personal resources of such Investment Committee members at risk in substantially the same manner as resources of
+the Company in connection with investment decisions made by the Investment Committee on behalf of the Company. Our Chairman,
+Chief Executive Officer and member of the Board, Carlos Moreira, is a member of the board of directors of WeCan Group SA
+(“WeCan”), the developer of the WeCan Token. Mr. Moreira will recuse himself from any decision making regarding any investment
+in the WeCan Token. As of September 9, 2025, we hold a 28.3% equity stake in WeCan. We intend to take a similar approach with respect
+to recusal for purchase of other securities or digital assets issued by companies with which SEALSQ board members and executives have
+an “affiliation” (other than passively owning shares or digital assets). In December
+2023, the FASB issued ASU No. 2023-08, "Intangibles-Goodwill and Other-Crypto Assets (Subtopic 350-60): Accounting for and Disclosure
+of Crypto Assets." This standard provides accounting and disclosure guidance for crypto assets that meet the definition of an intangible
+asset and certain other criteria. In-scope assets are subsequently measured at fair value with changes recorded in the income statement.
+The standard requires separate presentation of (1) in-scope crypto assets from other intangible assets and (2) changes in the fair value
+of those crypto assets. Disclosure of significant crypto asset holdings and an annual reconciliation of the beginning and ending balances
+of crypto assets are also required. This ASU becomes effective for annual periods beginning in 2025, including interim periods, with early
+adoption permitted. The Company has adopted this policy and there was no impact of this standard on its historic consolidated financial
+statements. The Company anticipates that this standard may have an impact on its consolidated financial statements in the future due to
+potential fluctuations in the value of its proposed investment in the Approved Crypto-Currencies. Post-Quantum
+Technolo gy SEALSQ
+is a leading innovator in Post-Quantum Technology hardware and software solutions. Our technology seamlessly integrates Semiconductors,
+Public Key Infrastructure (“PKI”), and Provisioning Services, with a strategic emphasis on developing state- of-the-art Quantum
+Resistant Cryptography and Semiconductors designed to address the urgent security challenges posed by quantum computing. Our products
+are engineered to safeguard critical systems, enhancing resilience and security across diverse industries. SEALSQ
+was established as a subsidiary of WISeKey International Holding AG, combining decades of expertise in cryptographic security and trusted
+digital infrastructure. Headquartered in Switzerland, we operate across Europe, the United States, and other strategic markets. Our solutions
+provide the foundation of digital trust for businesses and governments worldwide. SEALSQ’s
+comprehensive portfolio, which includes secure microcontrollers, PKI services, compliance with IoT standards like Matter, GSMA eUICC root
+certificates, tailored ASICs, and post-quantum cryptography capabilities, uniquely positions the Company to address evolving market needs.
+These capabilities, combined with SEALSQ’s entry into the Trust Platform Module (“TPM”) market, ensure strong growth
+potential and market leadership in the cybersecurity and IoT sectors. S- 6 SEALSQ
+delivers integrated digital security solutions that combine four critical components into a unified offering: Root- of- Trust , Secure Chips , trusted Identity Generation and Management (PKI) , and Personalization Services . Together, these components
+ensure the confidentiality, integrity, and authenticity of connected devices and digital communications. Our offerings are structured around four foundational technology
+pillars: 1. Our Swiss-based Post Quantum Root of Trust: Offering neutrality, reliability, and is certified by
+leading industry standards such as WebTrust (browsers), Matter (Smart Home), and Wi-SUN (Smart Grid). 2. Public Key Infrastructure Services: Leveraging this root-of-trust we offer a SaaS solution
+to issue and manage cryptographic credentials that authenticate users, devices, and systems. Our platform uses Quantum Resistant Cryptographic
+Algorithms recommended by the National Institute of Standards and Technology (NIST). 3. Personalization Services: Industrial-scale systems for embedding digital identities
+into secure microcontrollers, enabling seamless integration and secure operation at scale. 4. Quantum Resistant certified secure microcontrollers: Designed to protect and store digital identities, ensuring robust authentication
+for connected devices and systems. S- 7 SEALSQ’s comprehensive product range meets the growing
+demand for secure, certified solutions across industries: • Post-Quantum Chips: SEALSQ is developing two secure microcontrollers with quantum-resistant cryptographic
+capabilities, scheduled for market release in Q4 2025. • VaultIC Secure Microcontrollers: Pre-certified cryptographic chips for IoT devices, enabling secure authentication
+and protection against cyber threats. Recent innovations include VaultIC292 for Matter & devices, and VaultIC408 for smart meters
+and industrial IoT. • Public Key Infrastructure: INeS, our PKI-as-a-Service software leverages on our Swiss-based Root of
+Trust to conveniently and scalably issue and manage trusted device identities ensuring IoT device compliance with protocols such as Matter,
+Wi-SUN, and WebTrust. Our PKI solutions now include post-quantum algorithms to protect against quantum threats. • Personalization Services: Enabling clients to pre-provision private keys and certificates into chips
+within 4 weeks, reducing costs and time-to-market. But also, on-line or off-line during device manufacturing using our INeS Box device. SEALSQ solutions serve high-growth industries requiring
+secure, scalable, and certified solutions. Some examples of the use cases of our products are as follows: • Smart Homes & Consumer Electronics: SEALSQ products help device makers accelerating
+time to market and reducing costs by easing compliance with the growingly adopted Matter protocol that ensures secure and seamless interoperability
+across connected devices, addressing a market projected to reach $78 billion by 2025 (Source: Statista 2023). • Automotive: Securing Plug-and-Charge infrastructure (EV Charging stations), a
+sector expected to grow at a 31% CAGR through 2030 (Source: Fortune Business Insights 2022). • IoT and Smart Cities: Protecting billions of IoT devices, with the number of connected devices requiring
+protection anticipated to reach 28.3 billion units by 2027 (Source: IoT Analytics 2023). S- 8 • Critical Infrastructure: Securing smart grids and utilities through FIPS 140-3 certified solutions. • Healthcare: Enabling secure communication for medical devices and sensitive patient data. • Industrial IoT: Providing tamper-resistant chips for sensors and mission-critical systems. SEALSQ
+semiconductors and PKI services contribute to secure millions of objects: luxury products, routers, gateways, utilities meters, E.V. chargers,
+drones, authentication dongles, storage memory USB sticks, medical devices, connected door-locks, and a variety of other electronic consumers
+devices. Implications of Being an Emerging Growth Company and
+a Foreign Private Issuer Emerging Growth Company We are an “emerging growth company”,
+as defined in the JOBS Act, and we may take advantage of certain exemptions from various reporting requirements that are applicable to
+other public companies that are not emerging growth companies. We cannot predict if investors will find our Ordinary Shares less attractive
+because we may rely on these exemptions. If some investors find our Ordinary Shares less attractive as a result, there may be a less active
+trading market for our Ordinary Shares and our share price may be more volatile. In addition, under the JOBS Act, our independent
+registered public accounting firm will not be required to attest to the effectiveness of our internal control over financial reporting
+pursuant to Section 404 of the Sarbanes-Oxley Act of 2002 for so long as we are an emerging growth company. For as long as we take advantage of the reduced reporting
+obligations, the information that we provide our shareholders may be different from information provided by other public companies. Foreign Private Issuer As a foreign private issuer, we are permitted to, and we
+do, rely on exemptions from certain Nasdaq corporate governance standards applicable to domestic U.S. issuers. This may afford less protection
+to holders of our Ordinary Shares. We are exempted from certain corporate governance
+requirements of Nasdaq by virtue of being a foreign private issuer. We are required to provide a brief description of the significant
+differences between our corporate governance practices and the Nasdaq corporate governance practices required to be followed by domestic
+U.S. companies listed on Nasdaq. The standards applicable to us are considerably different from the standards applied to domestic U.S.
+issuers. For instance, we are not required to: · have a majority of the board of directors be independent (although all of the members of the audit
+committee must be independent under the Securities Exchange Act); · have a compensation committee or a nominating or corporate governance committee consisting entirely of
+independent directors; or · have regularly scheduled executive sessions with only independent directors. We have relied on and intend to continue to rely on some
+of these exemptions. As a result, you may not be provided with the benefits of certain corporate governance requirements of Nasdaq. Because we qualify as a foreign private issuer under
+the Exchange Act, we are also exempt from certain provisions of the securities rules and regulations in the United States that are applicable
+to U.S. domestic issuers, including: · the rules under the Exchange Act requiring the filing with the SEC of quarterly reports on Form 10-Q
+or current reports on Form 8-K; · the sections of the Exchange Act regulating the solicitation of proxies, consents or authorizations
+in respect of a security registered under the Exchange Act; · the sections of the Exchange Act requiring insiders to file public reports of their stock ownership
+and trading activities and liability for insiders who profit from trades made in a short period of time; and · the selective disclosure rules by issuers of material non-public information under Regulation FD. Recent Developments Concurrent Private Placement In the
+Concurrent Private Placement, we are selling to the Investors (i) unregistered Pre-funded Warrants to purchase up to 14,026,666 Ordinary
+Shares and (ii) unregistered Class D Warrants to purchase up to 53,333,332 Ordinary Shares. The
+Class D Warrants will be exercisable immediately upon issuance, have a term of exercise of seven (7) years from the date of issuance,
+and an exercise price per share equal to $9.25. Each Pre-funded Warrant is exercisable for one Ordinary Share at $0.0001 per Ordinary
+Share. The Pre-funded Warrants are immediately exercisable and may be exercised at any time until all of the Pre-funded Warrants are
+exercised in full. The Private Warrants are being offered at a combined offering price of $7.50 per Pre-Funded Warrant and accompanying
+Class D Warrants. The Private Warrants and the Ordinary Shares issuable upon the exercise of the Private Warrants are being offered pursuant
+to the exemption provided in Section 4(a)(2) or another exemption under the Securities Act and they are not being offered pursuant to
+this prospectus supplement or the accompanying prospectus. Pursuant to the Securities Purchase Agreement, the Company has agreed to file
+one or more registration statements with the SEC covering the resale of the Ordinary Shares issuable upon exercise of the Private Warrants. Sales under the ATM Facility On May 19, 2025, we entered into a Controlled Equity
+Offering SM Sales Agreement with Cantor Fitzgerald & Co. and Maxim, pursuant to which we may elect to sell, from time to
+time through Cantor, acting as the sole designated sales agent and/or principal, Ordinary Shares, having an aggregate offering amount
+of up to $100,000,000 (the “ATM Facility”). As of the date hereof, we have sold an aggregate
+of 15,450,000 Ordinary Shares under the ATM Facility. Increase of Authorized Capital On October 6, 2025, we amended our Memorandum and Articles
+of Association to increase our authorized share capital from 200,000,000 Ordinary Shares to 500,000,000 Ordinary Shares, as approved by
+the Company’s Board on October 6, 2025. Reports on Form 6-K Information contained in our
+Reports on Form 6-K furnished by us to the SEC on July 15, 2025, August 4, 2025, September 22, 2025, September 26, 2025, October 7, 2025,
+October 14, 2025 (Film No. 251389944), October 14, 2025 (Film No. 251391690) and October
+16, 2025. Information contained in Exhibit
+99.2 (except for Sections 1.1, 1.2, 2.2.3, 2.2.4, 2.3.1, and 2.4) and Exhibit 99.3 to the Report on Form 6-K furnished by us to the SEC
+on September 9, 2025. Corporate Information SEALSQ
+Corp is a BVI business company incorporated and existing under the laws of the British Virgin Islands. Our registered office in the British
+Virgin Islands is at Craigmuir Chambers, Road Town, Tortola, VG 1110, British Virgin Islands. Our principal executive offices and effective
+place of management are located at Avenue Louis-Casaï 58, 1216 Cointrin, Switzerland. Our telephone number from the United States
+is 011 41 22 594 3000. Our website can be accessed at www.SEALSQ.com. The information on or linked to on our website is not a part of
+this prospectus supplement. S- 9 THE OFFERING The following summary contains
+basic information about the offering and is not intended to be complete. It does not contain all the information that is important to
+you. You should carefully read the entire prospectus supplement, the accompanying prospectus and the documents incorporated by reference
+herein and therein before making an investment decision. Ordinary Shares Offered by Us 12,640,000 Ordinary Shares. Ordinary Shares Outstanding After This Offering 175,400,997 Ordinary Shares. Offering Price $7.50 per Ordinary Share. Concurrent Private Placement In the Concurrent Private Placement, we are selling to the Investors (i) unregistered Pre-funded Warrants to purchase up to 14,026,666 Ordinary Shares and (ii) unregistered Class D Warrants to purchase up to 53,333,332 Ordinary Shares. The Class D Warrants will be exercisable immediately upon issuance,
+have a term of exercise of seven (7) years from the date of issuance, and an exercise price per share equal to $9.25. Each Pre-funded
+Warrant is exercisable for one Ordinary Share at $0.0001 per Ordinary Share. The Pre-funded Warrants are immediately exercisable and may
+be exercised at any time until all of the Pre-funded Warrants are exercised in full. The Private Warrants are being offered at a combined
+offering price of $7.50 per Pre-Funded Warrant and accompanying Class D Warrants. The Private Warrants and the Ordinary Shares issuable
+upon the exercise of the Private Warrants are being offered pursuant to the exemption provided in Section 4(a)(2) or another exemption
+under the Securities Act and they are not being offered pursuant to this prospectus supplement or the accompanying base prospectus. Use of Proceeds We estimate that our net proceeds from this offering will be approximately $88,762,000, after deducting the placement agent fees and estimated offering expenses payable by us. We intend to use the net proceeds from this offering for general corporate purposes. General corporate purposes may include funding the deployment of its next-generation post-quantum semiconductor technology and ASIC capabilities in the United States, to support working capital, additions to working capital, financing of capital expenditures, repayment or redemption of existing indebtedness, repurchases of stock and future acquisitions and strategic investment opportunities. See “ Use of Proceeds ” for a more complete description of the intended use of proceeds from this offering. Risk Factors See the sections titled “ Risk Factors ” commencing on page S-11 of this prospectus supplement and in our base prospectus and the Annual Report and other filings incorporated by reference herein for a discussion of factors you should consider carefully before deciding to invest in our Ordinary Shares. Listing Our Ordinary Shares are listed on the Nasdaq Capital Market under the symbol “LAES.” Lock-Up We and certain of our directors, officers and affiliates, have agreed,
+subject to certain exceptions, not to offer, issue, sell, contract to sell, encumber, grant any option for the sale of or otherwise dispose
+of any of our Ordinary Shares or other securities convertible into or exercisable or exchangeable for our Ordinary Shares for a period
+of 90 days after the closing date of the offering to which this prospectus supplement relates. See “ Plan of Distribution ”
+for more information. Transfer Agent Computershare Trust Company, N.A. is the registrar and transfer agent of our Ordinary Shares. The number of our Ordinary Shares
+to be outstanding after this offering is based on 162,760,997 of our Ordinary Shares outstanding as of October 15, 2025 and excludes the
+following: • 2,642,598 Ordinary Shares issuable upon the exercise of options to purchase up to 2,642,598 Ordinary
+Shares at an exercise price of $0.01 per share issued under our Employee Ordinary Share Ownership Plan; • up to 15,000,000 Ordinary Shares issuable upon the exercise of the Class B Warrants at an exercise price
+of $4.60 per share; • up to 26,250,000 Ordinary Shares issuable upon the exercise of the Class C Warrants at an exercise price
+of $5.10 per share; • up to 53,333,332 Ordinary Shares issuable upon the exercise of the Class D Warrants at an exercise price
+of $9.25 per share; and • up to 14,026,666 Ordinary Shares issuable upon the exercise of the Pre-funded Warrants, at an exercise
+  price of $0.0001 per share. S- 10 RISK FACTORS An investment
+in our Ordinary Shares involves a high degree of risk. Before investing in our Ordinary Shares, you should carefully consider the risk
+factors set forth below and those described under “Risk Factors” in the documents incorporated by reference herein, including
+in our most recent Annual Report on Form 20-F filed with the SEC, together with the other information included in this prospectus supplement,
+the base prospectus and incorporated by reference herein from our filings with the SEC. If any of such risks or uncertainties occurs,
+our business, financial condition, and operating results could be materially and adversely affected. Additional risks and uncertainties
+not currently known to us or that we currently deem immaterial also may materially and adversely affect our business operations. As a
+result, the trading price of our Ordinary Shares could decline and you could lose all or a part of your investment. Risks Related to this Offering Our management will have broad discretion
+over the use of the net proceeds from this offering, and you may not agree with how we use the proceeds and the proceeds may not be invested
+successfully. Our management
+will have broad discretion as to the use of the net proceeds from this offering and could use them for purposes other than those contemplated
+at the time of this offering. Accordingly, you are relying on the judgment of our management with regard to the use of these net proceeds,
+and you will not have the opportunity, as part of your investment decision, to assess whether the proceeds will be used appropriately.
+We intend to use the proceeds from this offering in the manner described under “ Use of Proceeds .” It is possible that
+the proceeds will be invested in a way that does not yield a favorable, or any, return for SEALSQ. You
+may experience immediate and substantial dilution in the net tangible book value per share of our Ordinary Shares you purchase in the
+offering. The
+offering price per share in this offering may exceed the pro forma as adjusted net tangible book value per Ordinary Share outstanding
+prior to this offering. We calculate net tangible book value per share by dividing the net tangible book value, which is tangible assets
+less total liabilities, by the number of outstanding Ordinary Shares. Dilution represents the difference between the price per Ordinary
+Share paid by purchasers of Ordinary Shares in this offering and the pro forma as adjusted net tangible book value per share of our Ordinary
+Shares immediately after giving effect to this offering. As of June 30, 2025, our net tangible book value was $118.1 million, or $0.95
+per Ordinary Share. After
+giving effect to the issuance of 260,417 Ordinary Shares at a price of $0.01 per share during the period from September 16, 2025 to October
+15, 2025 pursuant to stock option exercises under our stock option plan, the issuance of 823,988 Ordinary Shares on August 4, 2025 at
+a calculated share price of $2.77 per share in partial consideration for the acquisition of IC’Alps SAS, the issuance on July 15,
+2025 of 15,000,000 Ordinary Shares at an offering price of $4.00 per share pursuant to a registered direct offering, the issuance on
+October 7, 2025 of 15,000,000 Ordinary Shares upon exercise of the Class A warrants at an exercise price of $4.60 per share, and to the
+issuance of 7,944,863 Ordinary Shares during the period from September 23, 2025 to October 14, 2025 at an average sales price of $5.3907
+per share pursuant to sales under our ATM Facility, our pro forma net tangible book value as of June 30, 2025 would have been approximately
+$282.7 million or $1.74 per Ordinary Share. After giving
+effect to the issuance of 12,640,000 Ordinary Shares at an offering price of $7.50 per share on October 15, 2025, and after deducting
+aggregate offering expenses paid by us, our pro forma as adjusted net tangible book value as of June 30, 2025 would have been approximately
+$371.5 million or $2.12 per Ordinary Share. This represents an immediate increase
+in pro forma as adjusted net tangible book value to existing shareholders of $0.38 per Ordinary Share and an immediate dilution to purchasers
+in this offering of $5.38 per Ordinary Share. S- 11 See the
+section entitled “ Dilution ” on page S-18 below for a more detailed illustration
+of the dilution you may incur if you participate in this offering. You may experience future dilution as a result
+of future equity offerings. In order to raise additional capital,
+we may in the future offer additional of our Ordinary Shares or other securities convertible into or exchangeable for our Ordinary Shares.
+We cannot assure you that we will be able to sell Ordinary Shares or other securities in any other offering at a price per Ordinary Share
+that is equal to or greater than the price per Ordinary Share and accompanying Warrants paid by investors in this offering, and investors
+purchasing Ordinary Shares or other securities in the future could have rights superior to existing shareholders. The price per Ordinary
+Share at which we sell additional Ordinary Shares or other securities convertible into or exchangeable for our Ordinary Shares in future
+transactions may be higher or lower than the price per Ordinary Share and accompanying Warrants in this offering. In addition, the market
+price of our Ordinary Share could fall as a result of resales of any of these Ordinary Shares due to an increased number of Ordinary Shares
+available for sale in the market. General Risks Acquisitions, joint ventures, and strategic
+alliances may have an adverse effect on our business. We expect
+to continue making acquisitions and entering into joint ventures and strategic alliances as part of our long-term business strategy. Acquisitions
+and other transactions and arrangements involve significant challenges and risks, including that they do not receive the required government
+approvals to close, that they do not advance our business strategy, that we get an unsatisfactory return on our investment, that they
+raise new compliance-related obligations and challenges, that we have difficulty integrating and retaining new employees, business systems,
+and technology, that they distract management from our other businesses, or that announced transactions may not be completed. If an arrangement
+fails to adequately anticipate changing circumstances and interests of a party, it may result in early termination or renegotiation of
+the arrangement. We also have limited ability to control or influence third parties with whom we have arrangements, which may impact our
+ability to realize the anticipated benefits. The success of these transactions and arrangements depend in part on our ability to leverage
+them to enhance our existing products and services or develop compelling new ones, as well as the acquired companies’ ability to
+meet our policies and processes in areas such as data governance, privacy, and cybersecurity. It may take longer than expected to realize
+the full benefits from these transactions and arrangements, such as increased revenue or enhanced efficiencies, or the benefits may ultimately
+be smaller than we expected. Resales of our Ordinary Shares in the public
+market following this offering may cause the trading price to fall. The resale of a substantial number of Ordinary Shares could depress the trading price of our Ordinary Shares. This offering of new Ordinary
+Shares could result in resales of our Ordinary Shares by our current shareholders concerned about the potential dilution of their holdings.
+If our shareholders sell substantial amounts of our Ordinary Shares in the public market following the offering contemplated by this prospectus
+supplement, the trading price of our Ordinary Shares could fall. Our stock price has been and may continue to be volatile. The market
+price of our Ordinary Shares has been, and is likely to continue to be, volatile. The variance in our stock price makes it difficult to
+forecast the stock price at which an investor may be able to buy or sell Ordinary Shares. The market price for our Ordinary Shares could
+be subject to fluctuations as a result of factors that are out of our control, such as: • actual or anticipated variations in our results of operations; • general conditions and trends in the semiconductor industry; and • general economic, political and market conditions. We may, in the future, issue additional
+Ordinary Shares, which would reduce investors’ percent of ownership and may dilute our share value. The
+future issuance of Ordinary Shares, including in “at the market” or continuous equity offerings may result in substantial
+dilution in the percentage of our Ordinary Shares held by our then existing shareholders. We may value any Ordinary Shares in the future
+on an arbitrary basis. The issuance of Ordinary Shares for future services or acquisitions or other corporate actions may have the effect
+of diluting the value of the shares held by our investors, might have an adverse effect on any trading market for our Ordinary Shares
+and could impair our ability to raise capital in the future through the sale of equity securities. Under “at the market”
+or “continuous equity offerings”, we will have discretion, subject to market demand, to vary the timing, prices and number
+of shares sold. S- 12 An active trading market for our Ordinary Shares
+may not be sustained. Although
+our Ordinary Shares are listed on the Nasdaq Stock Market, LLC, the market for our Ordinary Shares has demonstrated varying levels of
+trading activity. The current level of trading may not be sustained in the future. The lack of an active market for our Ordinary Shares
+may impair investors’ ability to sell their Ordinary Shares at the time they wish to sell them or at a price that they consider
+reasonable, may reduce the fair market value of their Ordinary Shares and may impair our ability to raise capital to continue to fund
+operations by selling Ordinary Shares and may impair our ability to acquire additional assets by using our Ordinary Shares as consideration. Our business could suffer as a result of tariffs
+and trade sanctions or similar actions. The imposition
+by the U.S. government of trade measures, including tariffs, sanctions or other restrictions on goods exported from, or imported into,
+the United States, or countermeasures imposed in response to such U.S. government trade measures, could adversely affect global economic
+conditions, our operations or our ability to sell our products globally, which could adversely affect our operating results and financial
+condition. Recently, the U.S. government has initiated the imposition of stronger trade measures on certain goods exported from, or imported
+into, the U.S., and reciprocally non-U.S. governments have increased their threat and implementation of countermeasures. For example,
+recently, the U.S. government announced proposed tariffs on imports of semiconductor chips into the U.S. The U.S. President has increased,
+and reserved for further increases in, the scope and amount of tariffs in the event of retaliatory countermeasures, and the future of
+existing tariffs and, as a result, the possibility for new tariffs and countermeasures, remains very uncertain. A large amount of our
+current supply chain does not directly import products to the U.S. as we supply to contract manufacturers located outside the U.S. This
+is the case even when our ultimate customer is a U.S. company. However, the tariffs on imports of semiconductor chips, or products containing
+semiconductor chips, into the U.S. could impact upon the contract manufacturers, and the entire semiconductor supply chain, when the finished
+goods are delivered to the end-customer. Furthermore, end-customers may seek to restructure the supply chain to areas or countries unaffected
+by tariffs, or demand for the semiconductor supply chain to absorb the added costs of the tariffs and that will, in turn, reduce our revenue
+and gross profit. There is a further possibility that any future tariffs may still impact upon our ability to sell our product and to
+remain competitive in the market. Escalations in trade measures may directly impair our business by increasing trade-related costs or
+disrupting established supply chains and may indirectly impair our business by causing a negative effect on global economic conditions
+and financial markets. In addition, de-escalation of trade measures, or selected exemptions from trade measures, may not result in an
+immediate increase in our business activity. The ultimate impact of the evolving trade measures is uncertain and may be affected by various
+factors, including whether and when such trade measures are implemented, the timing when such measures may become effective, and the amount,
+scope, or nature of such trade measures. Additional
+changes or threatened changes in U.S. trade measures have affected and may continue to affect trade involving many countries as well,
+including Mexico, Canada, Colombia, Taiwan, the People’s Republic of China, the United Kingdom, and the member countries of the
+European Union. Each of these measures or threatened measures may instigate reciprocal countermeasures by affected countries, potentially
+accelerating further increases in trade measures. Any trade measure against Taiwan may specifically target imports of semiconductor products,
+which, if imposed, could seriously and negatively affect our business and the U.S. economy overall. The materials subject to these trade
+measures may impact the cost or availability of raw materials used by our suppliers or in our customers’ products. We cannot predict
+the evolving trade policies, but the imposition of trade measures by the U.S. on a broader range of imports, or further retaliatory trade
+measures taken in response to additional U.S. trade measures, could increase costs in our supply chain or reduce demand of our customers’
+products, either of which could adversely affect our results of operations. Any increase in trade-related costs associated with such measures
+may impair the profitability of such international production, may strain our suppliers’ ability to reliably provide inputs necessary
+to produce these items, and may otherwise affect our partners’ abilities to provide our products at previously contracted prices.
+Our business and financial results could be negatively affected as a result. S- 13 USE OF PROCEEDS We estimate
+that the net proceeds from the sale of the Ordinary Shares offered by us in this offering will be
+approximately $88.8 million, after deducting placement agent fees and estimated offering expenses payable by us. We intend to use the net proceeds
+from this offering for general corporate purposes. General corporate purposes may include funding the deployment of its next-generation
+post-quantum semiconductor technology and ASIC capabilities in the United States, to support working capital, additions to working capital,
+financing of capital expenditures, repayment or redemption of existing indebtedness, repurchases of stock and future acquisitions and
+strategic investment opportunities. This expected
+use of the net proceeds from this offering and our existing cash represents our intentions based upon our current plans, financial condition
+and business conditions. The amount, timing and nature of specific expenditures of net proceeds from this offering will depend on a number
+of factors, including the timing, scope, progress and results of our development efforts and the timing and progress of any collaboration
+efforts. As of the date of this prospectus supplement, we cannot specify with certainty all of the particular uses of the proceeds from
+this offering. Accordingly, we will retain broad discretion over the use of such proceeds. Pending any use of the net proceeds from this
+offering, if any, we intend to deposit the proceeds in checking or money market accounts, or invest in short term highly rated investments,
+at financial institutions. S- 14 CAPITALIZATION The following table presents our total
+capitalization and cash and cash equivalents as of June 30, 2025, · on an actual basis; · on a pro forma basis to give effect, from June 30, 2025 to the date of this
+                                                                                                              prospectus supplement, to the issuance of 260,417 Ordinary Shares at a price of $0.01 per share during the period from September 16,
+                                                                                                              2025 to October 15, 2025 pursuant to stock option exercises under our stock option plan  the issuance of 823,988 Ordinary
+                                                                                                              Shares on August 4, 2025 at a calculated share price of $2.77 per share in partial consideration for the acquisition of
+                                                                                                              IC’Alps SAS, the issuance on July 14, 2025 of 15,000,000 Ordinary Shares at an offering price of $4.00 per share pursuant to a
+                                                                                                              registered direct offering, to the issuance of 7,944,863 Ordinary Shares during the period from September 23, 2025 to October 14,
+                                                                                                              2025 at an average sales price of $5.3907; $5.3907 per share pursuant to sales
+under our ATM Faci lity, and giving effect to the exercise of the Class A Warrants at
+a price of $4.60 per share and the payment for certain pre-funded warrants on July 14, 2025; and · on a pro forma, as adjusted basis, giving effect to issuance and sale under this
+prospectus supplement of 12,640,000 Ordinary Shares at an offering price of $7.50 per share. The information
+set forth in the following table should be read in conjunction with, and is qualified in its entirety by, reference to our financial statements
+and the notes thereto incorporated by reference into this prospectus supplement and the accompanying prospectus. Actual (unaudited) Pro Forma (unaudited) Pro Forma, As Adjusted (unaudited) USD'000 Debt(1): Bonds, mortgages and other long-term debt 1,907 1,907 1,907 Indebtedness to related parties, noncurrent 3,531 3,531 3,531 Total debt 5,438 5,438 5,438 Shareholders’ equity: Capital stock(2)(3) —Ordinary Shares 1,238 1,628 1,755 —Class F Shares 75 75 75 Additional Paid-in Capital 177,863 342,081 430,716 Accumulated other comprehensive income / (loss) 866 866 866 Accumulated deficit (61,913 ) (61,913 ) (61,913 ) Total equity 118,129 282,737 371,499 Total capitalization 123,567 288,175 376,937 (1) All debt is unsecured. (2) Under our Amended and Restated Memorandum and Articles of Association, as amended through June 30,
+2025, we were authorized to issue up to 200,000,000 Ordinary Shares, US$0.01 par value per share, of which 123,731,729 were issued and
+outstanding as of June 30, 2025, and 10,000,000 Class F Shares, US$0.05 par value per share, of which 1,499,800 were issued and outstanding
+as of June 30, 2025. See “Description of Ordinary Shares” in the accompanying base prospectus. (3) Except as otherwise noted, all information in this prospectus reflects and assumes no exercise of outstanding
+options or warrants. The
+above table excludes (i) 2,903,015 Ordinary Shares issuable upon the exercise of options to purchase up to 2,903,015 Ordinary Shares
+at an exercise price of $0.01 per share issued under our Employee Ordinary Share Ownership Plan and (ii) 108,609,998 Ordinary Shares
+issuable upon exercise of Class B Warrants, Class C Warrants, Class D Warrants and any outstanding pre-funded warrants. S- 15 DESCRIPTION OF ORDINARY
+SHARES For a description of the rights
+associated with the Ordinary Shares, see “ Description of Ordinary Shares ” in the accompanying base prospectus. S- 16 CERTAIN TAX CONSIDERATIONS You should
+carefully read the discussion of the material British Virgin Islands and U.S. federal income tax considerations associated with our operations
+and the acquisition, ownership and disposition of our Ordinary Shares set forth in Section E, “ Taxation ,” of Item 10
+of our Annual Report, filed with the SEC on March 20, 2025 and incorporated by reference herein. S- 17 DILUTION If
+you invest in our Ordinary Shares in this offering, your ownership interest will be diluted to the extent of the difference between t he
+price per Ordinary Share you pay in this offering and the pro forma as adjusted net tangible book value per Ordinary Share immediately
+after this offering. We calculate net tangible book value per share by dividing the net tangible book value, which is tangible
+assets less total liabilities, by the number of outstanding Ordinary Shares. Dilution represents the difference
+between the price per Ordinary Share paid by purchasers of our Ordinary Shares in this offering and the pro forma as adjusted net tangible
+book value per share of our Ordinary Shares immediately after giving effect to this offering. As of June 30, 2025, our net tangible
+book value was $118.1 million, or $0.95 per Ordinary Share. After
+giving effect to the issuance of 260,417 Ordinary Shares at a price of $0.01 per share during the period from September 16, 2025 to October
+14, 2025 pursuant to stock option exercises under our stock option plan, the issuance of 823,988 Ordinary Shares on August 4, 2025 at
+a calculated share price of $2.77 per share in partial consideration for the acquisition of IC’Alps SAS, the issuance on July 14,
+2025 of 15,000,000 Ordinary Shares at an offering price of $4.00 per share pursuant to a registered direct offering, and to the issuance
+of 7,944,863 Ordinary Shares during the period from September 23, 2025 to October 14, 2025 at an average sales price of $5.3907 per share
+pursuant to sales under our ATM Facility, and to the exercise of the Class A Warrants (including the exercise of pre-funded warrants
+issued upon exercise of the Class A Warrants) for the issuance of 15,000,000 Ordinary Shares at a price of $4.60 per share on October
+7, 2025 our pro forma net tangible book value as of June 30, 2025 would have been approximately $282.7 million or $1.74 per Ordinary
+Share. After
+giving effect to the issuance of 12,640,000 Ordinary Shares at a price of $7.50 per share in this offering, and after deducting aggregate
+offering expenses paid by us, our pro forma as adjusted net tangible book value as of June 30, 2025 would have been approximately $371.5
+million or $2.12 per Ordinary Share. This represents an immediate increase in as adjusted pro forma net tangible book value to existing
+shareholders of $0.38 per Ordinary Share and an immediate dilution to purchasers in this offering of $5.38 per Ordinary Share. The
+following table illustrates this calculation on a per Ordinary Share basis to purchasers of Ordinary Shares in this offering and assumes
+no exercise of any outstanding warrants ( the table below does not give effect to dilution from the Concurrent
+Private Placement): Offering price per Ordinary Share $ 7.50 Net tangible book value per share as of June 30, 2025 $ 0.95 Increase per Ordinary Share attributable to the Ordinary Share issuances
+    made during the period from July 1, 2025 to October 14, 2025 as disclosed above $ 0.78 Pro forma net tangible book value as of June 30, 2025 $ 1.74 Increase per Ordinary Share attributable to this offering $ 0.38 Pro forma as adjusted net tangible book value per Ordinary Share
+as of June 30, 2025, after giving effect to this offering $ 2.12 Dilution per Ordinary Share to new investors purchasing Ordinary Shares in this offering $ 5.38 S- 18 The foregoing
+discussion and table are based on 123,731,729 Ordinary Shares outstanding as of June 30, 2025, and exclude, the following: · 2,642,598 Ordinary Shares issuable upon the exercise of options to purchase up to 2,642,598 Ordinary
+Shares at an exercise price of $0.01 per share issued under our Employee Ordinary Share Ownership Plan; · up to 15,000,000 Ordinary Shares issuable upon the exercise of the Class B Warrants at an exercise
+price of $4.60 per share. · Up to 26,250,000 Ordinary Shares issuable upon the exercise of the Class C Warrants at an exercise
+price of $5.10 per share · up to 53,333,332 Ordinary Shares issuable upon the exercise of the Class D Warrants at an exercise
+price of $9.25 per share; and · up to 14,026,666 Ordinary Shares issuable upon the exercise of the Pre-funded Warrants, at an exercise
+price of $0.0001 per share. We may
+choose to raise additional capital due to market conditions or strategic considerations even if we believe we have sufficient funds for
+our current or future operating plans. To the extent that additional capital is raised through the sale of equity or convertible debt
+securities, the issuance of these securities may result in further dilution to our shareholders. S- 19 PLAN OF DISTRIBUTION Maxim Group, LLC, who we refer
+to as “Maxim” or the “Placement Agent” has agreed to act as the exclusive placement agent in connection with this
+offering subject to the terms and conditions of the placement agency agreement, dated as of October 15, 2025. The Placement Agent has
+not purchased or sold any of the Ordinary Shares offered by this prospectus supplement, nor is it required to arrange the purchase or
+sale of any specific number or dollar amount of our Ordinary Shares, but have agreed to use reasonable best efforts to arrange for the
+sale of all of the Ordinary Shares offered hereby. We entered into the Securities Purchase Agreement directly with the investors in connection
+with this offering and we will only sell to the investors who have entered into the Securities Purchase Agreement with us. We expect to deliver the 12,624,000
+Ordinary Shares sold in this offering and being offered pursuant to this prospectus supplement on or about October 16, 2025, subject to
+customary closing conditions (the “Closing Date”). Placement Agent Fees, Commissions and Expenses We
+have agreed to pay the Placement Agent a placement agent fee equal to 6.0% of the aggregate purchase price of the Ordinary Shares sold
+in this offering. We have also agreed to reimburse the Placement Agent up to $100,000 for the reasonable and accounted fees and expenses
+of legal counsel. The following table shows the per Ordinary Share and total cash placement agent’s fees we will pay to the Placement
+Agent in connection with the sale of the shares of our Ordinary Shares offered pursuant to this prospectus supplement and the accompanying
+prospectus. Per Ordinary Share Total Offering price $ 7.50 $ 94,800,000 Placement Agent’s fees $ 0.45 $ 5,688,000 Proceeds, before expenses, to us $ 7.05 $ 89,112,000 S- 20 Regulation M The Placement Agent may
+be deemed to be an underwriter within the meaning of Section 2(a)(11) of the Securities Act of 1933, as amended (the “Securities
+Act”), and any commissions received by it and any profit realized on the resale of the shares sold by it while acting as principal
+might be deemed to be underwriting discounts or commissions under the Securities Act. As underwriter, the Placement Agent would
+be required to comply with the requirements of the Securities Act and the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”), including, without limitation, Rule 415(a)(4) under the Securities Act and Rule 10b-5 and Regulation M under the Exchange
+Act. These rules and regulations may limit the timing of purchases and sales of shares by the Placement Agent acting
+as principal. Under these rules and regulations, the Placement Agent : · may not engage in any stabilization activity in connection with our securities; and · may not bid for or purchase any of our securities or attempt to induce any person
+to purchase any of our securities, other than as permitted under the Exchange Act, until it has completed its participation in the distribution. Determination of Offering Price The actual
+offering price of the securities we are offering were negotiated between us, the Placement Agent and the investors in the offering based
+on the trading price of our Ordinary Shares prior to the offering, among other things. Other factors considered in determining the public
+offering price of the securities we are offering, included our history and prospects, the stage of development of our business, our business
+plans for the future and the extent to which they have been implemented, an assessment of our management, the general conditions of the
+securities markets at the time of the offering and such other factors as were deemed relevant. Indemnification We have
+agreed to indemnify the Placement Agent and certain specified other persons against certain liabilities, including liabilities under the
+Securities Act and the Exchange Act, and to contribute to payments the Placement Agent and such other persons may be required to make
+in respect thereof. S- 21 Subsequent Equity Sales Pursuant
+to the terms of the Securities Purchase Agreement, from the date hereof until sixty (60) days after the Closing Date, we may not issue,
+enter into any agreement to issue or announce the issuance or proposed issuance of any Ordinary Shares or Ordinary Share equivalents,
+effect or enter into an agreement to effect any issuance of Ordinary Shares or Ordinary Share equivalents, or, file any registration
+statement or any amendment or supplement thereto, in each case, subject to certain exceptions, without the prior consent of the Investors.
+The preceding sentence shall not apply to the issuance of, or registration statements with respect to (a) Ordinary Shares or options
+issued pursuant to any stock option plan duly adopted by a majority of the non-employee members of the Board or a majority of a committee
+of non-employee directors established for such purpose, (b) securities upon the exercise or exchange of or conversion of any securities
+issued under the Securities Purchase Agreement and/or other securities exercisable or exchangeable for or convertible into Ordinary Shares
+issued and outstanding on the date of the Securities Purchase Agreement, provided that such securities have not been amended since the
+date of the Securities Purchase Agreement to increase the number of such securities or to decrease the exercise price, exchange price
+or conversion price of such securities (other than in connection with stock splits or combinations) or to extend the term of such securities,
+(c) securities issued pursuant to acquisitions or strategic transactions approved by a majority of the disinterested directors of the
+Company, provided that such securities are issued as “restricted securities” (as defined in Rule 144) or contractually restricted
+securities and carry no registration rights that require or permit the filing of any registration statement in connection therewith,
+and provided that any such issuance shall only be to a person (or to the equity holders of a person) which is, itself or through its
+subsidiaries, an operating company or an owner of an asset in a business synergistic with the business of the Company and shall provide
+to the Company additional benefits in addition to the investment of funds, but shall not include a transaction in which the Company is
+issuing securities primarily for the purpose of raising capital or to an entity whose primary business is investing in securities, and
+(d) after thirty (30) days after the Closing Date, Ordinary Shares issued and sold pursuant to the ‘at-the-market’ program
+and arrangement in place as of the date of the Securities Purchase Agreement; provided, however, that the Company may make sales immediately
+under the ‘at-the-market’ program if such sales are made at a price per share of $9.25 or greater (as adjusted for reverse
+and forward stock splits and the like). In
+addition, we agreed not to issue or enter into any agreement to issue any Ordinary Shares or ‘Ordinary Share Equivalents’
+involving a ‘Variable Rate Transaction’ (each as defined in the Securities Purchase Agreement) from the date hereof until
+the date which is sixty (60) days after the Closing. Lock-Up
+Agreements In
+addition, certain of our directors, officers and affiliates, have agreed, subject to certain exceptions, not to offer, issue, sell, contract
+to sell, encumber, grant any option for the sale of or otherwise dispose of any of our Ordinary Shares or other securities convertible
+into or exercisable or exchangeable for our Ordinary Shares for a period of ninety (90) days after the Closing Date. Electronic Distribution This prospectus
+supplement and the accompanying prospectus may be made available in electronic format on websites or through other online services maintained
+by the Placement Agent or by an affiliate. Other than this prospectus supplement and the accompanying prospectus, the information on the
+Placement Agent’s website and any information contained in any other website maintained by the Placement Agent is not part of this
+prospectus supplement and the accompanying prospectus or the registration statement of which this prospectus supplement and the accompanying
+prospectus form a part, has not been approved and/or endorsed by us or the Placement Agent, and should not be relied upon by investors. S- 22 Other The foregoing
+does not purport to be a complete statement of the terms and conditions of the placement agency agreement and the form of the securities
+purchase agreement. A copy of the form of the securities purchase agreement with the purchasers will be included as an exhibit to our
+Current Report on Form 6-K to be filed with the SEC and incorporated by reference into the registration statement of which this prospectus
+supplement and the accompanying prospectus form a part. See “ Incorporation of Certain Documents by Reference” and “ Where
+You Can Find More Information .” Certain Relationships The Placement Agent and its affiliates may provide from time to time
+in the future certain commercial banking, financial advisory, investment banking and other services for us in the ordinary course of their
+business, for which they may receive customary fees and commissions. In addition, from time to time, the Placement Agent and its affiliates
+may effect transactions for their own account or the account of customers, and hold on behalf of themselves or their customers, long or
+short positions in our debt or equity securities or loans, and may do so in the future. However, except as disclosed in this prospectus
+supplement, we have no present arrangements with the Placement Agent for any further services. Below is
+a description of certain recent investment banking and financial advisory services that Maxim has provided to us in the ordinary course
+of business, for which Maxim received customary fees, commissions and other compensation. Convertible Note and Warrant Private Placements Maxim
+served as the sole placement agent for us in connection with the private placements of notes and warrants to certain investors on July
+11, 2023, January 9, 2024 and March 1, 2024, respectively. Under the terms of this arrangement, SEALSQ has paid a total of $1,515,000
+to Maxim. December 16, 2024 Registered Direct Offering Maxim
+served as the sole placement agent for us in connection with the December 16, 2024 Offering. Under the terms of this arrangement, SEALSQ
+paid a total of $700,000.03 to Maxim. December 17, 2024 Registered Direct Offering Maxim
+served as the sole placement agent for us in connection with the December 17, 2024 Offering. Under the terms of this arrangement, SEALSQ
+paid a total of $1,750,000.17 to Maxim. December 19, 2024 Registered Direct Offering Maxim
+served as the sole placement agent for us in connection with the December 19, 2024 Offering. Under the terms of this arrangement, SEALSQ
+paid a total of $1,750,000.17 to Maxim. May 6, 2025 Registered Direct Offering Maxim
+served as the sole placement agent for us in connection with the May 6, 2025 Offering. Under the terms of this arrangement, SEALSQ paid
+a total of $1,400,000.00 to Maxim. May 19, 2025 ATM Facility Maxim
+serves as co-sales agent for us in connection with the May 19, 2025 ATM Facility. Under the terms of this arrangement, SEALSQ has paid
+a total of $639,597.00 to Maxim. July 15, 2025 Registered Direct Offering Maxim
+served as the sole placement agent for us in connection with the July 15, 2025 Offering. Under the terms of this arrangement, SEALSQ paid
+a total of $ 4,200,000.00 to Maxim. October
+7, 2025 Warrant Inducement Maxim
+served as the sole warrant inducement agent for us in connection with the October 7, 2025 warrant inducement transaction. Under the terms
+of this arrangement, SEALSQ paid a total of $3,460,000 to Maxim . S- 23 EXPENSES We estimate that the total expenses of this offering payable
+by us, excluding the Placement Agents’ commissions, will be approximately $ 350,000 as follows: SEC registration fee* $ — FINRA filing fee** $ — Legal fees and expenses*** $ 275,000 Accounting fees and expenses $ 75,000 Total $ 350,000 * $78,737.25 previously paid ** $75,500.00 previously paid *** Estimated S- 24 LEGAL MATTERS Certain
+legal matters with respect to British Virgin Islands law in connection with this offering are being passed upon for us by Harney Westwood
+& Riegels (BVI) LP. Certain matters of U.S. federal and New York law are being passed upon for us by Patterson Belknap Webb &
+Tyler LLP, New York, New York. Ellenoff Grossman & Schole LLP, New York, New York has acted as counsel to the Placement Agent. EXPERTS The financial
+statements of SEALSQ Corp as of and for the year ended December 31, 2024 and December 31, 2023, in each case incorporated by reference
+in this prospectus supplement from the Company’s Annual Report on Form 20-F for the year ended December 31, 2024 have been so incorporated
+in reliance on the reports of BDO Ltd, an independent registered public accounting firm, given upon the authority of said firm as experts
+in accounting and auditing. The financial statements of SEALSQ Corp Predecessor as of and for the year ended December 31, 2022, incorporated
+by reference in this prospectus supplement from the Company’s Annual Report on Form 20-F for the year ended December 31, 2024 have
+been so incorporated in reliance on the report of BDO Rhône Alpes, an independent registered public accounting firm, given upon
+their authority as experts in accounting and auditing. ENFORCEABILITY OF CIVIL
+LIABILITIES We are
+incorporated under the laws of the British Virgin Islands and our principal executive offices are located outside the United States. Most
+of our directors and officers and those of our subsidiaries are residents of countries other than the United States. Substantially all
+of our and our subsidiaries’ assets and a substantial portion of the assets of our directors and officers are located outside the
+United States. As a result, it may be difficult or impossible for United States investors to effect service of process within the United
+States upon us, our directors or officers or our subsidiaries, or to realize against us or them judgments obtained in United States courts,
+including judgments predicated upon the civil liability provisions of the securities laws of the United States or any state in the United
+States. Furthermore,
+there is substantial doubt that courts in jurisdictions outside the U.S. (i) would enforce judgments of U.S. courts obtained in actions
+against us or our directors or officers based upon the civil liability provisions of applicable U.S. federal and state securities laws
+or (ii) would enforce, in original actions, liabilities against us or our directors or officers based on those laws. WHERE YOU CAN FIND MORE
+INFORMATION We have
+filed with the SEC a registration statement on Form F-3 under the Securities Act, relating to this offering of securities. This prospectus
+supplement does not contain all of the information contained in the registration statement. The rules and regulations of the SEC allow
+us to omit certain information from this prospectus supplement that is included in the registration statement. Statements made in this
+prospectus supplement concerning the contents of any contract, agreement or other document are summaries of all material information about
+the documents summarized, but are not complete descriptions of all terms of these documents. If we filed any of these documents as an
+exhibit to the registration statement, you may read the document itself for a complete description of its terms. We are
+subject to the informational requirements of the Exchange Act applicable to foreign private issuers. In accordance with the Exchange Act,
+we file reports, including annual reports on Form 20-F containing financial statements audited by an independent accounting firm. We also
+furnish to the SEC, under cover of Reports of Foreign Private Issuer on Form 6-K, material information required to be made public by us
+or filed by us with and made public by any stock exchange or distributed by us to our shareholders. Such reports and other information
+filed with the SEC are available to the public over the internet at the SEC’s website at http://www.sec.gov. We also generally make
+available on our own website (www.sealsq.com) our quarterly and year-end financial statements as well as other information. S- 25 As a foreign
+private issuer, we are exempt from the rules under the Exchange Act prescribing the furnishing and content of proxy statements to shareholders,
+and our officers, directors and principal shareholders are exempt from the “short-swing profits” reporting and liability provisions
+contained in Section 16 of the Exchange Act and related Exchange Act rules. In addition, we are not required under the Exchange Act to
+file periodic reports and financial statements as frequently or as promptly as U.S. companies whose securities are registered under the
+Exchange Act. We maintain
+a corporate website at www.sealsq.com. Information contained on, or that can be accessed through, our website does not constitute a part
+of this prospectus supplement. We have included our website address in this prospectus supplement solely as an inactive textual reference. INCORPORATION OF CERTAIN
+DOCUMENTS BY REFERENCE The SEC
+allows us to incorporate by reference our publicly filed reports into this prospectus supplement, which means that information included
+in those reports is considered part of this prospectus supplement. Because we are incorporating by reference future filings with the SEC,
+this prospectus supplement is continually updated and those future filings may modify or supersede some of the information included or
+incorporated by reference in this prospectus supplement. This means that you must look at all of the SEC filings that we incorporate by
+reference to determine if any of the statements in this prospectus supplement or in any document previously incorporated by reference
+have been modified or superseded. This prospectus supplement incorporates by reference the documents listed below and any future filings
+we make with the SEC under Sections 13(a), 13(c), 14 or 15(d) of the Securities Exchange Act of 1934 (the “Exchange Act”)
+(in each case, other than those documents or the portions of those documents furnished, rather than filed), and, to the extent designated
+therein, reports on Form 6-K, until the offering of the securities under the registration statement of which this prospectus supplement
+and accompanying base prospectus forms a part is terminated or completed: · our Annual Report on Form 20-F for the year ended December 31, 2024, filed with the SEC on March 20, 2025; · our Reports on Form 6-K furnished by us to the SEC on March 21, 2025,
+March 24, 2025, April 9, 2025, May 1, 2025, May 14, 2025, May 19, 2025, May 20, 2025, May 22, 2025, May 27, 2025, June 17, 2025, July
+15, 2025, August 4, 2025, September 22, 2025, September 26, 2025, October 7, 2025, October 14, 2025 (Film No. 251389944),
+October 14, 2025 (Film No. 251391690) and October 16, 2025; · Exhibit 99.2 (except for Sections 1.1, 1.2, 2.2.3, 2.2.4, 2.3.1, and 2.4) and Exhibit 99.3 to the Report
+on Form 6-K furnished by us to the SEC on September 9, 2025; · the description of our Ordinary Shares contained in our Registration Statement on Form 8-A filed with
+the SEC on May 18, 2023, as amended by Exhibit 2.4 to our Annual Report on Form 20-F for the year ended December 31, 2024, filed with
+the SEC on March 20, 2025, as further amended and supplemented by the description of our Securities contained in this prospectus under
+“ Description of Ordinary Shares ,” including any subsequent amendment or any report filed for the purpose of updating
+such description. S- 26 The SEC
+maintains an Internet site at http://www.sec.gov that contains reports, proxy and information statements, and other information regarding
+issuers like us that file electronically with the SEC. We will
+also incorporate by reference all subsequent Annual Reports on Form 20-F that we file with the SEC. In addition, we will incorporate by
+reference certain future materials furnished to the SEC on Form 6-K after the date of the initial registration statement, but only to
+the extent specifically indicated in those submissions or in a future prospectus supplement. Each subsequently filed Annual Report should
+be deemed to supersede entirely each earlier filed Annual Report and the materials furnished on an earlier Form 6-K and, unless explicitly
+stated otherwise, such earlier reports should not be deemed to be part of this prospectus supplement and you should not rely upon statements
+made in those earlier periodic reports. In all cases, you should rely on the later information over different information in this prospectus
+supplement. We will
+furnish without charge to you, on written or oral request, a copy of any or all of the above documents, other than exhibits to such documents
+which are not specifically incorporated by reference therein. You should direct any requests for documents to: SEALSQ Corp Avenue Louis-Casaï 58 1216 Cointrin Switzerland Tel: 011-41-22-594-3000 Fax: 011-41-22-594-3001 The information
+relating to us contained in this prospectus supplement is not comprehensive and should be read together with the information contained
+in the incorporated documents. Descriptions contained in the incorporated documents as to the contents of any contract or other document
+may not contain all of the information which is of interest to you. You should refer to the copy of such contract or other document filed
+as an exhibit to our filings. S- 27 PROSPECTUS $500 million Ordinary Shares Warrants Subscription Rights Units of SEALSQ Corp __________ This prospectus
+relates to the offer and sale by SEALSQ Corp from time to time of Ordinary Shares, warrants to purchase Ordinary Shares, subscription
+rights or units. We may also offer securities that may be issuable upon the conversion, exercise or exchange of warrants or subscription
+rights. We refer to all of the foregoing securities collectively as the “securities” in this prospectus. The aggregate initial
+offering price of the securities that we may offer and sell under this prospectus will not exceed $500 million. Each time
+we sell securities pursuant to this prospectus, we will provide in a supplement to this prospectus the price and any other material terms
+of any such offering. Any prospectus supplement may also add, update or change information contained in this prospectus. You should read
+this prospectus and any applicable prospectus supplement, as well as the documents incorporated by reference or deemed incorporated by
+reference into this prospectus, carefully before you invest in any securities. This
+prospectus may not be used to offer or sell securities unless accompanied by a prospectus supplement. We may, from
+time to time, offer to sell the securities, through public or private transactions, directly or through underwriters, agents or dealers,
+on or off the Nasdaq Capital Market, or Nasdaq, at prevailing market prices or at privately negotiated prices. If any underwriters, agents
+or dealers are involved in the sale of any of these securities, the applicable prospectus supplement will set forth the names of the underwriter,
+agent or dealer, and any applicable fees, commissions or discounts. Our Ordinary
+Shares are listed on the Nasdaq Capital Market under the ticker symbol “LAES.” The last reported sale price of our Ordinary
+Shares on the Nasdaq Capital Market on March 24, 2025 was $3.16 per share. Investing
+in our securities involves a high degree of risk. Please carefully consider the risks discussed in this prospectus under “Risk Factors”
+beginning on page 4 and the “Risk Factors” in “Item 3.D: Key Information—Risk Factors” of our most recent
+Annual Report on Form 20-F incorporated by reference in this prospectus and in any applicable prospectus supplement for a discussion of
+the factors you should consider carefully before deciding to purchase these securities. Neither the Securities and
+Exchange Commission, nor any other regulatory body has approved or disapproved of these securities or determined if this prospectus supplement
+or the accompanying prospectus is truthful or complete. Any representation to the contrary is a criminal offense. Prospectus dated April 2, 2025. ABOUT THIS PROSPECTUS This prospectus
+is part of a registration statement that we have filed with the SEC, utilizing a “shelf” registration process. Under this
+shelf process, we may sell the securities or any combination of the securities described in this prospectus in one or more offerings for
+an aggregate offering amount of up to $500 million. This prospectus does not contain all of the information set forth in the registration
+statement, certain parts of which are omitted in accordance with the rules and regulations of the SEC. Accordingly, you should refer to
+the registration statement and its exhibits for further information about us and our securities. Copies of the registration statement
+and its exhibits are on file with the SEC. Statements contained in this prospectus concerning the documents we have filed with the SEC
+are not intended to be comprehensive, and in each instance we refer you to a copy of the actual document filed as an exhibit to the registration
+statement or otherwise filed with the SEC. Each time we
+offer our securities pursuant to this registration statement, we will provide you with a prospectus supplement that will describe the
+specific amounts, prices and terms of the securities we offer. The prospectus supplement may also add, update or change information contained
+in this prospectus. This prospectus, together with applicable prospectus supplements and the documents incorporated by reference in this
+prospectus and any prospectus supplements, includes all material information relating to this offering. Please read carefully both this
+prospectus and any prospectus supplement together with additional information described below under “ Where
+You Can Find More Information ” and “ Incorporation of
+Certain Documents by Reference .” This prospectus
+does not contain all of the information provided in the registration statement that we filed with the Commission. For further information
+about us or our securities, you should refer to that registration statement, which you can obtain from the Commission as described below
+under “ Where You Can Find More Information ” and “ Incorporation
+of Certain Documents by Reference .” You should
+rely only on the information incorporated by reference or provided in this prospectus or any prospectus supplement. “Incorporated
+by reference” means that we can disclose important information to you by referring you to another document filed separately with
+the SEC. We have not authorized anyone to provide you with different information. We are offering to sell, and seeking offers to buy,
+our securities only in jurisdictions where offers and sales are permitted. We are not making, nor will we make, an offer to sell securities
+in any jurisdiction where the offer or sale is not permitted. You should assume that the information appearing in this prospectus and
+any supplement to this prospectus is current only as of the dates on their respective covers. Our business, financial condition, results
+of operations and prospects may have changed since that date. We prepare
+our financial statements in United States dollars and in accordance with United States generally accepted accounting principles. Certain figures
+included in this prospectus have been subject to rounding adjustments. Accordingly, figures shown as totals in certain tables may not
+be an arithmetic aggregation of the figures that precede them. In this prospectus,
+“we,” “us,” “our,” the “Company” and “SEALSQ” refers to SEALSQ Corp. Any reference
+to “WISeKey” is to WISeKey International Holding AG and its subsidiaries, except where the context otherwise requires. All references in this prospectus to “$,” “U.S.
+Dollars” and “dollars” are to United States dollars. This prospectus and the information
+incorporated by reference herein and therein include trademarks, service marks and trade names owned by us or other companies. Solely
+for convenience, trademarks referred to in this prospectus, including logos, artwork and other visual displays, may appear without the
+® or ™ symbols. We do not intend our use or display of other companies’ trade names or trademarks to imply a relationship
+with, or endorsement or sponsorship of us by, any other companies. All trademarks, service marks and trade names included or incorporated
+by reference into this prospectus or an accompanying prospectus supplement are the property of their respective owners. 1 ABOUT OUR COMPANY This summary
+highlights selected information contained elsewhere in this prospectus that we consider important. This summary does not contain all of
+the information you should consider before investing in our securities. You should read this summary together with the entire prospectus,
+including the risks related to our business, our industry and investing in our securities that we describe under “Risk Factors,”
+and our consolidated financial statements and the related notes incorporated by reference in this prospectus before making an investment
+in our securities. SEALSQ is
+a leading innovator in Post-Quantum Technology hardware and software solutions. Our technology seamlessly integrates Semiconductors, PKI
+(Public Key Infrastructure), and Provisioning Services, with a strategic emphasis on developing state-of-the-art Quantum Resistant Cryptography
+and Semiconductors designed to address the urgent security challenges posed by quantum computing. Our products are engineered to safeguard
+critical systems, enhancing resilience and security across diverse industries. SEALSQ was
+established as a subsidiary of WISeKey International Holding AG, combining decades of expertise in cryptographic security and trusted
+digital infrastructure. Headquartered in Switzerland, we operate across Europe, the United States, and other strategic markets. Our solutions
+provide the foundation of digital trust for businesses and governments worldwide. SEALSQ delivers integrated
+digital security solutions that combine four critical components into a unified offering: Root-of-Trust , Secure Chips , trusted Identity
+Generation and Management (PKI) , and Personalization Services .
+Together, these components ensure the confidentiality, integrity, and authenticity of connected devices and digital communications. SEALSQ delivers integrated digital
+security solutions that combine four critical components into a unified offering: Root-of- Trust, Secure Chips, trusted Identity Generation
+and Management (PKI), and Personalization Services. Together, these components ensure the confidentiality, integrity, and authenticity
+of connected devices and digital communications. Our offerings are structured around four foundational technology
+pillars: 1. Our Swiss-based Post Quantum Root of Trust: Offering neutrality, reliability, and is certified by leading industry standards such as WebTrust (browsers), Matter (Smart Home), and Wi-SUN (Smart Grid). 2. Public Key Infrastructure services: Leveraging this root-of-trust we offer a SaaS solution to issue and manage cryptographic credentials that authenticate users, devices, and systems. Our platform uses Quantum Resistant Cryptographic Algorithms recommended by the National Institute of Standards and Technology (NIST). 3. Personalization Services: Industrial-scale systems for embedding digital identities into secure microcontrollers, enabling seamless integration and secure operation at scale. 4. Quantum Resistant certified secure microcontrollers: Designed to protect and store digital identities, ensuring robust authentication for connected devices and systems. SEALSQ’s comprehensive product range meets the growing
+demand for secure, certified solutions across industries: · Post-Quantum Chips: SEALSQ is developing two secure microcontrollers with quantum-resistant cryptographic capabilities, scheduled for market release in Q4 2025. · VaultIC Secure Microcontrollers: Pre-certified cryptographic chips for IoT devices, enabling secure authentication and protection against cyber threats. Recent innovations include VaultIC292 for Matter & devices, and VaultIC408 for smart meters and industrial IoT. · Public Key Infrastructure (PKI): INeS, our PKI-as-a-Service software leverages on our Swiss-based Root of Trust to conveniently and scalably issue and manage trusted device identities ensuring IoT device compliance with protocols such as Matter, Wi-SUN, and WebTrust. Our PKI solutions now include post-quantum algorithms to protect against quantum threats. · Personalization Services: Enabling clients to pre-provision private keys and certificates into chips within 4 weeks, reducing costs and time-to-market. But also, on-line or off-line during device manufacturing using our INeS Box device. SEALSQ solutions serve high-growth industries requiring
+secure, scalable, and certified solutions. Some examples of the use cases of our products are as follows: • Smart Homes & Consumer Electronics: SEALSQ products help device makers accelerating time to market and reducing costs by easing compliance with the growingly adopted Matter protocol that ensures secure and seamless interoperability across connected devices, addressing a market projected to reach $78 billion by 2025 (Source: Statista 2023). 2 • Automotive: Securing Plug-and-Charge infrastructure (EV Charging stations), a sector expected to grow at a 31% CAGR through 2030 (Source: Fortune Business Insights 2022). • IoT and Smart Cities: Protecting billions of IoT devices, with the number of connected devices requiring protection anticipated to reach 28.3 billion units by 2027 (Source: IoT Analytics 2023). • Critical Infrastructure: Securing smart grids and utilities through Wi-SUN-certified solutions. • Healthcare: Enabling secure communication for medical devices and sensitive patient data. • Industrial IoT: Providing tamper-resistant chips for sensors and mission-critical systems. SEALSQ semiconductors and PKI services contribute to secure
+millions of objects: luxury products, routers, gateways, utilities meters, E.V. chargers, drones, authentication dongles, storage memory
+USB sticks, medical devices, connected door-locks, and a variety of other electronic consumers devices. Corporate Information SEALSQ Corp is a BVI business company incorporated
+and existing under the laws of the British Virgin Islands. Our registered office in the British Virgin Islands is at Craigmuir Chambers,
+Road Town, Tortola, VG 1110, British Virgin Islands. Our principal executive offices and effective place of management are located at
+Avenue Louis-Casaï 58, 1216 Cointrin, Switzerland. Our telephone number from the United States is 011 41 22 594 3000. Our website
+can be accessed at www.SEALSQ.com. The information on or linked to on our website is not a part of this prospectus. 3 RISK FACTORS Investing
+in our securities involves significant risks. Before making an investment decision, you should carefully consider the risks described
+under “Risk Factors” in the applicable prospectus supplement and under “Item
+3.D: Key Information—Risk Factors ” in our most recent Annual Report on Form 20-F, or any updates in our Reports
+on Form 6-K, together with all of the other information appearing in this prospectus or incorporated by reference into this prospectus
+and any applicable prospectus supplement, in light of your particular investment objectives and financial circumstances. The risks
+so described are not the only risks facing us. Additional risks not presently known to us or that we currently deem immaterial may also
+impair our business operations. Our business, financial condition and results of operations could be materially adversely affected by
+any of these risks. The trading price of our securities could decline due to any of these risks, and you may lose all or part of your
+investment. The discussion of risks includes or refers to forward-looking statements; you should read the explanation of the qualifications
+and limitations on such forward-looking statements discussed elsewhere in this prospectus. FORWARD-LOOKING STATEMENTS This prospectus
+contains forward-looking statements. These forward-looking statements include information about possible or assumed future results of
+our operations or our performance. Words such as “expects,” “intends,” “plans,” “believes,”
+“anticipates,” “estimates,” “projects,” “forecasts” and variations of such words and similar
+expressions, as they relate to us, WISeKey International Holding S.A., our parent company (“WISeKey”), our management or third
+parties, are intended to identify the forward-looking statements. Forward-looking statements include statements regarding our business
+strategy, financial performance, results of operations, market data, events or developments that SEALSQ expects or anticipates will occur
+in the future, as well as any other statements which are not historical facts. Although we believe that the expectations reflected in
+such forward-looking statements are reasonable, no assurance can be given that such expectations will prove to have been correct. These
+statements involve known and unknown risks and are based upon a number of assumptions and estimates which are inherently subject to significant
+uncertainties and contingencies, many of which are beyond our control. Actual results may differ materially from those expressed or implied
+by such forward-looking statements. Forward-looking statements include, but are not limited to, statements we make regarding: These forward-looking statements
+include, but are not limited to, statements relating to: · Our anticipated goals, growth strategies and profitability; · Future operating or financial results; · Our planned capital expenditure program for additional production lines to be added to our supply chain; · The development of our post-quantum cryptography products and our expectation to generate revenue from such products; · The potential for post-quantum cryptography products and estimated market size and market growth including with respect to our long-term business strategy for post-quantum cryptography; · Our intention to make investments in sales and marketing operations including R&D of new products such as post-quantum cryptography; · Our plans for global customer base expansion; · The establishment of a Design Center, OSAT and Personalization project and the projected additional revenue that is will generate; · Our anticipated pipe growth in 2025; · Our belief that the products resulting from our R&D will create additional opportunities for growth; · Our expectation about the development of the markets for SEALSQ, including post-quantum cryptography products, customized security offerings through ASICs, expanding the role of Metaverse, increase in cyber threats and growth of secure hardware market, growing demand for IoT solutions, increase in cybersecurity spending based on the recent regulations and legislations; · Our intent to invest heavily in the ongoing development of our products and technology, including anticipated fab capacity expansion and utilization and expected ramp and production timelines for the Company’s post-quantum semiconductors ;; · Our expectation that we will continue to gain several benefits from our parent company, WISeKey, including the financial reporting and legal support via certain service agreements; · Our forecasted decrease in the sales of our traditional semiconductor chips, as our customers transition towards post-quantum semiconductor technologies; · Our investment in quantum-as-a-service and quantum computing in the cloud; · Changes in global trade policies, including the adoption and expansion of tariffs and trade barriers, that could affect the macro-economic environment and adversely impact the demand for our products; 4 · The availability and costs of equipment, raw materials, utilities, third-party manufacturing services and technology, or other supplies required by our operations; and · Assumptions underlying or related to any of the foregoing The preceding list is not
+intended to be an exhaustive list of all of our forward-looking statements. The forward-looking statements are based on our beliefs, assumptions
+and expectations of future performance, taking into account the information currently available to us and are only predictions based upon
+our current expectations and projections about future events. There are important factors that could cause our actual results, levels
+of activity, performance or achievements to differ materially from the results, levels of activity, performance or achievements expressed
+or implied by these forward-looking statements. Those factors include, in addition to those set forth in Item
+3.D. Risk Factors and those included elsewhere in this report, among others, the following: · The adoption by developers and customers of quantum computing; · Our ability to sell post-quantum cryptography products to customers; · The inability to realize estimated financial position, results of operations or cash flows; · Our ability to anticipate market needs and opportunities; · Our ability to attract new customers and retain existing customer base; · Our ability to foster innovation, to develop new products and enhancements to our existing products; · The demand for our products or for the goods into which our products are incorporated; · Our expectation that order commitments and non-cancellable orders we received are properly executed; · The sufficiency of our cash and cash equivalents to meet our liquidity needs; · The impact of any supply chain disruption that we may experience; · Our dependency on the timely supply of equipment and materials from our third-party suppliers; · Our ability to protect our intellectual property rights; · Our ability to keep pace with technical advances in cryptography and semiconductor design; · Our ability to raise funds for investment by cash flow from operating activities, advance payments from a key customer, and grants and other available subsidies from funding agencies; · Our ability to reduce our cost structure and general and administrative costs; · Our ability to attract and retain qualified employees and key personnel; · Our ability to attract new customers and retain and expand within our existing customer base; · Our ability to foster innovation, to develop new products and enhancements to our existing products; · The future growth of the information technology and cybersecurity industry; · Risks relating to SEALSQ’s ability to implement its growth strategies; · Our ability to successfully form new strategic partnerships with our alliance partners; · Our ability to continue beneficial transactions with material parties, including WISeKey and a limited number of significant customers; · Our ability to prevent security breaches and unauthorized access to confidential customer information; · Our ability to comply with modified or new laws and regulations relating to our industries; · The activities of our competitors and the introduction of competing products by our competitors; · Market demand and semiconductor industry conditions; · Our ability to successfully introduce new technologies and products; · Uncertain negative effects from the imposition by the United States of tariffs, sanction or other restrictions; · The cyclical nature of the semiconductor industry; · An economic downturn in the semiconductor industry; 5 · Our ability to comply with U.S. and other applicable international laws and regulations; · Changes in our overall tax position as a result of changes in tax laws or tax rates, new or revised legislation, the outcome of tax audits or changes in international tax treaties which may impact our results of operations as well as our ability to accurately estimate tax credits, benefits, deductions and provisions and to realize deferred tax assets; · Fluctuations in the exchange rates between the U.S. dollar and the other major currencies we use for our operations; · Our ability to collect accounts receivable; · Changes in certain commodities used as raw material, which may affect our gross margin; and · How long we will qualify as an emerging growth company or a foreign private issuer. Given these
+risks and uncertainties, you should not place undue reliance on forward-looking statements as a prediction of actual results. WE UNDERTAKE NO OBLIGATION
+TO PUBLICLY UPDATE OR REVISE ANY FORWARD-LOOKING STATEMENTS CONTAINED IN THIS PROSPECTUS OR THE DOCUMENTS TO WHICH WE REFER YOU IN THIS
+PROSPECTUS, TO REFLECT ANY CHANGE IN OUR EXPECTATIONS WITH RESPECT TO SUCH STATEMENTS OR ANY CHANGE IN EVENTS, CONDITIONS OR CIRCUMSTANCES
+ON WHICH ANY STATEMENT IS BASED, EXCEPT AS REQUIRED BY LAW. 6 CAPITALIZATION Our capitalization will be set forth in a prospectus
+supplement to this prospectus or in a report of foreign private issuer on Form 6-K subsequently furnished to the SEC and specifically
+incorporated herein by reference. 7 USE OF PROCEEDS Except as
+otherwise provided in the applicable prospectus supplement, we intend to use the net proceeds of this offering for general corporate purposes,
+which may include but are not limited to merger and acquisition activities, working capital and research and development expenditure. The intended application of
+proceeds from the sale of any particular offering of securities using this prospectus will be described in the accompanying prospectus
+supplement relating to such offering. The precise amount and timing of the application of these proceeds will depend on our funding requirements
+and the availability and costs of other funds. 8 DESCRIPTION OF ORDINARY SHARES The following
+description of our share structure is a summary of the material terms of our amended and restated memorandum and articles of association
+and BVI corporate law regarding our shares and the holders thereof. This description contains all material information concerning our
+shares but does not purport to be complete. General We are a
+British Virgin Islands Business Company (company number 2095496) and our affairs are governed by our memorandum and articles of association
+(“Articles”), the BVI Business Companies Act (“BVI Act”) and common law of the British Virgin Islands. Based upon
+the Articles, we are authorized to issue a maximum of 210,000,000 shares in two classes as follows: (a) 200,000,000 Ordinary Shares with a par value of USD 0.01 per share (“Ordinary Shares”); and (b) 10,000,000 Class F Shares with a par value of USD 0.05 per share (“Class F Shares”). As of the
+date of this prospectus, 104,508,901 Ordinary Shares are issued and outstanding and 1,499,800 Class F Shares are issued and outstanding.
+No preferred shares are issued or outstanding or authorized by our Articles. The following description summarizes the material terms of
+our shares as set out more particularly in our Articles. Because it is only a summary, it may not contain all the information that is
+important to you. Share Rights Each Ordinary Share confers upon the shareholder: (a) the right to attend any meeting of shareholders; (b) the right to one vote per Ordinary Share on any resolution of shareholders as against each other Ordinary Share but, as a class, the Ordinary Shares shall retain 50.01% of the Company’s voting power; (c) the right to an equal share in any dividend paid by the Company against each other Ordinary Share, which shall be one fifth of any amount paid by the Company against each Class F Share but which shall not rank in preference or be subordinate to any other share; (d) the right to an equal share in the distribution of the surplus assets of the Company against each other Ordinary Share, which shall be one fifth of any amount paid by the Company against each Class F Share but which shall not rank in preference to any other share; and (e) such other rights and entitlements as may be specified in the Articles. Our Ordinary Shareholders have
+no conversion, pre-emptive or other subscription rights and there are no sinking fund or redemption provisions applicable to the Ordinary
+Shares. Each Class F Share confers upon the shareholder: (a) the right to attend any meeting of shareholders; (b) a number of votes per Class F Share, on any matter that is submitted to a vote of shareholders, that would cause the total votes of all Class F Shares to equal 49.99% of the voting power of all shares (or, if the applicable voting standard is “a majority of the shares present in person or represented by proxy and entitled to vote on such matter”, 49.999999% of the voting power of shares present in person or represented by proxy and entitled to vote on such matter); (c) the right to an equal share in any dividend paid by the Company against each other Class F Shares, and which shall be five times greater than any amount paid by the Company against each Ordinary Share but which shall not rank in preference to any other share; and (d) the right to an equal share in the distribution of the surplus assets of the Company against each other Class F Shares, and which shall be five times greater than any amount paid by the Company against each Ordinary Share but which shall not rank in preference to any other share. The Class F Shares are subject
+to mandatory and automatic redemption, in the event of a change of control (being the acquisition by any person or entity, alone or jointly,
+of more than 50% of the voting rights of any Class F Shareholder which is a corporate entity), as determined by the Company’s board
+of directors, in exchange for the issuance of new Ordinary Shares at a ratio of five (5) Ordinary Shares for each one (1) Class F Share
+redeemed. The Class F Shares are non-transferable. 9 The Company
+and the holders of the Class F Shares have entered into a Class F Shareholders’ Agreement that provides, among other things, that
+the holders of Class F Shares: · will vote the Class F Shares held by them as one and in accordance with the majority (by the number of shares held) view of the holders of the Class F Shares; and · are bound by the redemption provisions set out in the Articles and that they will take all necessary action to comply with them. Register of Members Under the BVI Act, the shares are deemed to be issued
+when the name of the shareholder is entered in the register of members. Our register of members will be maintained by our transfer agent,
+Computershare Inc. If: (a) information that is required to be entered in the register of members is omitted from the register or is inaccurately entered in the register; or (b) there is unreasonable delay in entering information in the register, a shareholder
+of the company, or any person who is aggrieved by the omission, inaccuracy or delay, may apply to the British Virgin Islands Courts for
+an order that the register be rectified, and the court may either refuse the application or order the rectification of the register, and
+may direct the Company to pay all costs of the application and any damages the applicant may have sustained. Dividends We have not
+paid any cash dividends on our shares to date. The payment of cash dividends in the future will be dependent upon our revenues and earnings.
+Under the laws of the British Virgin Islands and our Articles, we may only pay a dividend or make a distribution to our shareholders if,
+following such dividend or distribution, the value of our assets will exceed our liabilities and we will be able to pay our debts as they
+fall due. In addition, the Second Tranche Notes prohibit us and our subsidiaries from paying dividends or other cash distributions, except
+for intercompany transfers to us and payments to WISeKey. Comparison of Shareholder Rights DELAWARE CORPORATE LAW BVI CORPORATE LAW Class actions and derivative actions generally are available to shareholders of a Delaware corporation for, among other things, breach of fiduciary duty, corporate waste and actions not taken in accordance with applicable law. In such actions, the court has discretion to permit the winning party to recover attorneys’ fees incurred in connection with such action. Class actions and derivative actions
+    are generally not available to shareholders under British Virgin Islands law. The British Virgin Islands courts,
+    however, would ordinarily be expected to permit a shareholder to commence an action in the name of a company to remedy a wrong to the
+    company where the act complained of is alleged to be beyond the corporate power of the company or illegal, or would result in the violation
+    of the company’s memorandum and articles of association. Furthermore, consideration would be given by a British Virgin Islands court
+    to acts that are alleged to constitute a fraud against the minority shareholders or, for instance, where an act requires the approval
+    of a greater percentage of the company’s shareholders than that which actually approved it. When the affairs of a company are
+    being conducted in a manner which is oppressive or prejudicial to the interests of some part of the shareholders, one or more shareholders
+    may apply to the High Court of the British Virgin Islands, which may make such order as it sees fit, including an order regulating the
+    conduct of the company’s affairs in the future or ordering the purchase of the shares of any shareholders by other shareholders
+    or by the company. 10 DELAWARE CORPORATE LAW BVI CORPORATE LAW Under the Delaware General Corporation Law,
+the board of directors has the authority to fix the compensation of directors, unless otherwise restricted by the certificate of incorporation
+or bylaws. The Articles contain a provision that the board of directors has the power to determine the remuneration, if any, of the directors. Unless directors are elected by
+    written consent in lieu of an annual meeting, directors are elected in an annual meeting of stockholders on a date and at a time designated
+    by or in the manner provided in the bylaws. Re-election is possible. Classified boards are permitted. The Articles provide that the directors shall be appointed at the Company’s annual general meeting and will hold office until the next annual general meeting or until their earlier death, resignation or removal. Re-election is possible. The directors of the Company may appoint directors where there is a vacancy. The Delaware General Corporation
+    Law provides that a certificate of incorporation may contain a provision eliminating or limiting the personal liability of directors (but
+    not other controlling persons) of the corporation for monetary damages for breach of a fiduciary duty as a director, except no provision
+    in the certificate of incorporation may eliminate or limit the liability of a director for: · any breach of a director’s duty of loyalty to the corporation or its shareholders; · acts or omissions not in good faith or which involve intentional misconduct or
+    a knowing violation of law; · statutory liability for unlawful payment of dividends or unlawful stock purchase
+    or redemption; or · any transaction from which the director derived an improper personal benefit. A Delaware corporation may indemnify
+    any person who was or is a party or is threatened to be made a party to any proceeding, other than an action by or on behalf of the corporation,
+    because the person is or was a director or officer, against liability incurred in connection with the proceeding if the director or officer
+    acted in good faith and in a manner reasonably believed to be in, or not opposed to, the best interests of the corporation; and the director
+    or officer, with respect to any criminal action or proceeding, had no reasonable cause to believe his or her conduct was unlawful. Unless ordered by a court, any foregoing
+    indemnification is subject to a determination that the director or officer has met the applicable standard of conduct: · by a majority vote of the directors who are not parties to the proceeding, even
+    though less than a quorum; · by a committee of directors designated by a majority vote of the eligible directors,
+    even though less than a quorum; · by independent legal counsel in a written opinion if there are no eligible directors,
+    or if the eligible directors so direct; or · by the shareholders. Moreover, a Delaware corporation
+    may not indemnify a director or officer in connection with any proceeding in which the director or officer has been adjudged to be liable
+    to the corporation unless and only to the extent that the court determines that, despite the adjudication of liability but in view of
+    all the circumstances of the case, the director or officer is fairly and reasonably entitled to indemnity for those expenses which the
+    court deems proper. Section 132 of the BVI Act, and
+    the Articles, provide that, subject to certain limitations, SEALSQ shall indemnify its directors and officers against all expenses, including
+    legal fees, and against all judgments, fines and amounts paid in settlement and reasonably incurred in connection with legal, administrative
+    or investigative proceedings. Such indemnity only applies if the person acted honestly and in good faith with a view to the best interests
+    of the company and, in the case of criminal proceedings, the person had no reasonable cause to believe that their conduct was unlawful. Section 133 of the BVI Act permits
+    a company to purchase and maintain insurance for the benefit of any officer or director in respect of any loss or liability attaching
+    to them in respect of any negligence, default, breach of duty or breach of trust, whether or not we may otherwise indemnify such officer
+    or director. 11 DELAWARE CORPORATE LAW BVI CORPORATE LAW A director of a Delaware corporation
+    has a fiduciary duty to the corporation and its shareholders. This duty has two components: · the duty of care; and · the duty of loyalty. The BVI Act imposes a duty on directors
+    and officers of a British Virgin Islands company: (a) to
+    act honestly and in good faith and in what the director believes to be in the best interests of the company when exercising their powers
+    as a director; (b) to
+    exercise the reasonable care, diligence, and skill that a reasonable director would exercise in the same circumstances taking into account, but without limitation: i. the
+    nature of the company; ii. the
+    nature of the decision; and iii. the position of the director
+    and the nature of their responsibilities; (c) to
+    exercise their duties for proper purpose and in accordance with the BVI Act and the memorandum and association of the company; and (d) to
+disclose any interest which they have in a transaction entered into or to be entered into by the company. The statutory duties imposed on
+    directors, by the BVI Act, are further supplemented by common law duties established (over centuries) of case law. There is considerable
+    overlap between the common law and the BVI Act and in most circumstances it is not necessary to consider the two separately. In addition, the BVI Act imposes
+    various duties on directors and officers of a company with respect to certain matters of management and administration of the company. The duty of care requires that a
+    director act in good faith, with the care that an ordinarily prudent person would exercise under similar circumstances. Under this duty,
+    a director must inform himself of, and disclose to shareholders, all material information reasonably available regarding a significant
+    transaction. The duty of loyalty requires that a director act in a manner he reasonably believes to be in the best interests of the corporation.
+    He must not use his corporate position for personal gain or advantage. This duty prohibits self-dealing by a director and mandates that
+    the best interest of the corporation and its shareholders take precedence over any interest possessed by a director, officer or controlling
+    shareholder and not shared by the shareholders generally. In general, actions of a director are presumed to have been made on an informed
+    basis, in good faith and in the honest belief that the action taken was in the best interests of the corporation. However, this presumption
+    may be rebutted by evidence a breach of one of the fiduciary duties. Should such evidence be presented
+    concerning a transaction by a director, a director must prove the procedural fairness of the transaction, and that the transaction was
+    of fair value to the corporation. The BVI Act also imposes a duty
+    on directors and officers of a British Virgin Islands company to: (a) act
+    honestly and in good faith with a view to the best interests of the company; and (b) exercise
+    the care, diligence and skill that a reasonable director or officer would exercise in the same circumstances. In addition, the BVI Act imposes
+    various duties on directors and officers of a company with respect to certain matters of management and administration of the company. 12 DELAWARE CORPORATE LAW BVI CORPORATE LAW A Delaware corporation may, in its certificate of incorporation, eliminate the right of shareholders to act by written consent. The BVI Act provides that shareholders may
+    take action by written consent. Under the Articles a resolution in writing is passed when it is signed by the shareholders of the
+    Company who at the date of the notice of the resolution represent such majority of votes of shares as would be entitled to vote on
+    such resolution. A shareholder of a Delaware
+corporation has the right to put any proposal before the annual meeting of shareholders, provided it complies with the notice provisions
+in the governing documents. A special meeting may be called by the board of directors or any other person authorized to do so in the
+governing documents, but shareholders may be precluded from calling special meetings. Under the Articles, shareholders entitled to exercise 30% or more of the voting rights, in respect of the matter for which the meeting is requested, can require the directors to convene a meeting of shareholders. Under the Delaware General Corporation Law, cumulative voting for elections of directors is not permitted unless the corporation’s certificate of incorporation provides for it. Under British Virgin Islands law,
+    the voting rights of shareholders are regulated by the company’s memorandum and articles of association and, in certain circumstances,
+    by the BVI Act. The Articles do not provide for cumulative
+    voting. A Delaware corporation with a classified board may be removed only for cause with the approval of a majority of the outstanding shares entitled to vote, unless the certificate of incorporation provides otherwise. Under the Articles, a director may be removed: (a) with
+    or without cause, by resolution of shareholders passed at a meeting of shareholders called for the purpose of removing the director
+    or for purposes including the removal of the director or by a written resolution passed by at least 75% of the votes of the shares
+    entitled to vote; or (b) with
+    cause, by resolution of directors passed by all directors other than the director being removed at a meeting of directors called for the
+    purpose of removing the director or for purposes including the removal of the director. The Delaware General Corporation Law generally
+prohibits a Delaware corporation from engaging in certain business combinations with an “interested shareholder” for three
+years following the date that such person becomes an interested shareholder. An interested shareholder generally is a person or group
+who or which owns or owned 15.0% or more of the corporation’s outstanding voting stock within the past three years. There is no similar law in the British Virgin Islands. Unless the board of directors of a Delaware corporation approves the proposal to dissolve, dissolution must be approved by shareholders holding 100.0% of the total voting power of the corporation. Only if the dissolution is initiated by the board of directors may it be approved by a simple majority of the corporation’s outstanding shares. Delaware law allows a Delaware corporation to include in its certificate of incorporation a supermajority voting requirement in connection with dissolutions initiated by the board. As permitted by the BVI Act and
+    our Articles, we may be voluntarily liquidated under Part XII of the BVI Act by resolution of directors or resolution of shareholders
+    if we have no liabilities or we are able to pay our debts as they fall due and the value of our assets equals or exceeds our liabilities. A company may also be wound up where
+    a court deems it just and equitable to do so and in circumstances where they are insolvent in accordance with the terms of the BVI Insolvency
+    Act. 13 DELAWARE CORPORATE LAW BVI CORPORATE LAW A Delaware corporation may vary the rights of a class of shares with the approval of a majority of the outstanding shares of such class, unless the certificate of incorporation provides otherwise. Under the Articles, the rights conferred upon
+the holders of our shares of any class may only be varied with the consent in writing of the holders of a majority of the issued shares
+of that class or by a resolution approved at a meeting of the shares of that class by the affirmative vote of a majority of the votes
+of the shares of that class which were present at the meeting and were voted. A Delaware corporation’s governing documents may be amended with the approval of a majority of the outstanding shares entitled to vote, unless the certificate of incorporation provides otherwise. A British Virgin Islands company’s memorandum and articles of association may be amended by resolutions of the board of directors
+and the shareholders, subject to the BVI Act and the memorandum and articles of association. Shareholders of a Delaware corporation, upon written demand under oath stating the purpose thereof, have the right during the usual hours for business to inspect for any proper purpose, and to obtain copies of list(s) of shareholders and other books and records of the corporation and its subsidiaries, if any, to the extent the books and records of such subsidiaries are available to the corporation. Under the BVI Act, members of the
+    general public, on payment of a nominal fee, can obtain copies of the public records of a company available at the office of the BVI Registrar
+    which will include the company’s certificate of incorporation, its memorandum and articles of association (with any amendments),
+    a list of the current directors and records of license fees paid to date and will also disclose any articles of dissolution, articles
+    of merger and a register of charges if the company has elected to file such a register. A shareholder of a company is entitled,
+    on giving written notice to the company, to inspect: (a) the
+    memorandum and articles; (b) the
+    register of members; (c) the
+    register of directors; and (d) the
+    minutes of meetings and resolutions of members and of those classes of members of which they are a member, and to make copies
+    of or take extracts from the documents and records referred to above. Subject to the memorandum and articles
+    of association, the directors may, if they are satisfied that it would be contrary to the company’s interests to allow a member
+    to inspect any document, or part of a document, specified above, refuse to permit the member to inspect the document or limit the inspection
+    of the document, including limiting the making of copies or the taking of extracts from the records. Where a company fails or refuses
+    to permit a member to inspect a document or permits a member to inspect a document subject to limitations, that member may apply to a
+    British Virgin Islands Court for an order that they should be permitted to inspect the document or to inspect the document without limitation. 14 DELAWARE CORPORATE LAW BVI CORPORATE LAW The board of directors may approve
+    a dividend without shareholder approval. Subject to any restrictions contained in its certificate of incorporation, the board may declare
+    and pay dividends upon the shares of its capital stock either: · out of its surplus, or · in case there is no such surplus, out of its net profits for the fiscal year
+    in which the dividend is declared and/or the preceding fiscal year. Stockholder approval is required
+    to authorize capital stock in excess of that provided in the charter. Directors may issue authorized shares without stockholder approval. Under British Virgin Islands law,
+    the board of directors may declare a dividend without shareholder approval, but a company may not declare or pay dividends if there are
+    reasonable grounds for believing that: (a) the
+    company is, or would after the payment be, unable to pay its debts as they fall due; or (b) that
+    the value of the company’s assets would be less than its liabilities. All creation of shares require the board of directors to adopt a resolution or resolutions, pursuant to authority expressly vested in the board of directors by the provisions of the company’s certificate of incorporation. The number of shares that a British
+    Virgin Islands company is authorized to issue is set out in the memorandum and articles of association. The Articles provide that the company
+    is authorized to issue 210,000,000 shares in two classes as follows: (a)    200,000,000 Ordinary Shares; and (b)    10,000,000 Class F Shares. Under the Delaware General Corporation Law, with certain exceptions, a merger, consolidation, sale, lease or transfer of all or substantially all of the assets of a corporation must be approved by the board of directors and a majority of the outstanding shares entitled to vote thereon. A shareholder of a Delaware corporation participating in certain major corporate transactions may, under certain circumstances, be entitled to appraisal rights pursuant to which such shareholder may receive cash in the amount of the fair value of the shares held by such shareholder (as determined by a court) in lieu of the consideration such shareholder would otherwise receive in the transaction. The Delaware General Corporation Law also provides that a parent corporation, by resolution of its board of directors, may merge with any subsidiary, of which it owns at least 90.0% of each class of capital stock without a vote by the shareholders of such subsidiary. Upon any such merger, dissenting shareholders of the subsidiary would have appraisal rights. The consolidation or merger of a
+    British Virgin Islands company with another company or corporation (other than certain affiliated companies) requires the consolidation
+    or merger to be approved by the company’s board of directors and by its shareholders. Unless the company’s memorandum and
+    articles of association provide otherwise, the approval of a majority of the shareholders voting at a meeting of shareholders is required
+    to approve the consolidation or merger agreement. Under British Virgin Islands law,
+    in the event of a consolidation or merger of a British Virgin Islands company with another company or corporation, a shareholder of the
+    British Virgin Islands company who did not vote in favor of the amalgamation or merger and who is not satisfied that fair value has been
+    offered for such shareholder’s shares may seek fair value for those shares in accordance with Section 179 of the BVI Act. 15 DESCRIPTION OF WARRANTS The following
+description, together with the additional information we may include in any applicable prospectus supplements, summarizes the material
+terms and provisions of the warrants that we may offer under this prospectus and the related warrant agreements and warrant certificates.
+While the terms summarized below will apply generally to any warrants that we may offer under this prospectus, we will describe the particular
+terms of any series of warrants that we may offer in more detail in the applicable prospectus supplement. If we indicate in the prospectus
+supplement, the terms of any warrants offered under that prospectus supplement may differ from the terms described below. However, no
+prospectus supplement shall fundamentally change the terms that are set forth in this prospectus or offer a security that is not registered
+and described in this prospectus at the time of its effectiveness. Specific warrant agreements will contain additional important terms
+and provisions and will be incorporated by reference as an exhibit to the registration statement that includes this prospectus or as an
+exhibit to a report filed under the Exchange Act. General The applicable prospectus supplement will describe the terms
+of the warrants, including as applicable: · the offering price; · the aggregate number or amount of underlying securities purchasable upon exercise of the warrants and the exercise price; · the number of warrants being offered; · the date, if any, after which the warrants and the underlying securities will be transferable separately; · the date on which the right to exercise the warrants will commence, and the date on which the right will expire; · the number of warrants outstanding, if any; · any material BVI and/or U.S. federal income tax consequences; · the terms, if any, on which we may accelerate the date by which the warrants must be exercised; and · any other terms of the warrants, including terms, procedures and limitations relating to the exchange and exercise of the warrants. Warrants will be offered and exercisable for U.S. dollars
+only and will be in registered form only. Holders of
+warrants will be able to exchange warrant certificates for new warrant certificates of different denominations, present warrants for registration
+of transfer, and exercise warrants at the designated office of the warrant agent in the applicable prospectus supplement. Prior to the
+exercise of any warrants, holders of the warrants to purchase Ordinary Shares will not have any rights of holders of Ordinary Shares,
+including the right to receive payments of dividends, if any, or to exercise any applicable right to vote. Certain Risk Considerations Any warrants
+we issue will involve a degree of risk, including risks arising from fluctuations in the price of the underlying Ordinary Shares and general
+risks applicable to the securities market (or markets) on which the underlying securities trade, as applicable. Prospective purchasers
+of the warrants will need to recognize that the warrants may expire worthless, and, thus, purchasers should be prepared to sustain a total
+loss of the purchase price of their warrants. This risk reflects the nature of a warrant as an asset that, other factors held constant,
+tends to decline in value over time and that may, depending on the price of the underlying securities, become worthless when it expires.
+The trading price of a warrant at any time is expected to increase if the price of or, if applicable, the dividend rate on, the underlying
+securities increases. Conversely, the trading price of a warrant is expected to decrease as the time remaining to expiration of the warrant
+decreases and as the price of or, if applicable, the dividend rate on, the underlying securities, decreases. Assuming all other factors
+are held constant, the more a warrant is “out-of-the-money” (i.e., the more the exercise price exceeds the price of the underlying
+securities and the shorter its remaining term to expiration), the greater the risk that a purchaser of the warrant will lose all or part
+of his or her investment. If the price of the underlying securities does not rise before the warrant expires to an extent sufficient to
+cover a purchaser’s cost of the warrant, the purchaser will lose all or part of his or her investment in the warrant upon expiration. In addition,
+prospective purchasers of the warrants should be experienced with respect to options and option transactions, should understand the risks
+associated with options and should reach an investment decision only after careful consideration, with their financial advisers, of the
+suitability of the warrants in light of their particular financial circumstances and the information discussed in this prospectus and,
+if applicable, the prospectus supplement. Before purchasing, exercising or selling any warrants, prospective purchasers and holders of
+warrants should carefully consider, among other things: · the trading price of the warrants; · the price of the underlying securities at that time; · the time remaining to expiration; and · any related transaction costs. Some of the factors referred to above are in turn
+influenced by various political, economic and other factors that can affect the trading price of the underlying securities and should
+be carefully considered prior to making any investment decisions. 16 Purchasers
+of the warrants should further consider that the initial offering price of the warrants may be in excess of the price that a purchaser
+of options might pay for a comparable option in a private, less liquid transaction. In addition, it is not possible to predict the price
+at which the warrants will trade in the secondary market or whether any such market will be liquid. We may, but will not be obligated
+to, file an application to list any warrants on a U.S. national securities exchange. To the extent that any warrants are exercised, the
+number of warrants outstanding will decrease, which may result in a lessening of the liquidity of the warrants. Finally, the warrants
+will constitute our direct, unconditional and unsecured obligations and, as such, will be subject to any changes in our perceived creditworthiness. Exercise of Warrants Each holder
+of a warrant will be entitled to purchase that number or amount of underlying securities, at the exercise price, as will in each case
+be described in the prospectus supplement relating to the offered warrants. After the close of business on the warrant expiration date
+(which may be extended by us), unexercised warrants will become void. Holders may
+exercise warrants by delivering to the warrant agent payment as provided in the applicable prospectus supplement of the amount required
+to purchase the underlying securities purchasable upon exercise, together with the information set forth on the reverse side of the warrant
+certificate. Warrants will be deemed to have been exercised upon receipt of payment of the exercise price, subject to the receipt of the
+warrant certificate evidencing the exercised warrants. Upon receipt of payment and the warrant certificate properly completed and duly
+executed at the designated office of the warrant agent in the applicable prospectus supplement, we will, as soon as practicable, issue
+and deliver the underlying securities purchasable upon such exercise. If fewer than all of the warrants represented by a warrant certificate
+are exercised, we will issue a new warrant certificate for the remaining amount of warrants. Amendments and Supplements to Warrant Agreements We may amend or supplement
+the warrant agreement without the consent of the holders of the warrants issued under the agreement to effect changes that are not inconsistent
+with the provisions of the warrants and that do not adversely affect the interests of the holders of warrants. 17 DESCRIPTION OF SUBSCRIPTION RIGHTS We may issue
+subscription rights to purchase our Ordinary Shares. These subscription rights may be issued independently or together with any other
+security offered hereby and may or may not be transferable by the shareholder receiving the subscription rights in such offering. In connection
+with any offering of subscription rights, we may enter into a standby arrangement with one or more underwriters or other purchasers pursuant
+to which the underwriters or other purchasers may be required to purchase any securities remaining unsubscribed for after such offering. The prospectus
+supplement relating to any subscription rights we offer, if any, will, to the extent applicable, include specific terms relating to the
+offering, including some or all of the following: · the price, if any, for the subscription rights; · the exercise price payable for each Ordinary Share upon the exercise of the subscription rights; · the number of subscription rights to be issued to each shareholder; · the number and terms of the Ordinary Shares which may be purchased per each subscription right; · the extent to which the subscription rights are transferable; · any other terms of the subscription rights, including the terms, procedures and limitations relating to the exchange and exercise of the subscription rights; · the date on which the right to exercise the subscription rights shall commence, and the date on which the subscription rights shall expire; · the extent to which the subscription rights may include an over-subscription privilege with respect to unsubscribed securities; and · if applicable, the material terms of any standby underwriting or purchase arrangement which may be entered into by us in connection with the offering of subscription rights. The description in the applicable
+prospectus supplement of any subscription rights we offer will not necessarily be complete and will be qualified in its entirety by reference
+to the applicable subscription right agreement, which will be filed with the SEC if we offer subscription rights. For more information
+on how you can obtain copies of the applicable subscription right agreement if we offer subscription rights, see “ Where
+You Can Find More Information ” below and “ Incorporation
+of Certain Documents by Reference ” below. We urge you to read the applicable subscription right agreement and any applicable
+prospectus supplement in their entirety. 18 DESCRIPTION OF UNITS We may issue
+units comprised of one or more of the other securities described in this prospectus in any combination. Each unit will be issued so that
+the holder of the unit is also the holder of each security included in the unit. Thus, the holder of a unit will have the rights and obligations
+of a holder of each included security. The unit agreement under which a unit is issued may provide that the securities included in the
+unit may not be held or transferred separately, at any time or at any time before a specified date. The applicable prospectus supplement will describe: · the designation and terms of the units and of the securities comprising the units, including whether and under what circumstances those securities may be held or transferred separately; · the material terms of a unit agreement under which the units will be issued; · any provisions for the issuance, payment, settlement, transfer or exchange of the units or of the securities comprising the units; and · whether the units will be issued in fully registered or global form. The applicable prospectus supplement
+will describe the terms of any units. The preceding description and any description of units in the applicable prospectus supplement
+does not purport to be complete and is subject to and is qualified in its entirety by reference to the unit agreement and, if applicable,
+collateral arrangements and depositary arrangements relating to such units. For more information on how you can obtain copies of the
+applicable unit agreement if we offer units, see “ Where You Can Find
+More Information ” below and “ Incorporation of Certain
+Documents by Referenc e” below. We urge you to read the applicable unit agreement and any applicable prospectus supplement
+in their entirety. 19 TAXATION The material BVI and U.S. federal
+income tax consequences relating to the purchase, ownership and disposition of any of the securities offered by this prospectus will
+be set forth in the applicable prospectus supplement offering those securities or incorporated by reference from our Annual Report on
+Form 20-F or other public filings we make with the SEC. 20 PLAN OF DISTRIBUTION We may sell
+the securities described in this prospectus through underwriters or dealers, through agents, directly to one or more purchasers, “at-the-market”
+offerings, negotiated transactions, block trades or through a combination of these methods. The applicable prospectus supplement will
+describe the terms of the offering of the securities, including: • the name or names of any underwriters, if any, and if required, any dealers or agents, and the amount of securities underwritten or purchased by each of them, if any; • the public offering price or purchase price of the securities from us and the net proceeds to us from the sale of the securities; • any underwriting discounts and other items constituting underwriters’ compensation; • any discounts or concessions allowed or re-allowed or paid to dealers; and • any securities exchange or market on which the securities may be listed. We may distribute the securities from time to time in one
+or more transactions at: • a fixed price or prices, which may be changed; • market prices prevailing at the time of sale; • varying prices determined at the time of sale related to such prevailing market prices; or • negotiated prices. 21 Only underwriters
+named in the prospectus supplement will be underwriters of the securities offered by the prospectus supplement. If we use
+underwriters in the sale, the underwriters will either acquire the securities for their own account and may resell the securities from
+time to time in one or more transactions at a fixed public offering price or at varying prices determined at the time of sale, or sell
+the securities on a “best efforts, minimum/maximum basis” when the underwriters agree to do their best to sell the securities
+to the public. We may offer the securities to the public through underwriting syndicates represented by managing underwriters or by underwriters
+without a syndicate. Any public offering price and any discounts or concessions allowed or re- allowed or paid to dealers may change from
+time to time. If we use
+a dealer in the sale of the securities being offered pursuant to this prospectus or any prospectus supplement, the securities will be
+sold directly to the dealer, as principal. The dealer may then resell the securities to the public at varying prices to be determined
+by the dealer at the time of resale. Our ordinary
+shares are listed on the Nasdaq Capital Market. Unless otherwise specified in the related prospectus supplement, all securities we offer,
+other than ordinary shares, will be new issues of securities with no established trading market. Any underwriter may make a market in
+these securities, but will not be obligated to do so and may discontinue any market making at any time without notice. We may apply to
+list securities that we offer on an exchange, but we are not obligated to do so. Therefore, there may not be liquidity or a trading market
+for any series of securities. We may sell
+the securities directly or through agents we designate from time to time. We will name any agent involved in the offering and sale of
+securities and we will describe any commissions we may pay the agent in the applicable prospectus supplement. We may authorize
+agents or underwriters to solicit offers by institutional investors to purchase securities from us at the public offering price set forth
+in the prospectus supplement pursuant to delayed delivery contracts providing for payment and delivery on a specified date in the future.
+We will describe the conditions to these contracts and the commissions we must pay for solicitation of these contracts in the applicable
+prospectus supplement. In connection with the sale
+of the securities, underwriters, dealers or agents may receive compensation from us or from purchasers of the securities for whom they
+act as agents in the form of discounts, concessions or commissions. Underwriters may sell the securities to or through dealers, and those
+dealers may receive compensation in the form of discounts, concessions or commissions from the underwriters or commissions from the purchasers
+for whom they may act as agents. Underwriters, dealers and agents that participate in the distribution of the securities, and any institutional
+investors or others that purchase securities directly and then resell the securities, may be deemed to be underwriters, and any discounts
+or commissions received by them from us and any profit on the resale of the securities by them may be deemed to be underwriting discounts
+and commissions under the Securities Act of 1933. 22 LEGAL MATTERS Certain legal
+matters with respect to British Virgin Islands law in connection with this offering are being passed upon for us by Harney Westwood &
+Riegels LP. Certain matters of U.S. federal and New York law are being passed upon for us by Patterson Belknap Webb & Tyler LLP, New
+York, New York. EXPERTS The financial
+statements of SEALSQ Corp as of and for the year ended December 31, 2024 and December 31, 2023, in each case incorporated by reference
+in this prospectus from the Company’s Annual Report on Form 20-F for the year ended December 31, 2024 have been so incorporated
+in reliance on the reports of BDO Ltd, an independent registered public accounting firm, given upon the authority of said firm as experts
+in accounting and auditing. The financial statements of SEALSQ Corp Predecessor as of and for the year ended December 31, 2022, incorporated
+by reference in this prospectus from the Company’s Annual Report on Form 20-F for the year ended December 31, 2024 have been so
+incorporated in reliance on the report of BDO Rhône Alpes, an independent registered public accounting firm, given upon their authority
+as experts in accounting and auditing. INCORPORATION OF CERTAIN DOCUMENTS
+BY REFERENCE The SEC allows
+us to incorporate by reference our publicly filed reports into this prospectus, which means that information included in those reports
+is considered part of this prospectus. Because we are incorporating by reference future filings with the SEC, this prospectus is continually
+updated and those future filings may modify or supersede some of the information included or incorporated by reference in this prospectus.
+This means that you must look at all of the SEC filings that we incorporate by reference to determine if any of the statements in this
+prospectus or in any document previously incorporated by reference have been modified or superseded. This prospectus incorporates by reference
+the documents listed below and any future filings we make with the SEC under Sections 13(a), 13(c), 14 or 15(d) of the Securities Exchange
+Act of 1934 (the “Exchange Act”) (in each case, other than those documents or the portions of those documents furnished, rather
+than filed), and, to the extent designated therein, reports on Form 6-K, until the offering of the securities under the registration statement
+of which this prospectus forms a part is terminated or completed: · our Annual Report on Form 20-F for the year ended December 31, 2024, filed with the SEC on March 20, 2025; · our Reports on Form 6-K furnished by us to the SEC on March 21, 2025 and March 24, 2025; and · the description of our Ordinary Shares contained in our Registration Statement on Form 8-A filed with the SEC on May 18, 2023, as amended by Exhibit 2.4 to our Annual Report on Form 20-F for the year ended December 31, 2024, filed with the SEC on March 20, 2025, as further amended and supplemented by the description of our Securities contained in this prospectus under “ Description of Ordinary Shares ,” including any subsequent amendment or any report filed for the purpose of updating such description. The SEC maintains
+an Internet site at http://www.sec.gov that contains reports, proxy and information statements, and other information regarding issuers
+like us that file electronically with the SEC. We will also
+incorporate by reference all subsequent Annual Reports on Form 20-F that we file with the SEC. In addition, we will incorporate by reference
+certain future materials furnished to the SEC on Form 6-K after the date of the initial registration statement, but only to the extent
+specifically indicated in those submissions or in a future prospectus supplement. Each subsequently filed Annual Report should be deemed
+to supersede entirely each earlier filed Annual Report and the materials furnished on an earlier Form 6-K and, unless explicitly stated
+otherwise, such earlier reports should not be deemed to be part of this prospectus or any accompanying prospectus supplement and you should
+not rely upon statements made in those earlier periodic reports. In all cases, you should rely on the later information over different
+information in this prospectus or any accompanying prospectus supplement. We will furnish
+without charge to you, on written or oral request, a copy of any or all of the above documents, other than exhibits to such documents
+which are not specifically incorporated by reference therein. You should direct any requests for documents to: SEALSQ Corp Avenue Louis-Casaï 58 1216 Cointrin Switzerland Tel: 011-41-22-594-3000 Fax: 011-41-22-594-3001 The information relating to
+us contained in this prospectus is not comprehensive and should be read together with the information contained in the incorporated documents.
+Descriptions contained in the incorporated documents as to the contents of any contract or other document may not contain all of the
+information which is of interest to you. You should refer to the copy of such contract or other document filed as an exhibit to our filings. 23 WHERE YOU CAN FIND MORE INFORMATION We have filed
+with the SEC a registration statement on Form F-3 under the Securities Act, relating to this offering of securities. As permitted by SEC
+rules, this prospectus does not contain all of the information contained in the registration statement of which this prospectus forms
+a part. Statements made in this prospectus concerning the contents of any contract, agreement or other document are summaries of all material
+information about the documents summarized, but are not complete descriptions of all terms of these documents. If we filed any of these
+documents as an exhibit to the registration statement, you may read the document itself for a complete description of its terms. We are subject
+to the informational requirements of the Exchange Act applicable to foreign private issuers. In accordance with the Exchange Act, we file
+reports, including annual reports on Form 20-F containing financial statements audited by an independent accounting firm. We also furnish
+to the SEC, under cover of Reports of Foreign Private Issuer on Form 6-K, material information required to be made public by us or filed
+by us with and made public by any stock exchange or distributed by us to our shareholders. Such reports and other information filed with
+the SEC are available to the public over the internet at the SEC’s website at http://www.sec.gov. We also generally make available
+on our own website (www.sealsq.com) our half-year and year-end financial statements as well as other information. As a foreign
+private issuer, we are exempt from the rules under the Exchange Act prescribing the furnishing and content of proxy statements to shareholders,
+and our officers, directors and principal shareholders are exempt from the “short-swing profits” reporting and liability provisions
+contained in Section 16 of the Exchange Act and related Exchange Act rules. In addition, we are not required under the Exchange Act to
+file periodic reports and financial statements as frequently or as promptly as U.S. companies whose securities are registered under the
+Exchange Act. We maintain
+a corporate website at www.sealsq.com. Information contained on, or that can be accessed through, our website does not constitute a part
+of this prospectus. We have included our website address in this prospectus solely as an inactive textual reference. ENFORCEABILITY OF CIVIL LIABILITIES We are incorporated
+under the laws of the British Virgin Islands and our principal executive offices are located outside the United States. Most of our directors
+and officers and those of our subsidiaries are residents of countries other than the United States. Substantially all of our and our subsidiaries’
+assets and a substantial portion of the assets of our directors and officers are located outside the United States. As a result, it may
+be difficult or impossible for United States investors to effect service of process within the United States upon us, our directors or
+officers or our subsidiaries, or to realize against us or them judgments obtained in United States courts, including judgments predicated
+upon the civil liability provisions of the securities laws of the United States or any state in the United States. Furthermore,
+there is substantial doubt that courts in jurisdictions outside the U.S. (i) would enforce judgments of U.S. courts obtained in actions
+against us or our directors or officers based upon the civil liability provisions of applicable U.S. federal and state securities laws
+or (ii) would enforce, in original actions, liabilities against us or our directors or officers based on those laws. EXPENSES The following
+is an estimate of the expenses (all of which are to be paid by us) that we may incur in connection with the securities being registered
+hereby. Each prospectus supplement describing an offering of securities will reflect the estimated expenses related to the offering of
+securities under that prospectus supplement. SEC registration fees $ 76,550.00 FINRA filing fee $ 75,500.00 Legal fees and expenses $ * Accountants’ fees and expenses $ * Miscellaneous $ * Total $ * * These fees and expenses depend on the securities offered and the number of issuances and accordingly cannot be estimated at this time. These fees will be provided by a prospectus supplement or a Report on Form 6-K that is incorporated by reference into this prospectus. 24 12,640,000 Ordinary Shares SEALSQ Corp Prospectus Supplement Maxim
+Group LLC October 15, 2025

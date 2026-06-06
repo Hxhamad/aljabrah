@@ -1,0 +1,13 @@
+{
+  "cache_used": false,
+  "company_name": "TeraWulf Inc.",
+  "currency": "USD",
+  "downloaded_at_utc": "2026-06-06T11:30:32Z",
+  "exchange": "NCM",
+  "market_cap": 11892783104,
+  "metadata_status": "checked",
+  "rows": 8097,
+  "sector": "Financial Services",
+  "source": "yfinance",
+  "ticker": "WULF"
+}

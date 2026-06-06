@@ -1,0 +1,589 @@
+S-3 1 tm2611840d2_s3.htm FORM S-3 As filed with the U.S. Securities and Exchange
+Commission on April 17, 2026 Registration No. 333- UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM S-3 REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933 SMARTKEM, INC. (Exact name of registrant as specified in its charter) Delaware 82-1083654 (State or other jurisdiction of (I.R.S. Employer incorporation or organization) Identification Number) Manchester Technology Center, Hexagon Tower Delaunays Road, Blackley Manchester, M9 8GQ U.K. 011-44-161-721-1514 (Address, including zip code, and telephone number,
+including area code, of registrant’s principal executive offices) Barbra C. Keck Chief Financial Officer Manchester Technology Center, Hexagon Tower Delaunays Road, Blackley Manchester, M9 8GQ U.K. 011-44-161-721-1514 (Name, address, including zip code, and telephone
+number, including area code, of agent for service) Copies to: Richard A. Friedman, Esq. Sean F. Reid, Esq. Sheppard, Mullin, Richter & Hampton
+LLP 30 Rockefeller Plaza New York, NY 10112 Tel: (212) 653-8700 Fax: (212) 653-8701 Approximate date of commencement of proposed
+sale to the public: From time to time, after the effective date of this registration statement. If the only securities
+being registered on this Form are being offered pursuant to dividend or interest reinvestment plans, please check the following box. ¨ If any of the securities
+being registered on this Form are to be offered on a delayed or continuous basis pursuant to Rule 415 under the Securities Act
+of 1933, other than securities offered only in connection with dividend or interest reinvestment plans, check the following box. x If this Form is
+filed to register additional securities for an offering pursuant to Rule 462(b) under the Securities Act, please check the following
+box and list the Securities Act registration statement number of the earlier effective registration statement for the same offering. ¨ If this Form is
+a post-effective amendment filed pursuant to Rule 462I under the Securities Act, check the following box and list the Securities
+Act registration statement number of the earlier effective registration statement for the same offering. ¨ If this Form is
+a registration statement pursuant to General Instruction I.D. or a post-effective amendment thereto that shall become effective upon filing
+with the Commission pursuant to Rule 462I under the Securities Act, check the following box. ¨ If this Form is
+a post-effective amendment to a registration statement filed pursuant to General Instruction I.D. filed to register additional securities
+or additional classes of securities pursuant to Rule 413(b) under the Securities Act, check the following box. ¨ Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company.
+See the definitions of  “large accelerated filer,” “accelerated filer,” “smaller reporting company”
+and “emerging growth company” in Rule 12b-2 of the Exchange Act. Large accelerated filer ¨ Accelerated filer ¨ Non-accelerated filer x Smaller reporting company x Emerging growth company ¨ If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 7(a)(2)(B) of Securities Act. ☐ The Registrant hereby amends this Registration
+Statement on such date or dates as may be necessary to delay its effective date until the Registrant shall file a further amendment that
+specifically states that this Registration Statement shall thereafter become effective in accordance with Section 8(a) of the
+Securities Act or until this Registration Statement shall become effective on such date as the Commission, acting pursuant to said Section 8(a),
+may determine. The information in this prospectus is not complete and
+may be changed. The selling stockholders listed herein may not sell these securities until the registration statement filed with the U.S.
+Securities and Exchange Commission becomes effective. This prospectus is not an offer to sell the securities and it is not soliciting
+an offer to buy the securities in any state where offers or sales are not permitted. PRELIMINARY PROSPECTUS Subject to completion, dated April 17,
+2026 126,453,978 Shares of Common Stock The selling stockholders named in this prospectus may use this prospectus
+to offer and resell from time to time up to 126,453,978 shares of our common stock, par value $0.0001 per share (“Common Stock”),
+which are comprised of (i) 101,910,996 shares of Common Stock (the “Conversion Shares”) issuable upon conversion of 21,411.5
+shares of the Company's newly designated Series A Convertible Preferred Stock, par value $0.0001 per share (the "Series A
+Preferred Stock") and (ii) 24,542,982 shares of Common Stock (the “Warrant Shares”) issuabe upon exercise of warrants
+(“Warrants”). The Series A Preferred Stock and the Warrants
+were issued to the selling stockholders in reliance upon the exemption from the registration requirements in Section 4(a)(2) of
+the Securities Act of 1933, as amended (the “Securities Act”), and Rule 506 of Regulation D promulgated thereunder. We
+are not selling any Common Stock under this prospectus and will not receive any of the proceeds from the sale of the Conversion Shares
+or the Warrant Shares by the selling stockholders. We will, however, receive the net proceeds of any Warrants exercised for cash. The selling stockholders identified in this prospectus
+may offer the shares of Common Stock from time to time through public or private transactions at fixed prices, at prevailing market prices
+at the time of sale, at prices related to the prevailing market price, at varying prices determined at the time of sale, or at negotiated
+prices. The registration of the shares of Common Stock on behalf of the selling stockholders; however, does not necessarily mean that
+the selling stockholder will offer or sell their shares of Common Stock under this registration statement or at any time in the near
+future. We provide more information about how the selling stockholder may sell their shares of Common Stock in the section entitled “ Plan
+of Distribution ” on page 15. The selling stockholders will bear all commissions
+and discounts, if any, attributable to the sale or disposition of the shares of Common Stock, or interests therein. We will not be paying
+any underwriting discounts or commissions in this offering. We will pay the expenses of registering the shares of Common Stock pursuant
+to this prospectus. Our Common Stock is traded on The Nasdaq Capital
+Market under the symbol “SMTK.” On April 16, 2026, the last reported sale price of our Common Stock was $0.3384
+per share. We may amend or supplement this prospectus from
+time to time by filing amendments or supplements as required. You should read the entire prospectus and any amendments or supplements
+carefully before you make your investment decision. An investment in our Common Stock involves
+a high degree of risk. See “ Risk Factors ” on page 4 of this prospectus for more information on these risks. Neither the U.S. Securities and Exchange Commission
+nor any state securities commission has approved or disapproved of these securities, or passed upon the adequacy or accuracy of this prospectus.
+Any representation to the contrary is a criminal offense. The date of this prospectus is            , 2026 TABLE OF CONTENTS Page SUMMARY 1 RISK FACTORS 4 CAUTIONARY NOTE CONCERNING FORWARD-LOOKING STATEMENTS 5 USE OF PROCEEDS 5 PRIVATE PLACEMENTS 6 SELLING STOCKHOLDERS 8 DESCRIPTION OF CAPITAL STOCK 11 PLAN OF DISTRIBUTION 15 LEGAL MATTERS 17 EXPERTS 17 WHERE YOU CAN FIND MORE INFORMATION 17 INCORPORATION OF DOCUMENTS BY REFERENCE 18 You should rely only on the information provided
+in this prospectus, as well as the information incorporated by reference into this prospectus and any applicable prospectus supplement.
+Neither we nor the selling stockholder has authorized anyone to provide you with different information. Neither we nor the selling stockholders
+are making an offer of these securities in any jurisdiction where the offer is not permitted. You should not assume that the information
+in this prospectus, any applicable prospectus supplement or any documents incorporated by reference is accurate as of any date other than
+the date of the applicable document. Since the respective dates of this prospectus and the documents incorporated by reference into this
+prospectus, our business, financial condition, results of operations and prospects may have changed. SUMMARY Overview We are seeking to change the world of electronics
+with a new class of transistor developed using our proprietary advanced semiconductor materials that we believe has the potential to revolutionize
+the display industry. Our TRUFLEX® semiconductor polymers enable low temperature printing processes that are compatible with existing
+manufacturing infrastructure to deliver low-cost, high-performance displays. Our semiconductor platform can be used in a range of display
+technologies including MicroLED, LCD and AMOLED, as well as in applications in advanced computer and artificial intelligence chip packaging,
+sensors, and logic. We design and develop our materials at our research
+and development facility in Manchester, UK and provide prototyping services at the Centre for Process Innovation in Sedgefield, UK. We
+also operate a field application office in Hsinchu, Taiwan, close to our collaboration partner, The Industrial Technology Research Institute
+of Taiwan. With our collaboration partners, we are developing a commercial-scale production process and Electronic Design Automation (EDA)
+tools for our materials to demonstrate the commercial viability of manufacturing a new generation of displays using our materials. We
+have an extensive IP portfolio including 140 granted patents across 17 patent families, 14 pending patents and 40 codified trade secrets. Recent Developments Equity Line of
+Credit On March 30, 2026, we entered into a Common Stock Purchase Agreement
+(the "ELOC Purchase Agreement") with Keystone Capital Partners, LLC (“Keystone”), pursuant to which we have the
+right, but not the obligation, to sell to Keystone, and Keystone is obligated to purchase, up to the lesser of (a) $500,000,000 and
+(b) 19.99% of our outstanding shares of Common Stock as of the date of the ELOC Purchase Agreement, which number of shares shall
+be reduced, on a share-for-share basis, by the number of shares of Common Stock issued or issuable pursuant to any transaction or series
+of transactions that may be aggregated with the transactions contemplated by the ELOC Purchase Agreement under applicable rules of
+the Trading Market (as defined under the ELOC Purchase Agreement), (unless stockholder approval is obtained or applicable sales qualify
+as "at market" under applicable rules of The Nasdaq Stock Market LLC), from time to time during the period commencing on
+the effective date of a registration statement registering the resale of shares issuable under the ELOC Purchase Agreement and ending
+upon termination of the ELOC Purchase Agreement. The purchase price per share for each VWAP Purchase will be equal to 90% of the lesser
+of (i) the lowest sale price of the Common Stock on the applicable purchase date and (ii) the volume weighted average price
+of the Common Stock during the applicable purchase period. As consideration for the Keystone's irrevocable commitment to purchase shares
+of Common Stock under the ELOC Purchase Agreement, the Company agreed to issue to Keystone 10,000 shares of Series A Preferred Stock
+(the "Commitment Shares"). Senior Secured Notes Financing On March 18, 2026, we entered into a Securities
+Purchase Agreement (the “Purchase Agreement”) with certain accredited investors (the “Buyers”) ,
+pursuant to which the Company agreed to issue and sell to the Buyers senior secured promissory notes (the "Notes") in the aggregate
+original principal amount of $3,750,000 for an aggregate purchase price of $2,625,000, reflecting an original issue discount of approximately
+30%. The Notes
+do not bear interest unless an Event of Default (as defined therein) has occurred, in which case interest accrues at a rate of 14% per
+annum. The Notes mature on the six-month anniversary of the original issuance date, subject to extension at the option of each Buyer in
+the event that an Event of Default has occurred. In addition, if we or any of our subsidiaries consummates a subsequent placement of securities,
+each Buyer may elect to exchange all or any portion of the then outstanding principal amount of its Note into the securities being issued
+in such subsequent placement, with the aggregate amount of such securities valued at 120% of the exchanged principal amount. In connection with the Purchase Agreement, we
+entered into a Security and Pledge Agreement (the "Security Agreement," and together with the Purchase Agreement, the Notes,
+and the Guaranties (as defined below), the "Transaction Documents") in favor of the collateral agent (the "Collateral Agent")
+for the benefit of the Buyers. Pursuant to the Security Agreement, the Grantors granted to the Collateral Agent a first priority perfected
+security interest in all of our existing and future assets and our direct and indirect subsidiaries, including a pledge of all of the
+capital stock of each subsidiary, as security for our obligations under the Transaction Documents. 1 In connection with the Security Agreement, we
+also entered into an Intellectual Property Security Agreement (the "IP Security Agreement"), pursuant to which the Grantors
+granted to the Collateral Agent a continuing security interest in certain of their intellectual property, as additional collateral security
+for the obligations under the Transaction Documents. In addition, each of our subsidiaries executed and delivered Guaranties (the "Guaranties")
+in favor of the Collateral Agent, for the benefit of the Buyers, pursuant to which each such subsidiary unconditionally and irrevocably
+guaranteed the payment and performance of all of our obligations under the Purchase Agreement, the Notes, and the other Transaction Documents. Settlement Agreement with Noteholder On March 18, 2026, we entered into a Settlement
+Agreement and Release (the "Settlement Agreement") with certain holders (the "Noteholders") of a senior secured notes
+that we issued on October 31, 2025 (the "Notes") to resolve certain claims alleged by the Noteholders against us arising
+under the Notes, all of which we denied. Pursuant to the Settlement Agreement, we agreed to (i) pay the Noteholders a cash settlement
+payment of $300,000, (ii) repay the outstanding balance of the Notes in full, and (iii) assign, transfer, and convey to the
+Noteholders all of our right, title, and interest in and to certain patents and patent applications (the "Assigned Patents").
+Under the terms of the Settlement Agreement, we also agreed to continue the employment of a designated employee for six months following
+the effective date of the Settlement Agreement to serve as a liaison and provide the Noteholders with information, assistance, and support
+related to the Assigned Patents. In exchange, the Noteholders agreed to terminate their liens on our assets and release us and our affiliates,
+officers, directors, employees, and representatives from any and all claims arising under the Notes and the related securities purchase
+agreement. Pursuant to the Settlement Agreement, we also granted a release in favor of the Noteholders, releasing it from any and all
+claims we may have had. Waiver and Termination Agreement In
+connection with the Settlement Agreements, entered into Waiver and Termination Agreements with the Holders (the "Waiver and
+Termination Agreements") with respect to the Prior Purchase Agreement. Pursuant to the Waiver and Termination Agreements, the
+Holders agreed to (i) waive compliance with the Lower Priced Issuance provision set forth in Section 4.12(c) of the
+Prior Purchase Agreement with respect to the sale of securities pursuant to the Prior Purchase Agreement, (ii) amend
+Section 4.12(c) of the Prior Purchase Agreement to reset the price threshold thereunder to $0.10 per share, and
+(iii) subject to our payment of the settlement payment and completion of the patent assignment contemplated by the Settlement
+Agreements, terminate the prohibition on our ability to engage in any Variable Rate Transaction set forth in
+Section 4.12(b) of the Prior Purchase Agreement. Debt Conversion On February 5, 2026, we entered into a debt
+conversion agreement (the "Debt Conversion Agreement") with SmartKem Limited, our wholly owned subsidiary, and a creditor (the
+ "Creditor"), pursuant to which we issued to the Creditor (i) 385,130 shares of Common Stock, at an ascribed price of $2.75
+per share and (ii) pre-funded warrants to purchase 348,260 shares of Common Stock, in satisfaction of approximately $2,016,821 owed
+to the Creditor by SmartKem Limited. January 2026 Offering On January 30, 2026, we entered into a securities
+purchase agreement with an institutional investor, pursuant to which we sold such investor 677,129 shares of Common Stock at a purchase
+price of $0.50 per share, and 683,871 pre-funded warrants to purchase 683,871 shares of Common Stock at a purchase price of $0.4999 per
+pre-funded warrant and an exercise price of $0.0001 per share (the "January 2026 Offering"). The January 2026 Offering
+closed on January 31, 2026. The shares of Common Stock and pre-funded warrants were offered pursuant to our shelf registration statement
+on Form S-3 (File No. 333-281608), which was declared effective by the Securities and Exchange Commission on August 22,
+2024, and a related base prospectus and prospectus supplement thereunder. We received aggregate gross proceeds from the January 2026
+Offering of approximately $680,500, before deducting placement agent fees and other offering expenses. 2 Corporate Information We were incorporated as Parasol Investments Corporation
+in the State of Delaware on May 13, 2020. SmartKem Limited was incorporated under the laws of England and Wales on July 21,
+2008. On February 23, 2021, we completed an exchange with SmartKem Limited and the former shareholders of SmartKem Limited (the “Exchange”)
+pursuant to which substantially all of the equity interests in SmartKem Limited were exchanged for shares of our Common Stock, and SmartKem
+Limited became our wholly owned subsidiary. Immediately following the Exchange, the business of SmartKem Limited became our business and
+we changed our name to “SmartKem, Inc.” Prior to the Exchange, Parasol Investments Corporation was a “shell”
+company registered under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), with no specific business plan
+or purpose until it began operating the business of SmartKem Limited following the closing of the Exchange. Our principal executive offices are located at
+Manchester Technology Center, Hexagon Tower, Delaunays Road, Blackley Manchester, M9 8GQ U.K. Our telephone number is 011-44-161-721-1514.
+Our website address is www.smartkem.com. Information contained on, or that can be accessed through, our website is not a part of this
+prospectus. All trademarks, service marks and trade names
+appearing in this prospectus are the property of their respective holders. Use or display by us of other parties’ trademarks, trade
+dress, or products in this prospectus is not intended to, and does not, imply a relationship with, or endorsements or sponsorship of,
+us by the trademark or trade dress owners. Implications of Being a Smaller Reporting Company We are a smaller reporting company as defined
+in the Exchange Act. We may take advantage of certain of the scaled disclosures available to smaller reporting companies and will be able
+to take advantage of these scaled disclosures for so long as (i) the market value of our voting and non-voting Common Stock held
+by non-affiliates is less than $250 million measured on the last business day of our second fiscal quarter or (ii) our annual revenue
+is less than $100 million during the most recently completed fiscal year and the market value of our voting and non-voting Common Stock
+held by non-affiliates is less than $700 million measured on the last business day of our second fiscal quarter. Specifically, as a smaller
+reporting company, we may choose to present only the two most recent fiscal years of audited financial statements in our Annual Report
+on Form 10-K and have reduced disclosure obligations regarding executive compensation and, if we are a smaller reporting company
+with less than $100 million in annual revenue, we would not be required to obtain an attestation report on internal control over financial
+reporting issued by our independent registered public accounting firm. 3 RISK FACTORS Any investment in our Common Stock involves
+a high degree of risk. Before deciding whether to purchase our Common Stock, investors should carefully consider the risks described below
+together with the “Risk Factors” described in our most recent Annual Report on Form 10-K and any updates described in
+our Quarterly Reports on Form 10-Q and Current Reports on Form 8-K, all of which are incorporated herein by reference, as may
+be amended, supplemented or superseded from time to time by other reports we file with the U.S. Securities and Exchange Commission (the
+ “SEC”). Our business, financial condition, operating results and prospects are subject to the following material risks as
+well as those material risks incorporated by reference. Additional risks and uncertainties not presently foreseeable to us may also impair
+our business operations. If any of the following risks actually occurs, our business, financial condition or operating results could be
+materially adversely affected. In such case, the trading price of our Common Stock could decline, and our stockholders may lose all or
+part of their investment in the shares of our Common Stock. We will not receive any proceeds from the
+sale of the shares of Common Stock by the selling stockholders covered by this prospectus. We
+are registering shares of Common Stock that may be issued by us to the selling stockholders upon conversion of Series A Preferred
+Stock or exercise of the Warrants to permit the resale of these shares of Common Stock from time to time after the date of this prospectus.
+We will not receive any of the proceeds from the sale by the selling stockholder of the shares of Common Stock. We will, however,
+receive the net proceeds of any Warrants exercised for cash. We may require additional funding through
+further issuances of our Common Stock or other securities, which may negatively affect the market price of our Common Stock. To operate our business, we may need to raise
+additional capital through sales of our Common Stock, securities exercisable for or convertible into our Common Stock or debt securities
+pursuant to which interest and/or principal payments may be satisfied through the issuance of our Common Stock. Future sales of such securities
+or our Common Stock could adversely affect the prevailing market price of our Common Stock and our ability to raise capital in the future,
+and may cause you to incur additional dilution. We do not intend to pay dividends on our
+Common Stock so any returns will depend on appreciation in the price of our Common Stock. We have never declared or paid any cash dividends
+on our Common Stock. We currently anticipate that we will retain future earnings, if any, for the development, operation and expansion
+of our business and do not anticipate declaring or paying any cash dividends for the foreseeable future. Any return to stockholders will,
+therefore, be limited to the appreciation of their respective shares. There is no guarantee that our Common Stock will appreciate in value
+or maintain the price at which you purchased them. 4 CAUTIONARY NOTE CONCERNING FORWARD-LOOKING STATEMENTS This prospectus and the documents incorporated
+by reference herein contain or may contain forward looking statements that involve risks and uncertainties. All statements other than
+statements of historical fact contained in this prospectus, including statements regarding future events, our future financial performance,
+business strategy and plans and objectives of management for future operations, are forward-looking statements. We have attempted to identify
+forward-looking statements by terminology including “anticipates,” “believes,” “can,” “continue,”
+ “could,” “estimates,” “expects,” “intends,” “may,” “plans,” “potential,”
+ “predicts,” “should,” or “will,” or the negative of these terms or other comparable terminology. Although
+we do not make forward looking statements unless we believe we have a reasonable basis for doing so, we cannot guarantee their accuracy.
+These statements are only predictions and involve known and unknown risks, uncertainties and other factors, including the risks outlined
+under “Risk Factors” or elsewhere in this prospectus, which may cause our or our industry’s actual results, levels of
+activity, performance or achievements expressed or implied by these forward-looking statements. Forward-looking statements should not be read
+as a guarantee of future performance or results, and will not necessarily be accurate indications of the times at, or by which, that performance
+or those results will be achieved. Forward-looking statements are based on information available at the time they are made and/or management’s
+good faith belief as of that time with respect to future events, and are subject to risks and uncertainties that could cause actual performance
+or results to differ materially from what is expressed in or suggested by the forward-looking statements. Forward-looking statements speak only as of the
+date they are made. You should not put undue reliance on any forward-looking statements. Except as required by law, we assume no obligation
+to update forward-looking statements to reflect actual results, changes in assumptions, or changes in other factors affecting forward-looking
+information, except to the extent required by applicable securities laws. If we do update one or more forward-looking statements, no inference
+should be drawn that we will make additional updates with respect to those or other forward-looking statements. USE OF PROCEEDS The net proceeds from any disposition of the shares
+of Common Stock covered hereby will be received by the selling stockholders. We will not receive any of the proceeds from any such shares
+of Common Stock offered by this prospectus. We will, however, receive the net proceeds of any Warrants exercised for cash. We expect to
+use the proceeds received from the exercise of the Warrants, if any, for general working capital purposes. 5 PRIVATE PLACEMENTS Series A Preferred Stock and Warrants On March 30, 2026, we entered into a Securities
+Purchase Agreement (the "Preferred Stock Purchase Agreement") with the selling stockholders, including certain March Noteholders
+(as defined below) pursuant to which we agreed to issue and sell to the selling stockholders in a private placement (the “Private
+Placement”), at an initial closing, (i) 11,411.5 shares of our newly designated Series A Preferred Stock, with a stated
+value of $1,000 per share, convertible into shares of Common Stock, at an initial conversion price of $0.5812 per share, subject to adjustment
+as set forth in the Certificate of Designations (as defined below), and (ii) the Warrants to purchase up to 24,542,982 shares of
+Common Stock. The purchase price under the Preferred Stock Purchase Agreement was satisfied in cash or by exchange of Notes (defined below). On March 18, 2026,  we entered into
+a Securities Purchase Agreement (the "March Note Purchase Agreement") with certain accredited investors (the “March Noteholders”),
+pursuant to which we agreed to issue and sell to the March Note Holders senior secured promissory notes (the "Notes") in
+the aggregate original principal amount of $3,750,000 for an aggregate purchase price of $2,625,000, reflecting an original issue discount
+of approximately 30%. Pursuant to the Notes, each March Noteholder may elect to exchange all or any portion of the then outstanding
+principal amount of its Note into the securities being issued in such subsequent placement, with the aggregate amount of such securities
+valued at 120% of the exchanged principal amount. The Preferred Stock Purchase Agreement also provides
+the selling stockholders with the right, subject to the satisfaction of certain conditions, to require us to participate in one or more
+additional closings for the purchase of up to an aggregate of 10,000 additional shares of Series A Preferred Stock and Warrants within
+12 months of the initial closing date. In connection with the Preferred Stock Purchase Agreement, each holder of a Note provided a limited
+waiver of any term or condition of the transaction documents entered into in connection with the March Note Purchase Agreement that
+would otherwise restrict or prohibit the execution and delivery of the Preferred Stock Purchase Agreement and the other transaction documents
+entered into in connection therewith and the issuance of the securities thereunder, solely with respect to the transactions contemplated
+by the Preferred Stock Purchase Agreement. The Preferred Stock Purchase Agreement contains
+customary representations and warranties of us and the selling stockholders customary for similar transactions. The representations, warranties
+and covenants contained in the Preferred Stock Purchase Agreement were made solely for the benefit of the parties to the Preferred Stock
+Purchase Agreement and may be subject to limitations agreed upon by the contracting parties. In addition, the Preferred Stock Purchase Agreement
+prohibits us from issuing any shares of Series A Preferred Stock (other than to the selling stockholders) without the prior written
+consent of the Required Holders (as defined under the Preferred Stock Purchase Agreement). During the period commencing on the date of
+the Preferred Stock Purchase Agreement and ending on the date immediately following the 90th trading day after the earlier of (x) the
+effectiveness of the initial registration statement required by the Preferred Stock Registration Rights Agreement and (y) the date
+all registrable securities are eligible for resale under Rule 144, we and our subsidiaries are prohibited from directly or indirectly
+issuing, offering, selling or otherwise disposing of any equity or equity-linked securities, subject to certain exceptions. Furthermore,
+we and our subsidiaries are prohibited from effecting any variable rate transaction until the later of (x) the expiration of the
+additional closing period and (y) the date no shares of Series A Preferred Stock remain outstanding. We are also prohibited
+from granting, issuing or selling shares of Common Stock or Common Stock equivalents (other than certain excluded securities) at a price
+per share less than the then-effective conversion price of the Series A Preferred Stock during the period commencing on the initial
+closing date and ending on the third anniversary of the initial closing date. 6 We are required to seek stockholder approval (the
+ "Preferred Stock Stockholder Approval"), either by (x) obtaining the written consent of the requisite stockholders and
+filing an information statement with the SEC no later than 45 calendar days after the initial closing date, or (y) holding a special
+or annual meeting of stockholders no later than the 60th calendar day after the initial closing date, for (i) an increase in our
+authorized shares of Common Stock from 300,000,000 to 5,000,000,000, (ii) the removal of the restriction on stockholder action by
+written consent, (iii) the issuance of all securities under the Preferred Stock Purchase Agreement in compliance with the rules and
+regulations of The Nasdaq Stock Market LLC, (iv) a reverse stock split of the Common Stock in such ratio as determined by the Board
+of Directors, and (v) an increase in the number of shares issuable under our 2021 Equity Incentive Plan. Moreover, until the later
+of (x) the expiration of the additional closing period and (y) the date no shares of Series A Preferred Stock remain outstanding,
+we are prohibited from (a) directly or indirectly redeeming, or declaring or paying any cash dividend or distribution on, any of
+our securities without the prior written consent of the selling stockholders (other than as required by the Certificate of Designations)
+and (b) effecting any stock combination, reverse stock split or similar transaction without the prior written consent of the Required
+Holders (except as necessary to maintain the listing of the Common Stock on The Nasdaq Stock Market LLC). We are also required to retain
+a consultant, recommended by the Required Holders and reasonably acceptable to us, to provide advice on strategic acquisitions and new
+business development and related consulting services within 30 days of the initial closing date, for compensation not to exceed $240,000. In connection with the Preferred Stock Purchase
+Agreement, on March 30, 2026, we entered into a Registration Rights Agreement (the "Preferred Stock Registration Rights Agreement")
+with the selling stockholders, pursuant to which we agreed to file a registration statement with the SEC registering the resale of the
+Conversion Shares and the Warrant Shares no later than the tenth day following our filing of our annual report on Form 10-K for the
+year ended December 31, 2025, and to use our reasonable best efforts to cause such registration statement to be declared effective
+by the SEC no later than 60 calendar days after the initial closing date (or 120 calendar days if subject to a full review by the SEC).
+The Preferred Stock Registration Rights Agreement provides for the payment of certain cash penalties to the selling stockholders in the
+event we fail to satisfy our registration obligations thereunder. The gross proceeds of the Private Placement was
+approximately $9,129,200, prior to the deduction of any fees and expenses. The gross proceeds of the Private Placement include the exchange
+of Notes with an aggregate outstanding principal amount of $3,750,000 which were valued at a premium of 120%. Commitment Shares – Equity Line of Credit On March 30, 2026, we entered into the "ELOC
+Purchase Agreement with Keystone, pursuant to which we have the right, but not the obligation, to sell to Keystone, and Keystone is obligated
+to purchase, up to the lesser of (a) $500,000,000 and (b) 19.99% of our outstanding shares of Common Stock as of the date of
+the ELOC Purchase Agreement, which number of shares shall be reduced, on a share-for-share basis, by the number of shares of Common Stock
+issued or issuable pursuant to any transaction or series of transactions that may be aggregated with the transactions contemplated by
+the ELOC Purchase Agreement under applicable rules of the Trading Market (as defined under the ELOC Purchase Agreement), (unless
+stockholder approval is obtained or applicable sales qualify as "at market" under applicable rules of The Nasdaq Stock
+Market LLC), from time to time during the period commencing on the effective date of a registration statement registering the resale of
+shares issuable under the ELOC Purchase Agreement and ending upon termination of the ELOC Purchase Agreement. The purchase price per share
+for each VWAP Purchase will be equal to 90% of the lesser of (i) the lowest sale price of the Common Stock on the applicable purchase
+date and (ii) the volume weighted average price of the Common Stock during the applicable purchase period. As consideration for the Keystone's irrevocable commitment to purchase
+shares of Common Stock under the ELOC Purchase Agreement, the Company agreed to issue to Keystone 10,000 shares of Series A Preferred
+Stock as the Commitment Shares. 7 SELLING STOCKHOLDERS The shares of Common Stock being offered by the
+selling stockholders are those issuable to the selling stockholders upon conversion of the Series A Preferred Stock and exercise
+of the Warrants. For additional information regarding the issuance of the Conversion Shares and the Warrants, see “Private Placement”
+above. We are registering the shares of Common Stock in order to permit the selling stockholders to offer the shares for resale from time
+to time. Except for the ownership of the Conversion Shares and the Warrants issued pursuant to the Preferred Stock Purchase Agreement,
+the selling stockholders have not had any material relationship with us within the past three years. The table below lists the selling stockholders
+and other information regarding the beneficial ownership (as determined under Section 13(d) of the Securities Exchange Act
+of 1934, as amended, and the rules and regulations thereunder) of the shares of Common Stock held by each of the selling stockholders.
+The second column lists the number of shares of Common Stock beneficially owned by the selling stockholders, based on their respective
+ownership of shares of Common Stock, Series A Preferred Stock and the Warrants, as of April 13, 2026, assuming conversion of
+the Series A Preferred Stock and exercise of the Warrants held by each such selling stockholder on that date but taking account
+of any limitations on conversion and exercise set forth therein. The third column lists the shares of Common Stock
+being offered by this prospectus by the selling stockholders and does not take in account any limitations on (i) conversion of the
+Series A Preferred Stock set forth in the certificate of designations or (ii) exercise of the Warrants set forth therein. The fourth column assumes the sale of all of the
+shares offered by the selling stockholders pursuant to this prospectus. Under the terms of the certificate of designations
+and the Warrants, a selling stockholder may not convert the Series A Preferred Stock or exercise of the Warrants to the extent (but
+only to the extent) such selling stockholder or any of its affiliates would beneficially own a number of shares of our Common Stock which
+would exceed 4.99% of the outstanding shares of the Company. The number of shares in the second column reflects these limitations. The
+selling stockholders may sell all, some or none of their shares in this offering. See “Plan of Distribution.” 8 Name of Selling Stockholder Number of Shares of Common Stock Owned Prior to Offering Maximum Number of Shares of Common Stock to be Sold Pursuant to this Prospectus Number of Shares of Common Stock of Owned After Offering Keystone Capital Partners, LLC (1) 53,461,306 53,461,306 (2) - Seven Knots, LLC (3) 5,864,923 5,864,923 (4) - KCP Fund I (5) 5,864,923 5,864,923 (4) - KCP Florida LLC (6) 5,864,923 5,864,923 (4) - Shorecrest Capital (7) 5,864,923 5,864,923 (4) - Pinz Capital Special Opportunities Fund, L.P. (8) 5,864,923 5,864,923 (4) - Jim Fallon 5,864,923 5,864,923 (4) - Stratgyx, LLC (9) 2,932,462 2,932,462 (10) - Mank Capital, LLC (11) 5,864,923 5,864,923 (4) - CREO Investments, LLC (12) 5,864,923 5,864,923 (4) - Caravel Capital (13) 5,864,923 5,864,923 (4) - SRX Health Solutions, Inc. (14) 17,275,903 17,275,903 (15) - 1. The business address of Keystone Capital Partners, LLC is 139 Fulton Street, Suite 412, New York, NY 10038. Keystone Capital Partners, LLC’s principal business is that of a private investor. Ranz Group, LLC, a Delaware limited liability company, is the managing member of Keystone Capital Partners, LLC and the beneficial owner of 97% of the membership interests in Keystone Capital Partners, LLC. Fredric G. Zaino is the managing member of Ranz Group, LLC and has sole voting control and investment discretion over securities beneficially owned directly by Keystone Capital, LLC and indirectly by Ranz Group, LLC. We have been advised that none of Mr. Zaino, Ranz Group, LLC or Keystone Capital Partners, LLC is a member of the Financial Industry Regulatory Authority, or FINRA, or an independent broker-dealer, or an affiliate or associated person of a FINRA member or independent broker-dealer. The foregoing should not be construed in and of itself as an admission by Mr. Zaino as to beneficial ownership of the securities beneficially owned directly by Keystone Capital Partners, LLC and indirectly by Ranz Group, LLC. 2. Represents (i) 51,635,956 shares of Common Stock issuable upon conversion of Series A Preferred Stock and (ii) 1,825,350 shares of Common Stock issuable upon exercise of Warrants 3. Seven Knots, LLC is managed by Marissa Welner. Ms. Welner in her capacity as Manager of Seven Knots, LLC may be deemed to have investment discretion and voting power over the shares held by Seven Knots, LLC. Ms. Welner disclaims any beneficial ownership of these shares. The business address of Seven Knots, LLC is 415 N Benton Avenue, Helena, MT 59601. 4. Represents (i) 4,039,573 shares of Common Stock issuable upon conversion of Series A Preferred Stock and (ii) 1,825,350 shares of Common Stock issuable upon exercise of Warrants 5. KCP Fund I, LLC is an affiliate of Keystone Capital Partners, LLC and is managed by RANZ Group LLC. Fredric Zaino, the Managing Member of RANZ Group LLC, may be deemed to have investment discretion and voting power over the shares held by KCP Fund I, LLC. RANZ Group LLC and Mr. Zaino each disclaim any beneficial ownership of these shares. The address of the selling stockholder is 139 Fulton Street, Suite 412, New York, NY 10038. 6. KCP Flordia LLC is managed by Michael Young.  Mr. Young in his capacity as managing member of KCP Florida LLC may be deemed to have investment discretion and voting power over the shares held by KCp Florida LLC. Mr. Young disclaims any beneficial ownership of these shares. The business address of KCp Florida LLC is 955 N Railroad Avenue, Suite 200, West Palm Beach, Florida 33402. 7. Gordon Goss, the control person of Shorecrest Capital, has voting and investment control of the shares held by Shorecrest Capital and may be deemed to be the beneficial owner of such shares.  The address of Shorecrest Capital is 190 Elgin Avenue, George Town, Grand Cayman KY1-9008, Cayman Islands. 9 8. Matthew Pinz, is the control person of Pinz Capital Special Opportunities Fund LP, has voting and investment control of the shares held by Pinz Capital Special Opportunities Fund LP and may be deemed to be the beneficial owner of such shares. The address of Pinz Capital Special Opportunities Fund LP is 27 Hospital Road, Georgetown, Grand Cayman KY1-9008. 9. Sameer Mithal, Managing Partner of Stratgyx, LLC, holds voting and dispositive power over the shares held by this stockholder. Mr. Mithal disclaims any beneficial ownership of these shares. The address of Stratgyx, LLC is 340 West 86th Street, #9B, New York, NY 10024. 10. Represents 2,019,787 shares of Common Stock issuable upon conversion of Series A Preferred Stock and (ii) 912,675 shares of Common Stock issuable upon exercise of Warrants. 11. Jess Mogul, President of Mank Capital, LLC, has voting and investment control of the shares held by Mank Capital, LLC and may be deemed to be the beneficial owner of such shares. Mr. Mogul, however, disclaims any beneficial ownership of the shares held by the selling stockholder. The address of Mank Capital, LLC is 347 West 87th Street, Apt. 2R, New York, NY 10024. 12. CREO Investments LLC is managed by Andrew Cohen. Mr. Cohen in capacity as Manager may be deemed to have investment discretion and voting power over the shares held by CREO Investments LLC. Mr. Cohen disclaims any beneficial ownership of these shares. The business address of CREO Investments LLC is 16192 Coastal Highway, Lewes, Delaware 19958. 13. Adrian Pinto is the control person of Caravel Capital. The address of the selling stockholder is 3060 Mercer University Dr., 110-153, Chamblee, Georgia 30341. 14. The business address of SRx Health Solutions, Inc. is 801 US Highway 1, North Palm Beach, Florida 33408. 15. Represents 11,899,096 shares of Common Stock issuable upon conversion of Series A Preferred Stock and (ii) 5,376,807 shares of Common Stock issuable upon exercise of Warrants. 10 DESCRIPTION OF CAPITAL STOCK The following is a summary description of the
+material terms of our Common Stock as provided in our Amended and Restated Certificate of Incorporation (“Certificate of Incorporation”),
+and Amended and Restated Bylaws (“Bylaws”), copies of which are incorporated by reference as exhibits to the registration
+statement of which this prospectus forms a part. The following discussion is only a summary and may not contain all the information that
+is important to you or that you should consider before investing in our stock, and is qualified in its entirety by reference to the complete
+text of the Certificate of Incorporation and Bylaws. For a more detailed description of these securities, you should read the applicable
+provisions of Delaware law, our Certificate of Incorporation, our Bylaws and the reports that we file with the SEC, which are incorporated
+herein by reference. General We have authorized capital stock consisting of
+300,000,000 shares of Common Stock and 10,000,000 shares of preferred stock. The authorized number of shares of Series A Preferred
+Stock is 31,412 shares, each with a par value of $0.0001 per share and a stated value of $1,000 per share. Common Stock Voting Rights Each holder of Common Stock is entitled to one
+vote for each share on all matters submitted to a vote of the stockholders, including the election of directors. Our Certificate of Incorporation
+and our Bylaws do not provide for cumulative voting rights. Because of this, the holders of a plurality of the shares of Common Stock
+entitled to vote in any election of directors can elect all of the directors standing for election, if they should so choose. With respect
+to matters other than the election of directors, at any meeting of the stockholders at which a quorum is present or represented, the affirmative
+vote of a majority of the voting power of the shares present in person or represented by proxy at such meeting and entitled to vote on
+the subject matter shall be the act of the stockholders, except as otherwise required by law. The holders of one-third of the stock issued
+and outstanding and entitled to vote, present in person or represented by proxy, shall constitute a quorum for the transaction of business
+at all meetings of the stockholders. Dividends Subject to preferences that may be applicable
+to any then-outstanding convertible preferred stock, holders of our Common Stock are entitled to receive dividends, if any, as may be
+declared from time to time by our board of directors out of legally available funds. We have never paid cash dividends on our Common
+Stock. Moreover, we do not anticipate paying periodic cash dividends on our Common Stock for the foreseeable future. Any future determination
+about the payment of dividends will be made at the discretion of our board of directors and will depend upon our earnings, if any, capital
+requirements, operating and financial conditions, contractual restrictions, including any loan or debt financing agreements, and on such
+other factors as our board of directors deems relevant. Liquidation In the event of our liquidation, dissolution,
+or winding up, holders of our Common Stock will be entitled to share ratably in the net assets legally available for distribution to stockholders
+after the payment of all of our debts and other liabilities and the satisfaction of any liquidation preference granted to the holders
+of any then-outstanding shares of preferred stock. 11 Series A Preferred Stock Voting Rights Holders of Series A Preferred Stock have
+no voting power except as required by the Delaware General Corporation Law or as set forth in the Certificate of Designations with respect
+to certain protective matters requiring the consent of the Required Holders. Conversion Each share of Series A Preferred Stock is
+convertible at any time at the option of the holder into shares of Common Stock at a conversion rate determined by dividing the conversion
+amount by the conversion price of $0.5812 per share, with alternate conversion options available following stockholder approval (at 90%
+of the lowest VWAP during the five preceding trading days) or upon a triggering event (at 80% of such VWAP, with the conversion amount
+subject to a required premium of 125%), in each case subject to a 4.99% beneficial ownership limitation (adjustable to 9.99% upon 61 days'
+prior written notice). Dividends Dividends are payable when and as declared by
+the Board of Directors in its sole discretion, in cash, securities or other assets, on the stated value of each share, provided that upon
+the occurrence and continuance of a triggering event, default dividends accrue at a rate of 15.0% per annum. Ranking The Series A Preferred Stock ranks senior
+to the Common Stock and all other junior capital stock with respect to dividends, distributions and payments upon the liquidation, dissolution
+and winding up of the Company. Liquidation Upon a liquidation event, holders of Series A
+Preferred Stock are entitled to receive, before any payment to holders of junior stock, an amount per share equal to the sum of (i) the
+Black-Scholes value of the outstanding portion of all Warrants held by such holder and (ii) the greater of (A) 125% of the applicable
+conversion amount and (B) the amount per share such holder would receive upon conversion immediately prior to such event. Warrants Cashless Exercise\ The Warrants provide for cashless exercise in
+the event a registration statement covering the resale of the shares of Common Stock issuable upon exercise of the Warrants is not effective. Beneficial Ownership Limitation The exercise of the Warrants is subject to a beneficial
+ownership limitation of 4.99% of the outstanding shares of Common Stock (adjustable to 9.99% upon 61 days' prior written notice by the
+holder). Anti-Dilution and Price Adjustments The exercise price of the Warrants is subject
+to customary adjustments for stock dividends, stock splits and similar transactions, as well as full ratchet anti-dilution protection
+upon the issuance of shares of Common Stock or Common Stock equivalents (other than certain excluded securities) at a price per share
+below the then-effective exercise price. The exercise price is also subject to adjustment upon certain stock combination events and, following
+the date the Preferred Stock Stockholder Approval (as defined below) is obtained, is subject to periodic adjustment to the market price
+of the Common Stock for a period of 180 calendar days. Prior to the date the Preferred Stock Stockholder Approval is obtained, no adjustment
+may reduce the exercise price below $0.5812. 12 Anti-Takeover Effects
+of Certain Provisions of Delaware Law, Our Amended and Restated Certificate of Incorporation and Our Amended and Restated Bylaws Certain provisions of
+Delaware law and certain provisions included in our Certificate of Incorporation and in Bylaws summarized below may be deemed to have
+an anti-takeover effect and may delay, deter, or prevent a tender offer or takeover attempt that a stockholder might consider to be in
+its best interests, including attempts that might result in a premium being paid over the market price for the shares held by stockholders. Preferred Stock Our Certificate of Incorporation
+contains provisions that permit our board of directors to issue, without any further vote or action by the stockholders, shares of preferred
+stock in one or more series and, with respect to each such series, to fix the number of shares constituting the series and the designation
+of the series, the voting rights (if any) of the shares of the series and the powers, preferences, or relative, participation, optional,
+and other special rights, if any, and any qualifications, limitations, or restrictions, of the shares of such series. Classified Board of
+Directors Our Certificate of Incorporation
+provides that our board of directors is divided into three classes, with the number of directors in each class being as nearly equal in
+number as possible. The directors in each class serve for a three-year term, one class being elected each year by our stockholders, with
+staggered three-year terms. These provisions may have the effect of deferring, delaying or discouraging hostile takeovers, or changes
+in control of us or our management. Removal of Directors Our Certificate of Incorporation
+provides that stockholders may only remove a director for cause. Director Vacancies Our Certificate of Incorporation
+authorizes only our board of directors to fill vacant directorships. No Cumulative Voting Our Certificate of Incorporation
+does not provide stockholders with the right to cumulate votes in the election of directors. Special Meetings of
+Stockholders Our Certificate of Incorporation
+and Bylaws provide that, except as otherwise required by law, special meetings of the stockholders may be called only by the chairperson
+of our board of directors, the chief executive officer, or our board of directors. Advance Notice Procedures
+for Director Nominations Our bylaws provide that
+stockholders seeking to nominate candidates for election as directors at an annual or special meeting of stockholders must provide timely
+notice thereof in writing. To be timely, a stockholder’s notice generally will have to be delivered to and received at our principal
+executive offices before notice of the meeting is issued by our secretary, with such notice being served not less than 90 nor more than
+120 days before the meeting. Although the Bylaws do not give the board of directors the power to approve or disapprove stockholder nominations
+of candidates to be elected at an annual meeting, the Bylaws may have the effect of precluding the conduct of certain business at a meeting
+if the proper procedures are not followed or may discourage or deter a potential acquirer from conducting a solicitation of proxies to
+elect its own slate of directors or otherwise attempting to obtain control of our company. 13 Action by Written
+Consent Our Certificate of Incorporation
+and Bylaws provide that any action to be taken by the stockholders must be effected at a duly called annual or special meeting of stockholders
+and may not be effected by written consent. Amending our Certificate
+of Incorporation and Bylaws Our Certificate of Incorporation
+provides that the affirmative vote of at least 66 2∕3% of the votes entitled to be cast by holders of all outstanding shares then
+entitled to vote, voting together as a single class, is required to amend certain provisions of our Certificate of Incorporation. Our Bylaws may be adopted,
+amended, altered or repealed by stockholders only upon approval of at least 66 2∕3% of the votes entitled to be cast by holders
+of all outstanding shares then entitled to vote, voting together as a single class. Additionally, our Certificate of Incorporation provides
+that our bylaws may be amended, altered or repealed by the board of directors. Authorized but Unissued
+Shares Our authorized but unissued
+shares of Common Stock and preferred stock will be available for future issuances without stockholder approval, except as required by
+the listing standards of any exchange upon which our Common Stock may become listed and could be utilized for a variety of corporate purposes,
+including future offerings to raise additional capital, acquisitions and employee benefit plans. The existence of authorized but unissued
+and unreserved Common Stock and preferred stock could render more difficult or discourage an attempt to obtain control of our company
+by means of a proxy contest, tender offer, merger, or otherwise. Exclusive Jurisdiction Our Certificate of Incorporation
+provides that, unless we consent to the selection of an alternative forum, the Court of Chancery of the State of Delaware, or if the Court
+of Chancery does not have jurisdiction, the federal district court for the District of Delaware, is the exclusive forum for (i) any
+derivative action or proceeding brought on behalf of us, (ii) any action asserting a claim of breach of a fiduciary duty owed by
+any current or former director, officer, or other employee to the us or our stockholders, any action arising pursuant to any provision
+of the DGCL or our Certificate of Incorporation or bylaws (as either may be amended from time to time), or (iv) (A) any action
+asserting a claim governed by the internal affairs doctrine of the law of the State of Delaware shall, to the fullest extent permitted
+by law, be exclusively brought in the Court of Chancery of the State of Delaware or, if such court does not have subject matter jurisdiction
+thereof, the federal district court of the State of Delaware and (B) the federal district courts of the United States shall be the
+exclusive forum for the resolution of any complaint asserting a cause of action arising under the Securities Act. Section 27 of the
+Exchange Act creates exclusive federal jurisdiction over all suits brought to enforce any duty or liability created by the Exchange Act
+or the rules and regulations thereunder. As a result, the exclusive forum provision will not apply to actions arising under the Exchange
+Act or the rules and regulations thereunder. Although our Certificate of Incorporation contains the exclusive forum provisions described
+above, it is possible that a court could find that such provision is inapplicable for a particular claim or action or that such provision
+is unenforceable, and our stockholders will not be deemed to have waived our compliance with the federal securities laws and the rules and
+regulations thereunder. Delaware Anti-Takeover
+Statute We are subject to Section 203
+of the DGCL, which prohibits a person deemed an “interested stockholder” from engaging in a “business combination”
+with a publicly held Delaware corporation for three years following the date such person becomes an interested stockholder unless the
+business combination is, or the transaction in which the person became an interested stockholder was, approved in a prescribed manner
+or another prescribed exception applies. Generally, an “interested stockholder” is a person who, together with affiliates
+and associates, owns, or within three years prior to the determination of interested stockholder status did own, 15% or more of a corporation’s
+voting stock. Generally, a “business combination”
+includes a merger, asset or stock sale, or other transaction resulting in a financial benefit to the interested stockholder. The existence
+of this provision may have an anti- takeover effect with respect to transactions not approved in advance by the board of directors, such
+as discouraging takeover attempts that might result in a premium over the price of our Common Stock. Transfer Agent and Registrar Our transfer agent and registrar is Equiniti Trust
+Company LLC whose address is 6201 15th Avenue, Brooklyn, New York 11219. Listing Our Common Stock
+is listed on The Nasdaq Capital Market under the symbol “SMTK.” 14 PLAN OF DISTRIBUTION We are registering the shares of Common Stock
+issuable upon conversion of the preferred shares and the exercise of the warrants to permit the resale of these shares of Common Stock
+by the holders of the preferred shares from time to time after the date of this prospectus. We will not receive any of the proceeds from
+the sale by the selling stockholders of the shares of Common Stock, although we will receive the exercise price of any warrants not exercised
+by the seling stockholders on a cashless exercise basis. We will bear all fees and expenses incident to our obligation to register the
+shares of Common Stock. The selling stockholders may sell all or a portion
+of the shares of Common Stock held by them and offered hereby from time to time directly or through one or more underwriters, broker-dealers
+or agents. If the shares of Common Stock are sold through underwriters or broker-dealers, the selling stockholders will be responsible
+for underwriting discounts or commissions or agent’s commissions. The shares of Common Stock may be sold in one or more transactions
+at fixed prices, at prevailing market prices at the time of the sale, at varying prices determined at the time of sale or at negotiated
+prices. These sales may be effected in transactions, which may involve crosses or block transactions, pursuant to one or more of the following
+methods: · on any national securities exchange or quotation
+service on which the securities may be listed or quoted at the time of sale; · in the over-the-counter market; · in transactions otherwise than on these exchanges
+or systems or in the over-the-counter market; · through the writing or settlement of options,
+whether such options are listed on an options exchange or otherwise; · ordinary brokerage transactions and transactions
+in which the broker-dealer solicits purchasers; · block trades in which the broker-dealer will
+attempt to sell the shares as agent but may position and resell a portion of the block as principal to facilitate the transaction; · purchases by a broker-dealer as principal and
+resale by the broker-dealer for its account; · an exchange distribution in accordance with the
+rules of the applicable exchange; · privately negotiated transactions; · short sales made after the date the Registration
+Statement is declared effective by the SEC; · broker-dealers may agree with a selling security
+holder to sell a specified number of such shares at a stipulated price per share; · a combination of any such methods of sale; and · any other method permitted pursuant to applicable
+law. The selling stockholders may also sell shares
+of Common Stock under Rule 144 promulgated under the Securities Act of 1933, as amended, if available, rather than under this prospectus.
+In addition, the selling stockholders may transfer the shares of Common Stock by other means not described in this prospectus. If the
+selling stockholders effect such transactions by selling shares of Common Stock to or through underwriters, broker-dealers or agents,
+such underwriters, broker-dealers or agents may receive commissions in the form of discounts, concessions or commissions from the selling
+stockholders or commissions from purchasers of the shares of Common Stock for whom they may act as agent or to whom they may sell as principal
+(which discounts, concessions or commissions as to particular underwriters, broker-dealers or agents may be in excess of those customary
+in the types of transactions involved). In connection with sales of the shares of Common Stock or otherwise, the selling stockholders
+may enter into hedging transactions with broker-dealers, which may in turn engage in short sales of the shares of Common Stock in the
+course of hedging in positions they assume. The selling stockholders may also sell shares of Common Stock short and deliver shares of
+Common Stock covered by this prospectus to close out short positions and to return borrowed shares in connection with such short sales.
+The selling stockholders may also loan or pledge shares of Common Stock to broker-dealers that in turn may sell such shares. 15 The selling stockholders may pledge or grant a
+security interest in some or all of the preferred shares, warrants or shares of Common Stock owned by them and, if they default in the
+performance of their secured obligations, the pledgees or secured parties may offer and sell the shares of Common Stock from time to time
+pursuant to this prospectus or any amendment to this prospectus under Rule 424(b)(3) or other applicable provision of the Securities
+Act amending, if necessary, the list of selling stockholders to include the pledgee, transferee or other successors in interest as selling
+stockholders under this prospectus. The selling stockholders also may transfer and donate the shares of Common Stock in other circumstances
+in which case the transferees, donees, pledgees or other successors in interest will be the selling beneficial owners for purposes of
+this prospectus. To the extent required by the Securities Act and
+the rules and regulations thereunder, the selling stockholders and any broker-dealer participating in the distribution of the shares
+of Common Stock may be deemed to be “underwriters” within the meaning of the Securities Act, and any commission paid, or any
+discounts or concessions allowed to, any such broker-dealer may be deemed to be underwriting commissions or discounts under the Securities
+Act. At the time a particular offering of the shares of Common Stock is made, a prospectus supplement, if required, will be distributed,
+which will set forth the aggregate amount of shares of Common Stock being offered and the terms of the offering, including the name or
+names of any broker-dealers or agents, any discounts, commissions and other terms constituting compensation from the selling stockholders
+and any discounts, commissions or concessions allowed or re-allowed or paid to broker-dealers. Under the securities laws of some states, the
+shares of Common Stock may be sold in such states only through registered or licensed brokers or dealers. In addition, in some states
+the shares of Common Stock may not be sold unless such shares have been registered or qualified for sale in such state or an exemption
+from registration or qualification is available and is complied with. There can be no assurance that any selling stockholder
+will sell any or all of the shares of Common Stock registered pursuant to the registration statement, of which this prospectus forms a
+part. The selling stockholders and any other person
+participating in such distribution will be subject to applicable provisions of the Securities Exchange Act of 1934, as amended, and the
+rules and regulations thereunder, including, without limitation, to the extent applicable, Regulation M of the Exchange Act,
+which may limit the timing of purchases and sales of any of the shares of Common Stock by the selling stockholders and any other participating
+person. To the extent applicable, Regulation M may also restrict the ability of any person engaged in the distribution of the shares of
+Common Stock to engage in market-making activities with respect to the shares of Common Stock. All of the foregoing may affect the marketability
+of the shares of Common Stock and the ability of any person or entity to engage in market-making activities with respect to the shares
+of Common Stock. We will pay all expenses of the registration
+of the shares of Common Stock pursuant to the registration rights agreement, estimated to be $134,000 in total, including, without limitation,
+SEC filing fees and expenses of compliance with state securities or “blue sky” laws; provided, however, a selling stockholder
+will pay all underwriting discounts and selling commissions, if any. We will indemnify the selling stockholders against liabilities,
+including some liabilities under the Securities Act in accordance with the registration rights agreements or the selling stockholders
+will be entitled to contribution. We may be indemnified by the selling stockholders against civil liabilities, including liabilities
+under the Securities Act that may arise from any written information furnished to us by the selling stockholder specifically for use
+in this prospectus, in accordance with the related registration rights agreements or we may be entitled to contribution. Once sold under the registration statement, of
+which this prospectus forms a part, the shares of Common Stock will be freely tradable in the hands of persons other than our affiliates. 16 LEGAL MATTERS The validity of the issuance of the securities
+offered hereby will be passed upon for us by Sheppard, Mullin, Richter & Hampton LLP, New York, New York. Additional legal matters
+may be passed upon for us or any underwriters, dealers, or agents by counsel that we will name in the applicable prospectus supplement. EXPERTS The consolidated
+financial statements as of December 31, 2025 and for the year then ended, incorporated by reference herein have been so incorporated
+in reliance on the report of CBIZ CPAs P.C. , an independent registered public accounting
+firm  (which report on the financial statements contains an explanatory paragraph regarding the Company’s ability to continue
+as a going concern), appearing in our annual report on Form 10-K for the year ended December 31, 2025 , incorporated by reference
+herein, given on the authority of said firm as experts in auditing and accounting. The consolidated
+financial statements as of December 31, 2024 and for the year then ended, incorporated by reference herein have been so incorporated
+in reliance on the report of Marcum, LLP, an independent registered public accounting firm  (which report on the financial statements
+contains an explanatory paragraph regarding the Company’s ability to continue as a going concern), appearing in our annual report on Form 10-K for the year ended December 31, 2025 , incorporated by reference herein, given on the authority of said firm as
+experts in auditing and accounting. WHERE YOU CAN FIND MORE INFORMATION We are a reporting company and file annual, quarterly
+and current reports, proxy statements and other information with the SEC. We have filed with the SEC a registration statement on Form S-3
+under the Securities Act with respect to the sale, from time to time, of the shares of Common Stock held by the selling stockholders named
+in this prospectus and any applicable prospectus supplement. This prospectus does not contain all of the information
+set forth in the registration statement and the exhibits to the registration statement. For further information with respect to us and
+the securities being offered under this prospectus, we refer you to the registration statement and the exhibits and schedules filed as
+a part of the registration statement. You may read and copy the registration statement,
+as well as our reports, proxy statements and other information, on the SEC’s website at http://www.sec.gov . You can also
+obtain copies of materials we file with the SEC from our website found at www.smartkem.com . Information on our website does not
+constitute a part of, nor is it incorporated in any way, into this prospectus and should not be relied upon in connection with making
+an investment decision. 17 INCORPORATION OF DOCUMENTS BY REFERENCE The SEC allows us to “incorporate by reference”
+information into this prospectus, which means that we can disclose important information to you by referring you to another document filed
+separately with the SEC. The documents incorporated by reference into this prospectus contain important information that you should read
+about us. The following documents are incorporated by reference
+into this prospectus and any applicable prospectus supplement: ● our Current Reports on Form 8-K filed with the Commission on January 6, 2026 , January 15, 2026 , January 30, 2026 , February 6, 2026 , February 13, 2026 , March 11, 2026 , March 19, 2026 , March 26, 2026 , and March 31, 2026 (other than any portions thereof deemed furnished and not filed); ● Annual Report on Form 10-K for the year ended December 31, 2025 filed with the SEC on April 8, 2026; and ● the description of our Common Stock contained in our Registration Statement on Form 8-A, filed with the SEC on May 30, 2024 as updated by the Description of Securities set forth on Exhibit 4.4 to our Annual Report on Form 10-K filed with the Commission on March 31, 2025, including any amendments or reports filed for the purpose of updating such description.. All documents subsequently filed by us (other
+than Current Reports furnished under Item 2.02 or Item 7.01 of Form 8-K and exhibits filed on such form that are related to such
+items unless such Form 8-K expressly provides to the contrary) with the SEC pursuant to Section 13(a), 13(c), 14 or 15(d) of
+the Exchange Act, including those made after the date of the initial filing of the registration statement of which this prospectus forms
+a part and prior to effectiveness of such registration statement, until we file a post-effective amendment that indicates the termination
+of the offering of the shares of Common Stock made by this prospectus are deemed to be incorporated by reference into this prospectus.
+Such future filings will become a part of this prospectus from the respective dates that such documents are filed with the SEC. Any statement contained herein or in a document
+incorporated or deemed to be incorporated by reference herein shall be deemed to be modified or superseded for purposes hereof to the
+extent that such statement contained herein or in any other subsequently filed document, which is also incorporated or deemed to be incorporated
+herein, modifies or supersedes such statement. Any such statement so modified or superseded shall not be deemed, except as so modified
+or superseded, to constitute a part of this prospectus. The documents incorporated by reference into this
+prospectus are also available on our corporate website at www.tharimmune.com . Information contained on, or that can be accessed
+through, our website is not part of this prospectus, and you should not consider information on our website to be part of this prospectus
+or any prospectus supplement unless specifically incorporated herein by reference. We will provide to each person, including any beneficial
+owner, to whom a prospectus is delivered a copy of any or all of the documents incorporated by reference in this prospectus and any prospectus
+supplement free of charge upon request for such documents in writing at the below address: SmartKem, Inc. Manchester Technology Center, Hexagon Tower Delaunays Road, Blackley Manchester, M9 8GQ U.K. Telephone: 011-44-161-721-1514 18 126,453,978 Shares of Common Stock PROSPECTUS , 2026 PART II INFORMATION NOT REQUIRED IN PROSPECTUS Item 14. Other Expenses of Issuance and Distribution. The following table sets forth an estimate of
+the fees and expenses relating to the issuance and distribution of the securities being registered hereby, other than underwriting discounts
+and commissions, all of which shall be borne by the selling stockholders. All of such fees and expenses, except for the SEC Registration
+Fee, are estimated: SEC registration fee $ 5,763 Legal fees and expenses $ 40,000 Printing fees and expenses $ 30,000 Accounting fees and expenses $ 50,000 Miscellaneous fees and expenses $ 10,000 Total $ 135,763 Item 15. Indemnification of Officers and Directors. Section 102 of the DGCL permits a corporation
+to eliminate the personal liability of directors of a corporation to the corporation or its stockholders for monetary damages for a breach
+of fiduciary duty as a director, except where the director breached his duty of loyalty, failed to act in good faith, engaged in intentional
+misconduct or knowingly violated a law, authorized the payment of a dividend or approved a stock repurchase in violation of Delaware corporate
+law or obtained an improper personal benefit. Our Certificate of Incorporation provides that no director of the Company shall be personally
+liable to it or its stockholders for monetary damages for any breach of fiduciary duty as a director, notwithstanding any provision of
+law imposing such liability, except to the extent that the DGCL prohibits the elimination or limitation of liability of directors for
+breaches of fiduciary duty. Section 145 of the DGCL provides that a corporation
+has the power to indemnify a director, officer, employee, or agent of the corporation, or a person serving at the request of the corporation
+for another corporation, partnership, joint venture, trust or other enterprise in related capacities against expenses (including attorneys’
+fees), judgments, fines and amounts paid in settlement actually and reasonably incurred by the person in connection with an action, suit
+or proceeding to which he was or is a party or is threatened to be made a party to any threatened, ending or completed action, suit or
+proceeding by reason of such position, if such person acted in good faith and in a manner he reasonably believed to be in or not opposed
+to the best interests of the corporation, and, in any criminal action or proceeding, had no reasonable cause to believe his conduct was
+unlawful, except that, in the case of actions brought by or in the right of the corporation, no indemnification shall be made with respect
+to any claim, issue or matter as to which such person shall have been adjudged to be liable to the corporation unless and only to the
+extent that the Court of Chancery or other adjudicating court determines that, despite the adjudication of liability but in view of all
+of the circumstances of the case, such person is fairly and reasonably entitled to indemnity for such expenses which the Court of Chancery
+or such other court shall deem proper. Our Certificate of Incorporation and Bylaws provide
+indemnification for our directors and officers to the fullest extent permitted by the DGCL. II- 1 Item 16. Exhibits. a) Exhibits. Exhibit Numbers Exhibit Description 3.1 Amended and Restated Certificate of Incorporation of the Registrant, as amended (incorporated by reference to Exhibit 3.1 to the Company’s Annual Report on Form 10-K filed on March 31, 2025) 3.2 Amended and Restated Bylaws of the Registrant, as currently in effect (incorporated by reference to Exhibit 3.4 to the Company’s Current Report on Form 8-K filed on February 24, 2021) 3.3 Certificate of Designations of Rights and Preferences of Series A Convertible Preferred Stock of SmartKem, Inc., filed with the Secretary of State of the State of Delaware on March 30, 2026 (incorporated by reference to Exhibit 3.1 to the Company’s Current Report on Form 8-K filed on March 31, 2026) 5.1* Opinion of Sheppard, Mullin, Richter & Hampton LLP as to the legality of the securities being registered 10.1 Form of Preferred Stock Purchase Agreement (incorporated by reference to Exhibit 10.1 to the Company’s Current Report on Form 8-K filed on March 31, 2026) 10.2 Form of Preferred Stock Registration Rights Agreement (incorporated by reference to Exhibit 10.2 to the Company’s Current Report on Form 8-K filed on March 31, 2026) 10.3 Common Stock Purchase Agreement, dated March 27, 2026, by and between SmartKem, Inc. and the investor signatory thereto (incorporated by reference to Exhibit 10.3 to the Company’s Current Report on Form 8-K filed on March 31, 2026) 10.4 Registration Rights Agreement, dated March 27, 2026, by and between SmartKem, Inc. and the investor signatory thereto (incorporated by reference to Exhibit 10.4 to the Company’s Current Report on Form 8-K filed on March 31, 2026) 23.1* Consent of Marcum LLP, independent registered public accounting firm (Marcum LLP, New York, USA, PCAOB ID # 688) 23.2* Consent of CBIZ CPAs P.C., independent registered public accounting firm (CBIZ CPAs P.C., New York, USA. PCAOB ID #199) 23.3* Consent of Sheppard, Mullin, Richter & Hampton LLP (included in Exhibit 5.1) 24.1* Power of Attorney (included on signature pages to the registration statement) 107* Filing Fee Table * Filed herewith. II- 2 Item 17. Undertakings. (a) The undersigned Registrant hereby undertakes: (1) to file, during any period in which offers
+or sales are being made, a post-effective amendment to this Registration Statement: (i) to include any prospectus required by
+Section 10(a)(3) of the Securities Act; (ii) to reflect in the prospectus any facts
+or events arising after the effective date of the Registration Statement (or the most recent post-effective amendment thereof) which,
+individually or in the aggregate, represent a fundamental change in the information set forth in the Registration Statement. Notwithstanding
+the foregoing, any increase or decrease in volume of securities offered (if the total dollar value of securities offered would not exceed
+that which was registered) and any deviation from the low or high end of the estimated maximum offering range may be reflected in the
+form of prospectus filed with the Commission pursuant to Rule 424(b) if, in the aggregate, the changes in volume and price represent
+no more than 20% change in the maximum aggregate offering price set forth in the “Calculation of Filing Fee” table in the
+effective Registration Statement; and (iii) to include any material information
+with respect to the plan of distribution not previously disclosed in the Registration Statement or any material change to such information
+in the Registration Statement; provided, however, that paragraphs (a)(1)(i),
+(a)(1)(ii) and (a)(1)(iii) do not apply if the information required to be included in a post-effective amendment by those paragraphs
+is contained in reports filed with or furnished to the Commission by the Registrant pursuant to Section 13 or Section 15(d) of
+the Exchange Act that are incorporated by reference in the Registration Statement, or is contained in a form of prospectus filed pursuant
+to Rule 424(b) that is part of the registration statement;. (2) that, for the purpose of determining
+any liability under the Securities Act, each such post-effective amendment shall be deemed to be a new registration statement relating
+to the securities offered therein, and the offering of such securities at that time shall be deemed to be the initial bona fide offering
+thereof. (3) to remove from registration by means
+of a post-effective amendment any of the securities being registered which remain unsold at the termination of the offering. (4) That, for the purpose of determining
+liability under the Securities Act of 1933 to any purchaser: (i) Each prospectus filed by the registrant pursuant to Rule 424(b)(3) shall be deemed to be part of the registration statement as of the date the filed prospectus was deemed part of and included in the registration statement; and (ii) Each prospectus required to be filed pursuant to Rule 424(b)(2), (b)(5), or (b)(7) as part of a registration statement in reliance on Rule 430B relating to an offering made pursuant to Rule 415(a)(l)(i), (vii), or (x) for the purpose of providing the information required by Section 10(a) of the Securities Act shall be deemed to be part of and included in the registration statement as of the earlier of the date such form of prospectus is first used after effectiveness or the date of the first contract of sale of securities in the offering described in the prospectus. As provided in Rule 430B, for liability purposes of the issuer and any person that is at that date an underwriter, such date shall be deemed to be a new effective date of the registration statement relating to the securities in the registration statement to which that prospectus relates, and the offering of such securities at that time shall be deemed to be the initial bona fide offering thereof; provided, however, that no statement made in a registration statement or prospectus that is part of the registration statement or made in a document incorporated or deemed incorporated by reference into the registration statement or prospectus that is part of the registration statement will, as to a purchaser with a time of contract of sale prior to such effective date, supersede or modify any statement that was made in the registration statement or prospectus that was part of the registration statement or made in any such document immediately prior to such effective date; II- 3 (5) That, for the
+purpose of determining liability of the registrant under the Securities Act to any purchaser in the initial distribution of the securities,
+the undersigned registrant undertakes that in a primary offering of securities of the undersigned registrant pursuant to this registration
+statement, regardless of the underwriting method used to sell the securities to the purchaser, if the securities are offered or sold to
+such purchaser by means of any of the following communications, the undersigned registrant will be a seller to the purchaser and will
+be considered to offer or sell such securities to such purchaser: (i) Any preliminary
+prospectus or prospectus of the undersigned registrant relating to the offering required to be filed pursuant to Rule 424; (ii) Any free writing
+prospectus relating to the offering prepared by or on behalf of the undersigned registrant or used or referred to by the undersigned registrant; (iii) The portion
+of any other free writing prospectus relating to the offering containing material information about the undersigned registrant or its
+securities provided by or on behalf of the undersigned registrant; and (iv) Any other communication
+that is an offer in the offering made by the undersigned registrant to the purchaser; (6) That, for purposes
+of determining any liability under the Securities Act, each filing of the registrant’s annual report pursuant to Section 13(a) or
+Section 15(d) of the Exchange Act (and, where applicable, each filing of an employee benefit plan’s annual report pursuant
+to Section 15(d) of the Exchange Act) that is incorporated by reference in the registration statement shall be deemed to be
+a new registration statement relating to the securities offered therein, and the offering of such securities at that time shall be deemed
+to be the initial bona fide offering thereof; (7) Insofar as indemnification for liabilities
+arising under the Securities Act of 1933 may be permitted to directors, officers and controlling persons of the registrant pursuant to
+the foregoing provisions, or otherwise, the registrant has been advised that in the opinion of the Securities and Exchange Commission
+such indemnification is against public policy as expressed in the Act and is, therefore, unenforceable. In the event that a claim for
+indemnification against such liabilities (other than the payment by the registrant of expenses incurred or paid by a director, officer
+or controlling person of the registrant in the successful defense of any action, suit or proceeding) is asserted by such director, officer
+or controlling person in connection with the securities being registered, the registrant will, unless in the opinion of its counsel the
+matter has been settled by controlling precedent, submit to a court of appropriate jurisdiction the question whether such indemnification
+by it is against public policy as expressed in the Act and will be governed by the final adjudication of such issue. II- 4 SIGNATURES Pursuant to the requirements
+of the Securities Act of 1933, as amended, the registrant certifies that it has reasonable grounds to believe that it meets all of the
+requirements for filing on Form S-3 and has duly caused this registration statement to be signed on its behalf by the undersigned,
+thereunto duly authorized, in the City of Manchester, Great Britain, the United Kingdom, on April 17, 2026. SMARTKEM, INC. By: /s/ Ian Jenks Ian Jenks Chief Executive Officer POWER OF ATTORNEY We, the undersigned officers
+and directors of SmartKem, Inc., hereby severally constitute and appoint Barbra C. Keck, our true and lawful attorney-in-fact and
+agent, with full power of substitution and resubstitution, for us and in our stead, in any and all capacities, to sign any and all amendments
+(including post-effective amendments) to this Registration Statement and all documents relating thereto, and to file the same, with all
+exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorney-in-fact
+and agent full power and authority to do and perform each and every act and thing necessary or advisable to be done in and about the premises,
+as fully to all intents and purposes as he might or could do in person, hereby ratifying and confirming all that said attorney-in-fact
+and agent or his substitute or substitutes, may lawfully do or cause to be done by virtue thereof. WITNESS our hands and common
+seal on the dates set forth below. Pursuant to the requirements
+of the Securities Act of 1933, as amended, the following persons in the capacities and on the dates indicated have signed this Registration
+Statement below. Signature Title Date /s/ Ian Jenks Chairman of the Board, Chief Executive Officer and President April 17, 2026 Ian Jenks (Principal Executive Officer) /s/ Barbra C. Keck Chief Financial Officer April 17, 2026 Barbra C. Keck (Principal Financial and Accounting Officer) /s/ Klaas de Boer Director April 17, 2026 Klaas de Boer /s/ Steven DenBaars, Ph.D. Director April 17, 2026 Steven DenBaars, Ph.D. /s/ Melisa Denis Director April 17, 2026 Melisa Denis /s/ Sriram Peruvemba Director April 17, 2026 Sriram Peruvemba II- 5

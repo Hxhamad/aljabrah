@@ -1,0 +1,67 @@
+start_date: "1990-01-01"
+end_date: null
+min_days_required: 252
+price_min: 0.10
+price_max: 5.00
+market_cap_max: 1000000000
+min_avg_dollar_volume_60d: 1000000
+min_avg_volume_60d: 500000
+cost_bps_list: [5, 10, 25, 50]
+rolling_windows: [63, 126, 252]
+reject_if_top10_gap_contribution_above: 0.70
+reject_if_missing_open_close_ratio_above: 0.05
+corporate_action_edge_diff_bps: 25
+corporate_action_cumulative_diff: 0.25
+corporate_action_score_diff: 10
+universe_mode: config
+manual_candidates_csv: data/universe/manual_candidates.csv
+tickers:
+  - CXAI
+  - BBAI
+  - PLUG
+  - BYND
+  - NOTV
+  - BCDA
+  - VVOS
+  - DEVS
+  - SMTK
+  - LASE
+  - SOUN
+  - OPEN
+  - MVIS
+  - KULR
+  - LAES
+  - WULF
+  - BITF
+  - HIVE
+  - CAN
+  - RIOT
+sec_forms_to_check:
+  - "8-K"
+  - "S-1"
+  - "S-3"
+  - "424B3"
+  - "424B5"
+  - "10-Q"
+  - "10-K"
+  - "DEF 14A"
+  - "PRE 14A"
+sec_keywords:
+  - "reverse split"
+  - "stock split"
+  - "offering"
+  - "registered direct"
+  - "at-the-market"
+  - "ATM offering"
+  - "warrant"
+  - "convertible note"
+  - "going concern"
+  - "Nasdaq deficiency"
+  - "delisting"
+  - "compliance"
+  - "dilution"
+user_agent: "Hamad Research hamad@example.com"
+sec_request_delay_seconds: 0.12
+sec_max_documents_per_ticker: 20
+request_timeout_seconds: 30
+request_retries: 3

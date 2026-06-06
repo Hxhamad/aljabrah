@@ -1,0 +1,88 @@
+false 0001817760 0001817760 2026-03-18 2026-03-18 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, DC 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934 Date of Report (Date of earliest event reported): March 18, 2026 SmartKem, Inc. (Exact name of registrant as specified in its charter) Delaware 001-42115 85-1083654 (State or other jurisdiction of incorporation) (Commission File Number) (IRS Employer Identification No.) Manchester Technology Center, Hexagon Tower Delaunays Road , Blackley Manchester , M9 8GQ U.K. (Address of principal executive offices, including
+zip code) 011-44-161 - 721-1514 (Registrant’s telephone number, including
+area code) N/A (Former name or former address, if changed since
+last report) Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: ¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to
+Section 12(b) of the Act: Title of each class Trading Symbol(s) Name of exchange on which registered Common Stock, par value $0.0001 per share SMTK The Nasdaq Stock Market LLC Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b - 2 of
+the Securities Exchange Act of 1934 (§240.12b - 2 of this chapter). Emerging growth
+company x If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ Item 1.01 Entry into a Material Definitive
+Agreement. Senior Secured Notes Financing On
+March 18, 2026, SmartKem, Inc. (the “Company”) entered into a Securities Purchase Agreement (the "Purchase Agreement")
+with certain accredited investors (the "Buyers"), pursuant to which the Company agreed to issue and sell to the Buyers senior
+secured promissory notes (the "Notes") in the aggregate original principal amount of $3,750,000 for an aggregate purchase price
+of $2,625,000, reflecting an original issue discount of approximately 30%. The
+Notes do not bear interest unless an Event of Default (as defined therein) has occurred, in which case interest accrues at a rate of
+14% per annum. The Notes mature on the six month anniversary of the original issuance date, subject to extension at the option of each
+Buyer in the event that an Event of Default has occurred. In addition, if the Company or any of its subsidiaries consummates a subsequent
+placement of securities, each Buyer may elect to exchange all or any portion of the then outstanding principal amount of its Note into
+the securities being issued in such subsequent placement, with the aggregate amount of such securities valued at 120% of the exchanged
+principal amount. In
+connection with the Purchase Agreement, the Company and its subsidiaries entered into a Security and Pledge Agreement (the "Security
+Agreement," and together with the Purchase Agreement, the Notes, and the Guaranties (as defined below), the "Transaction Documents")
+in favor of the collateral agent (the "Collateral Agent") for the benefit of the Buyers. Pursuant to the Security Agreement,
+the Grantors granted to the Collateral Agent a first priority perfected security interest in all existing and future assets of the Company
+and its direct and indirect subsidiaries, including a pledge of all of the capital stock of each subsidiary, as security for the Company's
+obligations under the Transaction Documents. In
+connection with the Security Agreement, the Company and its subsidiaries also entered into an Intellectual Property Security Agreement
+(the "IP Security Agreement"), pursuant to which the Grantors granted to the Collateral Agent a continuing security interest
+in certain of their intellectual property, as additional collateral security for the obligations under the Transaction Documents. In addition,
+each subsidiary of the Company executed and delivered Guaranties (the "Guaranties") in favor of the Collateral Agent, for the
+benefit of the Buyers, pursuant to which each such subsidiary unconditionally and irrevocably guaranteed the payment and performance of
+all of the Company's obligations under the Purchase Agreement, the Notes, and the other Transaction Documents. The
+Purchase Agreement contains customary representations and warranties of the Company and the Buyers, including representations regarding
+organization and authority, no conflicts, capitalization, reporting compliance, absence of certain changes, absence of undisclosed liabilities,
+intellectual property, and other matters customary for transactions of this type. The
+foregoing descriptions of the Purchase Agreement, the Notes, the Security Agreement, the Guaranties, and the IP Security Agreement do
+not purport to be complete and are qualified in their entirety by reference to the full text of the forms of such documents, copies of
+which are filed as Exhibits 10.1, 10.2, 10.3, 10.4, and 10.5, respectively, to this Current Report on Form 8-K and are incorporated herein
+by reference. Settlement and Release Agreements On
+March 18, 2026, the Company entered into Settlement Agreements and Releases (collectively, the "Settlement Agreements") with certain
+holders (collectively, the "Holders") of those certain Senior Secured Notes (the "Prior Notes") issued by the Company
+on October 31, 2025, pursuant to a Securities Purchase Agreement dated June 14, 2023 (as amended, the "Prior Purchase Agreement").
+The Settlement Agreements were entered into to resolve certain claims alleged by the Holders against the Company in connection with the
+Prior Notes, which claims the Company denied. Pursuant to the Settlement Agreements, the Company agreed to (i) repay each Holder the
+outstanding principal amount of its respective Prior Note in full within two (2) business days following the effective date of the Settlement
+Agreements, and (ii) pay to the Holders an aggregate cash settlement payment of $300,000 by wire transfer of immediately available funds. In addition, pursuant to the Settlement Agreements, the Company agreed
+to assign, transfer, and convey to Smartkem IP LLC, a Delaware limited liability company, certain of the Company's right, title, and interest
+in and to certain patents and patent applications, together with all continuations, continuations-in-part, divisionals, reissues, reexaminations,
+extensions, foreign counterparts, and all rights to sue for past, present, and future infringement thereof. In furtherance thereof, the
+Company and its subsidiary, Smartkem Ltd, a corporation organized under English law (the "Assignor"), entered into an Intellectual
+Property Assignment Agreement (the "IP Assignment Agreement") with Smartkem IP LLC (the "Assignee"), pursuant to which
+the Assignor irrevocably conveyed, transferred, and assigned to the Assignee certain of the Assignor's right, title, and interest in and
+to certain patents, patent applications, and related intellectual property rights, together with all royalties, fees, income, and proceeds
+related thereto, and all claims and causes of action with respect thereto. The Company also agreed to maintain the employment of a designated
+patent liaison for a period of six (6) months following the effective date of the Settlement Agreements to provide the Holders with information,
+assistance, and support relating to the Assigned IP. The
+Settlement Agreements contain mutual releases pursuant to which the Holders released the Company and its affiliates, and the Company
+released the Holders and their affiliates, from any and all claims arising under the Prior Notes and the Prior Purchase Agreement, other
+than with respect to the obligations set forth in the Settlement Agreements. In connection with the Settlement Agreements, the Company and the Holders entered into Waiver and Termination Agreements (the "Waiver
+and Termination Agreements") with respect to the Prior Purchase Agreement. Pursuant to the Waiver and Termination Agreements, the Holders
+agreed to (i) waive compliance with the Lower Priced Issuance provision set forth in Section 4.12(c) of the Prior Purchase Agreement with
+respect to the sale of securities pursuant to the Prior Purchase Agreement, (ii) amend Section 4.12(c) of the Prior Purchase Agreement
+to reset the price threshold thereunder to the lowest price per share at which securities are sold in the contemplated registered direct
+and private placement offering by the Company, and (iii) subject to the Company's payment of the settlement payment and completion of
+the patent assignment contemplated by the Settlement Agreements, terminate the Variable Rate Transaction provision set forth in Section
+4.12(b) of the Prior Purchase Agreement. The
+foregoing descriptions of the Settlement Agreements, the IP Assignment Agreement, and the Waiver and Termination Agreements do not purport
+to be complete and are qualified in their entirety by reference to the full text of such documents, copies of which are filed as Exhibits
+10.6, 10.7, and 10.8, respectively, to this Current Report on Form 8-K and are incorporated herein by reference. Item 2.03 Creation
+of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant. The information
+set forth in Item 1.01 above regarding the Notes is incorporated by reference into this Item 2.03. Item 9.01 Financial
+Statements and Exhibits. (d) Exhibits. Exhibit
+    No. Description 10.1 Form
+    of Securities Purchase Agreement 10.2 Form
+    of Senior Secured Promissory Note 10.3 Form
+    of Security and Pledge Agreement 10.4 Form
+    of Guaranty 10.5 Form
+    of Intellectual Property Security Agreement 10.6 Form
+    of Settlement Agreement and Release 10.7 Form
+    of Intellectual Property Assignment Agreement 10.8 Form
+    of Waiver and Termination Agreement 104 Cover
+    Page Interactive Data File (embedded within the Inline XBRL document) Signature Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized. SMARTKEM, INC. Dated: March 19, 2026 By: /s/ Barbra
+    C. Keck Barbra C. Keck Chief Financial Officer

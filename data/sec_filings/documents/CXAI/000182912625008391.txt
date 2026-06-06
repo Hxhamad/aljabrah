@@ -1,0 +1,117 @@
+424B3 1 cxapp_424b3.htm 424B3 Filed
+Pursuant to Rule 424(b)(3) Registration
+No. 333-281452 Prospectus Supplement No. 13 (to prospectus dated October 3, 2024) CXApp
+Inc. RESALE
+OF UP TO 10,026,776 SHARES OF COMMON STOCK 10,280,000
+WARRANTS TO PURCHASE SHARES OF COMMON STOCK 24,080,000
+SHARES OF COMMON STOCK UNDERLYING WARRANTS BY
+THE SELLING SECURITYHOLDERS This prospectus supplement
+is being filed to update and supplement the information contained in the prospectus dated October 3, 2024 (as supplemented to date, the
+“Prospectus”), related to (i) the resale of up to 6,977,776 shares of common
+stock, par value $0.0001 per share (the “common stock”) previously issued to certain of the Selling Securityholders (as defined
+in the Prospectus) at a price of approximately $0.004 per share, (ii) the resale of up to 10,280,000 private placement warrants to purchase
+common stock at an exercise price of $11.50 per share, which were originally issued to our Sponsor (as defined below) and the Direct Anchor
+Investors (as defined below) in a private placement at a price of $1.00 per private placement warrant, (iii) 24,080,000 shares of common
+stock reserved for issuance upon the exercise of warrants to purchase common stock, which are comprised of 13,800,000 shares of common
+stock issuable upon exercise of the public warrants and 10,280,000 shares of common stock issuable upon exercise of the private placement
+warrants, (iv) the resale of up to 10,280,000 shares of common stock issuable upon exercise of the private warrants held by KINS Capital
+LLC (“Sponsor”), its affiliates and certain funds and accounts managed by BlackRock, Inc. (the “Direct Anchor Investors”),
+(v) the resale from time to time of up to 40,000 shares of common stock by Streeterville Capital, LLC (“Streeterville”), or
+a Selling Securityholder, which were issued pursuant to that certain Securities Purchase Agreement, dated as of May 22, 2024 (the “Securities
+Purchase Agreement”), by and between CXApp and Streeterville, and (vi) the resale from time to time of the maximum number of up
+to 3,009,000 shares of common stock by Streeterville, or a Selling Securityholder, that Streeterville may, at their sole discretion, take
+delivery of in satisfaction of an outstanding balance of a pre-paid purchase according to the terms of the pre-paid purchase consummated
+on May 22, 2024, and the Company will issue to Streeterville pursuant to the Securities Purchase Agreement, subject to certain limitations, with the information contained in our Current Report on Form 8-K, filed with the U.S. Securities
+and Exchange Commission (the “SEC”) on October 23, 2025 (the “Current Report”). Accordingly, we have attached
+the Current Report to this prospectus supplement. This prospectus supplement
+updates and supplements the information in the Prospectus and is not complete without, and may not be delivered or utilized except in
+combination with, the Prospectus, including any amendments or supplements thereto. This prospectus supplement should be read in conjunction
+with the Prospectus and if there is any inconsistency between the information in the Prospectus and this prospectus supplement, you should
+rely on the information in this prospectus supplement. Our common stock and warrants
+are traded on the The Nasdaq Capital Market (“Nasdaq”) under the symbols “CXAI” and “CXAIW”, respectively.
+On October 21, 2025, the closing price of our common stock was $0.77 per share and the closing price of our warrants was $0.12 per warrant. Investing
+in our securities involves risks. See “ Risk Factors ” beginning on page 13 of the Prospectus and in any
+applicable prospectus supplement. Neither the SEC nor
+any state securities commission has approved or disapproved of these securities or passed upon the adequacy or accuracy of the Prospectus
+or this prospectus supplement. Any representation to the contrary is a criminal offense. The date of this prospectus supplement is October
+23, 2025. UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 Date of Report (Date of earliest event reported): October 23, 2025 (October 17, 2025) CXApp Inc. (Exact name of registrant as specified in its
+charter) Delaware 001-39642 85-2104918 (State
+                                            or other jurisdiction of
+    incorporation) (Commission File
+    Number) (I.R.S.
+Employer Identification No.) Four Palo Alto Square, Suite 200 3000 El Camino Real California, CA 94306 (Address
+    of principal executive offices) (Zip
+    Code) (650) 785-7171 (Registrant’s telephone number, including area code) Not Applicable (Former name or former address, if changed since
+last report) Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: ☐ Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425) ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12) ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under
+the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b)
+of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered Common Stock, par value $0.0001 per share CXAI The Nasdaq Stock Market LLC Warrants to purchase common stock CXAIW The Nasdaq Stock Market LLC Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the
+Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company
+☒ If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Item 1.01 Entry into a Material Definitive
+Agreement. Pre-Paid Purchase #3
+with Avondale Capital, LLC On October 17, 2025, CXApp
+Inc. (the “Company”) entered into Pre-Paid Purchase #3 (the “Pre-Paid Purchase #3”) with Avondale Capital, LLC
+(“Avondale”), pursuant to the Securities Purchase Agreement the Company entered into with Avondale on March 26, 2025 (the
+“Purchase Agreement”). Under the Pre-Paid Purchase
+#3, Avondale paid the purchase price of $5,000,000 to the Company, and the Company promises to pay Avondale $5,250,000 and any interest,
+fees, charges, and late fees accrued thereunder in accordance with the terms set forth therein, and to pay interest on the outstanding
+balance at the rate of five percent per annum until the outstanding balance is paid in full. The Pre-Paid Purchase #3 carries an original
+issue discount of $250,000. Under the Purchase Agreement,
+Avondale, at its option, may require the Company to issue shares of common stock (“Purchase Shares”), from time to time, in
+satisfaction of all or part of the outstanding balance of the Pre-Paid Purchase #3. Under the Pre-Paid Purchase #3, if Avondale elects
+to receive Purchase Shares, the Purchase Share purchase price will be determined as the lower of (i) $0.9142, or (ii) 91% of the lowest
+daily volume weighted average price during the ten consecutive trading days immediately preceding the relevant purchase notice date, but
+in any event not lower than $0.1524 (the “Floor Price”), which may be subject to change in the future to the extent permitted
+by stock exchange rules in effect at the time of such change. The Pre-Paid Purchase #3 is
+unsecured and contains customary events of defaults, representations, warranties, and covenants. This description is qualified
+in its entirety by reference to the text of the Purchase Agreement, a copy of which was filed as Exhibit 10.1 to the Current Report on
+Form 8-K filed on April 1, 2025, and the Pre-Paid Purchase #3, a copy of which is attached hereto as Exhibit 10.1, in each case incorporated
+herein by reference. Item 2.03 Creation of a Direct Financial Obligation
+or an Obligation under an Off-Balance Sheet Arrangement of a Registrant. Information set forth in Item
+1.01 of this Current Report on Form 8-K is incorporated herein by reference into this Item 2.03 to the extent required. Item 3.02 Unregistered Sales of Equity Securities. Information set forth in Item
+1.01 of this Current Report on Form 8-K is incorporated herein by reference. The issuance by the Company of the shares of common stock
+in satisfaction of all or part of the outstanding balance of the Pre-Paid Purchase #3 is being made in reliance on Section 4(a)(2) of
+the Securities Act of 1933, as amended. The maximum number of shares of common stock issuable under the Pre-Paid Purchase #3, assuming
+Avondale purchases the Purchase Shares at the Floor Price (which may be subject to change in the future to the extent permitted by stock
+exchange rules in effect at the time of such change), is approximately 34,448,818 shares. The Company also issued an
+aggregate of 1,583,633 shares of common stock to Avondale under a Pre-Paid Purchase #1, dated as of March 26, 2025, which was entered
+into pursuant to the Purchase Agreement. The shares of common stock were issued between October 9, 2025 and October 20, 2025, at a price
+between $0.6481 and $0.6739 per share. The offer and sale of these shares of common stock was made in reliance on Section 4(a)(2) of the
+Securities Act of 1933, as amended. 1 Cautionary Statement Regarding Forward-Looking
+Statements This report includes “forward-looking
+statements” within the meaning of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995.
+The expectations, estimates, and projections of the Company may differ from its actual results and consequently, you should not rely on
+these forward-looking statements as predictions of future events. Words such as “expect,” “estimate,” “project,”
+“budget,” “forecast,” “anticipate,” “intend,” “plan,” “may,” “will,”
+“could,” “should,” “believes,” “predicts,” “potential,” “continue,”
+or the negative or other variations thereof and similar expressions are intended to identify such forward looking statements. These forward-looking
+statements include, without limitation, expectations with respect to future performance of the Company, including projected financial
+information (which is not audited or reviewed by the Company’s auditors), and the future plans, operations and opportunities for
+the Company and other statements that are not historical facts. These statements are based on the current expectations of the Company’s
+management and are not predictions of actual performance. These forward-looking statements involve significant risks and uncertainties
+that could cause the actual results to differ materially from the expected results. Factors that may cause such differences include, but
+are not limited to: the demand for the Company’s services together with the possibility that the Company may be adversely affected
+by other economic, business, and/or competitive factors or changes in the business environment in which the Company operates; changes
+in consumer preferences or the market for the Company’s services; changes in applicable laws or regulations; the availability or
+competition for opportunities for expansion of the Company’s business; difficulties of managing growth profitably; the loss of one
+or more members of the Company’s management team; loss of a major customer and other risks and uncertainties included from time
+to time in the Company’s reports (including all amendments to those reports) filed with the Securities and Exchange Commission.
+The Company cautions that the foregoing list of factors is not exclusive. You should not place undue reliance upon any forward-looking
+statements, which speak only as of the date made. The Company does not undertake or accept any obligation or undertaking to release publicly
+any updates or revisions to any forward-looking statements to reflect any change in its expectations or any change in events, conditions,
+or circumstances on which any such statement is based, except as required by law. These forward-looking statements should not be relied
+upon as representing the Company’s assessments as of any date subsequent to the date of this communication. Item 9.01 Financial Statements and Exhibits. (d) Exhibits . Exhibit No. Exhibit Title 10.1+ Pre-Paid Purchase #3, dated as of October 17, 2025, between CXApp Inc. and Avondale Capital, LLC 104 Cover Page Interactive Data File (embedded within the inline XBRL document) + The annexes, schedules, and certain exhibits to this Exhibit
+have been omitted pursuant to Item 601(b)(2) of Regulation S-K. The Registrant hereby agrees to furnish supplementally a copy of any
+omitted annex, schedule or exhibit to the SEC upon request. 2 SIGNATURES Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. CXApp Inc. Date:
+        October 23, 2025 By: /s/
+        Khurram P. Sheikh Name: Khurram
+        P. Sheikh Title: Chairman
+        and Chief Executive Officer 3

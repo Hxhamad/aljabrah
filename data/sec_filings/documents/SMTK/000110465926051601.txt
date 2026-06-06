@@ -1,0 +1,50 @@
+false 0001817760 0001817760 2026-04-23 2026-04-23 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, DC 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934 Date of Report (Date of earliest event reported): April 23, 2026 SmartKem, Inc. (Exact name of registrant as specified in its
+charter) Delaware 001-42115 85-1083654 (State or other jurisdiction of incorporation) (Commission File Number) (IRS Employer Identification No.) Manchester
+Technology Center, Hexagon Tower Delaunays
+Road , Blackley Manchester , M9 8GQ U.K. (Address of principal executive offices, including
+zip code) 011-44-161 - 721-1514 (Registrant’s telephone number, including
+area code) N/A (Former name or former address, if changed since
+last report) Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: ¨ Written communications pursuant
+    to Rule 425 under the Securities Act (17 CFR 230.425) ¨ Soliciting material pursuant
+    to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ¨ Pre-commencement communications
+    pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement communications
+    pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to
+Section 12(b) of the Act: Title
+    of each class Trading
+    Symbol(s) Name
+    of exchange on which registered Common
+    Stock, par value $0.0001 per share SMTK The Nasdaq Stock
+    Market LLC Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b - 2 of
+the Securities Exchange Act of 1934 (§240.12b - 2 of this chapter). Emerging
+growth company ¨ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ Item 1.01. Entry into a
+Material Definitive Agreement On April 23, 2026, SmartKem, Inc.
+(the “Company”) funded a bridge loan to Ferrox Critical Minerals, a British Virgin Islands company (“Ferrox”),
+in the original principal amount of $2,300,000.00, which loan was evidenced by that certain Convertible Promissory Note (the “Note”)
+issued by Ferrox to the Company. The obligations evidenced by the Note shall accrued interest at a rate of 5.0% per annum and will mature
+on October 30, 2026. Pursuant to the terms of the Note, the Company was paid an originate fee of $200,000.00. Upon an event of default
+(as defined in the Note), the Company will be paid a default management fee of $4,500.00 per day and the interest rate shall increase
+to 15% per annum. The obligations under the Note
+are convertible into ordinary shares of Ferrox (“Ordinary Shares”) at any time by the Company at a price per Ordinary Share
+equal to the lower (i) the fair market value of an Ordinary Share at the time of conversion as determined by an independent appraisal
+firm or (ii) the value of an Ordinary Share determined based on a total equity value of Ferrox of $80,000,000, on a fully-diluted basis.
+The conversion price is subject to customary adjustments for stock dividends, stock splits and stock combinations. The Note also contains customary
+negative covenants restricting Ferrox’s ability to, among other things, redeem any of its equity securities, incur or repay indebtedness,
+make or declare any dividends or distributions on its equity securities, sell, lease or otherwise dispose of its assets, amend its charter
+or enter into any transactions with its affiliates. The Note also contains a right
+of first refusal in favor of the Company on any (i) direct or indirect transfer, sale, lease, license or encumbrance of all or any portion
+of the capital stock or assets of Ferrox or any of its subsidiaries (other than (x) inventory to be sold in the ordinary course of business
+consistent with past practice and (y) sales of immaterial or obsolete assets), (ii) any merger, consolidation or other business combination
+relating to Ferrox or any of its subsidiaries to the extent such transaction constitutes a change of control, (iii) any recapitalization,
+reorganization or any other extraordinary business transaction involving or otherwise relating to Ferrox or any of its subsidiaries to
+the extent such transaction constitutes a change of control or (iv) equity issuance or debt incurrence involving Ferrox or any of its
+subsidiaries (each, a “Fundamental Transaction”). Ferrox has also granted the Company
+exclusivity with respect to any Fundamental Transaction through October 30, 2026. The foregoing descriptions of
+the terms of the Note do not purport to be complete and are subject to, and qualified in their entirety by reference to, the Note which
+is annexed hereto as Exhibit 4.1 and is incorporated herein by reference. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibits Description 4.1 Convertible Promissory Note issued by Ferrox Critical Minerals to SmartKem, Inc. on April 23, 2026 104 Cover Page Interactive Data File (Embedded within the Inline XBRL document) Signature Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. SMARTKEM, INC. Dated: April 29, 2026 By: /s/ Barbra
+    C. Keck Barbra C. Keck Chief Financial Officer

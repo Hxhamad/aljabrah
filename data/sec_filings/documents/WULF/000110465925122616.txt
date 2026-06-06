@@ -1,0 +1,37 @@
+false 0001083301 0001083301 2025-12-18 2025-12-18 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date
+of Report (Date of earliest event reported) : December 18, 2025 TERAWULF INC. (Exact name of registrant as specified in its charter) Delaware 001-41163 87-1909475 (State or other jurisdiction of incorporation) (Commission File Number) (IRS Employer Identification No.) 9 Federal Street Easton , Maryland 21601 (Address of principal executive offices) (Zip Code) ( 410 ) 770-9500 (Registrant’s telephone number, including
+area code) Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General Instruction
+A.2. below): ¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to
+Section 12(b) of the Act: Title of each class Trading
+    Symbol(s) Name of each exchange on which registered Common stock, $0.001 par value per share WULF The Nasdaq Capital Market Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company ¨ If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ¨ Item 8.01. Other Events. On December 18, 2025, TeraWulf Inc.
+(“TeraWulf” or the “Company”) announced that Flash Compute LLC (“Flash Compute”) upsized and
+priced its offering of $1.3 billion aggregate principal amount of senior secured notes due 2030 (the “Offering”) at an
+issue price of 7.250% in a private offering to persons reasonably believed to be qualified institutional buyers in reliance on Rule
+144A under the Securities Act of 1933, as amended (the “Securities Act”) or, outside the United States, to persons other
+than “U.S. persons” in compliance with Regulation S under the Securities Act. The Offering has been upsized from the
+previously announced $1.275 billion in aggregate principal amount of the notes. The Offering is expected to close on December 29,
+2025, subject to market and other conditions. Flash Compute is a wholly-owned subsidiary of FS
+CS I LLC, whose equity interests are owned 50.1% by Big Country Wulf LLC, a subsidiary of the Company, and 49.9% by Fluidstack CS I Inc.,
+a wholly-owned indirect subsidiary of Fluidstack Ltd. The information included in
+this Current Report on Form 8-K is neither an offer to sell nor a solicitation of an offer to buy any securities. Cautionary Note Regarding Forward-Looking Statements Statements in this Current Report on Form 8-K about
+future expectations, plans, and prospects, as well as any other statements regarding matters that are not historical facts, may constitute
+“forward-looking statements” within the meaning of The Private Securities Litigation Reform Act of 1995. These statements
+include, but are not limited to, statements relating to the completion, size and timing of the offering, the anticipated use of any proceeds
+from the offering, and the terms of the notes. The words “anticipate,” “believe,” “continue,” “could,”
+“estimate,” “expect,” “intend,” “may,” “plan,” “potential,” “predict,”
+“project,” “should,” “target,” “will,” “would,” and similar expressions are
+intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Actual results
+may differ materially from those indicated by such forward-looking statements as a result of various important factors, including uncertainties
+related to market conditions and the completion of the offering on the anticipated terms or at all, the other factors discussed in the
+“Risk Factors” section of TeraWulf’s Annual Report on Form 10-K filed with the Securities and Exchange Commission (the
+“SEC”) on March 3, 2025 and the risks described in other filings that TeraWulf may make from time to time with the SEC. Any
+forward-looking statements contained in this Current Report on Form 8-K speak only as of the date hereof, and TeraWulf specifically disclaims
+any obligation to update any forward-looking statement, whether as a result of new information, future events, or otherwise, except to
+the extent required by applicable law. SIGNATURES Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized. Date: December 18, 2025 TERAWULF, INC. By: /s/ Patrick A. Fleury Name: Patrick A. Fleury Title: Chief Financial Officer

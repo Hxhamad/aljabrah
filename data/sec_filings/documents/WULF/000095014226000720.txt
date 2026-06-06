@@ -1,0 +1,56 @@
+FORM 8-K false 0001083301 0001083301 2026-03-13 2026-03-13 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant
+to Section 13 or 15(d) of the Securities
+Exchange Act of 1934 Date of Report (Date of earliest event reported): March 13, 2026 TERAWULF INC. (Exact name of registrant as specified in its
+charter) Delaware 001-41163 87-1909475 (State or other jurisdiction of incorporation) (Commission File Number) (IRS Employer Identification No.) 9 Federal Street Easton , Maryland 21601 (Address of principal executive offices and zip code) ( 410 ) 770-9500 (Registrant’s telephone number, including
+area code) Not Applicable (Former Name or Former Address, if Changed Since Last
+Report) Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: ☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered
+pursuant to Section 12(b) of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered Common stock, $0.001 par value per share WULF The Nasdaq Capital Market Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the
+Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company ☐ If an emerging growth company, indicate by
+check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Item 1.01. Entry into a Material Definitive Agreement. On March 13, 2026, TeraWulf Inc. (“TeraWulf”
+or the “Company”) entered into that certain Delayed-Draw Bridge Credit Agreement (with any and all amendments, restatements,
+supplements and/or other modifications thereto, the “Bridge Credit Agreement”), by and among Raylan Finance LLC, a Delaware
+limited liability company and a subsidiary of TeraWulf (“Holdings”), Raylan Data LLC, a Delaware limited liability company
+and a direct subsidiary of Holdings (the “Borrower”), Justified DataPower LLC, a Delaware limited liability company, a subsidiary
+of TeraWulf and an affiliate of the Borrower (the “Real Estate Guarantor”), Morgan Stanley Senior Funding, Inc., as administrative
+agent and collateral agent, and each lender party thereto from time to time. The Bridge Credit Agreement will provide TeraWulf with financing
+under a 364-day $500 million delayed draw senior secured bridge facility (the “Facility”), the proceeds of which may be used
+to finance the construction and development of the Company’s data center facility in Hawesville, KY. Borrowings under the Bridge Credit Agreement will bear
+interest at a rate equal to at the Borrower’s option, either (a) a Term SOFR determined by reference to the secured overnight financing
+rate published by an administrator therefor, which rate shall be no less than zero, plus an applicable margin of 2.75% per annum or (b) a base rate determined by reference to the highest
+of (i) the federal funds rate plus 0.50% per annum, (ii) the prime rate of Morgan Stanley, (iii) one-month Term SOFR and (iv) 1.00% per
+annum, plus an applicable margin of 1.75% per annum. The Bridge Credit Agreement contains customary affirmative
+covenants, including financial statement reporting requirements and delivery of compliance certificates. The Bridge Credit Agreement also
+contains customary negative covenants, including covenants that limit the ability of the Borrower, the Real Estate Guarantor and their
+respective subsidiaries to, among other things, grant or incur liens, dispose of assets, incur additional indebtedness, make certain investments,
+restricted payments or restricted debt payments, enter into certain mergers and acquisitions, and covenants that limit the ability of
+TeraWulf and its subsidiaries to, among other things, incur additional indebtedness or dispose of certain assets, subject in each case
+to certain customary exclusions, exceptions and baskets. In addition, the Bridge Credit Agreement contains a minimum liquidity covenant
+pursuant to which TeraWulf and the Borrower are required to maintain $100 million of liquidity, including the proceeds of the Facility. The Bridge Credit Agreement also contains customary
+events of default (subject to certain exceptions, thresholds and grace periods), including, among other things, the failure to pay obligations
+when due, breach of covenants, bankruptcy-related defaults, certain monetary judgment defaults, and certain change of control events.
+The occurrence of an event of default may result in the termination of the Bridge Credit Agreement and acceleration of repayment obligations
+with respect to any outstanding obligations under the Bridge Credit Agreement. Item 2.03. Creation of a Direct Financial Obligation or an Obligation
+under an Off-Balance Sheet Arrangement of a Registrant. The information set forth in Item 1.01 of this Current
+Report on Form 8-K is incorporated herein by reference. Item 7.01. Regulation FD Disclosure. As previously reported, WULF Compute
+LLC (the “Issuer”), a Delaware limited liability company and wholly-owned indirect subsidiary of the Company, entered into
+an indenture, dated as of October 23, 2025 (the “Indenture”), by and among the Issuer, TeraWulf Brookings LLC, a Delaware
+limited liability company and the direct parent company of the Issuer, the subsidiary guarantors party thereto, and Wilmington Trust,
+National Association, as trustee and collateral agent, governing the Issuer’s 7.750% Senior Secured Notes due 2030 (the “Notes”).
+Pursuant to the Indenture, the Issuer is required to furnish to the trustee and the holders of the Notes an unaudited reconciliation explaining
+in reasonable detail the differences between the financial information relating to the Company and its subsidiaries and the corresponding
+financial information with respect to the Issuer and its subsidiaries on a standalone basis. The Issuer is furnishing herewith
+the consolidating schedules as of and for the year ended December 31, 2025, which are presented for the purpose of providing an unaudited
+reconciliation of the consolidated balance sheet and related consolidated statement of operations of the Company and its subsidiaries
+compared to the Issuer and its wholly-owned subsidiaries La Lupa Data LLC, Akela Data Holdings LLC and Akela Data LLC on a standalone
+basis. The consolidating schedules are
+attached hereto as Exhibit 99.1 and are incorporated herein by reference. The information in this Item 7.01,
+including Exhibit 99.1, is being furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange
+Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed
+incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth
+by specific reference in such a filing. Item 9.01. Financial Statements and
+Exhibits. (d) Exhibits. Exhibit No. Description 99.1 Consolidating schedules as of and for the year ended December 31, 2025. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized. Date: March 16, 2026 TERAWULF, INC. By: /s/ Patrick A. Fleury Name: Patrick A. Fleury Title: Chief Financial Officer

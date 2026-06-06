@@ -1,0 +1,80 @@
+false 0001716166 0001716166 2025-12-05 2025-12-05 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 8-K CURRENT
+REPORT Pursuant
+to Section 13 OR 15(d) of the Securities
+Exchange Act of 1934 Date
+of Report (Date of earliest event reported): December 5, 2025 Vivos
+Therapeutics, Inc. (Exact
+name of registrant as specified in its charter) Delaware 001-39796 81-3224056 (State
+    or other jurisdiction (Commission (I.R.S.
+    Employer of
+    incorporation) File
+    Number) Identification
+    No.) 7921
+Southpark Plaza , Suite 210 Littleton , Colorado 80120 (Address
+of principal executive offices) (Zip Code) (866) 908-4867 (Registrant’s
+telephone number, including area code) N/A (Former
+name or former address, if changed since last report) Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions: ☐ Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities
+registered pursuant to Section 12(b) of the Act: Title
+    of each class Trading
+    Symbol(s) Name
+    of each exchange on which registered Common
+    Stock, par value $0.0001 per share VVOS The
+    NASDAQ Stock Market LLC Indicate
+by check mark whether the registrant is an emerging growth company as defined in as defined in Rule 405 of the Securities Act of 1933
+(§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging
+growth company ☒ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Item
+1.01 Entry into a Material Definitive Agreement On
+December 5, 2025, Vivos Therapeutics, Inc., a Delaware corporation (the “ Company ”), entered into a Note Purchase Agreement
+(the “ Note Purchase Agreement ”) with from Avondale Capital, LLC, a Utah limited liability company (“ Lender ”),
+pursuant to which the Company issued and sold to Lender a Promissory Note (the “ Note ”) in the original principal amount
+of $2,093,340 (the “ Principal Amount ”, and the financing as described herein, the “ Note Financing” ).
+The Principal Amount includes an original issue discount of $587,340. The Company also agreed to pay $6,000 to the Lender to cover its
+legal fees, accounting costs, due diligence, monitoring, and other transaction costs, each of which was added to the Principal Amount,
+resulting in a purchase price of for the Note and gross proceeds to the Company of approximately $1,500,000 received by the Company.
+The Note is not convertible into shares of Common Stock or otherwise. The Lender is an affiliate of Streeterville Capital, LLC, a Utah
+limited liability company (“ Streeterville ”). As previously reported, Streeterville and the Company entered into a
+senior secured loan on June 9, 2025. The
+Note does not bear interest and no interest will accrue on the Note unless an event of default occurs as further described below. The
+Company will make weekly payments of $69,778 beginning from December 12, 2025  until the Note is paid in full. The Company
+may prepay the outstanding amount due under the Note at any time without penalty. If the Company prepays the Note in full by January
+4, 2026, the outstanding balance of the Note will be automatically reduced by $286,140. The Company intends used the net proceeds from
+the Note Financing for working capital and other general corporate purposes. No placement agent was used in connection with the Note
+Financing. The
+Note is unsecured. In connection with the Note Financing, the Company has caused Company’s wholly-owned subsidiary, Airway Integrated
+Management Company, LLC, a Colorado limited liability company, (“ AIM ”) to enter into the Guaranty Agreement, dated
+December 5, 2025, in favor of the Lender (“ Guaranty Agreement” ) to provide a guarantee of the Company’s obligations
+to the Lender under the Note and the other transaction documents. The
+Note provides for customary events of default (each as defined in the Note, an “ Event of Default ”), including, among
+other things, the event of nonpayment of principal, interest, fees or other amounts, a representation or warranty proving to have been
+incorrect when made, failure to perform or observe covenants as specified in the Note, failure to obtain prior written consent from the
+Lender on a fundamental transaction (including consolidations, mergers, and certain changes in control of the Company) undertaken by
+the Company, a material breach of covenants or other terms in any financial or material agreements between the Company and the Lender
+or its affiliate (which includes Streeterville), and the occurrence of a bankruptcy, insolvency or similar event affecting the Company.
+Upon the occurrence of any Events of Default, interest shall begin accruing on the outstanding balance of the Note from the date of the
+Event of Default equal to the lesser of eighteen percent (18%) per annum and the maximum rate allowable under law. Additionally, upon
+the occurrence of certain Events of Default related to the occurrence of a bankruptcy, insolvency or similar event affecting the Company,
+the outstanding Principal Amount of the Note will become automatically due and payable. Item
+2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant. The
+information contained above under Item 1.01, to the extent applicable, is hereby incorporated by reference herein. Item
+9.01. Financial Statements and Exhibits. (d)
+Exhibits Exhibit
+    No. Description 10.1 Note Purchase Agreement, dated December 5, 2025, by and between the Company and Lender. 10.2 Promissory Note, dated December 5, 2025, made by the Company in favor of Lender. 10.3 Guaranty Agreement, dated December 5, 2025, by and between AIM and Lender 104 Cover
+    Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURE Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. VIVOS
+    THERAPEUTICS, INC. Dated:
+    December 5, 2025 By: /s/
+    Bradford Amman Name: Bradford
+    Amman Title: Chief
+    Financial Officer

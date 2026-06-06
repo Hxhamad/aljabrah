@@ -1,0 +1,107 @@
+false 0001716166 0001716166 2026-01-20 2026-01-20 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 8-K CURRENT
+REPORT Pursuant
+to Section 13 OR 15(d) of the Securities
+Exchange act of 1934 Date
+of Report (Date of earliest event reported): January 20, 2026 (January 15, 2026) Vivos
+Therapeutics, Inc. (Exact
+name of registrant as specified in its charter) Delaware 001-39796 81-3224056 (State
+    or other jurisdiction of (Commission (IRS
+    Employer incorporation
+    or organization) file
+    number) Identification
+    No.) 7921
+Southpark Plaza , Suite 210 Littleton , Colorado 80120 (Address
+of principal executive offices) (Zip Code) (866) 908-4867 ( Registrant’s
+telephone number, including area code ) N/A (Former
+name or former address, if changed since last report) Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions: ☐ Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities
+registered pursuant to Section 12(b) of the Act: Title
+    of each class Trading
+    Symbol(s) Name
+    of each exchange on which registered Common
+    Stock, par value $0.0001 per share VVOS The
+    Nasdaq Stock Market LLC Indicate
+by check mark whether the registrant is an emerging growth company as defined in as defined in Rule 405 of the Securities Act of 1933
+(§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging
+growth company ☒ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ Item
+1.01 Entry Into a Material Definitive Agreement. As previously reported, Vivos Therapeutics,
+Inc., a Delaware corporation (the “ Company ”), entered into the following private placement transactions with an institutional
+investor (the “ Holder ”) pursuant to which the Company issued to the Holder (i) a Common Stock Purchase Warrant, issued
+on January 9, 2023, to purchase up to 266,667 shares of the common stock of the Company, par value $0.0001 per shares (the “ Common
+Stock ” and the warrant, the “ January 2023 Warrant ”) at an exercise price
+of $3.83, (ii) a Series A Warrant, issued on November 2, 2023, to purchase up to 980,393 shares of Common Stock (the “ November
+2023 Warrant ”) at an exercise price of $3.83, and (iii) a Series B-1 Warrant, issued
+on February 20, 2024, to purchase up to 735,296 shares of Common Stock (the “ February 2024 Warrant ”) at
+an exercise price of $5.05. The January 2023 Warrant, the November 2023 Warrant and the February 2024 Warrant are referred to
+collectively as the “ Warrants. ” On January 15, 2026, the Company entered
+into a warrant inducement letter agreement with the Holder (the “ Inducement Agreement ”) pursuant to which the Holder
+agreed to exercise for cash the entirety of the Warrants at a reduced exercise price of $2.34 per share (with such exercise price being
+established for purposes of compliance with the listing rules of the Nasdaq Stock Market), resulting in gross proceeds to the Company
+of approximately $4.6 million. The resale of the shares of Common Stock underlying the Warrants have been registered pursuant to a Post-Effective
+Amendment to Form S-1 on a Registration Statement on Form S-3 (File No. 333-278564), which
+became effective with the Securities and Exchange Commission (“ SEC ”) on January 7, 2026. Pursuant to the Inducement Agreement,
+in consideration for the immediate exercise of the Warrants in full for cash, the Company
+agreed to issue to the Holder, in a private placement transaction: (i) a five-year, Series A Common Stock Purchase Warrant to purchase
+up to 1,982,356 shares of Common Stock at an exercise price of $2.09 per share, and (ii) a 24-month, Series B Common Stock Purchase Warrant
+to purchase up to 1,982,356 shares of Common Stock at an exercise price of $2.09 per share (collectively, the “ Inducement Warrants ”
+and such aggregate 3,964,712 shares of Common Stock underlying the Inducement Warrants, the “ Inducement Warrant Shares ”).
+The Inducement Warrants are identical to each other, other than their dates of expiration and the absence of a “Black-Scholes put
+right” in the Series B Inducement Warrant. The transactions
+contemplated by the Inducement Agreement (the “ Inducement Transaction ”) closed on January 20, 2026. The Company
+intends to use these net proceeds received from the Inducement Transaction for general working capital and general corporate purposes. The terms of the Inducement
+Agreement require the Company to file a registration statement registering the Inducement Warrant Shares for resale (“ Resale
+Registration Statement ”) no later than February 14, 2026 and to its best efforts
+to cause the Resale Registration Statement to be effective by March 16, 2026 (or April 15, 2026 if the Resale Registration Statement
+is subject to SEC review). The Company
+further agreed that until February 19, 2026, it will not (other than in connection with limited enumerated exceptions) issue, enter into
+any agreement to issue or announce the issuance or proposed issuance of any shares of Common Stock or Common Stock equivalents or file
+any registration statement or any amendment or supplement (other than the Resale Registration Statement). The Company is further prohibited
+from entering into any “variable rate transaction” for a period of six months from the effective date of the Resale Registration
+Statement, subject to certain exceptions. The
+Inducement Agreement also contains customary representations and agreements, including a provision for liquidated damages owed by the
+Company in the event that the Inducement Warrant Shares are not timely delivered upon future exercises of the Inducement Warrants. The
+Inducement Warrants contain (i) customary stock-based anti-dilution protection, (ii) a cashless
+exercise provision in the event the Inducement Warrant Shares are not registered for resale at the time of exercise, (iii) beneficial
+ownership limitations that may be waived at the option of the Holder upon 61 days’ notice to the Company, (iv) in the case of the
+Series A Inducement Warrant, a put right granting the Holder the right to require the Company or its successor to exchange such warrant
+for the same kind of consideration, equivalent at their Black-Scholes value, offered to holders of Common Stock in the event of a Fundamental
+Transaction (as defined in the Inducement Warrants) and (v) other customary provisions for warrants of this type. H.C. Wainwright & Co., LLC (“ Wainwright ”)
+acted the Company’s exclusive placement agent in connection with the Inducement Transaction. Pursuant to the Engagement Agreement
+dated May 2, 2024, as amended on August 2, 2024, December 22, 2024, February 7, 2025, April 5, 2025
+and May 23, 2025 between Wainwright and the Company, the Company paid Wainwright
+(i) a cash fee equal to 7.0% of the gross proceeds received by the Company in the Inducement Transaction, (ii) issued to Wainwright
+or its designees warrants to purchase 138,765 shares of Common Stock representing 7.0% of
+the shares of Common Stock underlying the Inducement Warrants (the “ Placement Agent Warrants ”), (iii) paid Wainwright
+a management fee of 1.0% of the aggregate gross proceeds of the Inducement Transaction, and (iv) reimbursed Wainwright
+for certain expenses. The terms of the Placement Agent Warrants are substantially identical to the
+Series A Common Stock Purchase Warrant, except that the exercise price of the
+Placement Agent Warrants is $2.925 per share of Common Stock. The
+foregoing descriptions of the Inducement Agreement, the Inducement Warrants, and the Placement Agent Warrants do not purport to be complete
+and are qualified by reference to the full text of such agreements, which are filed with this Current Report on Form 8-K as Exhibits
+10.1, 4.1, 4.2 and 4.3 respectively, and are incorporated herein by reference. Item
+3.02 Unregistered Sales of Equity Securities. The
+disclosures set forth in Item 1.01 above related to the Inducement Transaction are incorporated by reference into this Item 3.02. The
+Inducement Warrants, the Inducement Warrant Shares, the Placement Agent Warrants, and the shares of Common Stock underlying the Placement
+Agent Warrants have not been registered under the Securities Act of 1933, as amended (the “ Securities Act ”) and are
+instead being offered pursuant to the exemption provided in Section 4(a)(2) under the Securities Act and/or Rule 506(b) promulgated thereunder. Item
+9.01 Financial Statements and Exhibits. (d)
+Exhibits. Exhibit
+    No. Exhibit 4.1 Form of Series A Common Stock Purchase Warrant 4.2 Form of Series B Common Stock Purchase Warrant 4.3 Form of Placement Agent Warrant 10.1 Warrant Inducement Agreement, dated February 15, 2026, by and between the Company and the Holder 104 Cover
+    Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURE Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. VIVOS
+    THERAPEUTICS, INC. Dated:
+    January 20, 2026 By: /s/ Bradford
+    Amman Bradford
+    Amman Chief
+    Financial Officer

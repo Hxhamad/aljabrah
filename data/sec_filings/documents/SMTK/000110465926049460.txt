@@ -1,0 +1,626 @@
+424B3 1 tm2612741d1_424b3.htm 424B3 PROSPECTUS Filed Pursuant to Rule 424(b)(3) Registration Statement No. 333-295154 SmartKem, Inc. Up to 146,776,707 Shares of Common
+Stock This prospectus relates to
+the resale of up to an aggregate of 146,776,707 shares of our common stock that we may issue and sell to Keystone Capital Partners, LLC
+(“Keystone”) from time to time, in our sole discretion, under a common stock purchase agreement that we entered into with
+Keystone on March 30, 2026 (the “Purchase Agreement”). This prospectus covers the resale of these shares by Keystone
+to the public. See “Keystone Capital Partners Committed Equity Financing” beginning on page 14 for a description of the Purchase
+Agreement and additional information regarding Keystone. Keystone is an “underwriter” within the meaning of Section 2(a)(11)
+of the Securities Act of 1933, as amended (the “Securities Act”). The purchase price for the
+shares will be based on formulas set forth in the Purchase Agreement depending upon the type of purchase notice that we submit to Keystone
+from time to time. We will pay the expenses incurred in connection with the issuance of the shares of our common stock. See “Plan
+of Distribution.” The total purchase commitment
+under the Purchase Agreement is up to the lesser of (a) $500 million and (b) 19.99% of the Company's outstanding shares of common
+stock as of the date of the Purchase Agreement, which number of shares shall be reduced, on a share-for-share basis, by the number of
+shares of common stock issued or issuable pursuant to any transaction or series of transactions that may be aggregated with the transactions
+contemplated by the Purchase Agreement under applicable rules of the Trading Market (as defined under the Purchase Agreement), (unless
+stockholder approval is obtained or applicable sales qualify as "at market" under applicable rules of The Nasdaq Stock
+Market LLC (“Nasdaq”)). Our common stock is presently
+listed on The Nasdaq Capital Market under the symbol “SMTK.” On April 23, 2026, the last reported sale price of our common
+stock was $0.2501 per share. Investing in our
+securities involves various risks. See “ Risk Factors ” beginning on page 12 for more information on
+these risks. Additional risks will be described in the related prospectus supplements under the heading “ Risk
+Factors .” You should review that section of the related prospectus supplements for a discussion of matters that
+investors in our securities should consider. Neither the U.S. Securities
+and Exchange Commission nor any state securities commission has approved or disapproved of these securities, or passed upon the adequacy
+or accuracy of this prospectus or any accompanying prospectus supplement. Any representation to the contrary is a criminal offense. The date of this prospectus is April 24, 2026. TABLE OF CONTENTS Page PROSPECTUS SUMMARY 2 BUSINESS 2 THE OFFERING 11 RISK FACTORS 12 FORWARD-LOOKING STATEMENTS 13 USE OF PROCEEDS 13 KEYSTONE CAPITAL PARTNERS COMMITTED EQUITY FINANCING 14 SELLING STOCKHOLDER 16 PLAN OF DISTRIBUTION 17 LEGAL MATTERS 19 EXPERTS 19 WHERE YOU CAN FIND MORE INFORMATION 19 INCORPORATION OF DOCUMENTS BY REFERENCE 20 1 PROSPECTUS SUMMARY The following summary highlights
+information contained elsewhere in this prospectus. This summary is not complete and does not contain all of the information that you
+need to consider in making your investment decision. You should carefully read the entire prospectus, including the risks of investing
+in our securities discussed under the heading “Risk Factors” contained in this prospectus and under similar headings in the
+other documents that are incorporated by reference into this prospectus. You should also carefully read the information incorporated by
+reference into this prospectus, including our financial statements, and the exhibits to the registration statement of which this prospectus
+is a part. Unless
+the context indicates otherwise, references in this prospectus to “SmartKem,” “the Company,” “we,”
+ “us,” “our” and similar references refer to SmartKem, Inc. BUSINESS Overview We develop and manufacture
+custom electronic materials designed to enable the next generation of electronics. Our advanced TRUFLEX® materials integrate into
+existing manufacturing processes, supporting efficient, scalable production and high-performance outcomes across a broad range of electronic
+applications. We combine materials science expertise with practical engineering to deliver tailored solutions for partners seeking to
+innovate in electronics. We design and develop our
+materials at our research and development facility in Manchester, UK and operate a field application office in Hsinchu, Taiwan. We operate
+with an international footprint, providing materials development, prototyping and technical support to customers and collaborators globally. Products and Services We supply our advanced materials
+as a set of stable liquid inks, with each ink forming a separate layer of the device. Each of the inks forming these layers has been carefully
+designed to achieve the device performance and electrical stability specified by the customer. We supply the ink set with a detailed process
+of record (“POR”) for producing the desired device. In addition to supplying our organic thin-film transistor (“OTFT”)
+stack materials as a package, prospective customers also evaluate the use of our range of interlayer materials as single layers in new
+and existing chip and display products (in so-called advanced semiconductor packaging). The interlayer materials are being tested as redistribution
+layers, pixel definition layers, permanent resists, and organic dielectric layers due to their favorable processability, patternability,
+planarity, and other properties when compared with existing materials. During 2023, we began developing a range of customized dielectric
+inks for customers’ advanced electronics packaging applications. Products have been scaled
+up for formulated ink supply to customers in package sizes ranging from 100ml to several liters, all supplied from our Manchester facility.
+These are supplied with a certificate of analysis (CoA) and POR, alongside device and design consultancy to ensure successful technology
+transfer. In January 2025, we completed
+the first sale of our TRUFLEX® materials to Chip Foundation under our co-development agreement. We developed the "MiP4,"
+a package of four MicroLEDs connected using our chip-first architecture and its unique interlayer dielectric semiconductor materials.
+A demonstration of the first application of the MiP4—a 12.3-inch MicroLED Smart Backlight—was unveiled at Taiwan's largest
+technical conference, Touch Taiwan 2025. The MicroLED Smart Backlight delivers higher brightness and better contrast in LCD screens that
+are frequently used in the automotive industry today. In December 2025, we
+announced that we had created the world's first all-organic-transistor ("AOT") biometric sensor, in collaboration with Shanghai
+Jiao Tong University (“SJTU”). This novel technology significantly increases the sensitivity of optical detection for flexible
+biometric applications, such as fingerprint or palm print recognition on curved surfaces, and has the potential to help address challenges
+such as fingerprint spoofing. By enabling advanced liveness detection techniques, the sensor can capture subtle signals that distinguish
+real fingerprints from fake ones, whether through multi-wavelength imaging or dynamic imaging that reveals motion or blood flow. 2 A paper describing this new
+technology, titled 'Flexible 256x256 All-Organic-Transistor Active-Matrix Optical Imager with Integrated Gate Driver' and co-authored
+by our Chief Technology Officer, Dr. Simon Ogier, was published by the Institution of Electrical and Electronic Engineers (“IEEE”)
+and presented by Prof. Xiuyan Li, SJTU at the 71st Annual IEEE International Electron Devices Meeting. Market Opportunity Our proprietary TRUFLEX®
+organic materials set enable customers to make backlight units and direct emissive displays that are both flexible and capable of driving
+stable currents, combined with the benefits of low temperature processing. Recently, several manufacturers have launched TVs with mini-LED
+backlight units, and a number of companies are developing a new generation of direct emission MicroLED displays (including Samsung, with
+ ‘The Wall’ offering unparalleled brightness and visual clarity, Sony, LG and AUO), flexible OLED displays, and transparent
+OLED displays. These new formats are supported by a variety of different backplanes using tiled versions of existing technologies or printed
+circuit board (“PCB”) backplanes. We believe that our TRUFLEX® materials can be used to provide active-matrix transistor
+arrays that can address these new product categories using low-cost, flexible substrates. Our customized inks can be
+made with low viscosity, low processing temperatures and without the use of hazardous solvents. In addition, our organic inks offer low
+film stress and shrinkage/warpage versus many established materials. We believe there are other
+markets in which our materials may offer advantages. For example, we believe that our OTFTs are suitable for applications where a relatively
+low number of transistors are required over a wide area such as chemical/biological sensors or distributed logic circuits. We believe
+the growth in Internet of Things (IoT) devices also offers opportunities for low-cost, mass manufacturable, printable logic devices, as
+can be made possible by our technology platform. We believe that our strategy of targeting low cost of prototyping and an ability to rapidly
+transition from design to device will help drive the development of these technologies with our customers. Advanced chip packaging has
+become a critical enabler of next-generation semiconductor systems, driven by the rapid growth of artificial intelligence, high-performance
+computing, and data-center applications that increasingly require heterogeneous integration, higher interconnect density, and improved
+power efficiency. As traditional silicon scaling faces physical and economic constraints, architectures such as chiplet-based designs,
+fan-out packaging, and multi-die integration are increasingly relied upon to deliver system-level performance gains. During 2025, SmartKem
+announced the extension of its OTFT materials platform and “chip-first” process architecture beyond display applications into
+advanced chip packaging, including development collaborations with Manz Asia focused on inkjet-printed dielectric layers for semiconductor
+packaging applications. These initiatives are intended to enable low-temperature, additive manufacturing processes compatible with large-area
+substrates and advanced packaging workflows. We believe that our materials expertise, combined with partnerships established in 2025,
+positions the Company to participate in emerging opportunities within advanced packaging markets that are expanding alongside increased
+investment in AI-driven computing infrastructure and demand for scalable, cost-effective semiconductor integration solutions. Commercialization Strategy Continued Development of Our Materials We design and develop our
+materials at our research and development facility in Manchester, UK, where we respond to customer inquiries and anticipate market trends.
+In response to requests from potential customers, our chemistry team has focused on the development of a range of specialized dielectric
+polymer interlayers. Additional specialty dielectric polymer formulations are being designed for use in advanced mobile communications
+operating at frequencies in excess of 5 GHz (5G applications and beyond). Interlayer inks are also being provided to potential customers
+for evaluation across a wide range of advanced electronics packaging applications. We believe that our knowledge base and experience in
+the design and characterization of OTFTs gives us the ability to respond rapidly to customer preferences and emerging market trends. 3 Development of EDA Tools We have developed an initial
+process design kit (“PDK”) for our process that is designed to be used by third parties in EDA software to allow them to design
+digital logic devices. The PDK contains information such as design rules that are specific to our process equipment, and it will
+also incorporate models of OTFTs made using our materials set. This will be used for digital device simulation and layout of circuit designs.
+We continue to characterize the electrical performance of our materials and to use that data to improve the correlation between simulations
+produced using those tools and actual devices. As part of this development, we expect to populate a library of reference designs for common
+gates used in digital electronic circuits to further simplify third-party design processes. At this time, our circuit layout work is performed
+manually by skilled engineers. Once we have identified a
+specific application requirement, we expect to proceed with development work through an understanding of the product specifications and
+engineering work to calculate the size and capabilities of pixel OTFTs and storage capacitors. For digital logic applications, the situation
+is more complex, and circuits cannot be designed without access to supporting simulation, design, and layout software. In silicon integrated
+circuit (“IC”) design, EDA tools are used to predict the behavior of circuits made using foundry services, allowing designers
+to simulate the behavior of prototype circuits and verify their functionality prior to fabrication, thereby saving time and cost. We believe that the development
+of proprietary EDA tools that permit customers to efficiently design circuits using our processes and materials is an important requirement
+for our commercial success. We have entered into a four-year collaboration with Flexible Integrated Circuits S.L. (FlexiIC) with the aim
+of configuring open-source or low-cost, paid-for EDA tools for our OTFTs. Development of Robust Commercial Manufacturing
+Processes Our base layer, self-assembled
+monolayer, organic semiconductor, organic gate insulator, sputter resistant layer and PassiVation layer inks can be deposited using standard
+coating techniques such as spin-coating or slot-die coating which are widely used for the lithography processes used in TFT manufacturing.
+As a result, our OTFT process can be integrated into existing manufacturing lines using standard industrial techniques without the need
+for additional large capital investment. Furthermore, the solubility of our inks would permit customers to digitally print the features
+of the OTFT device, which we believe may be attractive to potential customers seeking to lower manufacturing costs. Through our relationship with
+the Industrial Technology Research Institute ("ITRI”), we have successfully demonstrated the direct patterning of one of our
+interlayer dielectric materials using DLT, a common commercial manufacturing technology. In 2023, we entered into a transfer technology
+agreement with ITRI pursuant to which ITRI is developing Gen 2.5 scale (370mm x 470mm) commercial manufacturing processes for a range
+of our OTFT materials. Sales and Marketing The majority of our target
+customers are large consumer electronics companies based in Asia (Taiwan, South Korea, Japan and China). We believe that these customers
+are seeking to create novel, higher added value electronics products.  The same region is also a source of new inquiries for
+evaluation of use of our unique dielectrics in the advanced chip packaging sector. We have a direct sales force
+consisting of one employee located in Taiwan, assisted by two technology transfer engineers, and sales representation in China. Our technical
+specialists and senior management team also play an active role in promotional events and engage with strategic partners in Asia.
+We believe that our initial customers will be located in Taiwan, South Korea, Japan and China but we are also directly working with original
+equipment manufacturers (“OEMs”) located in North America, Europe and elsewhere in Asia who have the ability to require their
+suppliers to use our materials. Our sales team is supported for new program delivery by engineers and product specialists located at the
+materials technology center in Manchester. We anticipate building up our sales and marketing resources through a mixture of new in-house
+and specialist agencies. 4 Our marketing efforts include
+increased attendance at significant industry trade shows (including in 2025: SEMICON® Korea, Touch Taiwan, SEMICON® China, SID
+Display Week, the 25 th International Meeting on Information Display (“IMID”), PlayNitride MicroLED Technology Forum,
+SEMICON® Taiwan, MicroLED Connect, TechBlick Berlin and IDW Japan) at which we demonstrate the capabilities of our TRUFLEX® technology
+and respond to requests for proposals and other inquiries from potential customers. We publish technical papers that explain our products
+and technology to inform and engage with potential customers. We have also entered into several joint development agreements to demonstrate
+the capabilities of our materials and to show the feasibility of utilizing our products in specific applications. In addition, we make
+presentations at trade events to showcase our technology and familiarize potential customers with the value we believe our technology
+adds to various applications. We also publish press releases and other announcements relating to our technical capabilities or achievements
+and include product information and related technical materials on our website. We expect that the time between
+the identification of a potential customer and the receipt of a purchase order or agreement for the sale of our products will be relatively
+long. In certain instances, a potential customer may contact us seeking a generic sample of our materials for evaluation. In other instances,
+a customer may approach us with specific performance specifications and inquire about our ability to provide products meeting those specifications,
+after which we provide samples of materials or specific data for evaluation. Following the satisfactory
+completion of development work and any related pilot project, an interested customer would then enter into a sales agreement with us,
+pursuant to which we would either: (i) agree to manufacture products to the customer’s specifications from time to time as
+requested by the customer, including subject to potential minimum quantity requirements; or (ii) agree to license our process to
+the customer for a fee based on a royalty of sales and enter into a supply agreement for our proprietary inks, utilizing a process owned
+and qualified by us, formulated into inks either at our own facilities or by third-party formulators and shipped directly to customers. We expect that the sales cycle
+described above will take approximately 12 to 24 months. During that period, we will be required to incur significant expenses without
+any assurance that a customer order will be obtained. Accordingly, we face a significant risk that we will incur those expenses without
+ever making a sale. Research and Development Since 2023, our chemistry
+team has switched its focus from the development of organic semiconductors to the development of a range of specialized photoimageable
+dielectric polymers. Some of these dielectric materials are intended for use in the display industry as redistribution layers, passivation
+layers, MicroLED interlayers , and pixel definition layers. In response to requests from potential customers, we have also directed
+our efforts to the development of customized dielectric materials for use in the field of advanced electronics packaging. Some of the
+technical challenges facing the development of these dielectrics include tuning interfacial adhesion between a broad range of different
+interlayers, including polymer-to-polymer, polymer-to-metal, and polymer-to-silicon interfaces. Another important aspect of the development
+of novel dielectric inks for advanced packaging applications is the need for them to be capable of being deposited using a range of coating
+and printing techniques, including additive printing methods such as industrial inkjet printing. Once new dielectric materials
+have been characterized, our materials development team customizes the formulations and process parameters to allow integration into the
+fabrication processes at ITRI. This team establishes the BKMs for each material and develops an understanding of the parameters that can
+influence performance. Customers frequently request detailed materials data packages for our customized dielectric materials which, once
+approved by them, should enable them to quickly process our polymer inks at their in-house facilities. At any given time, our dielectric
+inks are under evaluation by a number of potential end users. Initial work is also being done to identify scale-up routes and potential
+supply chains for our materials in anticipation of customer needs. 5 Collaboration Agreements In October 2021, we entered
+into a joint development agreement with RiTdisplay, a Taiwan-based developer of displays, pursuant to which the two parties are collaborating
+on the production of a full-color demonstration AMOLED display. In 2023, we entered into a technology transfer agreement with RiTdisplay,
+pursuant to which the parties commenced a joint project to develop the world’s first commercially ready active-matrix OLED display
+using OTFT technology.  In 2025, we entered into a memorandum of understanding with RiTdisplay for the extension of our existing
+technology transfer agreement which, when finalized, will include the integration of our OTFT process onto RiTdisplay’s Gen 2.5
+Pilot Line, which will enable us to provide product prototyping of the world's first commercially ready AMOLED display using OTFT technology
+on a commercial Gen 2.5 OTFT product manufacturing line at RiTdisplay’s existing state-of-the-art facility in Hsinchu, Taiwan. The
+memorandum of understanding is non-binding, and there can be no assurance as to whether or when a definitive agreement will be executed
+by the parties or as to the ultimate terms of any such agreement. In 2022, we entered into a
+joint development agreement with a Taiwan-based company for the development of a new generation of MiniLED signage. This collaboration
+is expected to lead to the development of a roll-to-roll process for the manufacture of large-format LED displays. In 2023, we entered into a
+joint development agreement with a company in Taiwan for the development of a MicroLED-based display using our OTFT backplane. In July 2023, we entered
+into a three-year technical services agreement with ITRI. Pursuant to this technical services agreement, ITRI is developing Gen 2.5
+scale (370mm x 470mm) commercial manufacturing processes for a range of our OTFT materials. The goal of our agreement with ITRI is to
+develop robust commercial scale manufacturing processes that will enable potential customers to develop prototypes on ITRI’s Gen2.5
+line using our OTFT technology before transferring the manufacturing process to their own lines or to a third-party foundry, including
+ITRI. We believe that the successful development of commercial manufacturing processes will help to accelerate the adoption of our technology
+by display manufacturers in Taiwan and other areas of Asia. We have two employees supporting this work in Taiwan in addition to support
+from our staff in the UK. In February 2024, we
+entered into a joint development agreement with Tianma Microelectronics Co., Ltd. to integrate our organic thin-film transistor technology
+with Tianma’s oxide transistors to develop OTFT-based microarray biochips. Also in February 2024,
+we entered into a collaboration agreement with FlexiIC to develop low-cost, rapid turnaround custom circuits using organic transistor
+technology. Several months later, we signed a multi-year agreement with FlexiIC to develop a new generation of complementary metal oxide
+semiconductors (“CMOS”) for smart sensors. In March 2024, we entered
+into a technology collaboration agreement with ITRI to enable product prototyping on ITRI's Gen 2.5 equipment using our technology. In September 2024, we
+entered into a joint development agreement with Chip Foundation to co-develop a new generation of MicroLED backlight technology for Liquid
+Crystal Displays. In November 2024, we
+entered into a collaboration agreement with AUO to develop a new generation of rollable, transparent MicroLED displays using our technology. In May 2025, we entered
+into a collaboration agreement with Manz Asia for advanced computer and artificial intelligence chip packaging, and in July 2025
+we entered into a preliminary joint development agreement with Manz Asia in furtherance of that collaboration. In December 2025, we
+entered into a proof-of-concept agreement with a leading global consumer electronics company for the development of MicroLED wearables. 6 Manufacturing and Supply We obtain strategic intermediates
+and final products from multiple sources who produce our active semiconductor materials to our specifications. Our TRUFLEX® materials
+fall into two main categories, “active” organic materials and “passive” interlayer materials. Our active materials
+generally require high levels of process and product control, and therefore these are synthesized from start to end by us or a third party
+that has met certain certification requirements and then formulated by us into organic semiconductor inks. We validate active components
+internally before use. Our passive interlayer inks use a range of commercially available intermediates, formulated to our specifications
+to meet differing end-use performance parameters depending on the intended use. Our active and passive inks are proprietary to us. We synthesize the active materials
+either internally or using third-party suppliers that meet specific certification requirements. The raw materials used to produce the
+formulated passive interlayers are purchased from multiple suppliers and tested and validated internally before use. The active and passive
+interlayer inks are presently manufactured internally in our formulation facility located in Manchester, U.K. We are also evaluating a
+base layer material manufactured on a larger scale by a third-party contractor. Initial results have been promising, and we are continuing
+our testing and evaluation. We use our U.K.-based formulation
+activity to enable customers to validate our materials on their Gen 1–Gen 2.5 pilot lines. Our TRUFLEX® inks typically comprise
+from 1.2% up to 25% by weight of solids, with the remainder being made up of electronic grade solvents. For commercial supply quantities,
+to avoid the shipping costs associated with large quantities of locally available solvents, we expect to supply fully formulated ink to
+customers from a formulation facility located close to the customer’s manufacturing facility. We may also outsource the ink manufacture
+to an accredited third-party local formulator, subject to our final quality control testing of the formulated inks. We have not experienced any
+supply shortages with respect to the materials used to formulate our proprietary inks. Competition We believe that competition
+in our targeted markets is based on a variety of factors, including capability, functionality, performance, reliability, ease of use,
+and ability to supply in sufficient quantities. We believe we can, or will be able to, compete effectively on the basis of these factors. a-Si technology is an inorganic
+process widely used in the manufacture of backplanes for LCDs. More recent developments in inorganic semiconductors include the use of
+the metal oxide indium gallium zinc oxide (“IGZO”) for backplanes for large-area OLED TVs and low temperature polycrystalline
+silicon (“LTPS”) for high-resolution cell phones. All of these inorganic processes are operated at high temperatures and therefore
+require high-cost substrates, particularly where processing on plastic is required. We believe that the integration of TFTs with temperature-sensitive
+devices will be made easier with our OTFT inks due to their lower temperature requirements. In addition, we believe that all inorganic
+TFT-based active-matrix technologies face challenges in bending compared with organic TFTs, resulting in greater manufacturing complexity
+and higher costs. A number of competitors have
+engaged in the development of organic inks. However, these competitors either opt to use polymeric semiconductors (BASF SE, Merck KGaA
+and Sumitomo Chemical Co., Ltd.) that process well but have lower mobility than the polycrystalline organic materials in our TRUFLEX®
+materials, or polycrystalline semiconductors that have high mobility but relatively poor uniformity when processed. We believe our proprietary
+technology, which combines a polycrystalline molecule with a matched semiconducting polymer, provides higher mobility, particularly at
+short channel lengths, and better processability than these technologies. Many of our potential competitors
+could have substantial competitive advantages, such as greater name recognition, longer operating histories, broader and deeper product
+portfolios, larger customer bases, and substantially greater financial and other resources, as well as larger-scale manufacturing operations.
+However, we believe our products have the potential to compete with many of our competitors’ offerings through product performance,
+product reliability, and satisfaction of customer qualifications and standards. 7 Government Regulation In addition to customer-specific
+requirements for safety, health and the environment, our formulated materials may also be subject to government regulation during their
+use in the country of device manufacture and under regulations covering the materials in the finished device. Such regulations may address
+the toxicity of materials (including potential carcinogenicity, mutagenicity, and teratogenicity) and restrictions imposed by the environmental
+protection agencies in the countries of manufacture. All new chemicals we obtain
+are evaluated at the time of order and a Control of Substances Hazardous to Health (“COSHH”) assessment is performed prior
+to commencement of any practical work with these materials. The COSHH assessment considers chemical hazards associated with the material,
+its physical properties, the scale of the planned work and the nature of that work e.g., temperature and containment. This process provides
+the first opportunity to screen out any materials that may be prohibited by the ultimate customer. Any use of material in Health and Safety
+Executive COSHH hazard category E, all but gram scale uses of non-volatile material in hazard category D and use of material in hazard
+category C in quantities of more than 1kg would trigger a management review. While it is possible that management authorization may be
+given to conduct research using materials in categories D & E, their use in a potentially formulated product would be discouraged
+and an alternative sought at an early stage. Materials are also screened against lists of banned and restricted materials provided by
+display manufacturers. Any material present on the display manufacturers banned list would not be used in formulated product. We work with a third-party
+service provider to create safety data sheets for our formulated products that are shipped to customers and other end users. Our formulated
+products contain no materials that are restricted in the U.K. and no permissions or exemptions are required. Our OGI material is fluorinated
+and spun from a fluorosolvent listed under regulation (EC) No 428/2009 of May 5, 2009 under section 1C006d. Export of formulations
+may require a Standard individual export license to be applied for, and end use declaration made by the customer. These can be obtained
+through the U.K.’s SPIRE system. To the extent our products
+are or become subject to U.K. export controls and regulations, these regulations may limit the export of our products and technology,
+and provision of our services outside of the U.K., or may require export authorizations, including by license, a license exception, or
+other appropriate government authorizations and conditions, including annual or semi-annual reporting. Export control and economic sanctions
+laws may also include prohibitions on the sale or supply of certain of our products to embargoed or sanctioned countries, regions, governments,
+persons, and entities. In addition, various countries regulate the importation of certain products through import permitting and licensing
+requirements and have enacted laws that could limit our ability to distribute our products. The exportation, re-exportation, and importation
+of our products and technology and the provision of services, including by our partners, must comply with these laws or else we may be
+adversely affected, through reputational harm, government investigations, penalties, and a denial or curtailment of our ability to export
+our products and technology. Complying with export control and sanctions laws may be time-consuming and may result in the delay or loss
+of sales opportunities. Although we take precautions to prevent our products and technology from being provided in violation of such laws,
+our products and technology may have previously been, and could in the future be, provided inadvertently in violation of such laws, despite
+the precautions we take. If we are found to be in violation of U.K. sanctions or export control laws, it could result in substantial fines
+and penalties for us and for the individuals working for us. Export or import laws or sanctions policies are subject to rapid change and
+have been the subject of recent U.K. and non-U.K. government actions. Changes in export or import laws or sanctions policies may adversely
+impact our operations, delay the introduction and sale of our products in international markets, or, in some cases, prevent the export
+or import of our products and technology to certain countries, regions, governments, persons, or entities altogether, which could adversely
+affect our business, financial condition and results of operations. Recent Developments Series A Preferred
+Stock Offering On
+March 30, 2026, we entered into a Securities Purchase Agreement (the "Preferred Stock Purchase Agreement") with certain
+institutional investors, including certain Buyers (as defined below) pursuant to which we sold to such investors in a private placement,
+at an initial closing, (i) 11,411.5 shares of the Company's newly designated Series A Preferred Stock, with a stated value of
+$1,000 per share, convertible into shares of the Company's common stock, at an initial conversion price of $0.5812 per share, subject
+to adjustment as set forth in the certificate of designations, and (ii) warrants to purchase up to 24,542,982 shares of common stock. 8 The
+closing took place on March 31, 2026. The gross proceeds were $9,129,200, prior to the deduction of any fees and expenses. The gross
+proceeds include the exchange of Notes (as defined below) with an aggregate outstanding principal amount of $3,750,000 which were valued
+at a premium of 120% or an aggregate of $4,500,000 in accordance with the terms of the Notes. We expect to use the net proceeds for working
+capital and general corporate purposes. Senior Secured
+Notes Financing On
+March 18, 2026, we entered into a Securities Purchase Agreement (the “March Note Purchase Agreement”) with certain
+accredited investors (the “Buyers”), pursuant to which the Company agreed to issue and sell to the Buyers senior secured promissory
+notes (the "Notes") in the aggregate original principal amount of $3,750,000 for an aggregate purchase price of $2,625,000,
+reflecting an original issue discount of approximately 30%. The
+Notes do not bear interest unless an Event of Default (as defined therein) has occurred, in which case interest accrues at a rate of 14%
+per annum. The Notes mature on the six-month anniversary of the original issuance date, subject to extension at the option of each Buyer
+in the event that an Event of Default has occurred. In addition, if we or any of our subsidiaries consummates a subsequent placement of
+securities, each Buyer may elect to exchange all or any portion of the then outstanding principal amount of its Note into the securities
+being issued in such subsequent placement, with the aggregate amount of such securities valued at 120% of the exchanged principal amount. In
+connection with the March Note Purchase Agreement, we entered into a Security and Pledge Agreement (the "Security Agreement,"
+and together with the March Note Purchase Agreement, the Notes, and the Guaranties (as defined below), the "Transaction Documents")
+in favor of the collateral agent (the "Collateral Agent") for the benefit of the Buyers. Pursuant to the Security Agreement,
+the Grantors granted to the Collateral Agent a first priority perfected security interest in all of our existing and future assets and
+our direct and indirect subsidiaries, including a pledge of all of the capital stock of each subsidiary, as security for our obligations
+under the Transaction Documents. In
+connection with the Security Agreement, we also entered into an Intellectual Property Security Agreement (the "IP Security Agreement"),
+pursuant to which the Grantors granted to the Collateral Agent a continuing security interest in certain of their intellectual property,
+as additional collateral security for the obligations under the Transaction Documents. In addition, each of our subsidiaries executed
+and delivered guaranties in favor of the Collateral Agent, for the benefit of the Buyers, pursuant to which each such subsidiary unconditionally
+and irrevocably guaranteed the payment and performance of all of our obligations under the March Note Purchase Agreement, the Notes,
+and the other Transaction Documents. Settlement Agreement
+with Noteholder On
+March 18, 2026, we entered into a Settlement Agreement and Release (the "Settlement Agreement") with certain holders (the
+"Noteholders") of a senior secured notes that we issued on October 31, 2025 (the "Notes") to resolve certain
+claims alleged by the Noteholders against us arising under the Notes, all of which we denied. Pursuant to the Settlement Agreement, we
+agreed to (i) pay the Noteholders a cash settlement payment of $300,000, (ii) repay the outstanding balance of the Notes in
+full, and (iii) assign, transfer, and convey to the Noteholders all of our right, title, and interest in and to certain patents and
+patent applications (the "Assigned Patents"). Under the terms of the Settlement Agreement, we also agreed to continue the employment
+of a designated employee for six months following the effective date of the Settlement Agreement to serve as a liaison and provide the
+Noteholders with information, assistance, and support related to the Assigned Patents. In exchange, the Noteholders agreed to terminate
+their liens on our assets and release us and our affiliates, officers, directors, employees, and representatives from any and all claims
+arising under the Notes and the related securities purchase agreement. Pursuant to the Settlement Agreement, we also granted a release
+in favor of the Noteholders, releasing it from any and all claims we may have had. 9 Waiver and Termination
+Agreement In
+connection with the Settlement Agreements, entered into Waiver and Termination Agreements with the Holders (the "Waiver and Termination
+Agreements") with respect to the Prior Purchase Agreement. Pursuant to the Waiver and Termination Agreements, the Holders agreed
+to (i) waive compliance with the Lower Priced Issuance provision set forth in Section 4.12(c) of the Prior Purchase Agreement
+with respect to the sale of securities pursuant to the Prior Purchase Agreement, (ii) amend Section 4.12(c) of the Prior
+Purchase Agreement to reset the price threshold thereunder to $0.10 per share, and (iii) subject to our payment of the settlement
+payment and completion of the patent assignment contemplated by the Settlement Agreements, terminate the prohibition on our ability to
+engage in any Variable Rate Transaction set forth in Section 4.12(b) of the Prior Purchase Agreement. Debt Conversion On
+February 5, 2026, we entered into a debt conversion agreement (the "Debt Conversion Agreement") with SmartKem Limited,
+our wholly owned subsidiary, and a creditor (the "Creditor"), pursuant to which we issued to the Creditor (i) 385,130 shares
+of Common Stock, at an ascribed price of $2.75 per share and (ii) pre-funded warrants to purchase 348,260 shares of Common Stock,
+in satisfaction of approximately $2,016,821 owed to the Creditor by SmartKem Limited. January 2026
+Offering On
+January 30, 2026, we entered into a securities purchase agreement with an institutional investor, pursuant to which we sold such
+investor 677,129 shares of Common Stock at a purchase price of $0.50 per share, and 683,871 pre-funded warrants to purchase 683,871 shares
+of Common Stock at a purchase price of $0.4999 per pre-funded warrant and an exercise price of $0.0001 per share (the "January 2026
+Offering"). The January 2026 Offering closed on January 31, 2026. The shares of Common Stock and pre-funded warrants were
+offered pursuant to our shelf registration statement on Form S-3 (File No. 333-281608), which was declared effective by the
+Securities and Exchange Commission on August 22, 2024, and a related base prospectus and prospectus supplement thereunder. We received
+aggregate gross proceeds from the January 2026 Offering of approximately $680,500, before deducting placement agent fees and other
+offering expenses. Corporate Information We were incorporated as Parasol
+Investments Corporation in the State of Delaware on May 13, 2020. SmartKem Limited was incorporated under the laws of England and
+Wales on July 21, 2008. On February 23, 2021, we completed an exchange with SmartKem Limited and the former shareholders of
+SmartKem Limited (the “Exchange”) pursuant to which substantially all of the equity interests in SmartKem Limited were exchanged
+for shares of our common stock, and SmartKem Limited became our wholly owned subsidiary. Immediately following the Exchange, the business
+of SmartKem Limited became our business and we changed our name to “SmartKem, Inc.” Prior to the Exchange, Parasol Investments
+Corporation was a “shell” company registered under the Securities Exchange Act of 1934, as amended (the “Exchange Act”),
+with no specific business plan or purpose until it began operating the business of SmartKem Limited following the closing of the Exchange. Our principal executive offices
+are located at Manchester Technology Center, Hexagon Tower, Delaunays Road, Blackley Manchester, M9 8GQ U.K. Our telephone number is 011-44-161-721-1514.
+Our website address is www.smartkem.com. Information contained on, or that can be accessed through, our website is not a part of this
+prospectus. All trademarks, service marks
+and trade names appearing in this prospectus are the property of their respective holders. Use or display by us of other parties’
+trademarks, trade dress, or products in this prospectus is not intended to, and does not, imply a relationship with, or endorsements or
+sponsorship of, us by the trademark or trade dress owners. 10 THE OFFERING Securities offered by the Selling Stockholder Up to 146,776,707 shares
+of common stock that we may issue and sell to Keystone from time to time, in our sole discretion, under the Purchase Agreement. Terms of the offering Keystone will determine when and how it will dispose of any shares of common stock registered under this prospectus for resale. Common stock outstanding prior to this offering 21,202,911 shares. Common stock to be outstanding after this offering 167,979,618 shares. Use of proceeds We will not receive any proceeds from the resale of shares of our common stock offered by this prospectus by the Selling Stockholder. However, we may receive up to $500 million in aggregate gross proceeds under the Purchase Agreement from sales of common stock that we may elect to make to Keystone pursuant to the Purchase Agreement, if any, from time to time in our discretion. We intend to use the net proceeds from sales, if any, under the Purchase Agreement, for general corporate purposes, including working capital and other general and administrative purposes. See “Use of Proceeds.” Risk factors See “Risk Factors”
+beginning on page 12 of this prospectus, as well as other information included in this prospectus, for a discussion of factors you should
+read and consider carefully before investing in our securities. Nasdaq Capital Markets symbol Our common stock is listed on The Nasdaq Capital Markets under the symbol “SMTK”. The number of shares of our
+common stock to be outstanding after this offering as shown above is based on 21,202,911 shares
+outstanding as of April 13, 2026 and excludes as of that date: · 78,112,805 shares of common stock issuable upon conversion of outstanding Series A Preferred Stock; · 1,638,033 shares of common stock issuable upon the exercise of outstanding options, having a weighted average exercise price of $5.92 per share; · 273,592 shares of common stock available for future issuance under our 2021 Equity Incentive Plan; and · 28,197,761 shares of common stock issuable upon the exercise of outstanding
+warrants, having a weighted average exercise price of $1.24 per share. 11 RISK FACTORS An investment in our securities
+involves a high degree of risk. Prior to making a decision about investing in our securities, you should carefully consider the specific
+factors discussed under the heading “ Risk Factors ” in this prospectus, together with all of the other information contained
+or incorporated by reference in this prospectus. You should also consider the risks, uncertainties and assumptions discussed under Item 1A,
+ “ Risk Factors ,” in our Annual Report on Form 10-K for the fiscal year ended December 31, 2025, filed with the SEC on April 8, 2026 , and any updates described in our Quarterly Reports on Form 10-Q, all of which are incorporated herein
+by reference, and may be amended, supplemented or superseded from time to time by other reports we file with the SEC in the future. The
+risks and uncertainties we have described are not the only ones we face. Additional risks and uncertainties not presently known to us
+or that we currently deem immaterial may also affect our operations. The occurrence of any of these known or unknown risks might cause
+you to lose all or part of your investment in the offered securities. Risks Related to this Offering If we sell shares of
+our common stock under the Purchase Agreement, our existing stockholders will experience immediate dilution and, as a result, our stock
+price may go down. Pursuant to the Purchase Agreement,
+we have agreed to sell up to the lesser of (a) $500 million and (b) 19.99% of our outstanding shares of common stock as of the
+date of the Purchase Agreement, at our option and subject to certain limitations, and to issue 10,000 shares of Series A Preferred
+Stock in consideration for Keystone’s commitment to enter into the Purchase Agreement. For additional details on this financing
+arrangement, please refer to “Keystone Capital Partners Committed Equity Financing” and “Plan of Distribution”
+located elsewhere in this prospectus. The sale of shares of our common stock pursuant to the Purchase Agreement will have a dilutive impact
+on our existing stockholders. Keystone may resell some or all of the shares we issue to it under the Purchase Agreement and such sales
+could cause the market price of our common stock to decline, which decline could be significant. If
+it becomes necessary for us to issue and sell to the Selling Stockholder under the Purchase Agreement more than the 146,776,707 shares
+being registered for resale under the registration statement that includes this prospectus, we must file with the SEC one or more additional
+registration statements to register under the Securities Act the resale by the Selling Stockholder of any such additional shares of our
+common stock we wish to sell from time to time under the Purchase Agreement, which the SEC must declare effective. It is not possible to
+predict the actual number of shares of common stock we will sell under the Purchase Agreement to Keystone, or the actual gross proceeds
+resulting from those sales. Subject to certain limitations
+in the Purchase Agreement and compliance with applicable law, we have the discretion to deliver notices to Keystone at any time throughout
+the term of the Purchase Agreement. The actual number of shares of common stock that are sold to Keystone may depend based on a number
+of factors, including the market price of the shares of common stock during the sales period. Actual gross proceeds may be nominal, which
+may impact our future liquidity. Because the price per share of common stock sold to Keystone will fluctuate during the sales period,
+it is not currently possible to predict the number of shares of common stock that will be sold or the actual gross proceeds to be raised
+in connection with those sales. Investors who buy shares at different times
+will likely pay different prices. Pursuant to the Purchase Agreement,
+we will have discretion, subject to market demand, to vary the timing, prices, and numbers of shares sold to Keystone. If and when we
+do elect to sell shares of our common stock to Keystone under the Purchase Agreement, after Keystone has acquired such shares, Keystone
+may resell all or a portion of such shares at any time or from time to time in its discretion and at different prices. As a result, investors
+who purchase shares from Keystone at different times will likely pay different prices for those shares, and so may experience different
+levels of dilution and in some cases substantial dilution and different outcomes in their investment results. Investors may experience
+a decline in the value of the shares they purchase from Keystone as a result of future sales made by us to Keystone at prices lower than
+the prices such investors paid for their shares. Management will have
+broad discretion as to the use of the proceeds from any sales of shares we make to Keystone pursuant to the Purchase Agreement and uses
+may not improve our financial condition or market value. Although we will not receive
+any proceeds from the offer of the shares for resale by Keystone pursuant to this prospectus, we will receive proceeds from the sale of
+shares of common stock to Keystone pursuant to Purchase Agreement. Because we have not designated the amount of net proceeds from the
+sale of shares to Keystone pursuant to the Purchase Agreement to be used for any particular purpose, our management will have broad discretion
+as to the application of such net proceeds and could use them for purposes other than those contemplated hereby. Our management may use
+the net proceeds for corporate purposes that may not improve our financial condition or market value. 12 FORWARD-LOOKING STATEMENTS This prospectus and the documents
+incorporated by reference herein contain, in addition to historical information, certain forward-looking statements within the meaning
+of Section 27A of the Securities Act, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”), that include information relating to future events, future financial performance, strategies, expectations, competitive environment,
+regulatory environment and availability of resources. Such forward-looking statements include those that express plans, anticipation,
+intent, contingency, goals, targets or future development and/or otherwise are not statements of historical fact. These forward-looking
+statements are based on our current expectations and projections about future events and they are subject to risks and uncertainties known
+and unknown that could cause actual results and developments to differ materially from those expressed or implied in such statements. In some cases, you can identify
+forward-looking statements by terminology, such as “expects,” “anticipates,” “intends,” “estimates,”
+ “plans,” “believes,” “seeks,” “may,” “should”, “could” or the
+negative of such terms or other similar expressions. Accordingly, these statements involve estimates, assumptions and uncertainties that
+could cause actual results to differ materially from those expressed in them. Any forward-looking statements are qualified in their entirety
+by reference to the factors discussed throughout this prospectus or incorporated herein by reference. Risks, uncertainties and other
+factors that may cause our actual results, performance or achievements to be different from those expressed or implied in our written
+or oral forward-looking statements may be found in this prospectus and any accompanying prospectus supplement under the heading “ Risk
+Factors ” and in our Annual Report on Form 10-K for the fiscal year ended December 31, 2025, filed with the SEC on
+April 8, 2026 under the headings “ Risk Factors ” and “ Business ,” as may be amended, supplemented
+or superseded from time to time by other reports we file with the SEC in the future. Forward-looking statements
+speak only as of the date they are made. You should not put undue reliance on any forward-looking statements. We assume no obligation
+to update forward-looking statements to reflect actual results, changes in assumptions or changes in other factors affecting forward-looking
+information, except to the extent required by applicable securities laws. If we do update one or more forward-looking statements, no inference
+should be drawn that we will make additional updates with respect to those or other forward-looking statements. New factors emerge from time
+to time, and it is not possible for us to predict which factors will arise. In addition, we cannot assess the impact of each factor on
+our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained
+in any forward-looking statements. We qualify all of the information presented in this prospectus and incorporated herein by reference,
+and particularly our forward-looking statements, by these cautionary statements. USE OF PROCEEDS This prospectus relates to
+shares of our common stock that may be offered and sold from time to time by the Selling Stockholder. All of the common stock offered
+by the Selling Stockholder pursuant to this prospectus will be sold by the Selling Stockholder for its own account. We will not receive
+any of the proceeds from these sales. We may receive up to $500 million aggregate of gross proceeds under the Purchase Agreement from
+any sales we make to the Selling Stockholder pursuant to the Purchase Agreement. See “Plan of Distribution” elsewhere in this
+prospectus for more information. Our management will have broad
+discretion in applying any net proceeds of this offering. Until the funds are used as described above, we intend to invest any net proceeds
+from this offering in interest bearing, investment grade securities. 13 KEYSTONE CAPITAL PARTNERS COMMITTED EQUITY FINANCING On
+March 30, 2026, we entered into the Purchase Agreement with Keystone, pursuant to which Keystone has agreed to purchase from us,
+from time to time, in our sole discretion, from and after the Commencement Date (as defined in the Purchase Agreement) and until the termination
+of the Purchase Agreement in accordance with the terms thereof, shares of our common stock having a total maximum aggregate purchase price
+of up to the lesser of (a) $500 million and (b) 19.99% of our outstanding shares of common stock as of the date of the Purchase
+Agreement (the "Shares"), upon the terms and subject to the conditions and limitations set forth in the Purchase Agreement,
+unless Stockholder Approval (as defined in the Purchase Agreement) is obtained. In
+connection with the Purchase Agreement, we also entered into a Registration Rights Agreement with Keystone (the “Registration Rights
+Agreement”), pursuant to which we agreed to file a registration statement with the Securities and Exchange Commission covering the
+resale of the shares of common stock issued to Keystone pursuant to the Purchase Agreement (the “Registration Statement”)
+no later than the tenth day following our filing with the Commission of our annual report on Form 10-K for the year ended December 31,
+2025. We
+may, from time to time and at our sole discretion, direct Keystone to purchase shares of our common stock upon the satisfaction
+of certain conditions set forth in the Purchase Agreement at a purchase price per share based on the market price of our common stock
+at the time of sale as computed under the Purchase Agreement. There is no upper limit on the price per share that Keystone could
+be obligated to pay for common stock under the Purchase Agreement. We will control the timing and amount of any sales of our common stock
+to Keystone, and Keystone has no right to require us to sell any shares to it under the Purchase Agreement. Actual sales
+of shares of common stock to Keystone under the Purchase Agreement will depend on a variety of factors to be determined by us
+from time to time, including (among others) market conditions, the trading price of our common stock and determinations by us as to available
+and appropriate sources of funding for us and our operations. Keystone may not assign or transfer its rights and obligations
+under the Purchase Agreement. Under
+the applicable Nasdaq rules, we are prohibited from issuing to Keystone under the Purchase Agreement more than 4,220,772 shares
+of common stock, which number of shares represents 19.99% of the shares of our common stock outstanding immediately prior to the execution
+of the Purchase Agreement (the “Exchange Cap”), unless (i) Stockholder Approval is obtained or (ii) the price of
+applicable sales of common stock to Keystone under the Purchase Agreement equals or exceeds the lower of (A) the official closing
+sale price on Nasdaq immediately preceding the delivery of the applicable VWAP Purchase Notice to Keystone and (B) the arithmetic
+average of the closing sale prices of our common stock on Nasdaq for the five business days immediately preceding the delivery of such
+VWAP Purchase Notice, in each case such that the sales of such common stock to Keystone would not count toward the 19.99% because they
+are "at market" under applicable Nasdaq rules. In
+all cases, we may not issue or sell any shares of common stock to Keystone under the Purchase Agreement which, when aggregated
+with all other shares of our common stock then beneficially owned by Keystone and its affiliates, would result in Keystone beneficially
+owning more than 4.99% of the outstanding shares of our common stock. Purchase of Shares
+under the Purchase Agreement VWAP Purchases Under
+the Purchase Agreement, on any business day selected by us where the closing sale price of our common stock is equal to or greater than
+$0.10, and subject to the satisfaction of certain conditions set forth in the Purchase Agreement, we may direct Keystone to purchase shares
+of our common stock in what we refer to as a VWAP Purchase, by delivering to Keystone a VWAP Purchase Notice (as defined in the Purchase
+Agreement). The aggregate committed obligation of Keystone under any single VWAP Purchase shall not exceed $5,000,000. The number of shares
+Keystone is required to purchase in any VWAP Purchase shall not exceed 30% of the trading volume in our common stock on Nasdaq during
+the applicable VWAP Purchase period on the applicable VWAP Purchase date (the "VWAP Purchase Maximum Amount"). The purchase
+price per share for each VWAP Purchase will be equal to the lesser of 90% of: · the lowest sale price of our common stock on the applicable VWAP Purchase date; and 14 · the volume weighted average price of our common stock during the applicable VWAP Purchase period. Termination Rights We
+have the right to terminate the Purchase Agreement at any time after the Commencement Date (as defined in the Purchase Agreement), at
+no cost or penalty, upon one (1) Trading Day's prior written notice to Keystone. Keystone also has the right to terminate the
+Purchase Agreement upon ten (10) Trading Days' prior written notice to us under certain circumstances, including, among others, the
+occurrence of a material adverse effect, a fundamental transaction, or a material breach of the Purchase Agreement by us that is not cured
+within ten (10) Trading Days after notice thereof. The Company and Keystone may also agree to terminate the Purchase Agreement by
+mutual written consent, provided that no termination of the Purchase Agreement will be effective prior to the first Trading Day immediately
+following the settlement of any pending purchase that has not then fully settled in accordance with the Purchase Agreement. Neither the
+Company nor Keystone may assign or transfer its respective rights and obligations under the Purchase Agreement. Effect of Performance
+of the Purchase Agreement on our Stockholders All shares registered in this
+offering that may be issued and sold by us to Keystone under the Purchase Agreement are expected to be freely tradable. Shares registered
+in this offering may be sold over the term of the Purchase Agreement. The sale by Keystone of a significant amount of shares registered
+in this offering at any given time could cause the market price of our common stock to decline and to be highly volatile. Sales of our
+common stock to Keystone, if any, will depend upon market conditions and other factors to be determined by us, in our sole discretion.
+We may ultimately decide to sell to Keystone all, some or none of the shares of our common stock that may be available for us to sell
+pursuant to the Purchase Agreement. If and when we do sell shares to Keystone, after Keystone has acquired the shares, Keystone may resell
+all, some or none of those shares at any time or from time to time in its discretion. Therefore, sales to Keystone by us under the Purchase
+Agreement may result in substantial dilution to the interests of other holders of our common stock. In addition, if we sell a substantial
+number of shares to Keystone under the Purchase Agreement, or if investors expect that we will do so, the actual sales of shares or the
+mere existence of our arrangement with Keystone may make it more difficult for us to sell equity or equity-related securities in the future
+at a time and at a price that we might otherwise wish to effect such sales. However, we have the right to control the timing and amount
+of any additional sales of our shares to Keystone and the Purchase Agreement may be terminated by us at any time at our discretion without
+any cost to us. Pursuant to the terms of the
+Purchase Agreement, we have the right, but not the obligation, to direct Keystone to purchase up to the lesser of (a) $500 million
+and (b) 19.99% of our outstanding shares of common stock as of the date of the Purchase Agreement, exclusive of any shares of common
+stock issuable upon conversion of 10,000 shares of Series A Preferred Stock in consideration for Keystone’s commitment to enter
+into the Purchase Agreement (the “Commitment Shares”). The Purchase Agreement prohibits us from issuing or selling to Keystone
+under the Purchase Agreement shares of our common stock if those shares, when aggregated with all other shares of our common stock then
+beneficially owned by Keystone, would exceed 4.99% of the outstanding shares of our common stock. 15 SELLING STOCKHOLDER This prospectus relates to
+the possible resale from time to time by Keystone of any or all of the shares of common stock that may be issued by us to Keystone under
+the Purchase Agreement. For additional information regarding the issuance of common stock covered by this prospectus, see the section
+titled “Keystone Capital Partners Committed Equity Financing” above. We are registering the shares of common stock pursuant
+to the provisions of the Registration Rights Agreement we entered into with Keystone on March 30, 2026 in order to permit the selling
+stockholder to offer the shares for resale from time to time. Except for the transactions contemplated by the Purchase Agreement and the
+Registration Rights Agreement, Keystone has not had any material relationship with us within the past three years. As used in this prospectus,
+the term “selling stockholder” means Keystone Capital Partners, LLC. The table below presents
+information regarding the selling stockholder and the shares of common stock that it may offer from time to time under this prospectus.
+This table is prepared based on information supplied to us by the selling stockholder, and reflects holdings as of April 13, 2026.
+The number of shares in the column “Maximum Number of Shares of Common Stock to be Offered Pursuant to this Prospectus” represents
+all of the shares of common stock that the selling stockholder may offer under this prospectus. The selling stockholder may sell some,
+all or none of its shares in this offering. We do not know how long the selling stockholder will hold the shares before selling them,
+and we currently have no agreements, arrangements or understandings with the selling stockholder regarding the sale of any of the shares. Beneficial ownership is determined
+in accordance with Rule 13d-3(d) promulgated by the SEC under the Exchange Act, and includes shares of common stock with respect
+to which the selling stockholder has voting and investment power. The percentage of shares of common stock beneficially owned by the
+selling stockholder prior to the offering shown in the table below is based on an aggregate of 21,202,911 shares of our common stock outstanding on April 13, 2026. Because the purchase price of the shares of common stock issuable under
+the Purchase Agreement is determined on the applicable VWAP Purchase Date, with respect to a VWAP Purchase, the number of shares that
+may actually be sold by the Company to Keystone Capital under the Purchase Agreement may be fewer than the number of shares being offered
+by this prospectus. The fourth column assumes the sale of all of the shares offered by the selling stockholder pursuant to this prospectus. Selling Stockholder Number of shares of Common Stock Beneficially Owned Prior to Offering Maximum Number of shares of Common Stock to be Sold Pursuant to this Prospectus Number of shares of Common Stock Beneficially Owned After Offering Percent of Common Stock Beneficially Owned After Offering Keystone Capital Partners, LLC (4) 47,596,383 (1)(2) 146,776,707 47,596,383 (3) 4.99 % (1) This number represents
+    47,596,383 shares of common stock issuable upon conversion of Series A Preferred Stock we issued to Keystone on March 30,
+    2026 as Commitment Shares in consideration for entering into the Purchase Agreement with us. In accordance with
+    Rule 13d-3(d) under the Exchange Act, we have excluded from the number of shares beneficially owned prior to the offering
+    all of the shares that Keystone may be required to purchase under the Purchase Agreement, because the issuance of such shares is
+    solely at our discretion and is subject to conditions contained in the Purchase Agreement, the satisfaction of which are entirely
+    outside of Keystone’s control, including the registration statement that includes this prospectus becoming and remaining
+    effective. Furthermore, the VWAP Purchase of common stock are subject to certain agreed upon maximum amount limitations set forth in
+    the Purchase Agreement. Also, the Purchase Agreement prohibits us from issuing and selling any shares of our common stock to
+    Keystone to the extent such shares, when aggregated with all other shares of our common stock then beneficially owned by Keystone
+    Capital, would cause Keystone’s beneficial ownership of our common stock to exceed the 4.99% Beneficial Ownership
+    Cap. (2) Excludes 1,825,350 shares of common stock underlying warrants that
+are not exercisable within 60 days of April 13, 2026 and are therefore not deemed beneficially owned pursuant to Rule 13d-3(d) under the
+Exchange Act. (3) Assumes the sale of all shares being offered pursuant to this prospectus. (4) The business address of Keystone Capital Partners, LLC is 139 Fulton Street, Suite 412, New York, NY 10038. Keystone Capital Partners, LLC’s principal business is that of a private investor. Ranz Group, LLC, a Delaware limited liability company, is the managing member of Keystone Capital Partners, LLC and the beneficial owner of 97% of the membership interests in Keystone Capital Partners, LLC. Fredric G. Zaino is the managing member of Ranz Group, LLC and has sole voting control and investment discretion over securities beneficially owned directly by Keystone Capital, LLC and indirectly by Ranz Group, LLC. We have been advised that none of Mr. Zaino, Ranz Group, LLC or Keystone Capital Partners, LLC is a member of the Financial Industry Regulatory Authority, or FINRA, or an independent broker-dealer, or an affiliate or associated person of a FINRA member or independent broker-dealer. The foregoing should not be construed in and of itself as an admission by Mr. Zaino as to beneficial ownership of the securities beneficially owned directly by Keystone Capital Partners, LLC and indirectly by Ranz Group, LLC. 16 PLAN OF DISTRIBUTION The common stock offered by
+this prospectus are being offered by the selling stockholder, Keystone Capital Partners. The shares may be sold or distributed from time
+to time by the selling shareholder directly to one or more purchasers or through brokers, dealers, or underwriters who may act solely
+as agents at market prices prevailing at the time of sale, at prices related to the prevailing market prices, at negotiated prices, or
+at fixed prices, which may be changed. The sale of our common stock offered by this prospectus could be effected in one or more of the
+following methods: · ordinary brokers’ transactions; · transactions involving cross or block trades; · through brokers, dealers, or underwriters who may act solely as agents; · “at the market” into an existing market for our common stock; · in other ways not involving market makers or established business markets, including direct sales to purchasers or sales effected through agents; · in privately negotiated transactions; or · any combination of the foregoing. In order to comply with the
+securities laws of certain states, if applicable, the shares may be sold only through registered or licensed brokers or dealers. In addition,
+in certain states, the shares may not be sold unless they have been registered or qualified for sale in the state or an exemption from
+the state’s registration or qualification requirement is available and complied with. Keystone Capital Partners,
+LLC is an “underwriter” within the meaning of Section 2(a)(11) of the Securities Act. Keystone has informed us that
+it intends to use one or more registered broker-dealers to effectuate all sales, if any, of our common stock that it has acquired and
+may in the future acquire from us pursuant to the Purchase Agreement. Such sales will be made at prices and at terms then prevailing or
+at prices related to the then current market price. Each such registered broker-dealer will be an underwriter within the meaning of Section 2(a)(11)
+of the Securities Act. Keystone has informed us that each such broker-dealer will receive commissions from Keystone that will not exceed
+customary brokerage commissions. Brokers, dealers, underwriters
+or agents participating in the distribution of our common stock offered by this prospectus may receive compensation in the form of commissions,
+discounts, or concessions from the purchasers, for whom the broker-dealers may act as agent, of the shares sold by the selling shareholder
+through this prospectus. The compensation paid to any such particular broker-dealer by any such purchasers of our common stock sold by
+the selling shareholder may be less than or in excess of customary commissions. Neither we nor the selling shareholder can presently estimate
+the amount of compensation that any agent will receive from any purchasers of our common stock sold by the selling shareholder. We know of no existing arrangements
+between the selling shareholder or any other shareholder, broker, dealer, underwriter or agent relating to the sale or distribution of
+our common stock offered by this prospectus. We may from time to time file
+with the SEC one or more supplements to this prospectus or amendments to the registration statement of which this prospectus forms a part
+to amend, supplement or update information contained in this prospectus, including, if and when required under the Securities Act, to
+disclose certain information relating to a particular sale of shares offered by this prospectus by the selling shareholder, including
+the names of any brokers, dealers, underwriters or agents participating in the distribution of such shares by the selling shareholder,
+any compensation paid by the selling shareholder to any such brokers, dealers, underwriters or agents, and any other required information. 17 We will pay the expenses incident
+to the registration under the Securities Act of the offer and sale of our common stock covered by this prospectus by the selling shareholder.
+As consideration for its irrevocable commitment to purchase our common stock under the Purchase Agreement, we have issued to Keystone
+10,000 shares of the Company’s Series A Preferred Stock as Commitment Shares in accordance with the Purchase Agreement. We
+have also paid to Keystone $35,000 in cash as reimbursement for the reasonable, out-of-pocket expenses incurred by Keystone, including
+the legal fees and disbursements of Keystone’s legal counsel, in connection with its due diligence investigation of the Company
+and in connection with the preparation, negotiation and execution of the Purchase Agreement. We also have agreed to indemnify
+Keystone and certain other persons against certain liabilities in connection with the offering of our common stock offered hereby, including
+liabilities arising under the Securities Act or, if such indemnity is unavailable, to contribute amounts required to be paid in respect
+of such liabilities. Keystone has agreed to indemnify us against liabilities under the Securities Act that may arise from certain written
+information furnished to us by Keystone specifically for use in this prospectus or, if such indemnity is unavailable, to contribute amounts
+required to be paid in respect of such liabilities. Insofar as indemnification for liabilities arising under the Securities Act may be
+permitted to our directors, officers, and controlling persons, we have been advised that in the opinion of the SEC this indemnification
+is against public policy as expressed in the Securities Act and is therefore, unenforceable. We estimate that the total
+expenses for the offering will be approximately $200,000. Keystone has represented to
+us that at no time prior to the date of the Purchase Agreement has Keystone or its agents, representatives or affiliates engaged in or
+effected, in any manner whatsoever, directly or indirectly, any short sale (as such term is defined in Rule 200 of Regulation SHO
+of the Exchange Act) of our common stock or any hedging transaction, which establishes a net short position with respect to our common
+stock. Keystone has agreed that during the term of the Purchase Agreement, neither Keystone, nor any of its agents, representatives or
+affiliates will enter into or effect, directly or indirectly, any of the foregoing transactions. We have advised the selling
+shareholder that it is required to comply with Regulation M promulgated under the Exchange Act. With certain exceptions, Regulation M
+precludes the selling shareholder, any affiliated purchasers, and any broker-dealer or other person who participates in the distribution
+from bidding for or purchasing, or attempting to induce any person to bid for or purchase any security which is the subject of the distribution
+until the entire distribution is complete. Regulation M also prohibits any bids or purchases made in order to stabilize the price of a
+security in connection with the distribution of that security. All of the foregoing may affect the marketability of the securities offered
+by this prospectus. This offering will terminate
+on the date that all of our common stock offered by this prospectus have been sold by the selling shareholder. Our common stock is currently
+listed on The Nasdaq Capital Market under the symbol “SMTK”. 18 LEGAL MATTERS Sheppard, Mullin, Richter &
+Hampton LLP, New York, New York, will pass upon the validity of the shares of our common stock offered hereby. Additional legal matters
+may be passed upon for us or any underwriters, dealers or agents, by counsel that we will name in the applicable prospectus supplement. EXPERTS The
+consolidated financial statements as of December 31, 2025 and for the year then ended, incorporated by reference herein have been
+so incorporated in reliance on the report of CBIZ CPAs P.C. , an independent registered public
+accounting firm  (which report on the financial statements contains an explanatory paragraph regarding the Company’s ability
+to continue as a going concern), appearing in our annual report on Form 10-K for the year ended December 31, 2025 , incorporated
+by reference herein, given on the authority of said firm as experts in auditing and accounting. The
+consolidated financial statements as of December 31, 2024 and for the year then ended, incorporated by reference herein have been
+so incorporated in reliance on the report of Marcum, LLP, an independent registered public accounting firm  (which report on the
+financial statements contains an explanatory paragraph regarding the Company’s ability to continue as a going concern), appearing
+in our annual report on Form 10-K for the year ended December 31, 2025 , incorporated by reference herein, given on the authority
+of said firm as experts in auditing and accounting. WHERE YOU CAN FIND MORE INFORMATION This prospectus constitutes
+a part of a registration statement on Form S-1 filed under the Securities Act. As permitted by the SEC’s rules, this prospectus
+and any prospectus supplement, which form a part of the registration statement, do not contain all the information that is included
+in the registration statement. For further information with respect to us and our securities, we refer you to the registration statement,
+including the exhibits filed as a part of the registration statement. Statements contained in this prospectus concerning the contents
+of any contract or any other document is not necessarily complete. If a contract or document has been filed as an exhibit to the registration
+statement, please see the copy of the contract or document that has been filed. Each statement is this prospectus relating to a contract
+or document filed as an exhibit is qualified in all respects by the filed exhibit. We are subject to the informational requirements of
+the Exchange Act and in accordance therewith file annual, quarterly and current reports, proxy statements and other information with the
+SEC. The SEC maintains an Internet website that contains reports, proxy statements and other information about issuers, like us, that
+file electronically with the SEC. The address of that website is www.sec.gov . The registration statement and the documents
+referred to below under “Incorporation of Documents By Reference” are also available on our website, www.smartkem.com.
+We have not incorporated by reference into this prospectus the information on our website, and you should not consider it to be a part
+of this prospectus. 19 INCORPORATION OF DOCUMENTS BY REFERENCE We have filed a registration
+statement on Form S-1 with the SEC under the Securities Act. This prospectus is part of the registration statement, however the registration
+statement includes and incorporates by reference additional information and exhibits. The SEC permits us to “incorporate by reference”
+the information contained in documents we file with the SEC, which means that we can disclose important information to you by referring
+you to those documents rather than by including them in this prospectus. Information that is incorporated by reference is considered to
+be part of this prospectus and you should read it with the same care that you read this prospectus. Information that we file later with
+the SEC will automatically update and supersede the information that is either contained, or incorporated by reference, in this prospectus,
+and will be considered to be a part of this prospectus from the date those documents are filed. We have filed with the SEC, and incorporate
+by reference in this prospectus: · our Current Reports on Form 8-K filed with the Commission on January 6, 2026 , January 15, 2026 , January 30, 2026 , February 6, 2026 , February 13, 2026 , March 11, 2026 , March 19, 2026 , March 26, 2026 , and March 31, 2026 (other than any portions thereof deemed furnished and not filed); · Annual Report on Form 10-K for the year ended December 31, 2025 filed with the SEC on April 8, 2026 ; and · the description of our Common Stock contained in our Registration Statement on Form 8-A, filed with the SEC on May 30, 2024 as updated by the Description of Securities set forth on Exhibit 4.4 to our Annual Report on Form 10-K filed with the Commission on March 31, 2025, including any amendments or reports filed for the purpose of updating such description.. In addition, all documents
+subsequently filed by us pursuant to Sections 13(a), 13(c), 14 or 15(d) of the Exchange Act, prior to the termination of the offering
+(excluding any information furnished rather than filed) shall be deemed to be incorporated by reference into this prospectus. Notwithstanding the statements
+in the preceding paragraphs, no document, report or exhibit (or portion of any of the foregoing) or any other information that we have
+ “furnished” to the SEC pursuant to the Exchange Act shall be incorporated by reference into this prospectus. We will furnish without charge
+to you, on written or oral request, a copy of any or all of the documents incorporated by reference in this prospectus, including exhibits
+to these documents. You should direct any requests for documents to: SmartKem, Inc. Manchester Technology Center, Hexagon Tower Delaunays Road, Blackley Manchester, M9 8GQ U.K. Telephone: 011-44-161-721-1514 You also may access these
+filings on our website at http://www. smartkem.com. We do not incorporate the information on our website into this prospectus or any supplement
+to this prospectus and you should not consider any information on, or that can be accessed through, our website as part of this prospectus
+or any supplement to this prospectus (other than those filings with the SEC that we specifically incorporate by reference into this prospectus
+or any supplement to this prospectus). Any statement contained in
+a document incorporated or deemed to be incorporated by reference in this prospectus will be deemed modified, superseded or replaced for
+purposes of this prospectus to the extent that a statement contained in this prospectus modifies, supersedes or replaces such statement.
+Any statement contained herein or in any document incorporated or deemed to be incorporated by reference shall be deemed to be modified
+or superseded for purposes of the registration statement of which this prospectus forms a part to the extent that a statement contained
+in any other subsequently filed document which also is or is deemed to be incorporated by reference modifies or supersedes such statement.
+Any such statement so modified or superseded shall not be deemed to constitute a part of the registration statement of which this prospectus
+forms a part, except as so modified or superseded. 20 SmartKem, Inc. PROSPECTUS Up to 146,776,707 Shares of Common Stock April 24, 2026

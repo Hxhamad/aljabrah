@@ -1,0 +1,1198 @@
+false 0000065770 PRE 14A 0000065770 2025-01-01 2025-12-31 0000065770 2024-01-01 2024-12-31 0000065770 2023-01-01 2023-12-31 0000065770 2025-10-01 2025-12-31 0000065770 2025-01-01 2025-09-30 0000065770 ecd:PeoMember MVIS:SubtractGrantDateFairValueOfOptionAwardsAndStockAwardsGrantedInTheApplicableFiscalYearMember 2025-01-01 2025-12-31 0000065770 ecd:PeoMember MVIS:SubtractGrantDateFairValueOfOptionAwardsAndStockAwardsGrantedInTheApplicableFiscalYearMember 2024-01-01 2024-12-31 0000065770 ecd:PeoMember MVIS:SubtractGrantDateFairValueOfOptionAwardsAndStockAwardsGrantedInTheApplicableFiscalYearMember 2023-01-01 2023-12-31 0000065770 ecd:PeoMember MVIS:AdjustForYearEndFairValueOfEquityAwardsGrantedInTheApplicableFiscalYearThatAreOutstandingAndUnvestedAsOfTheApplicableFiscalYearEndMember 2025-01-01 2025-12-31 0000065770 ecd:PeoMember MVIS:AdjustForYearEndFairValueOfEquityAwardsGrantedInTheApplicableFiscalYearThatAreOutstandingAndUnvestedAsOfTheApplicableFiscalYearEndMember 2024-01-01 2024-12-31 0000065770 ecd:PeoMember MVIS:AdjustForYearEndFairValueOfEquityAwardsGrantedInTheApplicableFiscalYearThatAreOutstandingAndUnvestedAsOfTheApplicableFiscalYearEndMember 2023-01-01 2023-12-31 0000065770 ecd:PeoMember MVIS:AdjustForChangeInFairValueAtYearEndOfEquityAwardsGrantedInPriorYearsThatAreAndUnvestedAsOfTheApplicableFiscalYearMember 2025-01-01 2025-12-31 0000065770 ecd:PeoMember MVIS:AdjustForChangeInFairValueAtYearEndOfEquityAwardsGrantedInPriorYearsThatAreAndUnvestedAsOfTheApplicableFiscalYearMember 2024-01-01 2024-12-31 0000065770 ecd:PeoMember MVIS:AdjustForChangeInFairValueAtYearEndOfEquityAwardsGrantedInPriorYearsThatAreAndUnvestedAsOfTheApplicableFiscalYearMember 2023-01-01 2023-12-31 0000065770 ecd:PeoMember MVIS:AdjustForVestingDateFairValueOfEquityAwardsGrantedAndVestedInApplicableFiscalYearMember 2025-01-01 2025-12-31 0000065770 ecd:PeoMember MVIS:AdjustForVestingDateFairValueOfEquityAwardsGrantedAndVestedInApplicableFiscalYearMember 2024-01-01 2024-12-31 0000065770 ecd:PeoMember MVIS:AdjustForVestingDateFairValueOfEquityAwardsGrantedAndVestedInApplicableFiscalYearMember 2023-01-01 2023-12-31 0000065770 ecd:PeoMember MVIS:AdjustForChangeInFairValueOfEquityAwardsGrantedInPriorYearsThatVestedInTheApplicableFiscalYearMember 2025-01-01 2025-12-31 0000065770 ecd:PeoMember MVIS:AdjustForChangeInFairValueOfEquityAwardsGrantedInPriorYearsThatVestedInTheApplicableFiscalYearMember 2024-01-01 2024-12-31 0000065770 ecd:PeoMember MVIS:AdjustForChangeInFairValueOfEquityAwardsGrantedInPriorYearsThatVestedInTheApplicableFiscalYearMember 2023-01-01 2023-12-31 0000065770 ecd:NonPeoNeoMember MVIS:SubtractGrantDateFairValueOfOptionAwardsAndStockAwardsGrantedInTheApplicableFiscalYearMember 2025-01-01 2025-12-31 0000065770 ecd:NonPeoNeoMember MVIS:SubtractGrantDateFairValueOfOptionAwardsAndStockAwardsGrantedInTheApplicableFiscalYearMember 2024-01-01 2024-12-31 0000065770 ecd:NonPeoNeoMember MVIS:SubtractGrantDateFairValueOfOptionAwardsAndStockAwardsGrantedInTheApplicableFiscalYearMember 2023-01-01 2023-12-31 0000065770 ecd:NonPeoNeoMember MVIS:AdjustForYearEndFairValueOfEquityAwardsGrantedInApplicableFiscalYearThatAreOutstandingAndUnvestedAsOfApplicableFiscalYearEndMember 2025-01-01 2025-12-31 0000065770 ecd:NonPeoNeoMember MVIS:AdjustForYearEndFairValueOfEquityAwardsGrantedInApplicableFiscalYearThatAreOutstandingAndUnvestedAsOfApplicableFiscalYearEndMember 2024-01-01 2024-12-31 0000065770 ecd:NonPeoNeoMember MVIS:AdjustForYearEndFairValueOfEquityAwardsGrantedInApplicableFiscalYearThatAreOutstandingAndUnvestedAsOfApplicableFiscalYearEndMember 2023-01-01 2023-12-31 0000065770 ecd:NonPeoNeoMember MVIS:AdjustForYearOverYearChangeInFairValueOfEquityAwardsGrantedInPriorYearsThatAreOutstandingAndUnvestedAsOfApplicableFiscalYearMember 2025-01-01 2025-12-31 0000065770 ecd:NonPeoNeoMember MVIS:AdjustForYearOverYearChangeInFairValueOfEquityAwardsGrantedInPriorYearsThatAreOutstandingAndUnvestedAsOfApplicableFiscalYearMember 2024-01-01 2024-12-31 0000065770 ecd:NonPeoNeoMember MVIS:AdjustForYearOverYearChangeInFairValueOfEquityAwardsGrantedInPriorYearsThatAreOutstandingAndUnvestedAsOfApplicableFiscalYearMember 2023-01-01 2023-12-31 0000065770 ecd:NonPeoNeoMember MVIS:AdjustForChangeInFairValueOfEquityAwardsGrantedInPriorYearsThatVestedInApplicableFiscalYearMember 2025-01-01 2025-12-31 0000065770 ecd:NonPeoNeoMember MVIS:AdjustForChangeInFairValueOfEquityAwardsGrantedInPriorYearsThatVestedInApplicableFiscalYearMember 2024-01-01 2024-12-31 0000065770 ecd:NonPeoNeoMember MVIS:AdjustForChangeInFairValueOfEquityAwardsGrantedInPriorYearsThatVestedInApplicableFiscalYearMember 2023-01-01 2023-12-31 0000065770 ecd:NonPeoNeoMember MVIS:SubtractPriorYearEndFairValueOfEquityAwardGrantedInPriorYearsThatFailedToVestInApplicableFiscalYearMember 2025-01-01 2025-12-31 0000065770 ecd:NonPeoNeoMember MVIS:SubtractPriorYearEndFairValueOfEquityAwardGrantedInPriorYearsThatFailedToVestInApplicableFiscalYearMember 2024-01-01 2024-12-31 0000065770 ecd:NonPeoNeoMember MVIS:SubtractPriorYearEndFairValueOfEquityAwardGrantedInPriorYearsThatFailedToVestInApplicableFiscalYearMember 2023-01-01 2023-12-31 0000065770 1 2025-01-01 2025-12-31 0000065770 2 2025-01-01 2025-12-31 0000065770 3 2025-01-01 2025-12-31 iso4217:USD xbrli:shares iso4217:USD xbrli:shares xbrli:pure UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 SCHEDULE
+14A INFORMATION Proxy
+Statement Pursuant to Section 14(a) of the Securities
+Exchange Act of 1934 (Amendment No.               ) Filed
+by the Registrant ☒ Filed
+by a Party other than the Registrant ☐ Check
+the appropriate box: ☒ Preliminary Proxy Statement ☐ Confidential, for Use
+    of the Commission Only (as permitted by Rule 14a-6(e)(2)) ☐ Definitive Proxy Statement ☐ Definitive Additional Materials ☐ Soliciting Material Pursuant
+    to §240.14a-12 MICROVISION,
+INC. (Name
+of Registrant as Specified in its Charter) (Name
+of Person(s) Filing Proxy Statement, if other than the Registrant) Payment
+of Filing Fee (Check the appropriate box): ☒ No fee required ☐ Fee paid previously with
+    preliminary materials. ☐ Fee computed on table in
+    exhibit required by Item 25(b) per Exchange Act Rules 14a-6(i)(1) and 0-11. NOTICE OF ANNUAL MEETING OF SHAREHOLDERS Friday,
+July 10, 2026 at
+9:00 a.m. Pacific Time To
+the Shareholders of MicroVision, Inc.: The
+2026 Annual Meeting of Shareholders of MicroVision, Inc., a Delaware corporation, will be held on Friday, July 10, 2026 at 9:00 a.m.,
+Pacific Time. The Annual Meeting will be a virtual meeting held online at www.virtualshareholdermeeting.com/MVIS2026 via a live webcast.
+Shareholders of record at the close of business on May 28, 2026 and holders of proxies for those shareholders may attend and vote at
+the Annual Meeting. You will be able to vote and submit questions online through the virtual meeting platform during the Annual Meeting.
+You will not be able to attend the Annual Meeting in person. The
+meeting is being held for the following purposes, each of which is more fully described in the accompanying proxy statement: 1. To elect the seven director
+    nominees named in the accompanying proxy statement to serve until the next annual meeting; 2. To approve the issuance
+    of shares of the company’s common stock pursuant to the senior secured convertible notes issued to an institutional investor
+    on February 23, 2026 for the purpose of complying with Nasdaq rules; 3. To approve an amendment
+    to the company’s certificate of incorporation authorizing the MicroVision Board of Directors to effect a reverse stock split
+    at a ratio of not less than 1-for-5 and not more than 1-for-15, with the exact ratio and effective time of the reverse stock split,
+    if any, to be determined by our Board of Directors at any time within one year of the date of the 2026 Annual Meeting; 4. To approve on a non-binding
+    advisory basis the compensation of the company’s named executive officers; 5. To ratify the appointment
+    of Baker Tilly US, LLP as our independent registered public accounting firm for the current fiscal year; and 6. To transact any other business
+    properly presented at the meeting. Your
+vote is important to us. You may vote via the internet, by telephone, or by signing, dating, and returning the enclosed proxy card. If
+you are voting via the internet or by telephone, your vote must be received by 11:59 p.m. Eastern Time on Thursday, July 9, 2026. For
+specific voting instructions, please refer to the information provided in the following proxy statement, together with your proxy card
+or the voting instructions you receive by e-mail or that are provided via the internet. Thank
+you for your ongoing support of MicroVision. By Order of the Board of Directors, Drew G. Markham Corporate Secretary Redmond, Washington [●, 2026] Important
+Notice Regarding the Availability of Proxy Materials for the Annual Meeting of Shareholders to be held on July 10, 2026. The proxy statement
+and the annual report to shareholders for the fiscal year ended December 31, 2025 have been mailed to shareholders and are available
+at https://ir.microvision.com/sec-filings . PROXY
+STATEMENT FOR ANNUAL MEETING OF
+SHAREHOLDERS JULY
+10, 2026 TABLE
+OF CONTENTS Page INFORMATION ABOUT THE ANNUAL MEETING AND VOTING 1 PROPOSAL ONE—ELECTION OF DIRECTORS 4 BOARD OF DIRECTORS & GOVERNANCE MATTERS 7 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 14 INFORMATION ABOUT MICROVISION COMMON STOCK 14 PROPOSAL TWO—APPROVAL OF AN AMENDMENT TO THE COMPANY’S CERTIFICATE OF INCORPORATION TO INCREASE THE AUTHORIZED NUMBER OF SHARES OF COMMON STOCK 15 PROPOSAL THREE—APPROVAL OF AN AMENDMENT TO THE 2022 MICROVISION, INC. EQUITY INCENTIVE PLAN 17 PROPOSAL FOUR—APPROVAL, ON A NON-BINDING ADVISORY BASIS, OF THE COMPENSATION OF THE COMPANY’S NAMED EXECUTIVE OFFICERS 21 EXECUTIVE COMPENSATION 22 PROPOSAL
+    FIVE—RATIFICATION OF THE SELECTION OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 29 INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 30 AUDIT COMMITTEE REPORT 30 OTHER BUSINESS 31 INFORMATION ABOUT SHAREHOLDER PROPOSALS 31 ADDITIONAL INFORMATION 32 i INFORMATION
+ABOUT THE ANNUAL MEETING AND VOTING Q : Why did you send me
+    these Proxy Materials? A : We sent you this proxy
+    statement and the enclosed proxy card because our Board of Directors is soliciting your proxy to vote at the 2026 Annual Meeting
+    of Shareholders. The Annual Meeting will be held virtually on July 10, 2026 at 9:00 a.m. Pacific Time, at www.virtualshareholdermeeting.com/MVIS2026.
+    You will be able to virtually attend the Annual Meeting, vote and submit your questions during the Annual Meeting via live webcast
+    through the link. You will need the 16-digit control number provided on your proxy card (if applicable). This Proxy Statement summarizes
+    the information regarding the matters to be voted upon at the Annual Meeting. You do not need to attend the Annual Meeting, however,
+    to vote your shares. You may simply vote your shares by telephone or over the internet in accordance with the instructions contained
+    on the proxy card. You may also complete, sign, date, and return the enclosed proxy card to the address in the instructions. Please
+    allow sufficient time for delivery of your proxy card if you decide to vote by mail. On May 28, 2026, the record
+    date, there were [●] shares of MicroVision common stock outstanding. If you owned shares of our common stock at the close of
+    business on the record date, you are entitled to one vote for each share of common stock you owned as of that date. We made this
+    proxy statement available on or about [●, 2026] to all shareholders entitled to vote their shares at the Annual Meeting. Q: How many votes do I
+    have? A: You have one vote for each
+    share of common stock that you owned on the record date. Your proxy card will indicate the number of shares. Q: How do I vote by proxy? A: If
+    you properly cast your vote by either voting your proxy by telephone or via the internet or executing and returning the proxy card,
+    and your vote is not subsequently revoked by you, your shares will be voted in accordance with your instructions. If you sign
+    the proxy card but do not make specific choices, your proxy will vote your shares as recommended by the Board as follows: “ FOR ”
+the election of each of the seven nominees for director named in this proxy statement; “ FOR ”
+the approval of the issuance of shares of the company’s common stock pursuant to the senior secured convertible notes issued to
+an institutional investor on February 23, 2026; “ FOR ”
+the approval of an amendment to the company’s certificate of incorporation authorizing the MicroVision Board of Directors to effect
+a reverse stock split at a ratio of not less than 1-for-5 and not more than 1-for-15, with the exact ratio and effective time of the
+reverse stock split, if any, to be determined by our Board of Directors at any time within one year of the date of the 2026 Annual Meeting; “ FOR ”
+the approval, on a non-binding advisory basis, of the compensation of the company’s named executive officers, as disclosed in this
+proxy statement under the heading Executive Compensation (commonly referred to as “say-on-pay”); and “ FOR ”
+ratification of the selection of Baker Tilly US, LLP as our independent registered public accounting firm. If
+any other matter is presented, your proxy will vote in accordance with his or her best judgment. At the time we printed this proxy statement,
+we knew of no matters that needed to be acted on at the Annual Meeting other than those discussed in this proxy statement. 1 Q: May my broker vote for
+    me? A: Under the relevant self-regulatory
+    organization and Securities and Exchange Commission rules, if your broker holds your shares in its “street” name, the
+    broker may vote your shares on routine matters even if it does not receive instructions from you, but the broker may not vote your
+    shares on matters that are not routine unless it receives instructions from you. At the Annual Meeting your broker may, without instructions
+    from you, vote on Proposal 3 and Proposal 5, but may not vote on the other proposals. We encourage you, however, to instruct your
+    broker on all proposals as, even if the rules permit, it is unlikely that your broker will choose to exercise discretion to vote
+    your shares without receiving your instruction. Q: What are abstentions
+    and broker non-votes? A: An abstention represents
+    the action by a shareholder to refrain from voting “for” or “against” a proposal. “Broker non-votes”
+    represent votes that could have been cast on a particular matter by a broker, as a shareholder of record, but that were not cast
+    because the broker (i) lacked discretionary voting authority on the matter and did not receive voting instructions from the beneficial
+    owner of the shares or (ii) had discretionary voting authority but nevertheless refrained from voting on the matter. Q: May I revoke my proxy? A: Yes. You may change your
+    mind after you send in your proxy card or vote your shares by telephone or via the internet by following these procedures. To revoke
+    your proxy: ● Vote again by telephone
+    or internet; ● Send in another signed
+    proxy card with a later date; ● Send a letter revoking
+    your proxy to our Corporate Secretary at our headquarters office in Redmond, Washington; or ● Attend the virtual Annual
+    Meeting and vote during the meeting. Q: Is cumulative voting
+    permitted for the election of directors? A: No. Neither our charter
+    nor our bylaws permit cumulative voting at any election of directors. Q: How do I vote at the
+    virtual meeting? A: You may attend the virtual
+    meeting via the internet and vote during the meeting. Shareholders may virtually attend, vote, and submit questions in the Annual
+    Meeting by visiting the www.virtualshareholdermeeting.com/MVIS2026. You will need the 16-digit control number included on your proxy
+    card or on the instructions that accompanied your proxy materials. Shares held in your name as the shareholder of record may be voted
+    electronically during the meeting. Shares for which you are the beneficial owner but not the shareholder of record also may be voted
+    electronically during the meeting. However, even if you plan to attend the Annual Meeting virtually, we recommend that you vote your
+    shares in advance, so that your vote will be counted if you later decide not to attend the Annual Meeting. 2 Q: What is the quorum requirement
+    for the meeting? A: The quorum requirement
+    for holding the meeting and transacting business is one-third of the outstanding shares entitled to be voted. The shares may be present
+    in person or represented by proxy at the meeting. Both abstentions and broker non-votes are counted as present for the purpose of
+    determining the presence of a quorum. Q: What vote is required
+    to approve the election of directors (Proposal 1)? A: Each nominee for director
+    presented in Proposal 1 must be elected by a plurality of the votes properly cast, which means the seven nominees for director who
+    receive the most “for” votes at the Annual Meeting will be elected. So, if you do not vote for a nominee, or you “withhold
+    authority to vote” for a nominee, your vote will not count either “for” or “against” the nominee. Abstentions
+    and broker non-votes will have no effect on the outcome of voting for directors. Q: What vote is required
+    to approve, for the purposes of complying with Nasdaq Listing Rule 5635(d), the issuance of shares of the company’s common
+    stock pursuant to the 2026 Convertible Notes (Proposal 2)? A: The affirmative vote of
+    a majority of the votes properly cast on the proposal at the Annual Meeting is required to approve the issuance of shares of the
+    company’s common stock pursuant to the senior secured convertible notes issued to an institutional investor on February 23,
+    2026 (the “2026 Convertible Notes”), provided that the number of votes cast in favor of the proposal must exceed the
+    number of votes cast against the proposal by at least the number of shares of common stock issued pursuant to the 2026 Convertible
+    Notes as of the record date. Abstentions and broker non-votes will not be counted “for” or “against” the
+    proposal and will have no effect on the outcome of the vote. Q: What vote is required
+    to approve the proposed amendment to the company’s certificate of incorporation to effect a reverse stock split of common stock
+    (Proposal 3)? A: The
+    affirmative vote of a majority of the votes properly cast on the proposal at the Annual Meeting is required to approve the amendment
+    to the company’s certificate of incorporation to effect a reverse stock split of common stock. Abstentions and broker non-votes,
+    if any, will not be counted “for” or “against” the proposal and will have no effect on the outcome of
+    the vote. Q: What
+    vote is required to approve the vote on the compensation of our named executive officers (Proposal 4)? A: Because Proposal 4 is a non-binding advisory vote, there
+    is technically no minimum vote requirement for that proposal. Abstentions and broker non-votes will have no effect on the outcome
+    of the vote. Q: What vote is required
+    to ratify the selection of Baker Tilly US, LLP as our independent registered public accounting firm (Proposal 5)? A: The
+    affirmative vote of a majority of the votes properly cast on the proposal at the Annual Meeting is required to ratify the appointment
+    of Baker Tilly US, LLP as our independent registered public accounting firm. Abstentions and broker non-votes, if any, will
+    have no effect on the outcome of the vote. Q: Is voting confidential? A: We keep all the proxies
+    and ballots private as a matter of practice. Q: Who pays the costs of
+    soliciting these proxies? A: MicroVision
+    will pay all the costs of soliciting these proxies. We have retained Saratoga Proxy Consulting LLC to assist in the solicitation
+    of proxies at an estimated cost of $10,000 plus expenses. In addition, some of our officers, other employees, or proxy
+    solicitor also may, but without compensation other than their regular compensation, solicit proxies by mail or personal conversations,
+    or by telephone or other electronic means. We will also reimburse banks, brokers, nominees, fiduciaries and solicitors, for the expenses
+    they incur in forwarding the proxy materials to you. Q: How can I opt out of
+    receiving paper copies of proxy materials? A: Instead
+    of receiving paper copies of MicroVision’s Annual Report and Proxy Statement in the mail, registered shareholders can elect
+    to receive these communications electronically. Your election to receive future proxy materials electronically would result in expedited
+    delivery of your materials, conserve natural resources and reduce MicroVision’s printing and mailing costs. For additional
+    information or to elect this option, please access www.proxyvote.com. Many
+    brokers and banks also offer electronic delivery of proxy materials to their clients. If you are a beneficial owner of MicroVision
+    stock, please contact your broker, bank or other holder of record to find out whether this service is available to you. Q: Who should I contact
+    if I have any questions? A: If
+    you have any questions about the Annual Meeting, voting or your ownership of MicroVision common stock, please send an e-mail to ir@microvision.com.
+    You may also contact Saratoga Proxy Consulting at (212) 257-1311 or (888) 368-0379 or send an email to info@saratogaproxy.com. 3 PROPOSAL
+ONE—ELECTION OF DIRECTORS Our
+Board of Directors is elected each year at the Annual Meeting of Shareholders. We currently have seven directors. Upon the recommendation
+of the Nominating & Governance Committee, the Board has nominated the seven individuals listed below for election at the Annual Meeting,
+each of whom currently serves as a MicroVision director. These nominees bring a wide variety of relevant skills, professional experience,
+and backgrounds, as well as different viewpoints and perspectives to represent the long-term interests of shareholders and to fulfill
+the leadership and oversight responsibilities of the Board. If
+any nominee listed below is unable to stand for election at the Annual Meeting, the persons named as proxies may vote any person designated
+by the Board to replace the nominee. Alternatively, the proxies may vote for the remaining nominees and leave a vacancy that the Board
+may fill later, or the Board may reduce the authorized number of directors. As of the date of this Proxy Statement, the Board is not
+aware that any nominee is or will be unable to stand for election. Proxies received from shareholders, unless directed otherwise, will
+be voted FOR the election of the nominees listed below. Each
+director elected at the Annual Meeting will serve until MicroVision’s 2027 Annual Meeting of Shareholders or until they are succeeded
+by another qualified director who has been elected, or, if earlier, until their death, resignation, or removal. OUR
+BOARD OF DIRECTORS RECOMMENDS THAT YOU VOTE “FOR” EACH OF the FOLLOWING DIRECTOR NOMINEES. Set
+forth below are the name, position held, age, and other relevant data pertaining to each of our director nominees. The principal occupation
+and recent employment history of each director nominee is described below, and the number of shares of common stock beneficially owned
+by each as of May 11, 2026 is set forth in the section of this Proxy Statement entitled, “ Information About MicroVision Common
+Stock Ownership .” Simon
+    Biddiscombe Executive
+    Vice Chair of the Board Director
+    since 2018 Age
+    58 Key
+    Expertise: ● Executive
+    Leadership ● Business
+    Strategy ● Financial
+    & Accounting ● Technology
+    & Innovation ● Public
+    Board Service & Governance ● Transportation
+    & Mobility Industries Mr.
+    Biddiscombe was named Executive Vice Chair in September 2025 to serve as a resource to Mr. DeVos for a temporary period of no more
+    than twelve months. Mr. Biddiscombe is an advisor
+    to privately held Third Wave Automation, a provider of high-reach autonomous forklifts having previously served as their Chief Financial
+    Officer from August 2022 to December 2024. He also served as Executive Partner at Thomas H. Lee Partners, a premier private equity
+    firm investing in middle market growth companies, from May 2022 to October 2023. Mr. Biddiscombe was Chief Executive Officer and
+    a board member at publicly traded MobileIron, Inc., a security software provider for the digital enterprise protecting corporate
+    data across apps, networks, and clouds, from October 2017 until its sale to Ivanti, Inc. in December 2020. From May 2015 to October
+    2017, Mr. Biddiscombe served as MobileIron’s Chief Financial Officer. He previously served in several executive leadership
+    roles including Chief Financial Officer at ServiceSource International, Chief Financial Officer and Chief Executive Officer at QLogic,
+    Chief Financial Officer at Mindspeed Technologies, and Chief Financial Officer at Wyle Electronics. He began his career at PricewaterhouseCoopers
+    LLP where he spent nine years, including the firm’s Silicon Valley technology accounting and audit practice. Mr. Biddiscombe
+    holds a BA in business studies from the University of Glamorgan and is a Fellow of the Institute of Chartered Accountants in England
+    and Wales. 4 Robert
+    P. Carlile Chair
+    of the Board Director
+    since 2017 Age
+    70 Board
+    Committees: ● Audit,
+    Chair ● Compensation ● Nominating
+    & Governance Key
+    Expertise: ● Executive
+    Leadership ● Business
+    Strategy ● Financial
+    & Accounting ● Public
+    Board Service & Governance Mr.
+    Carlile has been the Chairman of the Board since June 2022. Previous to that he was Chair of the Audit Committee; in October 2025,
+    he was again named Audit Committee Chair on a temporary basis while Mr. Biddiscombe serves in the Executive Vice Chair role. Mr.
+    Carlile was a partner at KPMG LLP from 2002 to 2016, and a partner at Arthur Andersen LLP from 1987 to 2002. During his 39-year career
+    in public accounting, Mr. Carlile served as the lead audit partner on numerous public company engagements operating across different
+    industries including technology, global logistics, retail, transportation and manufacturing. In addition to his experience as a lead
+    audit partner, Mr. Carlile held a variety of operating leadership positions at KPMG and Arthur Andersen. Mr. Carlile also serves
+    on the Board of Directors of publicly traded Expeditors International, where he is the Chairman of the Board, and the Board of Directors
+    of Virginia Mason Franciscan Health. Glen
+    W. DeVos Chief
+    Executive Officer & Director Director
+    since 2025 Age
+    65 Mr.
+    DeVos is a seasoned global technology executive with more than four decades of leadership in automotive, mobility, and advanced electronics
+    innovation. He currently leads MicroVision as Chief Executive Officer, based in Detroit, Michigan, after previously serving as the
+    company’s Chief Technology Officer. In his current role, Glen is driving MicroVision’s evolution from advanced R&D
+    to scaled product commercialization, sharpening its strategic focus on autonomy, perception systems, and intelligent mobility solutions.
+    Prior to joining MicroVision, Glen spent more than 30 years at Aptiv and its predecessor Delphi, where he held a series of increasingly
+    senior global leadership roles. As Senior Vice President and Chief Technology Officer and President of multiple business units, including
+    Advanced Safety & User Experience and Mobility & Services, he led large-scale, multi-billion-dollar portfolios spanning autonomous
+    driving, software-defined vehicle architecture, connectivity, cloud platforms, and smart city technologies. Key
+    Expertise: ● Executive
+    Leadership ● Business
+    Strategy ● Transportation
+    & Mobility Industries ● Technology
+& Innovation Jeffrey
+    A. Herbst Independent
+    Director Director
+    since 2022 Age
+    62 Board
+    Committees: ● Compensation,
+    Chair ● Audit Key
+    Expertise: ● Executive
+    Leadership ● Business
+    Strategy ● Financial
+    & Accounting ● Technology
+    & Innovation ● Public
+    Board Service & Governance Mr.
+    Herbst is Co-Founding Managing Partner of GFT Ventures, a venture capital firm focused on investing in early-stage technology companies
+    primarily located in the U.S. and Israel. Prior to launching GFT Ventures in March 2021, Mr. Herbst served in various roles at NVIDIA
+    Corporation from December 2001 to July 2021, most recently serving as Vice President of Business Development where he built an ecosystem
+    of accelerated computing applications spanning the domains of AI, data science, autonomous machines, and graphics and visualization.
+    Prior to that, he practiced as an attorney with Wilson Sonsini Goodrich & Rosati. Mr. Herbst holds a J.D. degree from Stanford
+    University and a B.S. degree with honors in computer science from Brown University. 5 Laura
+    J. Peterson Independent
+    Director Laura
+    Peterson joined the MicroVision Board in July 2025. Ms. Peterson spent over twenty years in leadership roles at Boeing before serving
+    as an independent board member and as an executive in the robotics, autonomy, SaaS, and transportation and logistics sectors. As
+    a Board Director and Chief Executive Officer of Palladyne AI (NASDAQ: PDYN), she led a transformational restructuring and strategic
+    pivot, leveraging the company’s pioneering autonomous robotics artificial intelligence and machine learning software platform.
+    She also served on the board of Air Transport Services Group (NASDAQ: ATSG), a leading global air cargo transportation and logistics
+    company, for nearly eight years, guiding the company through its recently completed sale transaction. She serves on the board of
+    JD Logistics, the transportation and logistics arm of JD.com, China’s largest retailer, and served on the board of Accelya,
+    a Vista Equity Partners’ SaaS portfolio company for four years. Throughout her two decades at Boeing, Ms. Peterson held key
+    senior executive roles in Boeing Commercial Airplanes (BCA) Aircraft Sales, BCA Airplane Production & Supplier Management, BCA
+    Strategy, Boeing International, and Boeing Defense, Space and Security. She holds an M.B.A. from The Wharton School at the University
+    of Pennsylvania and a B.S. in Industrial Engineering from Stanford University. Director
+    since 2025 Age
+    66 Board
+    Committees: ● Compensation ● Nominating
+    & Governance Key
+    Expertise: ● Executive
+    Leadership ● Business
+    Strategy ● Financial
+    & Accounting ● Technology
+    & Innovation ● Transportation
+    & Mobility Industries ● Public
+    Board Service & Governance Peter
+    Schabert Independent
+    Director Mr.
+    Schabert is currently a management consultant advising companies in the automotive supply industry. He previously served as President
+    and Chief Executive Officer of Beijing Benz Automotive Co., Ltd, from August 2015 until his retirement in April 2017. Mr. Schabert
+    spent 31 years at Daimler AG, serving in various leadership roles, including head of global powertrain production, and site manager
+    of several Mercedes-Benz manufacturing sites serving in locations throughout Germany, China, and the U.S. Mr. Schabert holds a mechanical
+    engineering degree from Technische Universität Braunschweig. Director
+    since 2024 Age
+    72 Board
+    Committees: ● Nominating
+    & Governance Key
+    Expertise: ● Executive
+    Leadership ● Business
+    Strategy ● Technology
+    & Innovation ● Transportation
+    & Mobility Industries Jada
+    M. Smith Independent
+    Director Ms.
+    Smith is Vice President, Global Program Management at Fluence Energy, Inc., a publicly traded global energy storage company, a role
+    she has held since August 2025. In this role, she is responsible for global program execution across the company’s product
+    portfolio, including oversight of cost, schedule, and launch performance. Prior to joining Fluence, Ms. Smith served as Vice President,
+    Program Management for the Americas at Visteon Corporation, a publicly traded global technology company in the automotive industry,
+    from September 2024 to July 2025. From December 2023 to September 2024, Ms. Smith served as Senior Vice President, Product Strategy
+    & Delivery at Karma Automotive, a privately held ultra-luxury electric vehicle manufacturer. Prior to Karma Automotive, Ms. Smith
+    served in several roles of increasing responsibility at Aptiv PLC, a publicly traded global technology company serving the automotive
+    industry. At Aptiv, from February 2022 to November 2022, Ms. Smith served as Senior Program Director, Ford; from November 2020 to
+    August 2022, as Global Engineering Director, Software Platform; from June 2020 to November 2020, as Global Director of Program Management,
+    Connection Systems; as well as previous roles. Prior to Aptiv, Ms. Smith spent nearly 13 years in various engineering roles at Delphi
+    Automotive PLC, a publicly traded high-technology company serving the automotive and transportation sectors, which created Aptiv
+    PLC via a spin-off transaction in 2017. From September 2019 to March 2024, Ms. Smith served on the Board of Directors of the nonprofit
+    Center for Automotive Research. Ms. Smith has a Master of Business Administration degree from Indiana University Kokomo and a B.S.
+    degree in Electrical Engineering Technology from Purdue University. Director
+    since 2024 Age
+    48 Board
+    Committees: ● 
+    Audit ● 
+    Nominating & Governance Key
+    Expertise: ● Executive
+    Leadership ● Business
+    Strategy ● Technology
+    & Innovation ● Transportation
+& Mobility Industries 6 BOARD
+OF DIRECTORS & GOVERNANCE MATTERS We
+seek individuals to serve as directors with established strong professional reputations, sophistication and experience in strategic planning,
+leadership, business management, innovation and in substantive areas that affect our business such as: technology development; sourcing,
+manufacturing and operations; financing; finance and accounting; business operations; intellectual property strategy and licensing; legal
+and regulatory; and sales and marketing. We believe that each of our current directors possesses the professional and personal qualifications
+necessary for Board service. We
+are committed to actively refreshing our Board and each committee to promote a healthy mix of perspectives and tenures, which we believe
+promotes strong Board governance. From time to time, we have engaged a third-party recruiter to identify and recommend qualified candidates
+who will complement the existing skill set and expertise of our Board. We
+value having a Board that reflects a variety of relevant perspectives, which together increase the Board’s collective depth and
+breadth of knowledge. We endeavor to seek out highly qualified director candidates, ensuring that our Board reflects a broad range of
+perspectives and backgrounds that can prepare and guide the company to successfully navigate changing market dynamics and evolving business
+environments. The seven director nominees for election at our 2026 Annual Meeting bring to our Board a variety of backgrounds, skills,
+professional and industry experience, and other attributes and perspectives that contribute to the collective quality of our Board. Board
+Meetings and Committees Our
+Board met nine times and took action by written consent three times during 2025. Each director attended at least 75% of all Board and
+applicable committee meetings held during 2025. Directors are highly encouraged to attend our annual meeting of shareholders each year;
+all but two of the directors nominated for election at our 2025 annual meeting and serving on our Board at the time attended our 2025
+annual meeting. The
+Board has three principal committees performing the functions required of independent directors by Securities and Exchange Commission,
+or SEC, rules and Nasdaq listing standards: Audit Committee, Compensation Committee, and Nominating & Governance Committee. Each
+of these committees meets regularly and has a written charter approved by the Board that is reviewed annually by the respective committee.
+In addition to these three principal committees, the Board has in the past and may in the future create special committees from time
+to time. At
+each regularly scheduled Board meeting, the Chair of each committee reports on any significant matters addressed by that committee during
+the quarter. Each director serving on our principal committees is an independent director pursuant to applicable Nasdaq listing standards
+and SEC rules. The
+current charters for each of our principal committees can be found on the investor relations section of our website at www.ir.microvision.com .
+The composition of our principal committees as of March 31, 2026 was as shown in the table below. We anticipate that some changes in
+committee composition may be made soon after the 2026 Annual Meeting. Audit Committee Compensation
+    Committee Nominating
+    & Governance Committee Robert
+    Carlile (Chair) Jeffrey
+    Herbst Jada
+    Smith Jeffrey
+    Herbst (Chair) Robert
+    Carlile Laura
+    Peterson Laura
+    Peterson (Chair) Robert
+    Carlile Peter
+    Schabert Jada
+    Smith 7 The
+Audit Committee Our
+Audit Committee: ● oversees our accounting
+    and financial reporting processes and the audits of our financial statements and internal control over financial reporting; ● oversees the qualifications,
+    independence, performance, and engagement of our independent registered public accounting firm; ● oversees our disclosure
+    controls and procedures, and internal audit function; ● reviews and pre-approves
+    all audit and permitted non-audit services and fees; ● reviews and approves all
+    related-person transactions; ● oversees compliance with
+    policies on business ethics and public responsibility; and ● oversees financial-related
+    risks and the enterprise risk management program, including management of risks related to cybersecurity. Changes
+to the composition of the committee in 2025 included the appointment of Robert Carlile as Chair, replacing Simon Biddiscombe upon his
+appointment as Executive Vice Chair effective September 30, 2025. The Audit Committee met four times and took action by written consent
+one time during 2025. The
+“audit committee financial experts” designated by the Board are Simon Biddiscombe, Robert Carlile, and Jeffrey Herbst. Mr.
+Carlile and Mr. Herbst are independent directors; Mr. Biddiscombe is not independent pursuant to Nasdaq rules while he serves as Executive
+Vice Chair, a position which he is not expected to hold for more than one year. Mr. Biddiscombe has eleven years of experience as a chief
+financial officer of four public companies and nine years of experience in various roles at PricewaterhouseCoopers LLP. Mr. Carlile has
+thirty-nine years of experience in various roles in public accounting at KPMG and Arthur Andersen. Mr. Herbst has twenty-two years of
+experience overseeing venture investments and strategic acquisitions in roles at NVIDIA Corporation and at GFT Ventures, a venture capital
+firm he co-founded. The
+Compensation Committee Our
+Compensation Committee: ● oversees our compensation
+    and employee benefit programs, policies, plans and overall compensation philosophy; ● determines compensation
+    policies for executive officers and employees; ● reviews the performance,
+    and determines the compensation, of executive officers; ● approves and oversees equity-related
+    incentive plans and executive bonus plans; ● evaluate compensation policies
+    and practices as they relate to risk management practices; ● recommends the compensation
+    program for Board members; and ● oversees management of
+    people operations and resources. 8 The
+Compensation Committee’s charter provides the committee with the authority to retain a compensation consulting firm in its discretion.
+Throughout 2025, the Compensation Committee retained Frederic W. Cook & Co., Inc., or F.W. Cook, to provide independent compensation
+consulting services after assessing the independence and determining that there was no conflict of interest. F.W. Cook advised the Compensation
+Committee on a variety of matters including executive compensation, pay philosophy, compensation peer group, competitive market information,
+incentive plan design, emerging best practices in compensation matters and alignment of executive compensation with shareholder interests. The
+Compensation Committee also serves as the Plan Administrator for our equity award plans pursuant to authority delegated by the Board.
+The Committee may delegate its authority when it deems appropriate and in the best interest of the company and when such delegation would
+not violate applicable law, regulation, or Nasdaq rules or SEC requirements. Changes
+to the composition of the committee in 2025 included (i) naming Jeffrey Herbst as Chair to replace Simon Biddiscombe when he was named
+Executive Vice Chair effective September 30, 2025 and (ii) the appointment of Laura Peterson as a member replacing Dr. Mark Spitzer effective
+July 22, 2025. The Compensation Committee met six times and took action by written consent three times during 2025. The
+Nominating & Governance Committee Our
+Nominating & Governance Committee: ● counsels the Board of Directors
+    with respect to Board and committee structure and membership; ● establishes criteria for
+    nomination to the Board and its committees, taking into account the composition of the Board as a whole; ● identifies, reviews, and
+    recommends director candidates for the Board; ● recommends directors for
+    election at the annual meeting of shareholders and to fill new or vacant positions; ● establishes policies with
+    respect to the process by which our shareholders may recommend candidates for consideration for nomination as a director; ● assesses and monitors,
+    with Board involvement, the performance of the Board; and ● recommends directors for
+    membership on Board Committee. Changes
+to the composition of the committee in 2025 included the appointment of Laura Peterson as Chair to replace Dr. Mark Spitzer, effective
+July 22, 2025. The Nominating & Governance Committee met four times and took action by unanimous written consent one time during
+2025. Independence
+Determination No
+director will be deemed to be independent unless the Board affirmatively determines that the director has no material relationship with
+the company, directly or as an officer, share owner, or partner of an organization that has a relationship with the company. The Board
+observes all criteria for independence set forth in the Nasdaq listing standards and other governing laws and regulations. 9 In
+its annual review of director independence, the Board considers all commercial, banking, consulting, legal, accounting, charitable, or
+other business relationships any director may have with us, either directly or indirectly. As a result of its annual review, the Board
+has determined that all of the directors and proposed nominees for director, with the exception of Mr. Biddiscombe and Mr. DeVos, are
+independent and we refer to them throughout this document as the Independent Directors. The
+Nasdaq listing standards have both objective tests and a subjective test for determining who is an independent director. The objective
+tests state, for example, that a director is not considered independent if such director is our employee, or is a partner in, or executive
+officer of, an entity to which we made, or from which we received, payments in the current or any of the past three fiscal years that
+exceed the greater of 5% of the recipient’s consolidated gross revenue for that year or $200,000. The subjective test states that
+an independent director must be a person who lacks a relationship that, in the opinion of the Board, would interfere with the exercise
+of independent judgment in carrying out the responsibilities of a director. None of the Independent Directors were disqualified from
+“independent” status under the objective tests. In assessing independence under the subjective test, the Board took into
+account the standards in the objective tests and reviewed and discussed additional information provided by the directors and us with
+regard to each director’s business and personal activities as they may relate to us and our management. Based on all of the foregoing,
+as required by the Nasdaq listing standards, the Board made a subjective determination as to each Independent Director and proposed nominees
+for director, that no relationship exists which, in the opinion of the Board, would interfere with the exercise of independent judgment
+in carrying out the responsibilities of a director. The Board has not established categorical standards or guidelines to make these subjective
+determinations but considers all relevant facts and circumstances. In
+addition to the Board-level standards for director independence, the directors who serve on the Audit Committee each satisfy standards
+established by the SEC, providing that to qualify as “independent” for purposes of membership on that Committee, members
+of audit committees may not accept, directly or indirectly any consulting, advisory, or other compensatory fee from us other than their
+director compensation. Compensation
+Committee Interlocks and Insider Participation Mr.
+Herbst, Mr. Carlile and Ms. Peterson have not at any time during the prior three years been one of our officers or employees. None of
+our executive officers currently serve, or in the past fiscal year have served, as a member of the Board or compensation committee of
+any entity that has one or more executive officers serving on our Board or compensation committee. 10 Board’s
+Role in Risk Oversight It
+is management’s responsibility to manage risk and bring to the Board’s attention risks that are material to the company.
+The Board has oversight responsibility of the processes established to report and monitor systems for the most significant risks applicable
+to the company. The Board administers its risk oversight role directly and through its committee structure and the committees’
+regular reports to the Board at Board meetings. The Board reviews strategic, financial and execution risks and exposures associated with
+the annual plan and multi-year plans, major litigation and other matters that may present material risk to our operations, plans, prospects
+or reputation; acquisitions and divestitures and senior management succession planning. Corporate
+Governance Guidelines Our
+Board has adopted Corporate Governance Guidelines that set forth, expectations and responsibilities for our directors, board committee
+structure and functions, board leadership responsibilities, and other policies regarding the operations of our Board. Our Corporate Governance
+Guidelines are available without charge on our Investor Relations section of our website, which is located at https://ir.microvision.com. Board
+Leadership Structure Our
+Board annually elects a Chair of the Board. The Board has chosen to separate the roles of Chair and Chief Executive Officer. Mr. Carlile
+currently serves as Chair. In this role, among other duties, Mr. Carlile meets with our Chief Executive Officer and with senior officers
+as necessary, schedules and presides at meetings of the Board, including meetings of the Independent Directors, serves as a liaison between
+the Board and our management, approves meeting schedules and agendas, and undertakes other responsibilities designated by the Board.
+The Board believes that the separate roles of Chief Executive Officer and Chair currently serve the interests of us and our shareholders
+well. Our Chief Executive Officer can devote his attention to leading the company and focus on our business strategy. The Board believes
+that our separate Chair provides an appropriate level of independence in the company’s leadership through his review and approval
+of meeting agendas and his leadership of the Board. The
+Nominating & Governance Committee will consider recommendations for directorships submitted by shareholders, or groups of shareholders,
+that have beneficially owned at least 5% of our outstanding shares of common stock for at least one year prior to the date the nominating
+shareholder submits a candidate for nomination as a director. A nominating shareholder or group of nominating shareholders may submit
+only one candidate for consideration. Shareholders who wish the Nominating & Governance Committee to consider their recommendations
+for nominees for the position of director should submit their request in writing no later than the 120th calendar day before the anniversary
+of the date of the prior year’s annual meeting proxy statement was released to shareholders. Such written requests should be submitted
+to the Nominating & Governance Committee, care of the Corporate Secretary, MicroVision, Inc., 18390 NE 68th Street, Suite 200, Redmond,
+Washington 98052, must contain the following information and must comply with the procedures in sections 1.11 and 1.12 of our bylaws: ● All
+    information regarding the nominating shareholder specified in our by-laws, including: the name, address, and number of shares of
+    common stock beneficially owned by the nominating shareholder and any Stockholder Associated Person (as defined in our by-laws); ● A
+    representation that the nominating shareholder, or Stockholder Associated Persons, has been the beneficial owner of more than 5%
+    of our outstanding shares of common stock for at least one year and will continue to beneficially own at least 5% of our outstanding
+    shares of common stock through the date of the annual meeting; ● All
+    information regarding the candidate that we would be required to disclose in a proxy statement filed pursuant to the rules and regulations
+    of the SEC with respect to a meeting at which the candidate would stand for election; ● Confirmation
+    that the candidate is independent, with respect to the company, under the independence requirements established by us, the SEC, and
+    Nasdaq listing requirements, or, if the candidate is not independent with respect to the company under all such criteria, a description
+    of the reasons why the candidate is not independent; ● The
+    consent of the candidate to be named as a nominee and to serve as a member of the Board if nominated and elected; ● A
+    representation signed by the candidate that if elected he or she will: (1) represent all shareholders of the company in accordance
+    with applicable laws, and our certificate of incorporation, by-laws, and other policies; (2) comply with all rules, policies, or
+    requirements generally applicable to non-employee directors; and (3) upon request, complete and sign customary Directors & Officers
+    Questionnaires. In
+addition to satisfying the foregoing requirements under our by-laws and to comply with the universal proxy rules, shareholders who intend
+to solicit proxies in support of director nominees other than the company’s nominees for the 2026 Annual Meeting of Shareholders
+must provide notice that sets forth the information required by Rule 14a-19 under the Exchange Act of 1934, as amended. Any
+eligible shareholder who wishes to submit a nomination should review the requirements in our by-laws on nominations by shareholders. 11 In
+its assessment of each potential candidate, the Nominating & Governance Committee will review the nominee’s judgment, experience,
+independence, understanding of our or other related industries and such other factors the Nominating & Governance Committee determines
+are pertinent in light of the current needs of the Board. The Nominating & Governance Committee will also take into account the ability
+of a director to devote the time and effort necessary to fulfill his or her responsibilities. Nominees
+may be suggested by directors, members of management, and, as described above, by shareholders. In identifying and considering candidates
+for nomination to the Board, the Nominating & Governance Committee considers, in addition to the requirements set out in the Nominating
+& Governance Committee charter, quality of experience, our needs and the range of talent and experience represented on the Board. Shareholder
+Communication with the Board of Directors We
+have adopted written procedures establishing a process by which our shareholders can communicate with the Board regarding various topics
+related to the company. A shareholder desiring to communicate with the Board, or any individual director, should send his or her written
+message addressed to the Board of Directors (or the applicable director or directors) care of the Corporate Secretary, MicroVision, Inc.,
+18390 NE 68th Street, Suite 200, Redmond, Washington 98052. Each submission will be forwarded, without editing or alteration, by the
+Secretary of the company to the Board, or the applicable director or directors, on or prior to the next scheduled meeting of the Board.
+The Board will determine the method by which such submission will be reviewed and considered. The Board may also request the submitting
+shareholder to furnish additional information it may reasonably require or deem necessary to sufficiently review and consider the submission
+of such shareholder. Code
+of Ethics We
+have adopted a code of ethics applicable to all of our executive officers, known as the Code of Ethics for MicroVision Executives. We
+have also adopted a code of conduct applicable to our directors, officers, and employees, known as the Code of Conduct. The Code of Ethics
+for MicroVision Executives and the Code of Conduct are available on our website. In the event that we amend or waive any of the provisions
+of the Code of Ethics for MicroVision Executives we intend to disclose the same on our website at www.microvision.com . Insider
+Trading Policies The
+MicroVision Statement of Policy on Insider Trading and related Pre-Clearance Procedures govern the purchase, sale, and/or other dispositions
+of MicroVision securities by our directors, officers, and employees. We believe that these policies are reasonably designed to promote
+compliance with insider trading laws, rules, and regulations. While the company is not subject to this policy, it is standard MicroVision
+practice to comply with all applicable securities laws when transacting in its own securities. Policy
+Against Employee, Officer and Director Hedging We
+consider it improper and inappropriate for any director, officer or other employee of ours to engage in speculative transactions in MicroVision
+securities. It is, therefore, our policy that directors, officers and other employees may not engage in any of the following transactions
+with respect to MicroVision’s securities: ● Short Sales: Short sales
+    of MicroVision securities portray an expectation on the part of the seller that the securities will decline in value and could signal
+    to the market that the seller has no confidence in the company or its short-term prospects. For these reasons, short sales of MicroVision
+    securities are prohibited by our policy. ● Publicly Traded Options:
+    Transactions in options also may focus the person’s attention on short-term performance at the expense of our long-term objectives.
+    Accordingly, transactions in puts, calls or other derivative securities, on an exchange or in any other organized market, are prohibited
+    by our policy. ● Hedging Transactions: We
+    strongly discourage hedging transactions of MicroVision securities, such as zero-cost collars and forward sale contracts. Any requests
+    to engage in hedging transactions of MicroVision stock must be submitted to the General Counsel (or the Board of Directors for our
+    named executive officers). No such transactions were approved during the most recently completed fiscal year. ● Margin Accounts and Pledges:
+    Because a margin sale or foreclosure sale may occur at a time when the pledgor is aware of material, nonpublic information or otherwise
+    is not permitted to trade in MicroVision securities, directors, officers and other employees are prohibited from holding MicroVision
+    securities in a margin account or pledging MicroVision securities as collateral for a loan, except to MicroVision. ● Limit Orders: The General
+    Counsel must review the effective period and timing of any limit order in advance of placing such an order. In general, limit orders
+    will not be approved that begin before or extend after the trading window guidelines discussed above. Despite prior approval an employee
+    must cancel any limit order if the employee later learns material, nonpublic information before the execution of the trade. 12 Director
+Compensation for 2025 The
+following table provides information concerning the compensation of our non-employee directors during the year ended December 31, 2025. Name Fees Earned or Paid in Cash Stock Awards (3)(4) Option Awards(5) Total Robert P. Carlile $ 130,000 $ 100,352 — $ 230,352 Jeffrey A. Herbst $ 90,000 $ 100,352 — $ 190,352 Laura J. Peterson (1) $ 51,739 $ 103,710 $ 155,449 Peter Schabert $ 75,000 $ 100,352 — $ 175,352 Jada M. Smith $ 75,000 $ 100,352 — $ 175,352 Mark B. Spitzer (2) $ 42,500 $ 100,352 — $ 142,852 (1) Ms. Peterson joined the
+    Board effective July 22, 2025. (2) Mr. Spitzer departed from
+    the Board effective July 22, 2025. His 2025 stock awards were fully forfeited upon his departure. (3) The amounts reported reflect
+    the aggregate grant date fair value, excluding the effect of estimated forfeitures, of awards granted in the year shown pursuant
+    to our 2022 Equity Incentive Plan, determined in accordance with financial accounting rules (FASB ASC Topic 718), rather than an
+    amount paid to or realized by the director. For a discussion of valuation assumptions for these awards, see Note 10 to our
+    Notes to Financial Statements included in our annual report on Form 10-K for the most recently completed fiscal year. Please note
+    that the number of RSUs granted to directors is based upon the average closing price of our common stock for the 20 trading days
+    prior to the applicable annual meeting date, whereas the grant date fair value is calculated based on the closing price on the grant
+    date. (4) As of December 31, 2025,
+    Messrs. Carlile, Herbst, and Schabert and Ms. Smith each held an outstanding RSU award covering 44,014 shares of MicroVision common
+    stock, and Ms. Peterson held an outstanding RSU award covering 36,010 shares of MicroVision common stock. (5) As of December 31, 2025,
+    the number of outstanding shares underlying option awards for each of our non-employee directors was 30,000 for Mr. Carlile and 0
+    for Mr. Herbst, Ms. Peterson, Mr. Schabert, and Ms. Smith. All
+directors are reimbursed for reasonable travel and other out-of-pocket expenses incurred in attending meetings of the Board. We
+believe it is important to have a compensation policy for non-employee directors that enables us to attract and retain skilled board
+members with relevant expertise. Our Director Compensation Policy was revised May 2021 to provide a total annual compensation approach
+that is split between cash and equity based on dollar value. Our Compensation Committee, supported by its independent compensation consultant,
+reviews our policy regularly to ensure its market competitiveness and continued effectiveness in meeting our goals. Under the policy,
+base cash compensation is $75,000 for each director. Board and committee chairs receive additional cash compensation that reflects additional
+responsibilities: Board chair, $50,000; audit committee chair, $20,000; compensation committee chair, $15,000; and nominating & governance
+committee chair, $10,000. Independent Directors are generally encouraged to serve on two committees, depending on skills and expertise.
+Cash is paid in equal quarterly installments. Annual equity compensation for each director is in the form of an award of RSUs equal to
+approximately $100,000 based on the average closing price of our common stock over the 20 trading days preceding the Annual Meeting of
+Shareholders. Those equity awards vest in equal quarterly installments, with the final installment vesting on the earlier of the one-year
+anniversary of the grant date or the day before the next Annual Meeting. New directors do not receive a separate initial fee or equity
+grant but receive cash and an equity grant on a pro rata basis depending on the director’s start date with us. 13 CERTAIN
+RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE Other
+than compensation arrangements for our named executive officers and directors, the following is a description of transaction or series
+of similar transactions, since January 1, 2025, to which we were a party or will be a party, in which: (i) the amounts involved exceeded
+or will exceed $120,000; and (ii) any of our directors, executive officers or holders of more than 5% of our capital stock, or any member
+of the immediate family of the foregoing persons, had or will have a direct or indirect material interest. Policies
+and Procedures with Respect to Related Person Transactions Under
+the Code of Conduct adopted by us, officers, directors and employees must avoid even the appearance of a conflict of interest. Under
+the Code of Ethics for MicroVision Executives we have adopted, all of our executive officers must report any material transaction or
+relationship that reasonably could be expected to give rise to a conflict of interest. We also review questionnaires completed by all
+directors and executive officers for potential “related-person transactions” between us and related persons. The Board’s
+Audit Committee is responsible for review, approval, or ratification of related-person transactions. The Audit Committee determines whether
+the related person has a material interest in a transaction and may approve, ratify, rescind, or take other action with respect to the
+transaction in its discretion. Certain
+Transaction with or Involving Related Person Since
+August 2025, the company employed a family member of our Chief Executive Officer, Glen DeVos. Robert Cooper, brother-in-law to Mr. DeVos,
+was initially engaged as an independent contractor and was subsequently hired as a full-time employee in the role of project manager.
+During fiscal year 2025 and through April 15, 2026, the company paid total compensation to Mr. Cooper of $137,222. The arrangement was
+reviewed and approved in accordance with the company’s related person transaction policy. The Audit Committee determined that Mr.
+Cooper’s compensation was consistent with that of similarly situated employees and that the engagement and subsequent employment
+were conducted in the ordinary course of business. Mr. DeVos did not participate in the review or approval of this arrangement. INFORMATION
+ABOUT MICROVISION COMMON STOCK Security
+Ownership of Certain Beneficial Owners and Management The
+following table shows as of May 11, 2026 (the “table date”), the number of shares of our common stock beneficially owned
+by our directors and nominees, named executive officers, and all directors and executive officers as a group and each person known by
+us to own beneficially more than 5% of our outstanding common stock. Name of Beneficial Owner Number of Shares(1)(4) Percent of Common Stock(2) Glen W. DeVos 1,082,607 0.33 % Drew G. Markham 927,009 0.28 % Simon Biddiscombe(3) 437,256 0.13 % Robert P. Carlile(3) 590,706 0.18 % Jeffrey A. Herbst 280,919 * Laura J. Peterson 109,601 * Peter Schabert 168,478 * Jada M. Smith 176,550 * All executive officers and directors as a group (9 persons) 3,957,703 1.19 % BlackRock(5) 17,358,107 5.8 % State Street Corporation(6) 13,450,890 4.5 % * Less than 1% of the outstanding
+    shares of common stock. (1) Beneficial ownership is
+    determined in accordance with the rules of the SEC and generally includes voting or investment power with respect to securities.
+    Shares of common stock subject to options or warrants that are currently exercisable or convertible or may be exercised or converted
+    within sixty days are deemed to be outstanding and to be beneficially owned by the person holding these options or warrants for the
+    purpose of computing the number of shares beneficially owned and the percentage of ownership of the person holding these securities,
+    but are not outstanding for the purpose of computing the percentage ownership of any other person or entity. Subject to community
+    property laws where applicable, and except as otherwise noted, we believe that each shareholder named in this table has sole voting
+    and investment power with respect to the shares indicated as beneficially owned thereby. (2) Percentage of common stock
+    is based on 331,605,685 shares of common stock outstanding as of May 11, 2026. (3) Includes 30,000 shares
+    issuable upon exercise of options. (4) Includes RSUs scheduled
+    to vest within 60 days of the table date equal to 723,000 for Mr. DeVos, 538,680 for Ms. Markham, 22,007 for Messrs. Biddiscombe,
+    Carlile, Herbst, and Schabert, and Ms. Smith, 18,005 for Ms. Peterson, and 1,395,720 for all executive officers and directors as
+    a group. (5) The Schedule 13G filed
+    with the SEC by BlackRock, Inc. on October 17, 2025 indicates that as of September 30, 2025, BlackRock beneficially owned 17,358,107
+    shares of MicroVision common stock, with sole voting power over 17,052,052 shares and sole dispositive power over 17,358,107 shares.
+    BlackRock’s reported address is 50 Hudson Yards, New York, NY 10001. (6) The Schedule 13G filed
+    with the SEC by State Street Corporation on November 10, 2025 indicates that as of September 30, 2025, State Street beneficially
+    owned 13,450,890 shares of MicroVision common stock, with shared voting power over 13,082,074 shares and shared dispositive power
+    over 13,450,890 shares. State Street’s reported address is One Congress Street, Suite 1, Boston, MA 02114. Based
+solely on a review of the copies of such forms in our possession, and on written representations from reporting persons, we believe that
+all of these reporting persons complied with their filing requirements during 2025. 14 Proposal
+Two—Approval of ISSUANCE OF SHARES PURSUANT TO THE 2026 CONVERTIBLE NOTES On
+February 23, 2026, we entered into a Securities Purchase and Exchange Agreement (the “Purchase Agreement”) for the exchange
+of senior secured convertible notes due 2026 for senior secured convertible notes due 2028 (the “Exchanged Note”) and the
+purchase of senior secured convertible notes due 2028 (the “New Note” and together with the Exchanged Note, the “2026
+Convertible Notes”) with an institutional investor (the “Holder”). The aggregate principal amount for the 2026 Convertible
+Notes is $43 million (the “Principal Amount”). The Convertible Notes bear zero coupon and mature on March 1, 2028. The 2026
+Convertible Notes rank senior to all outstanding and future indebtedness of the Company and its subsidiaries, and are secured by a first
+priority perfected security interest in all bank and securities accounts, now owned and later created or acquired, of the Company and
+its subsidiaries. The transactions pursuant to the Purchase Agreement were completed and the 2026 Convertible Notes were issued on February
+23, 2026. The
+Holder has the option to partially redeem the 2026 Convertible Notes (a “Partial Redemption Payment”) on the first day of
+each month beginning April 1, 2026 and ending on March 1, 2028. The
+2026 Convertible Notes will be optionally convertible by the Holder, subject to certain limitations as described in the 2026 Convertible
+Notes. If the Holder elects to convert the 2026 Convertible Notes (including with respect to the Principal Amount underlying the Partial
+Redemption Payments), the initial conversion price will be an amount equal to $0.8819, which is equal to one hundred ten percent (110%)
+of the last reported sale price on February 23, 2026, subject to customary anti-dilution adjustments as set forth in the 2026 Convertible
+Notes. The 2026 Convertible Notes are subject to limits on conversion including a limit on the number of shares that may be issued upon
+conversion or otherwise of 61,315,970 shares in the aggregate until our stockholders have approved this Proposal 2 (the “2026 Convertible
+Note Proposal”). The
+Purchase Agreement requires us to use reasonable best efforts to obtain approval of the 2026 Convertible Note Proposal, and to include
+the Board of Directors’ recommendation that the holders of shares of the company’s common stock vote in favor of the 2026
+Convertible Note Proposal. If we fail to receive approval of this Proposal 2 at the Annual Meeting, we will be required to hold a special
+meeting of shareholders for the purpose of obtaining such approval no less often than every 90 days following the date of the Annual
+Meeting until such approval is obtained. Please
+refer to our Current Report on Form 8-K filed on February 24, 2026, including the exhibits thereto, for detailed information regarding
+the terms of the Purchase Agreement and the 2026 Convertible Notes. Reasons
+for Stockholder Approval Our
+common stock is listed on The Nasdaq Global Market, and, as such, we are subject to the applicable rules of the Nasdaq Stock Market,
+including Nasdaq Listing Rule 5635(d), which requires stockholder approval in connection with a transaction, other than a public offering,
+involving the sale or issuance by the issuer of common stock (or securities convertible into or exchangeable for common stock) equal
+to 20% or more of the common stock or 20% or more of the voting power outstanding before the issuance for a price that is the lower of:
+(i) the closing price (as reflected on Nasdaq.com) immediately preceding the signing of a binding agreement for the issuance of such
+securities; or (ii) the average closing price of the common stock (as reflected on Nasdaq.com) for the five trading days immediately
+preceding the signing of a binding agreement for the issuance of such securities (the “Minimum Price”). Immediately
+prior to the issuance date of the 2026 Convertible Notes, we had 306,579,855 shares of our common stock outstanding. If we receive stockholder
+approval of this Proposal 2, the potential issuance of shares of our common stock pursuant to the 2026 Convertible Notes could result
+in us issuing greater than 20% of our shares of common stock outstanding prior to giving effect to the issuance of the 2026 Convertible
+Notes at a price below the Minimum Price. As such, we are seeking stockholder approval under Nasdaq Listing Rule 5635(d) for the sale,
+issuance or potential issuance by us of our common stock (or securities convertible into or exercisable for our common stock) pursuant
+to the 2026 Convertible Notes in excess of 61,315,971 shares, which is 20% of the shares of our common stock outstanding immediately
+prior to the issuance date of the 2026 Convertible Notes. 15 Potential
+Effects of the Proposal If
+our stockholders do not approve this Proposal 2, the limitation on converting the 2026 Convertible Notes will remain in effect and the
+holders of the 2026 Convertible Notes will not be entitled to convert the 2026 Convertible Notes into shares of our common stock to the
+extent that the conversion would result in the issuance of more than 61,315,971 shares of our common stock. However, to the extent
+we are unable to issue shares upon such conversion, we will be required to make cash payments to the holders pursuant to the terms of
+the 2026 Convertible Notes, and such cash payments could be substantial. We may also be unable to settle required redemption payments
+in shares, which could substantially increase the cash burden of the 2026 Convertible Notes, as we will be required to make such payments
+in cash. In
+addition, the limitations on conversion that would remain in effect if this Proposal 2 is not approved could jeopardize our future financing
+prospects because prospective purchasers of securities may consider our stockholders as unsupportive of financings approved by our Board. No
+Interests of Directors and Executive Officers Our
+directors and executive officers have no substantial interests, directly or indirectly, in the matters set forth in this proposal except
+to the extent of their ownership of shares of our common stock. Vote
+Required – Your vote is extremely important. The
+proposal to approve the 2026 Convertible Notes requires approval by a majority of the votes cast at the Annual Meeting, provided that
+the number of votes cast in favor of the proposal must exceed the number of votes cast against the proposal by at least [●] shares,
+which is the number of shares of common stock issued pursuant to the 2026 Convertible Notes as of the record date. We are requiring more
+than a simple majority of votes cast at the meeting because Nasdaq IM-5635-2 indicates that shares issuable in the first part of a private
+placement transaction (in this case, the 2026 Convertible Notes offering), must not be entitled to vote to approve the remainder of the
+transaction. Abstentions and broker non-votes will not be counted “for” or “against” the proposal and will
+have no effect on the outcome of the vote. Summary As
+described above, our Board and management believe that approval of the 2026 Convertible Note Proposal is critical to our ability to strategically
+manage cash resources as we accelerate commercial engagement, achieve revenue objectives, and profitably scale our operations. The 2026
+Convertible Notes are an important component of our financing plan, including the key feature that allows the company, in its discretion,
+to meet redemption obligations in shares rather than cash thereby reserving cash resources to fund our commercial plans and go-to-market
+strategy. Approval of Proposal 2 is vital to the overall execution of our financing plan and business strategy, and thoughtfully balances
+the near-term interests of shareholders and long-term success of MicroVision. OUR
+BOARD OF DIRECTORS RECOMMENDS THAT YOU VOTE “FOR” APPROVAL OF THE ISSUANCE OF SHARES PURSUANT TO THE 2026 CONVERTIBLE NOTES. 16 Proposal
+THREE—Approval of AN AMENDMENT TO THE COMPANY’S
+CERTIFICATE OF INCORPORATION TO PROVIDE OUR BOARD THE RIGHT TO EFFECT A REVERSE STOCK SPLIT Context
+for Proposal 3 We
+recently disclosed our strategic plan to transform the lidar industry. Beginning with the fourth quarter 2025 appointment of Glen DeVos
+as Chief Executive Officer, the company has methodically executed on plan objectives, including deepening its technical expertise, expanding
+its product portfolio, sharpening its go-to-market plan, and accelerating its commercial traction. Specifically, in the fourth quarter
+of 2025, we announced commercial momentum in the industrial and security & defense sectors with an order of MOVIA L sensors and integrated
+software, which has subsequently grown in volume through additional orders from our available inventory to support immediate mission-critical
+customer needs. In
+the first quarter of 2026, we strategically expanded our technical expertise, product portfolio, and customer base through asset acquisitions
+from Luminar Technologies Inc. and Scantinel Photonics GmbH. Immediately following these acquisitions, we implemented plans to restructure
+and streamline operations in an effort to reduce and right-size the company’s operating expenses. To support the acquisitions and
+in line with our larger financial goals and fiscal discipline, we issued the 2026 Convertible Notes, bolstering the company’s cash
+position. Now,
+with the broadest portfolio of sensor solutions and related software, immediately available inventories of short- and long-range sensors,
+active customer evaluations, and collaborative development programs, we believe MicroVision is effectively executing on its strategic
+plan. To enable its commercial goals, however, this plan requires a capital structure and investment opportunity that is compelling
+to a wide range of investors. In management’s view, our strategic plan to reshape the lidar industry requires a multifaceted evolution
+of MicroVision – not only operational efficiency and commercial growth, but also a maturing of the capital structure. Accordingly,
+the Board recommends this Proposal 3 to provide it with the discretion to effectuate a reverse stock split with the goal of not only
+regaining compliance with Nasdaq listing requirements but also achieving a compelling stock price to attract a wide range and more stable
+base of investors. The
+Board believes that a reduction in the number of outstanding shares coupled with an increase in the per share price of MVIS would enhance
+the market perception of our common stock, particularly among institutional investors and other stable, value-seeking market participants.
+Because of the trading volatility often associated with low-priced stocks, many brokerage firms and institutional investors are restricted
+by internal policies and practices that either prohibit them from investing in low-priced stocks or discourage individual brokers from
+recommending low-priced stocks to their customers. Therefore, approval of this Proposal 3 is expected to improve our ability to access
+capital markets by enabling the issuance of additional authorized shares at more viable pricing levels. Overview
+of Proposal 3 Our
+Board of Directors has unanimously adopted a resolution approving, declaring advisable and recommending to the shareholders for their
+approval a proposal to amend our Certificate of Incorporation to effect a reverse stock split (the “Reverse Stock Split”)
+at any whole number ratio between, and inclusive of, 1-for-5 (every five shares would be combined into one) and 1-for-15 (every fifteen
+shares would be combined into one). Approval of this proposal will grant the Board of Directors the authority, without further action
+by the shareholders, to carry out the amendment to the Certificate of Incorporation (the “Reverse Stock Split Amendment”)
+at any time within one year after the date that shareholder approval for the Reverse Stock Split Amendment is obtained, with the exact
+exchange ratio and timing of the Reverse Stock Split to be determined at the discretion of the Board of Directors. The decision whether
+and when to effect the Reverse Stock Split, and at what whole number ratio to effect the Reverse Stock Split, will be based on a number
+of factors, including market conditions, existing and anticipated trading prices for our common stock and the applicable continued listing
+requirements of The Nasdaq Stock Market. The
+Reverse Stock Split Amendment will not result in a reduction of the total number of shares of our common stock that we are authorized
+to issue by a corresponding ratio, and, as a result, the number of authorized shares of common stock available for issuance will increase.
+See “— Principal Effects of the Reverse Split ” for the number of shares of common stock authorized but not outstanding
+or reserved that will remain available for issuance immediately following the effectiveness of the Reverse Stock Split. The Reverse Stock
+Split will not change the number of authorized shares of preferred stock nor the par value of the common stock or the preferred stock. Rationale
+for the Reverse Stock Split Our
+common stock trades on The Nasdaq Stock Market, which we believe helps support and maintain stock liquidity and company recognition for
+our shareholders. Companies listed on Nasdaq, however, are subject to various continued listing standards imposed by Nasdaq. One of these
+standards is the “minimum bid price” requirement, which requires that the bid price of the common stock of listed companies
+be at least $1.00 per share. A listed company risks being delisted and removed from the relevant tier of the Nasdaq exchange if the closing
+bid price of its stock remains below $1.00 per share for an extended period of time. 17 As
+previously disclosed, on January 12, 2026, we received written notice from the Nasdaq Listing Qualifications Staff (the “Staff”)
+indicating that, based upon our closing bid price for the prior 30 consecutive business days, the company no longer met the continued
+listing requirement to maintain a minimum bid price of $1.00 per share, as set forth in Nasdaq Listing Rule 5450(a)(1). We have 180
+days from the January 12 th noncompliance notification date, or until July 13, 2026, to regain compliance. Unless
+an extended grace period is permitted, in order to regain compliance with the bid price requirement we must evidence a closing bid price
+of at least $1.00 per share for a minimum of ten consecutive business days prior to the July 13, 2026 compliance deadline or we would
+expect to receive, and immediately appeal, a notice of delisting. Alternatively, we may be eligible for an additional 180 days to regain
+compliance if we transfer our listing to the Nasdaq Capital Market. Effecting
+the Reverse Stock Split would reduce our total shares of common stock outstanding, which we believe will increase the price per share
+of our common stock. For example, a hypothetical company with a market value of $50 million and 100 million shares outstanding would
+have a trading price of $0.50 per share, while a company with the same market value and only 25 million shares outstanding would have
+a trading price of $2.00 per share. The Board believes that an increase in the price level of our common stock is likely to generate
+interest in MicroVision among investors, and in particular institutional investors that have investment policies that prohibit investment
+in lower-priced securities. We
+are asking shareholders to approve this proposal because we believe the Reverse Stock Split will result in a higher price per share for
+outstanding shares of our common stock. This, we believe, could provide a number of potential advantages. We describe each of these below. Potential
+Advantages of the Reverse Stock Split Maintain
+Nasdaq Stock Market Listing. We believe that having our common stock delisted from The Nasdaq Stock Market would be undesirable for
+our shareholders and potentially detrimental to our business. Among other things, being delisted could reduce the liquidity of our common
+stock. We also attribute value to our ticker symbol, which is easily recognized as “MVIS” and has represented MicroVision
+for nearly 30 years. We could lose this ticker symbol if our stock were to be delisted by Nasdaq. Moreover, being listed on The Nasdaq
+Stock Market carries with it certain prestige, and we believe it improves the recognition of our company. Our
+Board of Directors believes that a Reverse Stock Split, at a whole number exchange ratio ranging from 1-for-5 to 1-for-15, would result
+in an increase in the price per share, and thereby help us meet the $1.00 per share minimum bid price requirement. While our stock price
+could trade above $1.00 on its own accord over the next few months, our Board believes that it is in our best interest and in the interest
+of our shareholders to seek approval of the Reverse Stock Split Amendment in order to increase the likelihood that we regain compliance
+before the end of the relevant grace period. Even if our common stock’s closing bid price were to satisfy the minimum closing
+bid price requirements prior to approval of this proposal, we may still effect the Reverse Stock Split if our shareholders approve this
+proposal and our Board of Directors determines that effecting the Reverse Stock Split would be in the best interest of the company and
+its shareholders. Support Capital Flexibility. By preserving our Nasdaq listing, we can continue to consider and pursue a wide range of future financing
+options to support our business. We believe being listed on a national securities exchange, such as any tier of The Nasdaq Stock Market,
+is valued highly by many long-term investors. A listing on a national securities exchange also has the potential to create better liquidity
+and reduce volatility for buying and selling shares of our stock, which benefits our current and future shareholders. Increase
+Our Common Stock Price to a Level More Appealing for Investors. We believe that the Reverse Stock Split could enhance the appeal
+of our common stock to the financial community, including institutional investors, and the general investing public. We believe that
+a number of institutional investors and investment funds are reluctant to invest in lower-priced securities and that brokerage firms
+may be reluctant to recommend lower-priced stock to their clients, which may be due in part to a perception that lower-priced securities
+are less promising as investments, are less liquid, or are less likely to be followed by institutional securities research firms. We
+believe that the reduction in the number of issued and outstanding shares of our common stock caused by the Reverse Stock Split, together
+with the anticipated increased stock price immediately following and resulting from the Reverse Stock Split, may encourage further interest
+in our common stock. Risks
+Associated with the Reverse Stock Split The
+proposed Reverse Stock Split carries with it several risks. We cannot assure you, for example, that the market price per share of our
+common stock after the Reverse Stock Split will rise or remain constant in proportion to the reduction in the number of shares of common
+stock outstanding before the Reverse Stock Split. For instance, using the closing price of our common stock on May 7, 2026 of $0.61 per
+share as an example, if our Board of Directors were to implement the Reverse Stock Split at a 1-for-10 ratio, we cannot assure you that
+the post-split market price of our common stock would be or would remain at a price of ten times greater than $0.61, or $6.10. In many
+cases, the market price of a company’s shares declines after a reverse stock split. Thus, while our stock price might initially
+meet the relevant continued listing requirements, we cannot assure you that it would continue to do so. 18 The
+market price of our common stock will also be affected by our performance and other factors, some of which are unrelated to the number
+of shares outstanding. If the Reverse Stock Split is effected and the market price of our common stock declines, the decline as a percentage
+of our overall market capitalization may be greater than would occur in the absence of a Reverse Stock Split. Furthermore, the liquidity
+of our common stock could be adversely affected by the reduced number of shares that would be outstanding after the Reverse Stock Split. While
+we expect that the Reverse Stock Split will be sufficient to maintain our listing on Nasdaq, it is possible that, even if the Reverse
+Stock Split results in our common stock trading at a level in compliance with relevant Nasdaq listing rules, another reverse split may
+be necessary in the future and we may not be able to continue to satisfy the other criteria for continued listing of the common stock
+on Nasdaq. The
+Reverse Stock Split would result in an increased proportion of unissued authorized shares to issued shares, which could have possible
+anti-takeover effects and could be used by us to oppose a hostile takeover attempt or to delay or prevent changes in our control or management
+(for example, by permitting issuances that would dilute the stock ownership of a person seeking to effect a change in the composition
+of the Board of Directors or contemplating a tender offer or other transaction for the combination of us with another company). These
+authorized but unissued shares could (within the limits imposed by applicable law) be issued in one or more transactions that could make
+a change of control of the company more difficult, and therefore more unlikely, or used to resist or frustrate a third-party transaction
+that is favored by a majority of the independent shareholders. The additional authorized shares could be used to discourage persons from
+attempting to gain control of us by diluting the voting power of shares then outstanding or increasing the voting power of persons that
+would support the Board of Directors in a potential takeover situation, including by preventing or delaying a proposed business combination
+that is opposed by our Board of Directors although perceived to be desirable by some shareholders. The issuance of additional shares
+to certain persons allied with our management could have the effect of making it more difficult to remove our current management by diluting
+the stock ownership or voting rights of persons seeking to cause such removal. Despite these possible anti-takeover effects, this Reverse
+Stock Split Proposal has been prompted by business and financial considerations and not by the threat of any hostile takeover attempt
+or any effort of which we are aware to accumulate our stock or to obtain control of our company by means of a merger, tender offer, solicitation
+in opposition to management or otherwise (nor is our Board of Directors currently aware of any such attempts directed at us). Nevertheless,
+shareholders should be aware that approval of this proposal could facilitate future efforts by us to deter or prevent changes in our
+control, including transactions in which the shareholders might otherwise receive a premium for their shares over then current market
+prices. Principal
+Effects of the Reverse Stock Split Reduction
+of Shares Held by Our Shareholders. After the effective date of the Reverse Stock Split, each shareholder will own fewer shares of
+our common stock. However, the Reverse Stock Split will affect all of our shareholders uniformly and will not affect any shareholder’s
+percentage ownership interest in the company. For example, a holder of two percent of the voting power of the outstanding shares of common
+stock immediately prior to the Reverse Stock Split would continue to hold two percent of the voting power of the outstanding shares of
+common stock immediately after the Reverse Stock Split. The number of shareholders of record will not be affected by the Reverse Stock
+Split. Change
+in Number and Exercise Price of Outstanding Options. Under the terms of our 2022 Equity Incentive Plan, as amended, and our 2025
+Inducement Plan (together with the 2022 Equity Incentive Plan, the “Equity Plans”), the respective administrators will make
+appropriate adjustments to the maximum number of shares that may be issued under the respective plans, the number of shares subject to
+outstanding awards and the exercise prices relating to awards. Reduction
+in Number of Outstanding Shares. The Reverse Stock Split will reduce the total number of outstanding shares of common stock by the
+exchange ratio determined by the Board of Directors in its discretion and it will apply automatically to all shares of our common stock,
+including shares issuable upon the exercise of outstanding stock options. Increase
+in Number of Authorized Shares. Because the proposed Reverse Stock Split Amendment does not result in a reduction in the total number
+of shares of common stock that we are authorized to issue, the implementation of the Reverse Stock Split will have the effect of increasing
+the number of available authorized shares of common stock. The resulting increase in such availability in the authorized number of shares
+of common stock could have a number of effects on our shareholders depending upon the exact nature and circumstances of any actual issuances
+of authorized but unissued shares. Because holders of our common stock have no preemptive rights to purchase or subscribe for any unissued
+common stock of MicroVision, the issuance of additional shares of authorized common stock that will become newly available as a result
+of the implementation of the Reverse Stock Split will reduce the current shareholders’ percentage ownership interest in the total
+outstanding shares of our common stock. 19 PLEASE
+NOTE THAT UNLESS SPECIFICALLY INDICATED TO THE CONTRARY, THE DATA CONTAINED IN THIS PROXY STATEMENT, INCLUDING BUT NOT LIMITED TO SHARE
+NUMBERS, DOES NOT REFLECT THE IMPACT OF THE REVERSE STOCK SPLIT THAT MAY BE EFFECTUATED. The
+following table sets forth the approximate number of shares of the common stock that would be outstanding immediately after the Reverse
+Stock Split at various exchange ratios, based on [●] shares of common stock outstanding as of May 28, 2026. The number of shares
+of common stock authorized will remain at 510,000,000 whether or not the Reverse Stock Split is effectuated and regardless of the ratio. Ratio
+    of Reverse Stock Split Approximate Shares
+                                            of Common
+                                            Stock Outstanding After
+                                            Reverse Stock
+                                            Split Approximate Shares
+                                            of Common
+                                            Stock Authorized
+                                            and Available
+                                            for Issuance
+                                            After Reverse
+                                            Stock Split (1) None — — 1:5 [●] [●] 1:10 [●] [●] 1:15 [●] [●] (1) Based
+                                            on (i) [●] shares of common stock reserved for future issuance under the Equity Plans,
+                                            inclusive of outstanding equity awards, and (ii) [●] shares of common stock reserved
+                                            for future issuance upon the exercise of outstanding warrants, in each case, on a pre-Reverse
+                                            Stock Split basis as of [●, 2026]. Procedure
+for Effecting Reverse Stock Split and Exchange of Stock Certificates If
+this proposal is approved by our shareholders and if our Board of Directors concludes that the Reverse Stock Split is in the best interests
+of the company and its shareholders on a date within one year after shareholder approval is obtained, our Board of Directors will cause
+the Reverse Stock Split to be implemented at the whole number ratio between 1-for-5 and 1-for-15 as selected by our Board of Directors
+in its sole discretion. We will file an amendment to our Certificate of Incorporation with the Delaware Secretary of State at such time
+as our Board of Directors deems appropriate. The amendment will become effective on the date that it is filed (the “Effective Date”). As
+soon as practicable after the Effective Date, shareholders will be notified that the Reverse Stock Split has been effected. We will retain
+an exchange agent (the “Exchange Agent”) for purposes of implementing the exchange of stock certificates. Holders of pre-reverse
+split shares will be asked to surrender to the Exchange Agent certificates representing pre-reverse split shares in exchange for certificates
+representing post-reverse split shares in accordance with the procedures to be set forth in a letter of transmittal that will be delivered
+to the company’s shareholders. No new certificates will be issued to a shareholder until the shareholder has surrendered to the
+Exchange Agent his, her or its outstanding certificate(s) together with the properly completed and executed letter of transmittal. SHAREHOLDERS
+SHOULD NOT DESTROY ANY STOCK CERTIFICATES AND SHOULD NOT SUBMIT ANY CERTIFICATES UNTIL REQUESTED TO DO SO . Shareholders whose shares
+are held in book-entry form do not need to submit old share certificates for exchange. These shares will automatically reflect the new
+quantity of shares based on the Reverse Stock Split. Beginning on the Effective Date, each certificate representing pre-reverse split
+shares will be deemed for all corporate purposes to evidence ownership of post-reverse split shares. Fractional
+Shares No
+fractional shares will be issued in connection with the Reverse Stock Split. Shareholders of record who otherwise would be entitled to
+receive fractional shares will be entitled to rounding up of their fractional share to the nearest whole share. Accounting
+Matters The
+Reverse Stock Split will not affect the common stock capital account on our balance sheet. As of the Effective Date, the stated capital
+on our balance sheet attributable to our common stock will be reduced proportionately based on the selected exchange ratio, and the additional
+paid-in capital account will be credited with the amount by which the stated capital is reduced. In future financial statements, we will
+restate net income or loss per share and other per share amounts for periods ending before the Reverse Stock Split to give retroactive
+effect to the Reverse Stock Split. The per share net income or loss and net book value of our common stock will be increased because
+there will be fewer shares of our common stock outstanding. Discretionary
+Authority of the Board of Directors to Abandon Reverse Stock Split The
+Board of Directors reserves the right to abandon the Reverse Stock Split without further action by our shareholders at any time before
+the effectiveness of the amendment to the Certificate of Incorporation, even if the Reverse Stock Split has been authorized by our shareholders
+at the Annual Meeting. By voting in favor of the Reverse Stock Split, you are expressly also authorizing our Board of Directors to determine
+not to proceed with, and abandon, the Reverse Stock Split if it should so decide. 20 No
+Dissenter’s Rights Under
+applicable Delaware law, our shareholders are not entitled to dissenter’s or appraisal rights with respect to the Reverse Stock
+Split, and we will not independently provide shareholders with any such right. No
+Interests of Directors and Executive Officers Our
+directors and executive officers have no substantial interests, directly or indirectly, in the matters set forth in this proposal except
+to the extent of their ownership of shares of our common stock. Required
+Vote The
+approval of an amendment to the Certificate of Incorporation to effect a reverse stock split requires the affirmative vote of a majority
+of the votes properly cast on the proposal at the Annual Meeting. Abstentions and broker non-votes, if any, will not be counted
+“for” or “against” the proposal and will have no effect on the outcome of the vote. The
+Proposed Amendment This
+general description of Proposal 3 is qualified in its entirety by reference to the text of the amendment set forth in this Proposal 3
+to effect a reverse stock split of common stock. If Proposal 3 is approved by shareholders, our Board of Directors may determine in its
+sole discretion to effect the Reverse Stock Split. If the Board of Directors determines to effect the Reverse Stock Split, the amendment
+will be filed with the Secretary of State of the State of Delaware. The amendment is subject to additional modification as may be required
+by the office of the Secretary of State of the State of Delaware or as the Board of Directors or the company deems necessary and advisable
+to effect the Reverse Stock Split. If Proposal 3 is not approved, the Certificate of Incorporate will not allow for the effecting of
+the Reverse Stock Split. The
+Certificate of Incorporation shall be amended and restated such that the following paragraph shall be added after the first paragraph
+of ARTICLE IV if our shareholders vote to approve this Proposal 3: As
+of 5:00 p.m. (eastern time) on [   ], 2026 (the “Effective Time”), each [   ] shares of Common Stock issued and outstanding at
+such time shall be combined into one (1) share of Common Stock (the “Reverse Stock Split”). The par value of the Common Stock
+following the Reverse Stock Split shall remain $.001 per share. No fractional shares will be issued in connection with the Reverse Stock
+Split. Stockholders of record who otherwise would be entitled to receive fractional shares, will be entitled to rounding up of their
+fractional share to the nearest whole share. Each certificate that immediately prior to the Effective Time represented shares of Common
+Stock (an “Old Certificate”) shall thereafter represent that number of shares of Common Stock into which the shares of Common
+Stock represented by the Old Certificate shall have been combined, subject to the elimination of fractional share interests as described
+above. THE
+BOARD RECOMMENDS THAT YOU VOTE “FOR” APPROVAL
+OF THE AMENDMENT TO THE COMPANY’S CERTIFICATE OF INCORPORATION TO PROVIDE OUR BOARD THE RIGHT TO EFFECT THE REVERSE STOCK SPLIT
+DESCRIBED ABOVE PROPOSAL
+FOUR—APPROVAL, ON A NON-BINDING ADVISORY BASIS, OF THE COMPENSATION OF THE COMPANY’S NAMED EXECUTIVE OFFICERS Our
+Board is asking shareholders to cast a non-binding, advisory vote FOR the approval of the compensation paid to MicroVision’s
+named executive officers, as disclosed in the Executive Compensation section of this proxy statement. Our
+executive compensation program embodies a pay-for-performance philosophy that is intended to reinforce and propel our business strategy
+and closely align the interests of our executives with our shareholders. This performance-based philosophy is achieved through a program
+that emphasizes at-risk compensation tied to the achievement of performance objectives and shareholder value. Our executive compensation
+program is also designed to attract and retain highly talented executives who are critical to the successful implementation of our business
+strategy. For
+these reasons, our Board is asking shareholders to support this proposal. Although the vote is non-binding, our Compensation Committee
+and Board value the views of our shareholders and will consider the outcome of the vote when determining future compensation arrangements
+for our named executive officers. We seek your vote on this proposal pursuant to Section 14A of the Securities Exchange Act of 1934,
+as amended, and we seek advisory votes on executive compensation each year. OUR
+BOARD OF DIRECTORS RECOMMENDS THAT YOU VOTE “FOR” THE APPROVAL, ON AN ADVISORY BASIS, OF THE COMPENSATION OF OUR NAMED EXECUTIVE
+OFFICERS FOR FISCAL 2025, AS DISCLOSED IN THIS PROXY STATEMENT. 21 EXECUTIVE
+COMPENSATION Summary
+Compensation Table The
+following table provides information regarding the compensation paid to, or earned by, each of our named executive officers during the
+last three fiscal years. Name and Principal Positions Fiscal Year Salary ($)(1) Bonus ($) Stock Awards ($)(2)(3) Option Awards ($)(3) Non-Equity Incentive Plan Compensation ($)(4) All Other Compensation ($)(5) Total ($) Glen DeVos (6) 2025 347,008 — 3,033,795 — — 7,043 3,387,845 Chief Executive Officer, 2024 — — — — — — — Chief Technology Officer 2023 — — — — — — — Simon Biddiscombe(7) 2025 122,500 — 408,832 — — 1,325 532,657 Executive Vice Chair, Director 2024 91,250 — 88,495 — — — 179,745 2023 90,000 — 141,386 — — — 231,386 Drew G. Markham (8) 2025 400,000 — 1,072,880 — — 10,500 1,483,380 SVP, General Counsel, Head of People Operations 2024 391,833 — 616,000 — — 10,193 1,018,026 2023 372,000 204,875 — — — 9,900 586,775 Sumit Sharma (9) 2025 397,500 — — — — 1,262,058 1,659,558 Former Chief Executive Officer 2024 530,000 — 5,983,750 — — 11,227 6,524,977 2023 462,917 — 4,245,000 — — 54,900 4,762,817 Anubhav Verma (10) 2025 411,719 — — — — — 411,719 Former Chief Financial Officer 2024 417,708 — 699,875 — — — 1,117,583 2023 400,000 220,000 — — — — 620,000 (1) Amounts
+    reflect cash salary paid in the respective year. (2) To
+    conserve cash and drive alignment with shareholders, the 2025 short-term incentive bonus for each of Mr. DeVos and Ms. Markham was
+    made in the form of a grant of RSUs that vest upon certification of achievement of the applicable performance goals and service to
+    the Company through the first anniversary of the grant date. These short-term incentive bonuses are governed by the 2025 Executive
+    Bonus Plan, which was designed to motivate and reward eligible employees, including executive officers. Total attainment for the
+    fiscal year 2025 target period was based on certain predetermined financial and non-financial objectives, including at least $10
+    million in revenue of the Company (weighted at 25%), no more than $55 million of cash operating expenses of the Company (weighted
+    at 25%), and both team and individual strategic business objectives (weighted at 50%). The 2025 Bonus Plan also provided for a maximum
+    payout at 200% of target. On April 15, 2026, the Compensation Committee certified actual financial results relevant to the 2025 Bonus
+    Plan as relates to executive and non-executive participants in such plan. On the same date the Board for Mr. DeVos and the Compensation
+    Committee for Ms. Markham determined that the non-financial objectives pursuant to the 2025 Bonus Plan had been fully achieved at
+    the target level based on Mr. DeVos’ efforts to successfully deepen and expand the company’s product roadmap and strengthen
+    and expand the company’s commercial organization and opportunities and Ms. Markham’s work to drive cost efficiencies
+    and enable strategic organizational goals. The Compensation Committee and Board determined that the objective required for maximum
+    payout was not achieved. Accordingly, it is anticipated that on June 2, 2026, subject to continued employment on such date,
+    75% of the target RSUs granted to Mr. DeVos and to Ms. Markham in 2025 pursuant to the 2025 Bonus Plan will vest. Mr. DeVos’
+    incentive target is 100% of his base salary (so he is expected to vest in RSUs valued at 75% (calculated as 75% of 100%) of his base
+    salary as his bonus payout), while Ms. Markham’s incentive target is 55% of her base salary (so she is expected to vest in
+    RSUs valued at 41.25% (calculated as 75% of 55%) of her base salary as her bonus payout). Consistent with prior year reporting, the
+    2025 amounts have been reported as Stock Awards because the awards have not yet vested. 22 (3) The
+    amounts reported reflect the aggregate grant date fair value, excluding the effect of estimated forfeitures, of awards granted or
+    modified in the year shown pursuant to our 2020 Incentive Plan, 2022 Equity Incentive Plan, or 2025 Inducement Equity Plan, determined
+    in accordance with financial accounting rules (FASB ASC Topic 718), rather than an amount paid to or realized by the executive officer.
+    For a discussion of valuation assumptions for these awards, see Note 10 to our Notes to Financial Statements included in our
+    annual report on Form 10-K for the most recently completed fiscal year. For performance-based RSUs granted in 2024 and 2025, the
+    grant date fair value reported assumes maximum level of achievement; in 2024 and expected in 2025, only a percentage of the awards
+    granted will actually vest to reflect actual (versus target) performance. (4) For
+    the 2025 compensation year, Mr. DeVos and Ms. Markham are eligible for performance-based bonuses pursuant to the 2025 Executive Bonus
+    Plan, however such bonuses are expected to be paid out at target (not at maximum) in the form of vesting of RSUs in June 2026, subject
+    to certain conditions. (5) With
+    respect to Mr. Sharma, other compensation for 2025 includes severance compensation, as described in Note 9 below, as well as
+    tax equalization payments. Tax equalization payments were made on behalf of Mr. Sharma in 2025 when the company paid a net amount
+    of $73,649 to the German tax authority, of which $36,088 related to the German tax assessment for 2023 and $37,561 related to the
+    German tax assessment for 2022. For tax year 2024, the company made an additional tax equalization payment in 2026 in the net amount
+    of $103,692 with respect to Mr. Sharma’s time spent working in Germany in 2024 overseeing company operations there. The remaining
+    amounts included in this column generally consist of matching contributions under MicroVision’s 401(k) plan of 50% of the first
+    6% of eligible pay contributed to the 401(k) plan and which benefit is available to all of the company’s employees. (6) Mr.
+    DeVos commenced employment with MicroVision on March 31, 2025. He served as the company’s Chief Technology Officer from that
+    date until September 30, 2025, when he was named Chief Executive Officer and Director of the company. As Chief Technology Officer,
+    Mr. DeVos’ compensation was comprised of annual base salary of $425,000, a short-term incentive bonus target of 55% of base
+    salary, and an inducement equity award of 1,300,000 RSUs scheduled to vest ratably over four years on each anniversary of his start
+    date, subject to continued employment on each vesting date. He is also eligible to participate in the company’s long-term incentive
+    program at the discretion of the Compensation Committee beginning in 2026. Effective September 30, 2025, Mr. DeVos was named Chief
+    Executive Officer and entered into an employment agreement with the company, which reflects base salary of $530,000 per annum, as
+    may be adjusted from time to time at the discretion of the Board; and a short-term incentive bonus target of 100% of base salary;
+    participation in the company’s Key Executive Severance and Change in Control Plan at the highest benefit levels; and participation
+    in the benefits and programs generally available to other employees of the company, including expense reimbursement, retirement,
+    insurance and vacation. (7) Mr.
+    Biddiscombe commenced employment with MicroVision on September 30, 2025, when he was named by the Board to serve as Executive Vice
+    Chair for a temporary period of no longer than one year. While serving in this role, Mr. Biddiscombe’s compensation includes
+    base salary of $265,000 on an annualized basis and he received an equity award of 241,000 RSUs scheduled to vest in full on October
+    1, 2026 subject to his continued services to the company, whether as Executive Vice Chair or as a Director. Mr. Biddiscombe served
+    as an independent director prior to his appointment as Executive Vice Chair and it is expected that he will return to the role of
+    independent director in accordance with Nasdaq rules following his service as Executive Vice Chair. (8) Ms.
+    Markham served as Senior Vice President, General Counsel & Secretary, and Head of People Operations for all of 2025, with compensation
+    comprised of base salary of $400,000, a short-term incentive bonus target of 55% of base salary, and eligibility for long-term incentive
+    equity at the discretion of the Compensation Committee. (9) For
+    2025, Mr. Sharma served as the company’s Chief Executive Officer from January 1 until September 30, 2025, with compensation
+    comprised of base salary of $530,000, a short-term incentive bonus target of 100% of base salary, and eligibility for long-term incentive
+    equity at the discretion of the Board. In connection with the termination of his employment, which constituted an “involuntary
+    termination” for purposes of the company’s Executive Severance and Change in Control Plan, Mr. Sharma received severance
+    benefits that included 18 months of base salary ($795,000), 100% of his target short-term incentive bonus, prorated for service in
+    2025 ($397,500), plus 12 months of COBRA coverage ($9,654). He received no acceleration of vesting of outstanding equity awards. (10) For
+    2025, Mr. Verma served as the company’s Chief Financial Officer from January 1 until his voluntary resignation from the company
+    effective December 17, 2025. As CFO, his compensation was comprised of base salary of $425,000, a short-term incentive bonus target
+    of 65% of base salary, and eligibility for long-term incentive equity at the discretion of the Compensation Committee. Mr. Verma
+    received no severance compensation in connection with his exit. 23 Outstanding
+Equity Awards at December 31, 2025 Fiscal Year End The
+following table provides information regarding the holdings of stock options and RSUs by each of our named executive officers as of the
+end of our most recently completed fiscal year. The 2025 named executive officers who were not serving as executives of the company at
+December 31, 2025 are not shown in the table as the company does not have access to data regarding their outstanding MicroVision equity
+on that date. The market value of RSUs is based on the closing price of MicroVision common stock on The Nasdaq Stock Market on December
+31, 2025, which was $0.83. Name Date of Grant Number of Securities Underlying Unexercised Options (#) Exercisable Number of Securities Underlying Unexercised Options (#) Unexercisable Option Exercise Price ($) Option Expiration Date Number of Shares or Units of Stock That Have Not Vested Market Value of Shares or Units of Stock that Have Not Vested ($) Glen DeVos 4/2/2025 1,300,000 (1) $ 1,076,530 Simon Biddiscombe 30,000 — $ 0.62 12/19/28 $ - 6/6/2025 44,014 (2) $ 36,448 10/1/2025 241,000 (3) $ 199,572 Drew G. Markham 6/4/2024 — — — — 240,120 (4) $ 198,843 6/6/2025 360,000 (4) $ 298,116 (1) Awarded
+    pursuant to the company’s 2025 Inducement Equity Plan, the RSUs are scheduled to vest ratably over four years on each anniversary
+    of the grant date, with each such vesting event subject to continued service to MicroVision on the respective vesting date. (2) The
+    award was granted pursuant to the company’s independent director compensation program, and the RSUs are scheduled to vest ratably
+    each quarter over the one-year period following the grant date, with each such vesting event subject to continued service to MicroVision
+    on the respective vesting date. (3) The
+    award was granted in connection with the appointment as Executive Vice Chair, and the RSUs are scheduled to vest on October 1, 2026,
+    subject to continued service to MicroVision on the vesting date. (4) The
+    RSUs are scheduled to vest ratably over three years on each anniversary of the grant date, with each such vesting event subject to
+    continued service to MicroVision on the respective vesting date. Compensation
+Risk Assessment Our
+Compensation Committee has reviewed our compensation programs and policies and believes that our policies do not encourage excessive
+or inappropriate risk taking and that the level of risk that they do encourage is not reasonably likely to have a material adverse effect
+on the company. As part of its assessment, the Compensation Committee considered, among other factors, the allocation of compensation
+among base salary and short- and long-term compensation, our approach to establishing company-wide and individual financial and other
+performance targets, our bonus structure of payouts and the nature of our key performance metrics. We believe these practices encourage
+our employees to focus on sustained long-term growth, which we believe will ultimately contribute to the creation of shareholder value. 24 Pay
+Versus Performance As
+required by Item 402(v) of Regulation S-K, we are providing the following information about the relationship between executive compensation
+actually paid and our financial performance for each of the last three completed fiscal years. In determining the “compensation
+actually paid” to our named executive officers (our “NEOs”), we are required to make various adjustments to amounts
+that have been previously reported in the Summary Compensation Table in each such previous year, as the valuation methods for this disclosure
+under Item 402(v) differ from those required in reporting the compensation information in the Summary Compensation Table. For our NEOs
+other than our principal executive officer (our “PEO”), compensation is reported as an average. Year (1) Summary Compensation Total for PEOs Compensation Actually Paid to
+                                            PEOs (2) Summary Compensation Table Total for Non-PEOs Compensation Actually Paid to
+                                            Non-PEOs (2) MVIS Total Stockholder Return (3) Peer Group Total Stockholder Return (3) Net Loss (in thousands) (4) Stock Price (5) Average Average Value of Initial Fixed $100 Investment Based On: Company Selected Measure Year (1) Summary Compensation Total for PEOs Compensation Actually Paid to PEOs (2) Summary Compensation Table Total for Non-PEOs Compensation Actually Paid to Non-PEOs (2) MVIS Total Stockholder Return (3) Peer Group Total Stockholder Return (3) Net Loss (in thousands) (4) Stock Price (5) (a) (b) (c) (d) (e) (f) (g) (h) (i) 2025 $ 2,486,790 $ 2,488,497 $ 2,173,849 $ 1,569,628 $ 15.39 $ 220.10 $ ( 94,981 ) $ 0.83 2024 $ 6,524,977 $ ( 30,023 ) $ 1,067,804 $ ( 489,143 ) $ 181.95 $ 192.74 $ ( 96,915 ) $ 1.31 2023 $ 4,726,817 $ 832,417 $ 603,388 $ 350,830 $ 369.44 $ 146.11 $ ( 82,842 ) $ 2.66 (1) For
+    2025, the PEOs were Mr. DeVos from October through December and Mr. Sharma from January through September; the Non-PEOs were Ms.
+    Markham for the entire year, Mr. Verma for all but the final two weeks of the year, and Mr. Biddiscombe from October through December.
+    For 2024 and 2023, the PEO was Mr. Sharma and the Non-PEOs were Mr. Verma and Ms. Markham for the entire year. (2) The
+    Summary Compensation Table totals reported for the PEO and the average of the Non-PEOs for each year were subject to the following
+    adjustments per Item 402(v)(2)(iii) of Regulation S-K to calculate “compensation actually paid”: the summary compensation
+    table totals were decreased for amounts reported under the “Option Awards” and “Stock Awards” columns and
+    increased/decreased for the inclusion of Rule 402(v) equity values, which reflect the aggregate of the following components, as applicable
+    (i) the fair value as of the end of the listed fiscal year of unvested equity awards granted in that year; (ii) the change in fair
+    value during the listed fiscal year of equity awards granted in prior years that remained outstanding and unvested at the end of
+    the listed fiscal year; and (iii) the change in fair value during the listed fiscal year through the vesting date of equity awards
+    granted in prior years that vested during the listed fiscal year, less the fair value at the end of the prior year of awards granted
+    prior to the listed fiscal year that failed to meet applicable vesting conditions during the listed fiscal year. Equity values are
+    calculated in accordance with FASB ASC Topic 718, and the valuation assumptions used to calculate fair values did not materially
+    differ from those disclosed at the time of the grant. (3) An
+    investment of $100 is assumed to have been made in our common stock as of December 31, 2020. We have selected the Dow Jones U.S.
+    Electronic & Electrical Equipment Index (DJUSEE) as our peer group. An investment of $100 is assumed to have been made in the
+    DJUSEE as of December 31, 2020. (4) The
+    dollar amounts reported represent the amount of the net loss reflected in our audited financial statements of the applicable fiscal
+    year. (5) The
+    stock prices reported here are the closing prices on the last trading day of the relevant fiscal year. Stock price was chosen from
+    the following three most important financial performance measures used to link compensation actually paid to our PEO and other NEOs
+    in 2025 to company performance: 25 Description of Adjustment 2025 2024 2023 Summary Compensation Table Total Compensation for PEOs $ 2,486,790 $ 6,524,977 $ 4,726,817 Subtract grant date fair value of option awards and stock awards granted in the applicable fiscal year $ ( 743,910 ) $ ( 5,983,750 ) $ ( 4,245,000 ) Adjust for year-end fair value of equity awards granted in the applicable fiscal year that are outstanding and unvested as of the applicable fiscal year end $ 745,616 $ 2,128,750 - Adjust for change in fair value at year-end of equity awards granted in prior years that are outstanding and unvested as of the applicable fiscal year $ - $ ( 3,213,000 ) $ ( 414,400 ) Adjust for vesting date fair value of equity awards granted and vested in applicable fiscal year $ - $ 513,000 729,000 Adjust for change in fair value of equity awards granted in prior years that vested in the applicable fiscal year $ - $ - $ - Adjustment to Compensation Amount $ - $ - $ - Compensation Actually Paid to PEOs $ 2,488,497 $ ( 30,023 ) $ 832,417 Summary Compensation Table Total Compensation for Non-PEOs $ 2,173,849 $ 1,067,804 $ 603,388 Subtract grant date fair value of option awards and stock awards granted in the applicable fiscal year ( 3,671,245 ) $ ( 657,938 ) $ - Add year-end fair value of equity awards granted in the applicable fiscal year that are outstanding and unvested as of the applicable fiscal year-end $ 3,003,338 $ 783,544 $ - Adjust for year-over-year change in fair value of equity awards granted in prior years that are outstanding and unvested as of the applicable fiscal year $ 199,300 $ ( 1,847,316 ) $ ( 225,904 ) Adjust for change in fair value of equity awards granted in prior years that vested in the applicable fiscal year $ - $ 212,438 $ 3,346 Subtract prior year-end fair value of equity award granted in prior years that failed to vest in the applicable fiscal year $ ( 135,614 ) $ ( 47,675 ) $ - Adjustment to Compensation Amount $ ( 135,614 ) $ ( 47,675 ) $ - Compensation Actually Paid to Non-PEOs $ 1,569,628 $ ( 489,143 ) $ 350,830 (3) An
+    investment of $100 is assumed to have been made in our common stock as of December 31, 2020. We have selected the Dow Jones U.S.
+    Electronic & Electrical Equipment Index (DJUSEE) as our peer group. An investment of $100 is assumed to have been made in the
+    DJUSEE as of December 31, 2020 . (4) The
+    dollar amounts reported represent the amount of the net loss reflected in our audited financial statements of the applicable fiscal
+    year. (5) The
+    stock prices reported here are the closing prices on the last trading day of the relevant fiscal year. Stock price was chosen from
+    the following three most important financial performance measures used to link compensation actually paid to our PEO and other NEOs
+    in 2025 to company performance: Performance
+Metrics Stock
+    Price Targets Served
+    as performance objectives in our performance-equity-based PRSU program for executives through December 31, 2025 Revenue A
+    factor in assessing market progress and critical to the company’s long-term sustainability Cash
+    Operating Expenses A
+    key non-GAAP measure used by our Board and management to evaluate company performance and fiscal discipline While
+we are required to disclose our net loss for each covered fiscal year, this is not a metric used in our compensation programs at this
+time. 26 Narrative
+Disclosure of Pay Versus Performance Table. With a focus on commercializing our perception solutions, broadening our market strategy,
+and streamlining our operations, we designed our compensation program across the entire company to emphasize performance and drive the
+team toward a common set of goals. The overall objectives of our executive compensation program are to provide compensation at competitive
+levels in order to recruit and retain talented executives, motivate our executives to achieve our strategic and financial objectives,
+and provide incentives to help align the interests of our executives with the interests of our shareholders. We believe that our executive
+compensation program and the executive compensation decisions included in the 2025 Summary Compensation Table and related disclosures
+appropriately reward our PEO and non-PEOs for driving efforts of our entire team toward our collective strategic goals, thereby supporting
+the long-term value creation for our shareholders. The
+values included in the columns for Compensation Actually Paid to our PEO and non-PEOs, calculated in accordance with SEC disclosure rules,
+in each of the fiscal years reported above and over the five-year cumulative period shows how the compensation awarded fluctuated year-over-year,
+primarily based on our stock price as of the last day of the listed fiscal year, among other factors. As the values change considerably
+from year-to-year based on stock price performance, they may not serve as a meaningful indicator of our compensation philosophy. Compensation
+Actually Paid and Performance Measures. The following graphical comparisons reflect the relationship between our PEO and average
+non-PEO compensation “actually paid” versus the performance measures in the pay versus performance table from 2021 to 2025: 27 28 PROPOSAL
+FIVE—RATIFICATION OF THE SELECTION OF INDEPENDENT REGISTERED
+PUBLIC ACCOUNTING FIRM The
+Audit Committee of the Board has selected Baker Tilly US, LLP as our independent registered public accounting firm for the current fiscal
+year, subject to ratification by our shareholders at the Annual Meeting. We have been advised by Baker Tilly US, LLP that it is a registered
+public accounting firm with the Public Company Accounting Oversight Board, or PCAOB, and complies with the auditing, quality control,
+and independence standards and rules of the PCAOB and the SEC. A representative of Baker Tilly US, LLP is expected to be present at the
+Annual Meeting to make a statement if they wish and to respond to appropriate questions. Although
+shareholder ratification of the selection of Baker Tilly US, LLP as our independent registered public accounting firm is not required,
+the Board is nevertheless submitting the selection of Baker Tilly US, LLP to the shareholders for ratification. Unless contrary instructions
+are given, shares represented by proxies solicited by the Board will be voted for the ratification of the selection of Baker Tilly US,
+LLP as our independent registered public accounting firm for the year ending December 31, 2026. Should the selection of Baker Tilly US,
+LLP not be ratified by our shareholders, the Audit Committee will reconsider the matter. Even in the event the selection of Baker Tilly
+US, LLP is ratified, the Audit Committee, in its discretion, may direct the appointment of a different independent registered public
+accounting firm at any time during the year if it determines that such a change is in the best interests of the company and its shareholders. OUR
+                                            BOARD OF DIRECTORS RECOMMENDS A VOTE “FOR” THE RATIFICATION OF THE SELECTION
+                                            OF BAKER TILLY US LLP AS OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM. 29 INDEPENDENT
+REGISTERED PUBLIC ACCOUNTING FIRM Fees
+Paid to Baker Tilly US, LLP The
+following describes fees paid by MicroVision for professional services rendered by Baker Tilly (including its predecessor Moss Adams)
+for fiscal year 2025 and 2024. All of the fees shown were approved by our Audit Committee in accordance with its pre-approval process: ● Audit
+    fees are the aggregate fees billed for professional services rendered by Baker Tilly for the audit of our annual financial statements
+    and the review of the financial statements included in our Quarterly Reports on Form 10-Q were $673,020 for 2025 and $422,212 for
+    2024. ● Audit-related
+    fees include the aggregate fees billed for professional services rendered by Baker Tilly in connection with the audit of the
+    MicroVision 401(k) plan and the registration statement on Form S-3. Fees for audit related services totaled $82,700 for 2025 and
+    $176,706 in 2024. ● Tax
+    fees include the aggregate fees billed for professional services rendered by Baker Tilly in connection with federal, state and
+    foreign tax compliance and tax advice. Fees for tax services totaled $39,885 for 2025 and $46,200 in 2024. ● All
+    other fees include all other services not described above, such as fees for subscriptions to online accounting research tools.
+    Baker Tilly billed no fees for these services in 2025 and 2024. Our
+Audit Committee has considered whether the provision of services under the headings “Audit-Related Fees,” “Tax Fees”
+and “All Other Fees” are compatible with maintaining Baker Tilly’s independence and has determined that such services
+were compatible. Audit
+Committee Pre-Approval of Audit and Permissible Non-Audit Services of Independent Auditor Our
+Audit Committee has established a policy to pre-approve all audit services and all permitted non-audit services by our independent auditors.
+As part of its pre-approval process, the Audit Committee considers whether the provision of any proposed non-audit services is consistent
+with the SEC’s rules on auditor independence. Under the pre-approval policy, and to ensure prompt handling of unexpected matters
+our independent auditors’ services, the Audit Committee has delegated authority to approve certain services, subject to a limit
+of $50,000 per approval, between meetings to the Audit Committee Chair, who reports the decisions made to the full Audit Committee at
+its next scheduled meeting. Unless a type of service provided by our independent auditor has received general pre-approval pursuant to
+the pre-approval policy, such service will require separate pre-approval by the Audit Committee. The payment for any proposed services
+in excess of pre-approved cost levels or budgeted amounts requires specific pre-approval by the Audit Committee. AUDIT
+COMMITTEE REPORT Review
+of the Company’s Audited Financial Statements The
+Audit Committee serves as the representative of the Board for general oversight of the company’s financial accounting and reporting,
+systems of internal control, audit process, and monitoring compliance with laws and regulations and standards of business conduct. Management
+is responsible for the company’s internal controls and the financial reporting process. Baker Tilly US, LLP, acting as an independent
+registered public accounting firm is responsible for performing an independent audit of the company’s consolidated financial statements,
+in accordance with the standards of the Public Company Accounting Oversight Board (United States) (“PCAOB”) and for issuing
+reports thereon. The
+Audit Committee has reviewed and discussed the audited consolidated financial statements of the company for the fiscal year ended December
+31, 2025 with the company’s management, and management represented to the Audit Committee that the company’s consolidated
+financial statements were prepared in conformity with generally accepted accounting principles. The Audit Committee has discussed with
+Baker Tilly US, LLP, the company’s independent auditors for the fiscal year ended December 31, 2025, the matters required to be
+discussed by the SEC and the PCAOB. 30 The
+Audit Committee received from Baker Tilly US LLP the written disclosures required by Rule 3526 of the PCAOB (Communication with Audit
+Committee Concerning Independence) and discussed with the firm its independence. Based on the review and discussions noted above, and
+subject to the limitations on the role and responsibilities of the Audit Committee referred to in the Charter of the Audit Committee,
+the Audit Committee recommended to the Board that the company’s audited consolidated financial statements be included in the company’s
+Annual Report on Form 10-K for the fiscal year ended December 31, 2025 for filing with the SEC. This
+report of the Audit Committee shall not be deemed to be incorporated by reference by any general statement incorporating by reference
+this Proxy Statement into any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended,
+except to the extent that the company specifically incorporates this information by reference. Audit
+    Committee of the Board of Directors Robert
+    P. Carlile, Chair Jeffrey
+    A. Herbst Jada
+    M. Smith OTHER
+BUSINESS We
+know of no other matters to be voted on at the Annual Meeting or any adjournment or postponement of the meeting. If, however, other matters
+are presented for a vote at the meeting, the proxy holders (the individuals designated on the proxy card) will vote your shares according
+to their judgment on those matters. INFORMATION
+ABOUT SHAREHOLDER PROPOSALS In
+order for a shareholder proposal to be considered for inclusion in our Proxy Statement for the 2027 Annual Meeting, our shareholders
+must adhere to the following procedures as prescribed in Rule 14a-8 under the Exchange Act. Under
+Rule 14a-8, a shareholder who intends to present a proposal at the 2027 annual meeting of shareholders and who wishes the proposal to
+be included in the proxy materials for that meeting must submit the proposal in writing to us so that it is received by our Corporate
+Secretary no later than December 27, 2026. Please refer to Rule 14a-8 for the requirements that apply to these proposals. Any proposals
+received after this date will be considered untimely under Rule 14a-8. Written proposals may be mailed in care of our Corporate Secretary,
+MicroVision, Inc., 18390 NE 68th Street, Suite 200, Redmond, Washington 98052. In
+addition, a shareholder may nominate a director or present any other proposal at the 2027 annual meeting of shareholders by complying
+with the requirements set forth in Section 1.11 and Section 1.12 of our bylaws. You may propose candidates for consideration by the Nominating
+& Governance Committee for nomination as directors by writing to us. In order to nominate a director for election at next year’s
+annual meeting of shareholders, you must comply with the director recommendation procedures described earlier in this Proxy Statement.
+To be timely, a shareholder’s notice must be delivered to or mailed by first class U.S. mail, postage prepaid, and received by
+our Corporate Secretary at MicroVision, Inc., 18390 NE 68th Street, Suite 200, Redmond, Washington 98052 not less than 60 calendar days
+nor more than 90 calendar days prior to the annual meeting of shareholders. If less than 60 days’ notice or prior public disclosure
+of the date of the annual meeting is given or made to our shareholders, then for the notice by the shareholder to be timely it must be
+received not later than the close of business on the tenth business day following the date on which the notice of the meeting was mailed
+or such public disclosure was made, whichever occurs first. Notice
+of a solicitation of proxies in support of director nominees other than MicroVision’s nominees for our 2027 annual meeting will
+be timely if such notice and additional information required by Rule 14a-19 and our bylaws is mailed or transmitted electronically to
+our Corporate Secretary no later than May 15, 2027, which is 60 calendar days prior to the one-year anniversary of the 2026 Annual Meeting.
+The supplemental notice and information required under Rule 14a-19 is in addition to the applicable advance notice requirements under
+our bylaws as described in this section and it shall not extend any such deadline set forth under our bylaws. We
+reserve the right to reject, rule out of order, or take other appropriate action with respect to any proposal that does not comply with
+these and other applicable requirements. Our bylaws describe the requirements for submitting proposals at the Annual Meeting. If you
+wish to obtain a free copy of MicroVision’s bylaws, please contact Investor Relations, MicroVision, Inc., 18390 NE 68th Street,
+Suite 200, Redmond, Washington 98052. 31 ADDITIONAL INFORMATION Annual
+Report MicroVision’s
+Annual Report for the fiscal year ended December 31, 2025 was first made available to our shareholders with this Proxy Statement on or
+about June 1, 2026. The Annual Report is not to be treated as part of the proxy solicitation material or as having been incorporated
+by reference herein. Incorporation
+by Reference To
+the extent that this Proxy Statement is incorporated by reference into any other filing by us under the Securities Act of 1933, as amended,
+or the Securities Exchange Act of 1934, as amended, the section of this Proxy Statement entitled “Audit Committee Report”
+will not be deemed incorporated, unless otherwise specifically provided in such filing. A
+copy of MicroVision’s Annual Report on Form 10-K for the fiscal year ended December 31, 2025, as filed with the SEC, was mailed
+to shareholders with this Proxy Statement. Additional copies may be obtained by shareholders without charge by written or oral request
+to Investor Relations, MicroVision, Inc., 18390 NE 68th Street, Suite 200, Redmond, Washington 98052, telephone (425) 936-6847 (option
+1), or may be accessed on the internet at www.sec.gov . Householding Only
+one copy of the Annual Report and proxy materials is being delivered to shareholders residing at the same address, unless such shareholders
+have notified us of their desire to receive multiple copies. We will promptly deliver, upon oral or written request, a separate copy
+of these materials to any shareholder residing at an address to which only one copy was mailed. Requests for additional copies should
+be directed to Investor Relations. Shareholders residing at the same address and currently receiving only one copy of these materials
+may contact Investor Relations to request multiple copies of this Proxy Statement in the future. Shareholders residing at the same address
+and currently receiving multiple copies of these materials may contact Investor Relations to request that only a single copy of these
+materials may be mailed in the future. Contact Investor Relations by phone at (425) 936-6847 (option 1), by mail to Investor Relations,
+MicroVision, Inc., 18390 NE 68th Street, Suite 200, Redmond, Washington 98052, or by e-mail to ir@microvision.com. Voting
+by Telephone or the Internet Provision
+has been made for you to vote your shares of common stock by telephone or via the internet. You may also vote your shares by mail. Please
+see the proxy card or voting instruction form accompanying this Proxy Statement for specific instructions on how to cast your vote by
+any of these methods. Votes
+submitted by telephone or via the internet must be received by 8:59 p.m., Seattle, Washington time, on July 13, 2026. Submitting your
+vote by telephone or via the internet will not affect your right to vote during the virtual meeting via the internet. The
+telephone and internet voting procedures are designed to authenticate shareholders’ identities, to allow shareholders to give their
+voting instructions and to confirm that shareholders’ instructions have been recorded properly. We have been advised that the internet
+voting procedures that have been made available to you are consistent with the requirements of applicable law. Shareholders voting via
+the internet should understand that there may be costs associated with electronic access, such as usage charges from internet access
+providers and telephone companies, which must be borne by the shareholder. 32

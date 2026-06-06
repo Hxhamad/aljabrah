@@ -1,0 +1,71 @@
+false 0001807887 0001807887 2026-02-02 2026-02-02 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED
+STATES SECURITIES
+AND EXCHANGE COMMISSION Washington,
+D.C. 20549 FORM 8-K CURRENT
+REPORT Pursuant
+to Section 13 OR 15(d) of The Securities Exchange Act of 1934 Date
+of Report (Date of earliest event reported): February 2, 2026 Laser
+Photonics Corporation (Exact
+name of registrant as specified in its charter) Delaware 001-41515 84-3628771 (State
+    of other jurisdiction (Commission (IRS
+    Employer of
+    incorporation) File
+    Number) Identification
+    No.) 250
+    Technology Park Lake
+    Mary , FL 32746 (Address
+    of principal executive offices) (Zip
+    Code) Registrant’s
+telephone number, including area code: (407) 804-1000 Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (see General Instruction A.2. below): ☐ Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) ☐ Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) ☐ Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) ☐ Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of the Act: Title
+    of each class Trading
+    Symbol Name
+    of exchange on which registered Common
+    Stock, par value $0.01 per share LASE The
+    NASDAQ Stock Market LLC Emerging
+growth company ☒ If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☒ Item
+5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of
+Certain Officers On
+February 2, 2026, the registrant (“Laser Photonics” or the “Company”) appointed Ann Tewari as Executive Vice
+President of Global Operations and Strategy. Ms. Tewari age 58, has served as VP of Operations for Comtech Communications, a leading
+global provider of secure wireless communications technologies, since January 2020 where she managed several departments in that company,
+including supply chain, warehouse and inventory control, receiving and shipping, test department, and the assembly and manufacturing
+engineering department. She increased the efficiency of these departments by working with the team members and implementing test automation
+that reduced the time of build from start to finish by over 40%. On an interim basis, she managed and worked as Program Manager along
+with her Operations duties and worked closely with the Army and Marine Corps and commercial customers. From
+June 2017 to January 2020 Ms. Tewari was DoD & Operations/Quality Chief at Pratt & Whitney, a division of United Technologies,
+where she oversaw and focused on the quality/improvement of the propulsion system, the after-market/MRO and engines sector for propulsion
+and engine group and worked closely with the U.S. Air Force and aviation customers to achieve the quality and milestones for these customers. From
+November 2014 to June 2017, Ms. Tewari held the position as Corporate Director of Takata (formally TK Holdings/TAKATA) Automotive and
+Aviation Products where she managed several plants throughout North America, Germany and Mexico and improved quality, improvement of
+existing product and process, data review/actions and took a systematic approach to significantly improve quality. From July 2004 to
+November 2014, Ms. Tewari worked in Northrop Grumman, she started as a senior Quality Manager and then was placed in charge of Operations
+and moved to Strategy that included long-range strategic planning of laser systems. Ms. Tewari also served as Director of Quality Engineering,
+Reliability and Assurance & Safety/Environment for Goodrich Corporation from 2001 to 2003. Prior to these positions, she held leadership
+positions in OEA Inc, that was acquired by Raytheon, Research Electro Optics that manufactured lasers and optical components, Celestica
+Inc. that was acquired by IBM, and Vapor Technologies where she implemented various processes and systems to increase efficiencies and
+improve quality control. Ms.
+Tewari graduated from the University of Denver with a Bachelor of Business Administration degree and received a Master of Science and
+Management from the University of Denver. Under
+the terms of her at-will employment agreement with the Company, following a six month evaluation period, Ms. Tewari will receive a base
+salary of $170,000 and a potential bonus of $100,000 based on the Company generating a minimum of $10,000,000 in annual revenue and has
+been granted options under the Company’s 2019 Stock Incentive Plan to acquire 40,000 shares of the Company’s to vest pro
+rata on the three subsequent anniversary dates of the date of grant. Item 7.01 Regulation FD Disclosures. Laser
+Photonics issued a press release on February 4, 2026, regarding the appointment of Ms. Tewari as Executive Vice President of Global Operations,
+a copy of which is attached hereto and incorporated herein as Exhibit 99.1. Item
+9.01 Financial Statements and Exhibits. Exhibits 10.1 Employment Agreement dated February 2, 2026, between Laser Photonics Corporation and Ann Tewari. 99.1 Press Release Issued by Laser Photonics
+    Corporation dated February 4, 2026. 104 Cover
+    Page Interactive Data File (embedded within the Inline XBRL document) – 2 – SIGNATURES Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized. Date: February 4, 2026 Laser
+Photonics Corporation By: /s/
+    Wayne Tupuola Wayne
+Tupuola President
+and CEO – 3 –

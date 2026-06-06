@@ -1,0 +1,13 @@
+{
+  "cache_used": false,
+  "company_name": "SEALSQ Corp",
+  "currency": "USD",
+  "downloaded_at_utc": "2026-06-06T11:30:19Z",
+  "exchange": "NMS",
+  "market_cap": 712876800,
+  "metadata_status": "checked",
+  "rows": 762,
+  "sector": "Technology",
+  "source": "yfinance",
+  "ticker": "LAES"
+}

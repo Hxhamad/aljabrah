@@ -1,0 +1,51 @@
+false 0001093691 0001093691 2026-03-04 2026-03-04 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND
+EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934 Date of Report (Date of earliest event
+reported): March 4, 2026 Plug Power Inc. (Exact name of registrant as specified in its
+charter) Delaware 1-34392 22-3672377 (State
+    or other jurisdiction (Commission
+    File (IRS
+    Employer of
+    incorporation) Number) Identification
+    No.) 125 Vista Boulevard , Slingerlands , New York 12159 (Address
+    of principal executive offices) (Zip
+    Code) Registrant’s telephone number,
+including area code: ( 518 ) 782-7700 N/A (Former name or former address, if changed since
+last report.) Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General
+Instruction A.2. below): ¨ Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425) ¨ Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12) ¨ Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b)) ¨ Pre-commencement communications pursuant to Rule 13e-4(c) under
+the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to 12(b) of the Act: Title of each class Trading
+    Symbol(s) Name of each exchange
+on which registered Common
+    Stock, par value $0.01 per share PLUG The Nasdaq Capital
+    Market Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§ 240.12b-2 of this chapter). Emerging growth
+company ¨ If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨ Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On March 4, 2026, the Board of Directors (the “Board”)
+of Plug Power Inc. (the “Company”) appointed Jose Luis Crespo as a director of the Company. Mr. Crespo has been designated as a Class III director to serve until
+the Company’s 2026 annual meeting of the stockholders or until his successor has been duly elected and qualified, or until his earlier
+death, removal or resignation. Mr. Crespo is currently serving as the Chief Executive Officer
+and President of the Company. Mr. Crespo previously served as the Chief Revenue Officer of the Company from November 2024 to March 2026.
+Mr. Crespo joined the Company as Vice President of Business and International Sales in 2014. He was promoted to Vice President of Global
+Sales in January 2015 and in 2016 he was appointed General Manager for Hypulsion, the Company’s wholly owned European subsidiary.
+In 2021, Mr. Crespo was appointed General Manager of Material Handling and Executive Vice President, and in May 2023, he was named General
+Manager of Applications and Executive Vice President. Prior to joining the Company, Mr. Crespo served as Vice President of International
+Value Stream at Smiths Power, a supplier of power distribution, conditioning, protection and monitoring solutions for data centers, wireless
+communications and other critical or high-value electrical systems, from 2009 to 2013. Mr. Crespo currently serves on the board of directors
+of AccionaPlug S.L., a joint venture of the Company and Acciona Generación Renovable, S.A. Mr. Crespo holds a Master of Business
+Administration from the University of Phoenix and a degree in Telecommunications Engineering from the Engineering University of Madrid,
+Spain. There is no arrangement or understanding between Mr. Crespo and any
+other person pursuant to which he was appointed as a director of the Company. There are no family relationships between Mr. Crespo and
+any of the Company’s directors, executive officers or persons nominated or chosen by the Company to become a director or executive
+officer. Mr. Crespo is not a participant in, nor is he to be a participant in, any related-person transaction or proposed related-person
+transaction required to be disclosed by Item 404(a) of Regulation S-K under the Securities Exchange Act of 1934, as
+amended (the “Exchange Act”), in connection with his appointment. In connection with his appointment to the Board, there were
+no material plans, contracts or arrangements entered into or materially amended, and Mr. Crespo did not receive any grant or award under
+any such plan, contract or arrangement. Mr. Crespo will not receive any additional compensation for his service as a director, and his
+existing compensation arrangements as Chief Executive Officer and President remain unchanged. SIGNATURE Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Plug Power Inc. Date: March 10, 2026 By: /s/ Paul Middleton Name: Paul Middleton Title: Chief Financial Officer and Chief Accounting Officer
